@@ -1,0 +1,107 @@
+[
+  {
+    "id": "AA-002",
+    "code": "AA-002 C115720-2 [PHYS1013]",
+    "name": "普通物理學（二） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "許祖斌",
+    "enrollment": "82/18",
+    "locations": [
+      "49322",
+      "綜合二館"
+    ],
+    "period": "[1]A~C 綜合二館 49322",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AA-003",
+    "code": "AA-003 AG10300-6 [PE1003]",
+    "name": "公民與歷史（憲政民主體制） 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "孫順智",
+    "enrollment": "6/136",
+    "locations": [
+      "唯農大樓",
+      "7113"
+    ],
+    "period": "[2]5~6 唯農大樓 7113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "AA-004",
+    "code": "AA-004 C315920-2 [CHEM1012]",
+    "name": "普通化學（二） 英語授課 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "何瑞文",
+    "enrollment": "10/64",
+    "locations": [
+      "化學系館",
+      "3268"
+    ],
+    "period": "[1]2~3 化學系館 3268 [3]1 化學系館 3268 [3]2 化學系館 3268",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  }
+]

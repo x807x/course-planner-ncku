@@ -1,0 +1,478 @@
+[
+  {
+    "id": "S8-001",
+    "code": "S8-001 S852100 [BM6012]",
+    "name": "行為與心理衡鑑",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "駱重鳴",
+    "enrollment": "27/033",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[2]A~C 醫學院 604",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-002",
+    "code": "S8-002 S860420 [BM6091]",
+    "name": "專題討論（二） 與專題討論(四)合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍 柯慧貞 陸汝斌 郭乃文",
+    "enrollment": "18/402",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-003",
+    "code": "S8-003 S850420 [BM6095]",
+    "name": "專題研究（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍 柯慧貞 陸汝斌 郭乃文",
+    "enrollment": "17/不限",
+    "locations": [],
+    "period": "[1]1 [2]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-004",
+    "code": "S8-004 S860440 [BM6093]",
+    "name": "專題討論（四） 與專題討論(二)合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍 柯慧貞 陸汝斌 郭乃文",
+    "enrollment": "14/46",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-005",
+    "code": "S8-005 S850440 [BM6097]",
+    "name": "專題研究（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍 柯慧貞 陸汝斌 郭乃文",
+    "enrollment": "14/不限",
+    "locations": [],
+    "period": "[1]1 [2]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-006",
+    "code": "S8-006 S860320 [BM6103]",
+    "name": "臨床心理實習（二） 醫院實習督導",
+    "grade": 1,
+    "credits": 8,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "柯慧貞 駱重鳴 郭乃文",
+    "enrollment": "11/不限",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[3]A~D 醫學院 604 [5]A~D 醫學院 604",
+    "slots": []
+  },
+  {
+    "id": "S8-007",
+    "code": "S8-007 S861200 [BM6002]",
+    "name": "行為神經藥物學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "5/035",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[3]2~4 醫學院 203D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-008",
+    "code": "S8-008 S863100 [BM6094]",
+    "name": "專題討論 提供只剩論文之學生修習",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍 柯慧貞 陸汝斌 郭乃文",
+    "enrollment": "20/不限",
+    "locations": [],
+    "period": "[1]1 [2]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-009",
+    "code": "S8-009 S852400 [BM6003]",
+    "name": "行為神經科學及研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "3/037",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[3]5~7 醫學院 203D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-010",
+    "code": "S8-010 S853420 [BM6291]",
+    "name": "物質濫用專題（二） 所研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "3/不限",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-012",
+    "code": "S8-012 S853200 [BM]",
+    "name": "心智功能不足之心理治療 需先修以下科目:《臨床神經心理學/選修/3.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "郭乃文",
+    "enrollment": "6/64",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[2]3~4 醫學院 501",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-013",
+    "code": "S8-013 S861800 [BM6032]",
+    "name": "神經心理衡鑑 需先修以下科目:《臨床神經心理學/選修/3.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "郭乃文",
+    "enrollment": "15/025",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]6~8 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-014",
+    "code": "S8-014 S853440 [BM6293]",
+    "name": "物質濫用專題（四） 所研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "3/不限",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-019",
+    "code": "S8-019 S856600 [BM]",
+    "name": "兒童與青少年心理疾患之實徵取向心理治療",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "柯慧貞",
+    "enrollment": "17/33",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[2]7~9 醫學院 208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-020",
+    "code": "S8-020 S856700 [BM]",
+    "name": "高等臨床心理學專題 健照所與行醫所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "柯慧貞 謝淑蘭",
+    "enrollment": "10/50",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[2]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-021",
+    "code": "S8-021 S853520 [BM6016]",
+    "name": "精神藥物學（二） 醫院12B會議室  需先修以下科目:《精神藥物學（一）/選修/2.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "陸汝斌",
+    "enrollment": "5/0不限",
+    "locations": [],
+    "period": "[1]9~A",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  }
+]

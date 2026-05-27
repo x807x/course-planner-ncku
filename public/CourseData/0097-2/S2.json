@@ -1,0 +1,287 @@
+[
+  {
+    "id": "S2-001",
+    "code": "S2-001 S210220 [PHAR6192]",
+    "name": "藥理學專題討論（二） 多位老師合上",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "沈孟儒",
+    "enrollment": "24/36",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[1]7 醫學院 602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S2-002",
+    "code": "S2-002 S210800 [PHAR6103]",
+    "name": "實驗藥理學 多位老師合上",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "呂增宏",
+    "enrollment": "24/6",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[2]6~8 醫學院 0824",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-006",
+    "code": "S2-006 S251300 [PHAR6203]",
+    "name": "藥品動態學 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "黃金鼎 周辰熹",
+    "enrollment": "6/54",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]1~2 醫學院 602 [5]3~4 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S2-007",
+    "code": "S2-007 S252400 [PHAR6206]",
+    "name": "重大疾病高等藥理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "洪正路",
+    "enrollment": "15/15",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[3]7~8 醫學院 0824",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-014",
+    "code": "S2-014 S210240 [PHAR6194]",
+    "name": "藥理學專題討論（四） 多位老師合上",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "沈孟儒",
+    "enrollment": "19/041",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[1]8 醫學院 602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S2-019",
+    "code": "S2-019 S251400 [PHAR6204]",
+    "name": "藥理學特論 藥理所，護理系合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "簡偉明",
+    "enrollment": "10/40",
+    "locations": [
+      "307",
+      "醫學院"
+    ],
+    "period": "[1]5~6 醫學院 307 [5]5~6 醫學院 307",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-021",
+    "code": "S2-021 S252500 [PHAR6215]",
+    "name": "離子運輸系統與人類疾病",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "沈孟儒",
+    "enrollment": "2/208",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[5]3~4 醫學院 0824",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-022",
+    "code": "S2-022 S260600 [PHAR6217]",
+    "name": "中樞神經電生理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "許桂森",
+    "enrollment": "3/9",
+    "locations": [
+      "0811",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 0811",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-023",
+    "code": "S2-023 S212200 [PHAR6201]",
+    "name": "心臟血管藥理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "簡偉明",
+    "enrollment": "4/不0限",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[1]1~2 醫學院 0824",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

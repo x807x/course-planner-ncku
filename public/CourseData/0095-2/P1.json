@@ -1,0 +1,698 @@
+[
+  {
+    "id": "P1-002",
+    "code": "P1-002 P170600 [SYS7005]",
+    "name": "產品資料管理 系統所與工程管理專班合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "邵揮洲",
+    "enrollment": "452/3",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[4]A~C 系統系館 56441",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-007",
+    "code": "P1-007 P170800 [SYS7010]",
+    "name": "進階工程日文 研究所以上學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳建雄",
+    "enrollment": "266/額滿",
+    "locations": [
+      "化工系館",
+      "華立廳"
+    ],
+    "period": "[5]3~N 化工系館 華立廳",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-009",
+    "code": "P1-009 P113100 [SYS7006]",
+    "name": "黏性流力",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "楊世安",
+    "enrollment": "8/257",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[2]3~4 系統系館 56441 [3]4 系統系館 56441",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-010",
+    "code": "P1-010 P111900 [SYS7505]",
+    "name": "船舶推進理論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳政宏",
+    "enrollment": "55/51",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[2]7 系統系館 56226 [3]5~6 系統系館 56226",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-011",
+    "code": "P1-011 P113700 [SYS7703]",
+    "name": "內燃機燃燒學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳鴻文",
+    "enrollment": "6/14",
+    "locations": [
+      "系統系館",
+      "56661"
+    ],
+    "period": "[2]1~2 系統系館 56661 [3]3 系統系館 56661",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-012",
+    "code": "P1-012 P112000 [SYS7607]",
+    "name": "結構穩定學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳長鈕",
+    "enrollment": "10/10",
+    "locations": [
+      "系統系館",
+      "56661"
+    ],
+    "period": "[4]5~6 系統系館 56661 [5]8 系統系館 56661",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-013",
+    "code": "P1-013 P113000 [SYS7606]",
+    "name": "船舶振動學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳重雄",
+    "enrollment": "155/41",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[1]6~8 系統系館 56226",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-014",
+    "code": "P1-014 P151500 [SYS7401]",
+    "name": "非線性系統分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "黃正能",
+    "enrollment": "8/27",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[2]5~6 系統系館 56441 [3]8 系統系館 56441",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-015",
+    "code": "P1-015 P171300 [SYS7405]",
+    "name": "小波理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "5/30",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[1]5 系統系館 56441 [5]7~8 系統系館 56441",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-101",
+    "code": "P1-101 P113200 [SYS7095]",
+    "name": "專題討論 英語授課  系統系一樓視廳教室，供碩博三以上選修合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "6/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-102",
+    "code": "P1-102 P110120-1 [SYS7092]",
+    "name": "專題討論（二） 英語授課  系統系一樓視廳教室，供碩一選修合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "38/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-103",
+    "code": "P1-103 P110140-1 [SYS7094]",
+    "name": "專題討論（四） 英語授課  系統系一樓視廳教室，供碩二選修合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "45/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-104",
+    "code": "P1-104 P110120-2 [SYS7092]",
+    "name": "專題討論（二） 英語授課  系統系一樓視廳教室，供博一二選修合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "58/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-105",
+    "code": "P1-105 P110140-2 [SYS7094]",
+    "name": "專題討論（四） 英語授課  系統系一樓視廳教室，供博一二選修合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "6/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-108",
+    "code": "P1-108 P170900 [SYS7403]",
+    "name": "現代控制系統分析與設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "黃正能",
+    "enrollment": "15/20",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[2]2 系統系館 56441 [3]6~7 系統系館 56441",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-109",
+    "code": "P1-109 P171100 [SYS7603]",
+    "name": "疲勞強度學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "林忠宏",
+    "enrollment": "14/6",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[4]7~8 系統系館 56226 [5]7 系統系館 56226",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-111",
+    "code": "P1-111 P150300 [SYS7101]",
+    "name": "水中聲學 系統系與海事所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "涂季平",
+    "enrollment": "35/21",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[3]2 系統系館 56226 [4]1~2 系統系館 56226",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-112",
+    "code": "P1-112 P113400 [SYS7604]",
+    "name": "船舶結構可靠性 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "楊澤民",
+    "enrollment": "15/5",
+    "locations": [
+      "系統系館",
+      "56661"
+    ],
+    "period": "[2]5~6 系統系館 56661 [3]1 系統系館 56661",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-114",
+    "code": "P1-114 P111600 [SYS7503]",
+    "name": "船舶耐海性 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "方銘川",
+    "enrollment": "9/547",
+    "locations": [
+      "56226",
+      "系統系館",
+      "56224"
+    ],
+    "period": "[4]9 系統系館 56226 [5]8 系統系館 56224 [5]9 系統系館 56226",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-115",
+    "code": "P1-115 P171700 [SYS7404]",
+    "name": "數位訊號處理器控制應用 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "謝旻甫",
+    "enrollment": "515/41",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[2]4 系統系館 56226 [4]3~4 系統系館 56226",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-116",
+    "code": "P1-116 P171800 [SYS7104]",
+    "name": "通訊電子學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李坤洲",
+    "enrollment": "12/544",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[1]2 系統系館 56226 [2]1~2 系統系館 56226",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

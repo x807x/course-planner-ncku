@@ -1,0 +1,777 @@
+[
+  {
+    "id": "L7-001",
+    "code": "L7-001 L750320 [DPS6002]",
+    "name": "光電子學（二） 已修過光電子學(一)者為佳",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "張世慧",
+    "enrollment": "85/2",
+    "locations": [
+      "綜合大樓",
+      "48424"
+    ],
+    "period": "[5]2~4 綜合大樓 48424",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-002",
+    "code": "L7-002 L762500-A [DPS6073]",
+    "name": "光電實驗",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "張世慧",
+    "enrollment": "18/額滿",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[2]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "L7-003",
+    "code": "L7-003 L762500-B [DPS6073]",
+    "name": "光電實驗",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "周維揚",
+    "enrollment": "13/5",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[3]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "L7-005",
+    "code": "L7-005 L750220 [DPS6092]",
+    "name": "專題討論（二） 碩一生",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "吳品頡",
+    "enrollment": "76/14",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[5]6~7 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-006",
+    "code": "L7-006 L771120 [DPS7093]",
+    "name": "專題討論（二） 博一生",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "吳品頡",
+    "enrollment": "80/82",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[5]6~7 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-007",
+    "code": "L7-007 L771140 [DPS7095]",
+    "name": "專題討論（四） 博二生",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "吳品頡",
+    "enrollment": "8/082",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[5]6~7 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-011",
+    "code": "L7-011 L751100 [DPS5006]",
+    "name": "量子物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "曾碩彥",
+    "enrollment": "16/19",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[1]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-012",
+    "code": "L7-012 L762600 [DPS5007]",
+    "name": "深度學習與光電應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "藍永強",
+    "enrollment": "65/5",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[3]7~9 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-016",
+    "code": "L7-016 L784100 [DPS7011]",
+    "name": "寬能隙半導體材料及元件",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "許進恭",
+    "enrollment": "708/6",
+    "locations": [
+      "綜合大樓",
+      "48424"
+    ],
+    "period": "[1]2~4 綜合大樓 48424",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-017",
+    "code": "L7-017 L762300 [DPS7038]",
+    "name": "半導體雷射 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "周昱薰",
+    "enrollment": "240/16",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[4]7~9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-018",
+    "code": "L7-018 L788400 [DPS7039]",
+    "name": "光療法 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "黃志嘉",
+    "enrollment": "38/2",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[2]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-020",
+    "code": "L7-020 L785300 [DPS7015]",
+    "name": "光電量測技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "呂佳諭",
+    "enrollment": "7/28",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[4]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-021",
+    "code": "L7-021 L788000 [DPS7033]",
+    "name": "先進微影技術 奈米先進技術與設備學分學程，奈米積體電路工程碩士班學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "林俊宏",
+    "enrollment": "24/011",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[4]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-022",
+    "code": "L7-022 L750600 [DPS7021]",
+    "name": "非線性光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "呂佳諭",
+    "enrollment": "1/34",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[3]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-023",
+    "code": "L7-023 L78A000 [DPS7049]",
+    "name": "高分子形態學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "陳蓉瑶",
+    "enrollment": "29/11",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[1]7~9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-024",
+    "code": "L7-024 L789700 [DPS7050]",
+    "name": "光學血液動態量測演算法與系統",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "曾盛豪",
+    "enrollment": "10/2",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[3]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-025",
+    "code": "L7-025 L780200 [DPS7005]",
+    "name": "顯示器色彩學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "許家榮",
+    "enrollment": "13/22",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[1]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-026",
+    "code": "L7-026 L787300 [DPS7029]",
+    "name": "光學系統設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "許家榮",
+    "enrollment": "26/9",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[2]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-029",
+    "code": "L7-029 L789200 [DPS7044]",
+    "name": "英語學術寫作及口語報告",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "陳蓉瑶",
+    "enrollment": "8/32",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[3]7~9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-035",
+    "code": "L7-035 L785600 [DPS9005]",
+    "name": "太陽能電池 韌性智慧能源學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "陳昭宇",
+    "enrollment": "15/205",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[1]5~6 綜合大樓 48312 [2]6 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-043",
+    "code": "L7-043 L782220 [DPS7199]",
+    "name": "光電半導體製程技術專題（二） 限本系學生",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "許進恭",
+    "enrollment": "4/16",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[2]5~6 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-045",
+    "code": "L7-045 L780820 [DPS7193]",
+    "name": "液晶光電專題（二） 限本系學生",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "李佳榮",
+    "enrollment": "03/17",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[4]5~6 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L7-046",
+    "code": "L7-046 L784500 [DPS7292]",
+    "name": "有機發光二極體專題 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L7",
+    "department": "光電所 DPS",
+    "teacher": "郭宗枋",
+    "enrollment": "9/101",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[2]5~6 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

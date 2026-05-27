@@ -1,0 +1,390 @@
+[
+  {
+    "id": "TC-001",
+    "code": "TC-001 RB61900 [PEHL]",
+    "name": "休閒運動與高齡學專題研究 英語授課  勝利休閒與教育研究實驗室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "周學雯",
+    "enrollment": "8/2",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-002",
+    "code": "TC-002 RB52600 [PEHL6212]",
+    "name": "養生運動科學特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "王苓華",
+    "enrollment": "9/16",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]5~7 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-003",
+    "code": "TC-003 RB62200 [PEHL6113]",
+    "name": "運動與老化專題研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "林麗娟",
+    "enrollment": "89/16",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]1~2 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-004",
+    "code": "TC-004 T851800 [PH7203]",
+    "name": "健康與醫療的政治經濟學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "陳美霞",
+    "enrollment": "6/89",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[1]7~9 醫學院 201D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-005",
+    "code": "TC-005 T862100 [PH7373]",
+    "name": "流行病學與健康照護研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "呂宗學",
+    "enrollment": "11/14",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[1]7~8 醫學院 203D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-006",
+    "code": "TC-006 TC50320 [GERO6194]",
+    "name": "專題討論（二） 老年所全體師生皆需出席參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "劉立凡",
+    "enrollment": "15/35",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]5~6 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TC-007",
+    "code": "TC-007 TC50700 [GERO]",
+    "name": "高齡健康與社會服務系統概論 老年所學生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "劉立凡",
+    "enrollment": "185/45",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[2]5~7 醫學院 303D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-008",
+    "code": "TC-008 TC50800 [GERO7001]",
+    "name": "社會老年學研究方法 老年所學生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "張志欽 郭柏秀 呂宗學 陳美霞 劉立凡",
+    "enrollment": "15/45",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[4]7~9 醫學院 303D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-009",
+    "code": "TC-009 T652200 [PT6021]",
+    "name": "老人跌倒預防 英語授課  開放老人所學生選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "林桑伊",
+    "enrollment": "8/34",
+    "locations": [
+      "物治系館",
+      "B02"
+    ],
+    "period": "[4]2~4 物治系館 B02",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-010",
+    "code": "TC-010 T863200 [PH7364]",
+    "name": "戰後台灣政治經濟 公衛所老年所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "許甘霖",
+    "enrollment": "8/7",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[3]7~9 醫學院 201D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-011",
+    "code": "TC-011 P351020 [ID]",
+    "name": "人本設計（二） 工設所碩一乙組與老年所合班",
+    "grade": 1,
+    "credits": 4,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "陳建旭 吳豐光",
+    "enrollment": "7/18",
+    "locations": [
+      "工設系館",
+      "5204B",
+      "未定"
+    ],
+    "period": "[4]1~4 工設系館 5204B [5]1~4 工設系館 5204B 未定",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  }
+]

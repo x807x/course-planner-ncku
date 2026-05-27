@@ -1,0 +1,471 @@
+[
+  {
+    "id": "VM-001",
+    "code": "VM-001 Q750130 [NICE7130]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "江孟學*",
+    "enrollment": "281/不限",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[5]N~5 電機系館 92371",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VM-002",
+    "code": "VM-002 Q750400 [NICE6502]",
+    "name": "半導體感測器實務技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "曾永華",
+    "enrollment": "50/20",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-005",
+    "code": "VM-005 N557400 [MSE7060]",
+    "name": "高等材料分析 奈米積體電路工程碩士班學分學程  1.中文授課班級2.以上優先係指開放第一階段選課之學生身分",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "阮至正",
+    "enrollment": "129/14",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[1]5 化工系館 93456 [2]5~6 化工系館 93456",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-011",
+    "code": "VM-011 Q161500 [IME7129]",
+    "name": "電子構裝技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "洪茂峰",
+    "enrollment": "40/8額滿",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]3~4 電機系館 92C01 [4]2 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-012",
+    "code": "VM-012 Q151200 [IME6132]",
+    "name": "半導體光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "蔡宗祐",
+    "enrollment": "48/36",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-013",
+    "code": "VM-013 N278900 [EE8742]",
+    "name": "電子電路IC設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "魏嘉玲",
+    "enrollment": "187/53",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 92371 [2]8 電機系館 92371",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-014",
+    "code": "VM-014 N25G500 [EE6652]",
+    "name": "奈米積體電路實體設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "林家民",
+    "enrollment": "87/63",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92171",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-015",
+    "code": "VM-015 N26I300 [EE6990]",
+    "name": "正規驗證之理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "陳盈如",
+    "enrollment": "19/51",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92177",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-016",
+    "code": "VM-016 N26F300 [EE9612]",
+    "name": "ＶＬＳＩ系統設計 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "邱瀝毅",
+    "enrollment": "528/8",
+    "locations": [
+      "92377",
+      "電機系館"
+    ],
+    "period": "[4]2~4 電機系館 92377",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-017",
+    "code": "VM-017 N276700 [EE8733]",
+    "name": "非破壞性檢測 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "戴政祺",
+    "enrollment": "39/31",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]B~D 電機系館 92283",
+    "slots": []
+  },
+  {
+    "id": "VM-018",
+    "code": "VM-018 N256100 [EE6621]",
+    "name": "類比積體電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "郭泰豪",
+    "enrollment": "448/51",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]6~8 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-019",
+    "code": "VM-019 Q351800 [CCE7521]",
+    "name": "網路管理 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "楊竹星",
+    "enrollment": "60/480",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[3]A~C 電機系館 92225",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-020",
+    "code": "VM-020 Q361900 [CCE8480]",
+    "name": "物聯網與城市計算",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "解巽評",
+    "enrollment": "52/818",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92277",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-022",
+    "code": "VM-022 Q161800 [IME7101]",
+    "name": "半導體記憶體元件與設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "盧達生",
+    "enrollment": "90/20",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]6~8 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "id": "RD-001",
+    "code": "RD-001 RD50300 [AMBA6103]",
+    "name": "管理會計 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "楊朝旭",
+    "enrollment": "324/6",
+    "locations": [
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[5]6~8 管理學院 61X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-002",
+    "code": "RD-002 RD52800 [AMBA6123]",
+    "name": "組織設計與高階管理決策 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "莊双喜",
+    "enrollment": "263/4",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[6]2~4 管理學院 62X02",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-003",
+    "code": "RD-003 RD60200 [AMBA6120]",
+    "name": "企業經營與診斷 AMBA及EMBA合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡明田",
+    "enrollment": "31/59",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[3]6~8 管理學院 61X02",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-004",
+    "code": "RD-004 R050100 [EMBA6802]",
+    "name": "統計方法 限EMBA及AMBA學生選課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "馬瀰嘉",
+    "enrollment": "68/22",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[2]B~D 管理學院 61X02",
+    "slots": []
+  },
+  {
+    "id": "RD-006",
+    "code": "RD-006 RD52530 [AMBA6116]",
+    "name": "CEO高階實務管理（三） 限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡明田",
+    "enrollment": "358/不限",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[6]1 管理學院 61X02",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-007",
+    "code": "RD-007 RD52400 [AMBA6113]",
+    "name": "企業倫理與法律專題 AMBA與EMBA合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡崇義",
+    "enrollment": "57/333",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[4]7~9 管理學院 61X02",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-008",
+    "code": "RD-008 R055200 [EMBA6832]",
+    "name": "企業經營策略與管理實務（二） AMBA與EMBA合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡明田",
+    "enrollment": "713/19",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[7]5~7 管理學院 61X02",
+    "slots": [
+      {
+        "day": 7,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-014",
+    "code": "RD-014 RA60700 [IMBA7109E]",
+    "name": "行銷管理 英語授課  與AMBA合開, 隔週上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "吳萬益 游漢明",
+    "enrollment": "45/33",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[7]2~4 管理學院 62401",
+    "slots": [
+      {
+        "day": 7,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-015",
+    "code": "RD-015 RD60300 [AMBA6121]",
+    "name": "企業經營專討 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "黃國平",
+    "enrollment": "236/4",
+    "locations": [
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[4]6~8 管理學院 61X01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-016",
+    "code": "RD-016 RA62200 [IMBA7314E]",
+    "name": "管理資訊系統 英語授課  ＡＭＢＡ與ＩＩＭＢＡ合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "陳正忠",
+    "enrollment": "57/15",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[3]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-018",
+    "code": "RD-018 RA51800 [IMBA7506E]",
+    "name": "國際談判與溝通 英語授課  ＡＭＢＡ與ＩＩＭＢＡ合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "游漢明",
+    "enrollment": "48/234",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[4]2~4 管理學院 62401",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-019",
+    "code": "RD-019 RD52900 [AMBA6190]",
+    "name": "專題討論 限修畢四十五學分以上選修，ＡＭＢＡ與ＥＭＢＡ合開  限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡明田",
+    "enrollment": "6/不3限",
+    "locations": [
+      "61X02",
+      "未定",
+      "管理學院"
+    ],
+    "period": "未定 管理學院 61X02",
+    "slots": []
+  }
+]

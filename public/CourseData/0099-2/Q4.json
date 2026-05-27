@@ -1,0 +1,267 @@
+[
+  {
+    "id": "Q4-001",
+    "code": "Q4-001 P443500 [AA7438]",
+    "name": "航空器適航標準 航太碩博、碩專班及民航所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "李萬里",
+    "enrollment": "349/16",
+    "locations": [
+      "航太系館",
+      "5834"
+    ],
+    "period": "[5]2~4 航太系館 5834",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-003",
+    "code": "Q4-003 Q470100 [CA7514]",
+    "name": "飛航安全管理 航太碩博、碩專班及民航所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "戎　凱",
+    "enrollment": "24/16",
+    "locations": [
+      "5836",
+      "航太系館"
+    ],
+    "period": "[1]5~7 航太系館 5836",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-004",
+    "code": "Q4-004 Q441900 [CA7522E]",
+    "name": "先進飛航管理系統",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "林清一",
+    "enrollment": "333/7",
+    "locations": [
+      "5822",
+      "航太系館"
+    ],
+    "period": "[5]8~A 航太系館 5822",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-008",
+    "code": "Q4-008 Q450700 [CA7513]",
+    "name": "多變量分析理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "王大中",
+    "enrollment": "5/630",
+    "locations": [
+      "航太系館",
+      "5834"
+    ],
+    "period": "[4]5~7 航太系館 5834",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-009",
+    "code": "Q4-009 Q450200 [CA7524]",
+    "name": "飛航人因工程學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "景鴻鑫",
+    "enrollment": "53/35",
+    "locations": [
+      "5828",
+      "航太系館"
+    ],
+    "period": "[2]2~3 航太系館 5828 [4]2 航太系館 5828",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-011",
+    "code": "Q4-011 Q451220 [CA7592]",
+    "name": "專題討論（二） 民航所碩一必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "袁曉峰",
+    "enrollment": "39/21",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q4-012",
+    "code": "Q4-012 Q451240 [CA7594]",
+    "name": "專題討論（四） 民航所碩二必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳",
+    "enrollment": "38/22",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q4-013",
+    "code": "Q4-013 Q460300 [CA7595]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳",
+    "enrollment": "13/不限",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  }
+]

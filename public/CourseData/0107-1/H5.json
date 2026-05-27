@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "H511210-Z",
+    "code": "H511210-Z [TCM]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備9註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "H511511-Z",
+    "code": "H511511-Z [TCM]",
+    "name": "英文（含口語訓練）（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備9註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-005",
+    "code": "H5-005 H511111 [TCM1001]",
+    "name": "經濟學（一） 醫學、科技與社會學程(STM)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "蔡仰虔",
+    "enrollment": "992/2",
+    "locations": [
+      "格致廳小講堂",
+      "資訊大樓"
+    ],
+    "period": "[3]A~C 資訊大樓 格致廳小講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-006",
+    "code": "H5-006 H511310 [TCM1003]",
+    "name": "會計學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "吳思蓉",
+    "enrollment": "82/1",
+    "locations": [
+      "交管系館",
+      "62107"
+    ],
+    "period": "[2]6~8 交管系館 62107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-007",
+    "code": "H5-007 H511910 [TCM1005]",
+    "name": "運輸學（一） 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "胡大瀛",
+    "enrollment": "64/9額滿",
+    "locations": [
+      "交管系館",
+      "62107"
+    ],
+    "period": "[3]3~4 交管系館 62107 [5]2 交管系館 62107",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-008",
+    "code": "H5-008 D511211-1 [MATH1051]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "王辰樹",
+    "enrollment": "84/290",
+    "locations": [
+      "A1304",
+      "A1306(資源後)",
+      "A1305",
+      "共同教室",
+      "A1303"
+    ],
+    "period": "[3]7~8 共同教室 A1306(資源後) [5]6 共同教室 A1306(資源後) [5]5 共同教室 A1303 [5]5 共同教室 A1304 [5]5 共同教室 A1305",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H5-009",
+    "code": "H5-009 D511211-2 [MATH1051]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "舒宇宸",
+    "enrollment": "1059/10",
+    "locations": [
+      "交管系館",
+      "7313",
+      "7404",
+      "62205",
+      "經緯廳",
+      "成功校區經緯廳",
+      "唯農大樓"
+    ],
+    "period": "[3]7~8 成功校區經緯廳 經緯廳 [5]6 成功校區經緯廳 經緯廳 [5]5 唯農大樓 7404 [5]5 唯農大樓 7313 [5]5 交管系館 62205",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H5-010",
+    "code": "H5-010 D511211-3 [MATH1051]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "黃柏嶧",
+    "enrollment": "949/11",
+    "locations": [
+      "7309",
+      "資訊大樓",
+      "7403",
+      "7401",
+      "格致廳小講堂",
+      "唯農大樓"
+    ],
+    "period": "[3]7~8 資訊大樓 格致廳小講堂 [5]6 資訊大樓 格致廳小講堂 [5]5 唯農大樓 7401 [5]5 唯農大樓 7403 [5]5 唯農大樓 7309",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H5-011",
+    "code": "H5-011 D511211-4 [MATH1051]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "連文璟",
+    "enrollment": "72/28",
+    "locations": [
+      "企管系館",
+      "62231",
+      "62218",
+      "A1307(資源後)",
+      "共同教室",
+      "62229"
+    ],
+    "period": "[3]7~8 共同教室 A1307(資源後) [5]6 共同教室 A1307(資源後) [5]5 企管系館 62218 [5]5 企管系館 62229 [5]5 企管系館 62231",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H5-012",
+    "code": "H5-012 A215500-48 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "黃鴻鈞",
+    "enrollment": "55/45",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[5]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-014",
+    "code": "H5-014 H517910 [TCM0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "戴佐敏",
+    "enrollment": "57/97",
+    "locations": [],
+    "period": "[3]1",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H525000-Z1",
+    "code": "H525000-Z1 [TCM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-016",
+    "code": "H5-016 H511100 [TCM1009]",
+    "name": "計算機概論 軌道運輸  鐵道運輸學程選課須經本系審核通過",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "李威勳",
+    "enrollment": "659/額滿",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[1]2~3 交管系館 62109 [3]2 交管系館 62109",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-053",
+    "code": "H5-053 H522311 [TCM2004]",
+    "name": "統計學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "沈宗緯",
+    "enrollment": "71/1",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[2]7~8 交管系館 62109 [5]7 交管系館 62109",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-056",
+    "code": "H5-056 H535901 [TCM2010E]",
+    "name": "交通工程 104學年度起入學之學生必修",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "胡守任",
+    "enrollment": "62/1",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[2]2 交管系館 62109 [5]3~4 交管系館 62109",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-057",
+    "code": "H5-057 H532200 [TCM2202]",
+    "name": "供應鏈管理 物流管理領域必修",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "林正章",
+    "enrollment": "45/1",
+    "locations": [
+      "交管系館",
+      "62102"
+    ],
+    "period": "[1]1~3 交管系館 62102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-065",
+    "code": "H5-065 H521000 [TCM2102]",
+    "name": "軌道運輸 軌道運輸 業界專家參與  旅客運輸領域必修/選課須經本系審核通過",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "鄭永祥",
+    "enrollment": "54/9額滿",
+    "locations": [
+      "交管系館",
+      "62205"
+    ],
+    "period": "[2]5~6 交管系館 62205 [5]8 交管系館 62205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H525000-Z5",
+    "code": "H525000-Z5 [TCM]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H525000-Z2",
+    "code": "H525000-Z2 [TCM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H510030-Z",
+    "code": "H510030-Z [TCM]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-077",
+    "code": "H5-077 H530500 [TCM2006]",
+    "name": "管理學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "蔡東峻",
+    "enrollment": "58/9額滿",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[2]1 交管系館 62109 [4]3~4 交管系館 62109",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-078",
+    "code": "H5-078 H534011 [TCM2008]",
+    "name": "作業研究（一） 軌道運輸  選課須經本系審核通過",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "戴佐敏",
+    "enrollment": "958/10",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[2]3~4 交管系館 62109 [4]2 交管系館 62109",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-112",
+    "code": "H5-112 H531900 [TCM3302]",
+    "name": "智慧型運輸系統 業界專家參與  運輸科技領域必修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "李威勳",
+    "enrollment": "397/18",
+    "locations": [
+      "交管系館",
+      "62102"
+    ],
+    "period": "[2]5~6 交管系館 62102 [5]8 交管系館 62102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-113",
+    "code": "H5-113 H531000 [TCM3401]",
+    "name": "服務業行銷 電信管理領域必修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "蔡東峻",
+    "enrollment": "44/2",
+    "locations": [
+      "交管系館",
+      "62105"
+    ],
+    "period": "[1]1~3 交管系館 62105",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H525000-Z3",
+    "code": "H525000-Z3 [TCM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參9考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-123",
+    "code": "H5-123 H520201 [TCM3001]",
+    "name": "運輸經濟 跨學門民航學分學程 業界專家參與  本系各領域必修.選課需經本系登記審核通過.",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "鄭永祥",
+    "enrollment": "67/1",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[3]3~4 交管系館 62109 [5]2 交管系館 62109",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-124",
+    "code": "H5-124 H533501 [TCM3014]",
+    "name": "迴歸分析 先修課程統計學（一）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "林珮珺",
+    "enrollment": "569/1",
+    "locations": [
+      "交管系館",
+      "62205"
+    ],
+    "period": "[2]3~4 交管系館 62205 [4]2 交管系館 62205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-125",
+    "code": "H5-125 H544801 [TCM2012]",
+    "name": "財務管理 防災科技管理學分學程  先修課程:統計學(一)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "張瀞之",
+    "enrollment": "619/1",
+    "locations": [
+      "交管系館",
+      "62205"
+    ],
+    "period": "[1]7~9 交管系館 62205",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-126",
+    "code": "H5-126 H534200 [TCM3303]",
+    "name": "運輸風險與危機管理 軌道運輸  旅客運輸領域必修/選課須經本系審核通過",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "黃國平",
+    "enrollment": "954/額滿",
+    "locations": [
+      "交管系館",
+      "62109"
+    ],
+    "period": "[3]6~8 交管系館 62109",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-127",
+    "code": "H5-127 H542400 [TCM4401]",
+    "name": "電信經營與管理 電信領域必修,",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "黃光渠",
+    "enrollment": "14/9額滿",
+    "locations": [
+      "交管系館",
+      "62102"
+    ],
+    "period": "[6]6~8 交管系館 62102",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-130",
+    "code": "H5-130 H530800 [TCM3201]",
+    "name": "倉儲與存貨管理 物流管理領域必修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "林東盈",
+    "enrollment": "31/額滿",
+    "locations": [
+      "交管系館",
+      "62205"
+    ],
+    "period": "[2]7~9 交管系館 62205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-134",
+    "code": "H5-134 H533600 [TCM3015]",
+    "name": "交通運輸管理實務 業界專家參與",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "魏健宏",
+    "enrollment": "295/14",
+    "locations": [
+      "交管系館",
+      "62207"
+    ],
+    "period": "[4]7~9 交管系館 62207",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-135",
+    "code": "H5-135 H533800 [TCM3402]",
+    "name": "資通訊科技法",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "黃郁雯",
+    "enrollment": "34/16",
+    "locations": [
+      "交管系館",
+      "62102"
+    ],
+    "period": "[3]6~8 交管系館 62102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-163",
+    "code": "H5-163 H534610 [TCM3009]",
+    "name": "校外實習（一） 選課須經本系審核通過",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "戴佐敏* 胡守任 鄭永祥 李威勳 沈宗緯 林佐鼎",
+    "enrollment": "179/13",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H5-166",
+    "code": "H5-166 H530120 [TCM4001]",
+    "name": "專題研究（二） 跨學門民航學分學程，軌道運輸  選課需經本系登記審核通過.",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "鄭永祥* 林珮珺 魏健宏 林正章 胡大瀛 張瀞之 李威勳 沈宗緯 蔡東峻",
+    "enrollment": "18/12",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H525000-Z4",
+    "code": "H525000-Z4 [TCM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-169",
+    "code": "H5-169 H531400 [TCM4002]",
+    "name": "交通政策 軌道運輸  鐵道運輸學程選課須經本系審核通過",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "張有恒",
+    "enrollment": "589/2",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[2]7~9 管理學院 62X02",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H5-170",
+    "code": "H5-170 H542300 [TCM4301]",
+    "name": "交通流理論 運輸科技領域必修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H5",
+    "department": "交管系 TCM",
+    "teacher": "胡守任",
+    "enrollment": "169/34",
+    "locations": [
+      "交管系館",
+      "62105"
+    ],
+    "period": "[3]6~8 交管系館 62105",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

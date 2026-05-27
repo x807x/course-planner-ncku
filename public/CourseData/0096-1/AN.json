@@ -1,0 +1,233 @@
+[
+  {
+    "id": "AN-001",
+    "code": "AN-001 F815010 [DPS]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "吳東晟",
+    "enrollment": "463/17",
+    "locations": [
+      "92371",
+      "電機系館",
+      "92X33"
+    ],
+    "period": "[1]1~2 電機系館 92X33 [4]4 電機系館 92371",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F810710-Z",
+    "code": "F810710-Z [DPS]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/55",
+    "locations": [],
+    "period": "[5]3~4 [2]4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "AN-003",
+    "code": "AN-003 F810010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李劍如",
+    "enrollment": "44/56",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10310-Z",
+    "code": "AN10310-Z [CCEP]",
+    "name": "軍訓（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-005",
+    "code": "AN-005 I317701 [MLSB]",
+    "name": "憲政民主與國家發展 醫技法律學士學位學程合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃清賢",
+    "enrollment": "1256/145",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]1~2 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "AN-006",
+    "code": "AN-006 AN10110 [CCEP0001]",
+    "name": "服務學習（一） 限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "湯銘哲",
+    "enrollment": "20/不限",
+    "locations": [],
+    "period": "[3]N",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "AN10200-Z1",
+    "code": "AN10200-Z1 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "60/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10200-Z2",
+    "code": "AN10200-Z2 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

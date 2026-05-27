@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "F3-001",
+    "code": "F3-001 F315020 [ID]",
+    "name": "國文（二） 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "鍾振宇",
+    "enrollment": "47/13",
+    "locations": [
+      "工設系館",
+      "唯農大樓",
+      "5260",
+      "7311"
+    ],
+    "period": "[2]5~6 唯農大樓 7311 [4]8 工設系館 5260",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F310920-Z",
+    "code": "F310920-Z [ID]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/732",
+    "locations": [],
+    "period": "[1]1~2 [4]4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F3-004",
+    "code": "F3-004 I217701 [NURS]",
+    "name": "憲政民主與國家發展 工設護理合班，屬「核心通識－公民素養」  限本系(系所可互選)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "黃清賢",
+    "enrollment": "95/3139",
+    "locations": [
+      "格致堂"
+    ],
+    "period": "[3]1~2 格致堂 格致堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F3-005",
+    "code": "F3-005 F215620 [UP]",
+    "name": "微積分（二） 限本系(系所可互選) (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "王辰樹",
+    "enrollment": "102/19",
+    "locations": [
+      "唯農大樓",
+      "7115",
+      "50102",
+      "7117",
+      "都計系館",
+      "7113"
+    ],
+    "period": "[3]3 都計系館 50102 [5]3~4 都計系館 50102 [3]4 唯農大樓 7113 [3]4 唯農大樓 7115 [3]4 唯農大樓 7117",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F3-006",
+    "code": "F3-006 F315720 [ID]",
+    "name": "普通物理學（二） 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "賴建雄",
+    "enrollment": "63/9",
+    "locations": [
+      "工設系館",
+      "5259"
+    ],
+    "period": "[1]3 工設系館 5259 [5]5~6 工設系館 5259",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310020-Z",
+    "code": "F310020-Z [ID]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310121-Z",
+    "code": "F310121-Z [ID]",
+    "name": "軍訓（二） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z1",
+    "code": "F325000-Z1 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/630",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-010",
+    "code": "F3-010 F317920 [ID0112]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "王藝蓁",
+    "enrollment": "352/不限",
+    "locations": [],
+    "period": "[2]4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-011",
+    "code": "F3-011 F311720-1A [ID]",
+    "name": "表現技法（二） 限本系(系所可互選) (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陸定邦",
+    "enrollment": "539/6",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[2]7 工設系館 5260 [2]8~9 工設系館 5260",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-012",
+    "code": "F3-012 F311720-1B [ID]",
+    "name": "表現技法（二） 限本系(系所可互選) (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "何俊亨",
+    "enrollment": "35/1",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[3]5 工設系館 5260 [3]6~7 工設系館 5260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-014",
+    "code": "F3-014 F211121-A [UP]",
+    "name": "基本設計（二） 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "王藝蓁",
+    "enrollment": "339/額滿",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[1]N~9 工設系館 5260",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-015",
+    "code": "F3-015 F211121-B [UP]",
+    "name": "基本設計（二） 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "洪嘉永 吳肇熙",
+    "enrollment": "26/額滿",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[1]N~9 工設系館 5260",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-016",
+    "code": "F3-016 F211121-C [UP]",
+    "name": "基本設計（二） 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "林振陽",
+    "enrollment": "16/9",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[1]N~9 工設系館 5260",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-017",
+    "code": "F3-017 F322800 [ID1122]",
+    "name": "計算機概論 電腦室  限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "何俊亨",
+    "enrollment": "56/額滿",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[4]9~B 工設系館 5260",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-018",
+    "code": "F3-018 F321700 [ID]",
+    "name": "色彩學 限本系(系所可互選)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "洪嘉永",
+    "enrollment": "80/31",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[3]9~A 工設系館 5260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310340-Z",
+    "code": "F310340-Z [ID]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/72",
+    "locations": [],
+    "period": "[3]1 [3]2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F310040-Z",
+    "code": "F310040-Z [ID]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "30/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3101D0-Z",
+    "code": "F3101D0-Z [ID]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/3不限",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z2",
+    "code": "F325000-Z2 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/40",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-055",
+    "code": "F3-055 F320620-A [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳希聖",
+    "enrollment": "328/1",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[1]N~9 空中大學 53306",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-056",
+    "code": "F3-056 F320620-B [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳茂松",
+    "enrollment": "20/5",
+    "locations": [
+      "工設系館",
+      "5204B"
+    ],
+    "period": "[1]N~9 工設系館 5204B",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-057",
+    "code": "F3-057 F320620-C [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳俊東 張宗祐",
+    "enrollment": "123/13",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[3]6~B 空中大學 53306",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-058",
+    "code": "F3-058 F320600 [ID2114]",
+    "name": "設計方法 遊艇設計專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "張育銘",
+    "enrollment": "115/37",
+    "locations": [
+      "綜合大樓",
+      "4872"
+    ],
+    "period": "[4]7~9 綜合大樓 4872",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-059",
+    "code": "F3-059 F323500 [ID2122]",
+    "name": "人類因素學 限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "吳豐光",
+    "enrollment": "380/額滿",
+    "locations": [
+      "工設系館",
+      "5259"
+    ],
+    "period": "[2]2~4 工設系館 5259",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-060",
+    "code": "F3-060 F323300 [ID2123]",
+    "name": "電腦輔助設計與製造 限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "羅逸文",
+    "enrollment": "80/額滿",
+    "locations": [
+      "工設系館",
+      "5261"
+    ],
+    "period": "[3]3~N 工設系館 5261",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-062",
+    "code": "F3-062 F312600 [ID2222]",
+    "name": "機械設計原理 限本系(系所可互選)",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "魏仲君",
+    "enrollment": "86/額滿",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[4]2~4 工設系館 5260",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310061-Z",
+    "code": "F310061-Z [ID]",
+    "name": "體育（六） 依照體育選項科目序號選課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "03/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-102",
+    "code": "F3-102 F335200-1A [ID]",
+    "name": "工程設計 限本系(系所可互選)",
+    "grade": 3,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "蕭世文",
+    "enrollment": "324/1",
+    "locations": [
+      "工設系館",
+      "5259"
+    ],
+    "period": "[1]5~8 工設系館 5259 [3]5~8 工設系館 5259",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-103",
+    "code": "F3-103 F335200-1B [ID]",
+    "name": "工程設計 限本系(系所可互選)",
+    "grade": 3,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "謝孟達",
+    "enrollment": "14/311",
+    "locations": [
+      "工設系館",
+      "5261"
+    ],
+    "period": "[1]5~8 工設系館 5261 [3]5~8 工設系館 5261",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-104",
+    "code": "F3-104 F335200-1C [ID]",
+    "name": "工程設計 限本系(系所可互選)",
+    "grade": 3,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "20/5",
+    "locations": [
+      "53307",
+      "空中大學"
+    ],
+    "period": "[1]5~8 空中大學 53307 [3]5~8 空中大學 53307",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-108",
+    "code": "F3-108 F330700 [ID3223]",
+    "name": "設計與教育 限3年級以上選課；限本系(系所可互選)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "68/4",
+    "locations": [
+      "工設系館",
+      "5259"
+    ],
+    "period": "[2]7~9 工設系館 5259",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z3",
+    "code": "F325000-Z3 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/3不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-111",
+    "code": "F3-111 F340600 [ID3228]",
+    "name": "個性化商品設計 流行用品設計學程，大三大四合班，限工設系學生選修  限3年級以上選課；第一階段不受理選課；限本系(系所可互選)",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "林群超",
+    "enrollment": "49/11",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[3]1~2 工設系館 5260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-117",
+    "code": "F3-117 F336200 [ID]",
+    "name": "產品企劃與開發 限本系(系所可互選)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "張育銘",
+    "enrollment": "52/8",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[5]5~7 工設系館 5260",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-151",
+    "code": "F3-151 F341300-1A [ID]",
+    "name": "專題設計 限本系(系所可互選)",
+    "grade": 4,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陸定邦",
+    "enrollment": "14/311",
+    "locations": [
+      "工設系館",
+      "5204A"
+    ],
+    "period": "[3]5~8 工設系館 5204A [5]5~8 工設系館 5204A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-152",
+    "code": "F3-152 F341300-1B [ID]",
+    "name": "專題設計 限本系(系所可互選)",
+    "grade": 4,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳建旭",
+    "enrollment": "12/133",
+    "locations": [
+      "工設系館",
+      "5204B"
+    ],
+    "period": "[2]1~4 工設系館 5204B [5]5~8 工設系館 5204B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-153",
+    "code": "F3-153 F341300-1C [ID]",
+    "name": "專題設計 限本系(系所可互選)",
+    "grade": 4,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "林銘泉",
+    "enrollment": "315/10",
+    "locations": [
+      "工設系館",
+      "5205A"
+    ],
+    "period": "[3]5~8 工設系館 5205A [5]5~8 工設系館 5205A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-154",
+    "code": "F3-154 F341300-1D [ID]",
+    "name": "專題設計 限本系(系所可互選)",
+    "grade": 4,
+    "credits": 4,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "馬敏元",
+    "enrollment": "13/312",
+    "locations": [
+      "工設系館",
+      "5205B"
+    ],
+    "period": "[3]5~8 工設系館 5205B [5]5~8 工設系館 5205B",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z4",
+    "code": "F325000-Z4 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "03/不限",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-158",
+    "code": "F3-158 F346500 [ID4221]",
+    "name": "展示設計 限3年級以上選課；限本系(系所可互選)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "39/8",
+    "locations": [
+      "工設系館",
+      "5204A"
+    ],
+    "period": "[3]9~B 工設系館 5204A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3100H1-Z",
+    "code": "F3100H1-Z [ID]",
+    "name": "體育（八） 依照體育選項科目序號選課",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-162",
+    "code": "F3-162 F317930 [ID0221]",
+    "name": "服務學習（三） 限本系(系所可互選)",
+    "grade": 4,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "何俊亨",
+    "enrollment": "7/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F3-163",
+    "code": "F3-163 F335600 [ID3225]",
+    "name": "流行商品展銷與策略 流行用品設計學程，限工設選修，大三大四合班  限3年級以上選課；限本系(系所可互選)",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "356/4",
+    "locations": [
+      "工設系館",
+      "5260"
+    ],
+    "period": "[1]A~B 工設系館 5260",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  }
+]

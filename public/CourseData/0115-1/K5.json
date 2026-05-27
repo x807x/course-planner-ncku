@@ -1,0 +1,589 @@
+[
+  {
+    "id": "K5-003",
+    "code": "K5-003 K585900 [TWL9501]",
+    "name": "研究方法 英語授課  雙語授課bilingual course",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "蔣為文",
+    "enrollment": "0/10",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[4]6~8 台文系館 88102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-004",
+    "code": "K5-004 K570500 [TWL6002]",
+    "name": "專題討論 供無須修課的碩（專）博生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "陳麗君",
+    "enrollment": "0/50",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-005",
+    "code": "K5-005 K580400 [TWL7014]",
+    "name": "現代性、認同與台灣文學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "游勝冠",
+    "enrollment": "09/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[3]9~B 台文系館 88102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-006",
+    "code": "K5-006 K58B600 [TWL7430]",
+    "name": "亞洲移民研究專題 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "曾薰慧",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[5]2~4 台文系館 88102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-007",
+    "code": "K5-007 K552100 [TWL5650]",
+    "name": "敘事、記憶與媒介 新聞傳播學程，性別研究學分學程 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "王右君",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[2]9~A 台文系館 88102 [2]B 台文系館 88102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "K5-008",
+    "code": "K5-008 K58C600 [TWL7432]",
+    "name": "台越歷史文化比較研究 東南亞文化學分學程 英語授課  雙語授課bilingual course",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "蔣為文",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[3]6~8 台文系館 88102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-009",
+    "code": "K5-009 K587000 [TWL7039]",
+    "name": "臺灣文學與童年研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "吳玫瑛",
+    "enrollment": "09/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[2]6~8 台文系館 88102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-010",
+    "code": "K5-010 K551000 [TWL7001]",
+    "name": "台語文學專題研究 業界專家參與 台語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "陳慕真",
+    "enrollment": "90/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[4]2~4 台文系館 88102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-011",
+    "code": "K5-011 K58D000 [TWL7714]",
+    "name": "台語教材與教法 業界專家參與 台語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "陳麗君",
+    "enrollment": "09/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[1]6~8 台文系館 88102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-012",
+    "code": "K5-012 B548200 [TWL5600]",
+    "name": "當代媒體傳播專題討論 新聞傳播學程 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "王右君",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[1]9~A 台文系館 88102 [1]B 台文系館 88102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "K5-013",
+    "code": "K5-013 K572900 [TWL7083]",
+    "name": "台灣電影專題 本課程含電影放映時間，實際上課時間為9:00-13:00，無法配合者請勿選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "林祈佑",
+    "enrollment": "0/912",
+    "locations": [
+      "88136",
+      "台文系館"
+    ],
+    "period": "[3]2~4 台文系館 88136",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-014",
+    "code": "K5-014 K860300 [AD6004]",
+    "name": "臺灣戲劇與劇場史專題 戲劇學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "劉南芳",
+    "enrollment": "0/網路9選課不開放",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[2]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-015",
+    "code": "K5-015 K572100 [TWL7707]",
+    "name": "第二語言習得專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "",
+    "enrollment": "09/網路選課不開放",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[4]9~B 台文系館 88102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-301",
+    "code": "K5-301 K580400 [TWL7014]",
+    "name": "現代性、認同與台灣文學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "游勝冠",
+    "enrollment": "0/912",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[3]9~B 台文系館 88102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K5-302",
+    "code": "K5-302 K552100 [TWL5650]",
+    "name": "敘事、記憶與媒介 新聞傳播學程，性別研究學分學程 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "王右君",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[2]9~A 台文系館 88102 [2]B 台文系館 88102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "K5-303",
+    "code": "K5-303 B548200 [TWL5600]",
+    "name": "當代媒體傳播專題討論 新聞傳播學程 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "王右君",
+    "enrollment": "0/12",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[1]9~A 台文系館 88102 [1]B 台文系館 88102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "K5-304",
+    "code": "K5-304 K572100 [TWL7707]",
+    "name": "第二語言習得專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K5",
+    "department": "台文所 TWL",
+    "teacher": "",
+    "enrollment": "0/9網路選課不開放",
+    "locations": [
+      "88102",
+      "台文系館"
+    ],
+    "period": "[4]9~B 台文系館 88102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  }
+]

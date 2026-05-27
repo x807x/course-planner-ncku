@@ -1,0 +1,107 @@
+[
+  {
+    "id": "VT-001",
+    "code": "VT-001 R650800-2 [IB6033]",
+    "name": "國際企業管理 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VT",
+    "department": "東南亞金融產碩 SAFP",
+    "teacher": "曾瓊慧",
+    "enrollment": "296/額滿",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[1]6~8 國企所 61401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VT-002",
+    "code": "VT-002 R651400-2 [IB6031]",
+    "name": "國際財務管理 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VT",
+    "department": "東南亞金融產碩 SAFP",
+    "teacher": "張紹基",
+    "enrollment": "29/額滿",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[3]6~8 國企所 61401",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VT-003",
+    "code": "VT-003 R651600 [IB6027]",
+    "name": "策略性人力資源管理 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VT",
+    "department": "東南亞金融產碩 SAFP",
+    "teacher": "史習安",
+    "enrollment": "296/額滿",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[4]2~4 國企所 61401",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

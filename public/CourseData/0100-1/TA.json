@@ -1,0 +1,325 @@
+[
+  {
+    "id": "TA-001",
+    "code": "TA-001 TA70210 [AHS9013]",
+    "name": "臨床研究設計（一） 上課地點：健照所會議室",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "柯乃熒 成戎珠 馬慧英 郭乃文 陳美霞 李中一 王榮德 陳彰惠",
+    "enrollment": "7/8",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-002",
+    "code": "TA-002 TA50310 [AHS9002]",
+    "name": "健康照護專題討論（一） 3:10~5:00PM",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張瑩如 黃美智 陳清惠 陳靜敏 成戎珠 馬慧英 郭立杰 郭乃文 黃惠玲",
+    "enrollment": "7/23",
+    "locations": [
+      "85102",
+      "護理系館"
+    ],
+    "period": "[5]7~8 護理系館 85102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-003",
+    "code": "TA-003 TA70100 [AHS9008]",
+    "name": "獨立研究（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "顏妙芬 成戎珠 洪菁霞 馬慧英 郭乃文",
+    "enrollment": "7/13",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-005",
+    "code": "TA-005 TA80301 [AHS]",
+    "name": "護理哲理與理論發展 上課地點：健照所會議室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "王秀雲 陳美霞 陳彰惠",
+    "enrollment": "97/8",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-006",
+    "code": "TA-006 TA73000 [AHS9022]",
+    "name": "健康政策與健康照護系統專論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "顏妙芬 陳靜敏 胡淑貞",
+    "enrollment": "49/26",
+    "locations": [
+      "85102",
+      "護理系館"
+    ],
+    "period": "[5]5~6 護理系館 85102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-007",
+    "code": "TA-007 TA50330 [AHS9004]",
+    "name": "健康照護專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳清惠 王靜枝 黃英修 馬慧英 黃惠玲 陳彰惠",
+    "enrollment": "89/22",
+    "locations": [
+      "85102",
+      "護理系館"
+    ],
+    "period": "[5]7~8 護理系館 85102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-008",
+    "code": "TA-008 TA80401 [AHS]",
+    "name": "失能與調適",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "馬慧英 張玲慧 郭立杰 陳官琳",
+    "enrollment": "129/28",
+    "locations": [
+      "醫學院",
+      "205D"
+    ],
+    "period": "[5]N~6 醫學院 205D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-009",
+    "code": "TA-009 TA70130 [AHS9010]",
+    "name": "獨立研究（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭 顏妙芬 陳清惠 王靜枝 黃英修 郭立杰 郭乃文 陳彰惠",
+    "enrollment": "9/11",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-010",
+    "code": "TA-010 TA80210 [AHS9037]",
+    "name": "教學實習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "王靜枝 黃英修 洪菁霞 馬慧英 郭立杰 柯慧貞",
+    "enrollment": "7/913",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-011",
+    "code": "TA-011 TA90100 [AHS9039]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張瑩如 顏妙芬 黃美智 陳清惠 趙可式 王靜枝 成戎珠 徐阿田 馬慧英 柯慧貞 陳彰惠",
+    "enrollment": "219/29",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-012",
+    "code": "TA-012 U782000 [CS7228]",
+    "name": "結構方程模型進階議題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "鄭中平",
+    "enrollment": "2/8",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[2]6~8 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-013",
+    "code": "TA-013 TA73200 [AHS9000]",
+    "name": "正向心理照護專題－介入與治療 地點：健照所會議室，修課須經授課教師同意",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "郭乃文",
+    "enrollment": "5/5",
+    "locations": [],
+    "period": "[1]6~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

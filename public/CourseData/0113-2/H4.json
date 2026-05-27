@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "A718320-Zk",
+    "code": "A718320-Zk [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-Zn",
+    "code": "A119120-Zn [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參3考備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-006",
+    "code": "H4-006 H415720 [BA1104]",
+    "name": "會計學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "黄馨儀",
+    "enrollment": "71/3額滿",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[2]5~7 企管系館 62121",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-007",
+    "code": "H4-007 H415520 [BA1101]",
+    "name": "經濟學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "林泰宇",
+    "enrollment": "65/額滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[5]2~4 企管系館 62335",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H410020-Z",
+    "code": "H410020-Z [BA]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H425000-Z1",
+    "code": "H425000-Z1 [BA]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-013",
+    "code": "H4-013 H417920 [BA1108]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "周信輝",
+    "enrollment": "47/13",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[1]9 企管系館 62335",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H4-016",
+    "code": "H4-016 D511221-1 [MATH1052]",
+    "name": "微積分（二） 選課名單匯入後，不可異動 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "夏杼*",
+    "enrollment": "80/10",
+    "locations": [
+      "A1303",
+      "A1306(資源後)",
+      "共同教室",
+      "A1304"
+    ],
+    "period": "[3]7~8 共同教室 A1306(資源後) [5]6 共同教室 A1306(資源後) [5]5 共同教室 A1303 [5]5 共同教室 A1304 [5]5 共同教室 A1306(資源後)",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H4-017",
+    "code": "H4-017 D511221-2 [MATH1052]",
+    "name": "微積分（二） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "關汝琳*",
+    "enrollment": "75/15",
+    "locations": [
+      "7302",
+      "7307",
+      "7202",
+      "經緯廳",
+      "成功校區經緯廳",
+      "唯農大樓"
+    ],
+    "period": "[3]7~8 成功校區經緯廳 經緯廳 [5]6 成功校區經緯廳 經緯廳 [5]5 唯農大樓 7302 [5]5 唯農大樓 7307 [5]5 唯農大樓 7202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H4-018",
+    "code": "H4-018 D511221-3 [MATH1052]",
+    "name": "微積分（二） 選課名單匯入後，不可異動 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "陳旻宏*",
+    "enrollment": "813/9",
+    "locations": [
+      "7309",
+      "資訊大樓",
+      "7215",
+      "7313",
+      "格致廳小講堂",
+      "唯農大樓"
+    ],
+    "period": "[3]7~8 資訊大樓 格致廳小講堂 [5]6 資訊大樓 格致廳小講堂 [5]5 唯農大樓 7309 [5]5 唯農大樓 7215 [5]5 唯農大樓 7313",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H4-019",
+    "code": "H4-019 D511221-4 [MATH1052]",
+    "name": "微積分（二） 選課名單匯入後，不可異動 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "孫逸軒*",
+    "enrollment": "50/40",
+    "locations": [
+      "62229",
+      "企管系館",
+      "A1307(資源後)",
+      "共同教室"
+    ],
+    "period": "[3]7~8 共同教室 A1307(資源後) [5]6 共同教室 A1307(資源後) [5]5 共同教室 A1307(資源後) [5]5 企管系館 62229",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H425000-Z5",
+    "code": "H425000-Z5 [BA]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H410040-Z",
+    "code": "H410040-Z [BA]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H425000-Z2",
+    "code": "H425000-Z2 [BA]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-060",
+    "code": "H4-060 H435700 [BA1200]",
+    "name": "組織行為 英語授課  EMI課程(英文授課比例：70%)  限2年級以上選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "葉時碩",
+    "enrollment": "74/額3滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[4]6~8 企管系館 62335",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-061",
+    "code": "H4-061 H420720 [BA1106]",
+    "name": "統計學（二） 英語授課  EMI課程(英文授課比例：70%)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "張欣民",
+    "enrollment": "736/額滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[4]2~4 企管系館 62335",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-062",
+    "code": "H4-062 H411700 [BA1105E]",
+    "name": "雲端服務相關法規應用 英語授課 COURSERA  訂於4/18(五)及6/20(五)第N堂12:10-13:00進行期中及期末考試；(五)N堂若有衝堂，請勿選課。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "林佑鴻",
+    "enrollment": "15/額滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H4-063",
+    "code": "H4-063 H423900 [BA1115E]",
+    "name": "企業併購 英語授課 COURSERA  實體上課訂於第二週2/24-2/27及第15週5/26-5/29晚間6:30-9:30，詳情另於Moodle公告。二次實體授課若無參加者，學期成績最高以59分計算。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "蕭惠鈺",
+    "enrollment": "23/額滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H4-064",
+    "code": "H4-064 H438000 [BA4418]",
+    "name": "行銷策略 moocs 業界專家參與  需修過《行銷管理 / 3學分 / 60分及格》。  需先修以下科目:《行銷管理/必修/3.0 學分/60 分以上》；限2年級以上選課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "蔡惠婷",
+    "enrollment": "239/11",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[5]2~4 企管系館 62121",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-065",
+    "code": "H4-065 H423200 [BA1204]",
+    "name": "實用民商法律入門 企管系與統計系合開",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "林佑鴻",
+    "enrollment": "74/額滿",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[3]6~8 企管系館 62121",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-066",
+    "code": "H4-066 H448500 [BA4403]",
+    "name": "科技管理 英語授課 COURSERA  需參加4/21及6/2（一）中午12:10-13:00實體考試，地點另公告於Moodle，未參加者學期成績最高59分。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "江宣怡",
+    "enrollment": "383/額滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H4-067",
+    "code": "H4-067 H448200 [BA4419]",
+    "name": "科技行銷 英語授課 COURSERA  需參加4/23及6/4（三）中午12:10-13:00實體考試，地點另公告於Moodle，未參加者學期成績最高59分。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "江宣怡",
+    "enrollment": "23/額3滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H4-068",
+    "code": "H4-068 H432700 [BA3318]",
+    "name": "創新管理 英語授課 COURSERA  需參加4/14及5/26（一）中午12:10-13:00實體考試，地點另公告於Moodle，未參加者學期成績最高59分。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "江宣怡",
+    "enrollment": "25/額3滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H4-069",
+    "code": "H4-069 H448400 [BA4613]",
+    "name": "社群與創新 英語授課 COURSERA  需參加4/15及5/27（二）中午12:10-13:00實體考試，地點另公告於Moodle，未參加者學期成績最高59分。",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "江宣怡",
+    "enrollment": "238/額滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H410061-Z",
+    "code": "H410061-Z [BA]",
+    "name": "體育（六） 依照體育選項科目序號選課",
+    "grade": 3,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請參考3備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H425000-Z3",
+    "code": "H425000-Z3 [BA]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "0/請3參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-103",
+    "code": "H4-103 H436500 [BA3324]",
+    "name": "消費者行為 業界專家參與  限大三以上選課，限修過《行銷管理 / 3學分 / 60分及格》。  需先修以下科目:《行銷管理/必修/3.0 學分/60 分以上》；限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "賴孟寬",
+    "enrollment": "53/35",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[2]6~8 企管系館 62457",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-104",
+    "code": "H4-104 H420300 [BA1301]",
+    "name": "人力資源管理 需先修以下科目:《管理學 / 3.0 學分 / 60 分以上》  需先修以下科目:《管理學/必修/3.0 學分/60 分以上》；限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "葉時碩",
+    "enrollment": "72/額滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[5]7~9 企管系館 62335",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-105",
+    "code": "H4-105 H430801 [BA1203]",
+    "name": "作業管理 英語授課 業界專家參與  限3年級以上選課，EMI課程(英文授課比例：70%)  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "江宣怡",
+    "enrollment": "61/額滿",
+    "locations": [
+      "企管系館",
+      "62210"
+    ],
+    "period": "[5]2~4 企管系館 62210",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-107",
+    "code": "H4-107 H435000 [BA3329E]",
+    "name": "數位平台設計 英語授課 業界專家參與  EMI課程(英文授課比例：70%)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "黃振皓",
+    "enrollment": "23/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[4]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-110",
+    "code": "H4-110 H434300 [BA3222]",
+    "name": "組織發展與變革 先修科目，限修過《員工訓練與發展 / 2學分 / 60分及格》。  需先修以下科目:《員工訓練與發展/選修/2.0 學分/60 分以上》；限3年級以上選課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "王瑜琳",
+    "enrollment": "93/31",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]5~6 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-111",
+    "code": "H4-111 H431000 [BA3302]",
+    "name": "行銷研究 業界專家參與",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "張心馨",
+    "enrollment": "25/15",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[2]2~4 企管系館 62212",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-112",
+    "code": "H4-112 H445900 [BA4750]",
+    "name": "領導學 需先修《管理學》/必修/3學分/60分以上，《組織行為》/必修/3學分/60分以上。  需先修以下科目:《管理學/必修/3.0 學分/60 分以上》《組織行為/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "李憲達",
+    "enrollment": "13/327",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[4]6~8 企管系館 62212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-113",
+    "code": "H4-113 H434200 [BA4500]",
+    "name": "管理統計學 業界專家參與",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "黃瀞瑩",
+    "enrollment": "46/額滿",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[4]5~7 企管系館 62121",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H425000-Z4",
+    "code": "H425000-Z4 [BA]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "",
+    "enrollment": "03/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-152",
+    "code": "H4-152 H133800 [ACC3021E]",
+    "name": "公司理財 會計系、統計系與企管系合開，建議先修過「基本財務學」或「財務管理」課程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "梁少懷",
+    "enrollment": "7/13",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H4-153",
+    "code": "H4-153 H449300 [BA4201]",
+    "name": "財務報告分析 業界專家參與  建議先修過《會計學》與《財務管理》課程。",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H4",
+    "department": "企管系 BA",
+    "teacher": "蕭惠鈺",
+    "enrollment": "313/27",
+    "locations": [
+      "企管系館",
+      "62210"
+    ],
+    "period": "[2]6~8 企管系館 62210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": "NM-001",
+    "code": "NM-001 NM52400 [NM6021]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "張亞寧* 王超鴻*",
+    "enrollment": "8/32",
+    "locations": [
+      "80202",
+      "旺宏館"
+    ],
+    "period": "[5]5~6 旺宏館 80202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-002",
+    "code": "NM-002 NM60200 [NM6091]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "張亞寧* 王超鴻*",
+    "enrollment": "135/27",
+    "locations": [
+      "80202",
+      "旺宏館"
+    ],
+    "period": "[5]5~6 旺宏館 80202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-003",
+    "code": "NM-003 NM52000 [AIRO5000]",
+    "name": "人工智慧運算與記憶體",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "王超鴻*",
+    "enrollment": "14/16",
+    "locations": [
+      "80202",
+      "旺宏館"
+    ],
+    "period": "[5]2~4 旺宏館 80202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-004",
+    "code": "NM-004 NN60500 [ICM7005]",
+    "name": "自然語言處理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "徐禕佑",
+    "enrollment": "21/額滿",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[2]6~8 共同教室 A1304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-005",
+    "code": "NM-005 T154600 [IMM6403E]",
+    "name": "人工智慧對神經科學之應用 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "朱俊憲* 徐禕佑",
+    "enrollment": "10/20",
+    "locations": [
+      "13211",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]2~4 生醫卓群大樓 13211",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-006",
+    "code": "NM-006 NN50300 [ICM5004]",
+    "name": "仿神經型態計算概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "王超鴻* 張亞寧",
+    "enrollment": "185/12",
+    "locations": [
+      "80202",
+      "旺宏館"
+    ],
+    "period": "[2]7~9 旺宏館 80202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-007",
+    "code": "NM-007 NN50400 [ICM5005]",
+    "name": "人工智慧法律與政策 社會資料科學學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "李韶曼",
+    "enrollment": "8/12",
+    "locations": [
+      "80409",
+      "旺宏館"
+    ],
+    "period": "[5]2~4 旺宏館 80409",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-008",
+    "code": "NM-008 NN80100 [ICM7007]",
+    "name": "大腦、認知與AI運算專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "張亞寧",
+    "enrollment": "15/額滿",
+    "locations": [
+      "80409",
+      "旺宏館"
+    ],
+    "period": "[1]6~8 旺宏館 80409",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-009",
+    "code": "NM-009 NN80200 [ICM7008]",
+    "name": "法律大型語言模型系統實作進階",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "李韶曼",
+    "enrollment": "3/17",
+    "locations": [
+      "80202",
+      "旺宏館"
+    ],
+    "period": "[1]6~8 旺宏館 80202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-010",
+    "code": "NM-010 P883000 [BME7451]",
+    "name": "數位醫療及醫用人工智慧 醫療器材與系統學程，生物科技學程 英語授課 業界專家參與 智慧醫療專長微學程  醫資所、敏求學院智慧科技系統碩士學位學程合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "林哲偉* 劉宗霖",
+    "enrollment": "64/26",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[2]9~B 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-011",
+    "code": "NM-011 P881900 [BME7600]",
+    "name": "科技創業與投資管理 醫療器材與系統學程 業界專家參與  與敏求學院智慧科技系統碩士學位學程合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "陳芃婷",
+    "enrollment": "522/28",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[3]2~4 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-012",
+    "code": "NM-012 P853520 [BME7006]",
+    "name": "醫療器材創新設計（二） 醫療器材與系統學程 英語授課 業界專家參與 醫療創新專長微學程  MDI必修/英文授課(100%)。與法律所、敏求學院智慧科技系統碩士學位學程合開，法律系比照\"研討\"\"選修\"課程。",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "陳芃婷* 邱士峰 林啓倫 陳家進 翁振勛 連偉志 薛元毓",
+    "enrollment": "15/25",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[3]6~8 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-013",
+    "code": "NM-013 N26I900 [EE7703]",
+    "name": "超音波系統與設計實務 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "黃致憲",
+    "enrollment": "15/55",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-014",
+    "code": "NM-014 Q353200 [CCE8421E]",
+    "name": "無線網路之控制與最佳化 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "林家祥",
+    "enrollment": "26/44",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-015",
+    "code": "NM-015 N25L100 [EE8547]",
+    "name": "資料探勘與社群網路分析 電機系(所)合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "黃仁暐",
+    "enrollment": "518/12",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NM-016",
+    "code": "NM-016 M350400 [7303]",
+    "name": "智慧工廠資訊系統 封測學程、永續學程、製造所、資訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NM",
+    "department": "智慧科技碩士學程 AIRO",
+    "teacher": "謝昱銘",
+    "enrollment": "81/19",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[4]2~4 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

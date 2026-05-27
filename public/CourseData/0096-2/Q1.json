@@ -1,0 +1,530 @@
+[
+  {
+    "id": "Q1-003",
+    "code": "Q1-003 N256200 [EE6131]",
+    "name": "表面技術分析 電機所微電所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "陳建瑞",
+    "enrollment": "8/55",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[1]2~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-004",
+    "code": "Q1-004 Q150100 [IME6111]",
+    "name": "半導體氣體感測器專論 限本所本組學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "劉文超",
+    "enrollment": "6/424",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[4]2~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-005",
+    "code": "Q1-005 N250020-2 [EE7092]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "張守進 蔡宗祐",
+    "enrollment": "58/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q1-006",
+    "code": "Q1-006 N250020-12 [EE7092]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "陳志方 李清庭",
+    "enrollment": "334/不限",
+    "locations": [],
+    "period": "[3]6 [5]5",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q1-007",
+    "code": "Q1-007 N250040-2 [EE7094]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "許渭州 劉文超",
+    "enrollment": "470/不限",
+    "locations": [],
+    "period": "[2]9~A",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q1-008",
+    "code": "Q1-008 N250040-12 [EE7094]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "蘇炎坤 王永和",
+    "enrollment": "109/4不限",
+    "locations": [],
+    "period": "[1]5 [3]5",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q1-009",
+    "code": "Q1-009 Q150300 [IME6113]",
+    "name": "微波半導體元件與積體電路專論 限本所本組學生10人選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "王永和",
+    "enrollment": "6/24",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[5]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-010",
+    "code": "Q1-010 N279700-1 [EE6183]",
+    "name": "光電半導體製程實驗 與微電子所合班",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "張守進",
+    "enrollment": "14/16",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[4]7~9 電機系館 92C01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "Q1-013",
+    "code": "Q1-013 N258200 [EE6132]",
+    "name": "ＵＬＳＩ元件物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "陳志方",
+    "enrollment": "304/33",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[2]7 電機系館 92177 [4]7~8 電機系館 92177",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-016",
+    "code": "Q1-016 Q150500 [IME6115E]",
+    "name": "積體光學元件專論 限本所本組學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "莊文魁",
+    "enrollment": "6/424",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[2]6~8 電機系館 92225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-017",
+    "code": "Q1-017 Q150600 [IME6121]",
+    "name": "化合物半導體元件專論 限本所本組學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "許渭州",
+    "enrollment": "3/27",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[5]2~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-018",
+    "code": "Q1-018 N25E500 [EE6144]",
+    "name": "奈米世代半導體製程概論 電漿學分學程  電機所微電所合班　不限本系所學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "彭洞清",
+    "enrollment": "58/347",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]7~9 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-019",
+    "code": "Q1-019 Q150700 [IME6122]",
+    "name": "顯示元件封裝技術專論 限本所本組學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "洪茂峰",
+    "enrollment": "7/23",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92185",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-020",
+    "code": "Q1-020 N26E800 [EE9122]",
+    "name": "超低電介質銅製程專論 限本所本組學生選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "彭洞清",
+    "enrollment": "64/24",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[3]8~A 電機系館 92C01",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-021",
+    "code": "Q1-021 N259700 [EE7111]",
+    "name": "雷射工程 限15人選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "蔡宗祐",
+    "enrollment": "10/5",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[3]2~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q1-023",
+    "code": "Q1-023 N265500 [EE7143]",
+    "name": "量子電子學 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q1",
+    "department": "微電所 IME",
+    "teacher": "莊文魁",
+    "enrollment": "31/32",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92271",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

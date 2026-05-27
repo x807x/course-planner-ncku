@@ -1,0 +1,53 @@
+[
+  {
+    "id": "RZ-201",
+    "code": "RZ-201 RZ30100-Y [COM0001]",
+    "name": "精實創業 上課教室技轉育成中心大會議室，上課時間詳如課程大綱",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "楊朝旭",
+    "enrollment": "14/網路選課不開放",
+    "locations": [],
+    "period": "[6]",
+    "slots": []
+  },
+  {
+    "id": "RZ-203",
+    "code": "RZ-203 RZ50222 [COM6002]",
+    "name": "跨國管理實務融合（二） 英語授課  開放網路選課(全英文授課)／密集授課詳如課程大綱",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "林軒竹",
+    "enrollment": "25/225",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[1]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "SA-001",
+    "code": "SA-001 SA70220 [TIGP9903E]",
+    "name": "跨領域神經科學講座（二） 英語授課  限本學程學生修讀",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SA",
+    "department": "神經博士學程 TIGP",
+    "teacher": "蔡坤哲*",
+    "enrollment": "2/3",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "SA-002",
+    "code": "SA-002 SA80110 [TIGP9091E]",
+    "name": "實驗室輪習（一） 英語授課  限本學程學生修讀",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SA",
+    "department": "神經博士學程 TIGP",
+    "teacher": "蔡坤哲*",
+    "enrollment": "20/8",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "SA-003",
+    "code": "SA-003 SA70320 [TIGP9092E]",
+    "name": "專題討論（二） 英語授課  限本學程學生修讀",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SA",
+    "department": "神經博士學程 TIGP",
+    "teacher": "蔡坤哲*",
+    "enrollment": "2/013",
+    "locations": [
+      "7050",
+      "門診大樓"
+    ],
+    "period": "[4]5~6 門診大樓 7050",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SA-005",
+    "code": "SA-005 SA70340 [TIGP9095E]",
+    "name": "專題討論（四） 英語授課  限本學程學生修讀",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SA",
+    "department": "神經博士學程 TIGP",
+    "teacher": "蔡坤哲*",
+    "enrollment": "2/103",
+    "locations": [
+      "7050",
+      "門診大樓"
+    ],
+    "period": "[4]5~6 門診大樓 7050",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SA-006",
+    "code": "SA-006 SA80700 [TIGP9004E]",
+    "name": "神經發育與疾病 英語授課  限本學程學生修讀",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SA",
+    "department": "神經博士學程 TIGP",
+    "teacher": "蔡坤哲*",
+    "enrollment": "2/3",
+    "locations": [
+      "門診大樓",
+      "7023"
+    ],
+    "period": "[3]5~7 門診大樓 7023",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

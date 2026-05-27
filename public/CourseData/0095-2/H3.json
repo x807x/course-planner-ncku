@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "H3-001",
+    "code": "H3-001 H315020 [IIM]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李淑如",
+    "enrollment": "60/78",
+    "locations": [
+      "61104",
+      "工管系館"
+    ],
+    "period": "[3]7~8 工管系館 61104 [5]8 工管系館 61104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H310820-Z",
+    "code": "H310820-Z [IIM]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/68",
+    "locations": [],
+    "period": "[1]1~2 [4]4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H3-003",
+    "code": "H3-003 H317600 [IIM]",
+    "name": "歷史",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "廖秀真",
+    "enrollment": "577/11",
+    "locations": [
+      "61104",
+      "工管系館"
+    ],
+    "period": "[2]7~8 工管系館 61104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H3-004",
+    "code": "H3-004 H310620 [MATH1032]",
+    "name": "微積分（二） 限本系；需先修以下科目:《微積分（一）/必修/3.0 學分/50 分以上》 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王辰樹",
+    "enrollment": "67/1",
+    "locations": [
+      "61104",
+      "工管系館"
+    ],
+    "period": "[2]5~6 工管系館 61104 [4]1 工管系館 61104 [4]2 工管系館 61104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "H3-005",
+    "code": "H3-005 F221320 [UP]",
+    "name": "經濟學（二） 工管系與都計系合開  限本系；需先修以下科目:《經濟學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "韓必忠",
+    "enrollment": "128/8",
+    "locations": [
+      "61200",
+      "工管系館"
+    ],
+    "period": "[5]5~7 工管系館 61200",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-006",
+    "code": "H3-006 H341000 [IIM2124]",
+    "name": "資訊管理概論 限本系  限本系；需先修以下科目:《計算機概論/必修/3.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "呂執中",
+    "enrollment": "69/額滿",
+    "locations": [
+      "61302",
+      "61104",
+      "工管系館"
+    ],
+    "period": "[1]3 工管系館 61302 [4]5~6 工管系館 61104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-007",
+    "code": "H3-007 H320300 [IIM2123]",
+    "name": "計算機程式及應用 限本系，含實習課星期四第９節６１２０１。  限本系；需先修以下科目:《計算機概論/必修/3.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "謝中奇",
+    "enrollment": "58/7額滿",
+    "locations": [
+      "61201",
+      "61104",
+      "工管系館"
+    ],
+    "period": "[2]4 工管系館 61104 [3]5~6 工管系館 61201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-008",
+    "code": "H3-008 H311320 [IIM]",
+    "name": "普通物理及實驗（二） (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "林呈昆",
+    "enrollment": "14/54",
+    "locations": [
+      "61104",
+      "工管系館"
+    ],
+    "period": "[1]5~6 工管系館 61104 [4]3 工管系館 61104 [5]1~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H300000-Z1",
+    "code": "H300000-Z1 [IIM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/768",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H310020-Z",
+    "code": "H310020-Z [IIM]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "70/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-011",
+    "code": "H3-011 H310120 [IIM]",
+    "name": "軍訓（二） 本系選本班　如欲選他系請至教官室辦理",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "黃均筑",
+    "enrollment": "777/28",
+    "locations": [
+      "軍訓館",
+      "6022"
+    ],
+    "period": "[2]1~2 軍訓館 6022",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-012",
+    "code": "H3-012 H317920 [IIM0200]",
+    "name": "服務學習（二） 限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李賢得",
+    "enrollment": "60/不限",
+    "locations": [],
+    "period": "[2]N",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H300000-Z2",
+    "code": "H300000-Z2 [IIM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/63",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-052",
+    "code": "H3-052 H321120 [IIM3021]",
+    "name": "統計學（二） 週一９堂實習課不得衝堂61304  限本系；需先修以下科目:《統計學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "黃宇翔",
+    "enrollment": "65/7額滿",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[2]3~4 工管系館 61103 [4]3 工管系館 61103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-053",
+    "code": "H3-053 H320700 [IIM3121]",
+    "name": "資料庫管理 週三第９堂實習課，不得衝堂61201  限本系；需先修以下科目:《資訊管理概論/必修/3.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王惠嘉",
+    "enrollment": "49/14",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[3]2 工管系館 61103 [5]1~2 工管系館 61103",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-054",
+    "code": "H3-054 H336100 [IIM3122]",
+    "name": "作業研究 週二第９堂實習，不得衝堂61201  限本系；需先修以下科目:《微積分（一）/必修/3.0 學分/0 分以上》《微積分（二）/必修/3.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李賢得",
+    "enrollment": "55/8",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[2]1~2 工管系館 61103 [4]4 工管系館 61103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-058",
+    "code": "H3-058 H334600 [IIM4214]",
+    "name": "模擬導論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "翁慈宗",
+    "enrollment": "18/45",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[1]2~3 工管系館 61103 [3]7 工管系館 61103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H310340-Z",
+    "code": "H310340-Z [IIM]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "70/63",
+    "locations": [],
+    "period": "[4]1 [4]2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H310040-Z",
+    "code": "H310040-Z [IIM]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/7不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3101D0-Z",
+    "code": "H3101D0-Z [IIM]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-067",
+    "code": "H3-067 H230600 [STAT3006]",
+    "name": "個體經濟學 統計系與工資管系合開",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "范光中",
+    "enrollment": "60/30",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[1]N~6 統計系館 62115",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-068",
+    "code": "H3-068 H340400 [IIM3224]",
+    "name": "離散數學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王逸琳",
+    "enrollment": "377/26",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[2]8 工管系館 61103 [3]3~4 工管系館 61103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-069",
+    "code": "H3-069 H320800 [IIM4222]",
+    "name": "動態網頁程式設計",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "顏廷光",
+    "enrollment": "44/1",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[5]7~9 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-070",
+    "code": "H3-070 H320600 [IIM3226]",
+    "name": "民法概要",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "柯格鐘",
+    "enrollment": "768/額滿",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[4]6~8 工管系館 61103",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-101",
+    "code": "H3-101 H320400 [IIM4121]",
+    "name": "行銷管理 限本系",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "蔡長鈞",
+    "enrollment": "477/55",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[4]N 工管系館 61101 [5]3~4 工管系館 61101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-103",
+    "code": "H3-103 H342700 [IIM4416]",
+    "name": "管理資訊系統 工資管三、四合班  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "吳植森",
+    "enrollment": "50/572",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[1]6 工管系館 61101 [2]6~7 工管系館 61101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H300000-Z3",
+    "code": "H300000-Z3 [IIM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/102",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-105",
+    "code": "H3-105 H333900 [IIM4122]",
+    "name": "品質管理 限本系；需先修以下科目:《統計學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "陳梁軒",
+    "enrollment": "47/55",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[1]2 工管系館 61101 [3]3~4 工管系館 61101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-106",
+    "code": "H3-106 H323020 [IIM]",
+    "name": "成本會計（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "林玲芬",
+    "enrollment": "12/970",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[4]6~8 工管系館 61101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-107",
+    "code": "H3-107 H347100 [IIM4212]",
+    "name": "財務管理 防災科技管理學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "張秀雲",
+    "enrollment": "26/776",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[3]2 工管系館 61101 [4]2~3 工管系館 61101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-111",
+    "code": "H3-111 H333500 [IIM4427]",
+    "name": "統計分析",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "周福星",
+    "enrollment": "41/671",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[3]5~7 工管系館 61101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H310061-Z",
+    "code": "H310061-Z [IIM]",
+    "name": "體育（六） 依照體育選項科目序號選課",
+    "grade": 3,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-119",
+    "code": "H3-119 H330810 [IIM4791]",
+    "name": "工管專題（一） 限本系",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李賢得 黃宇翔 翁慈宗 王逸琳 王維聰 吳植森 呂執中",
+    "enrollment": "741/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H3-120",
+    "code": "H3-120 H331010 [IIM4691]",
+    "name": "資管專題（一） 限本系",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王惠嘉",
+    "enrollment": "5/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "H3-121",
+    "code": "H3-121 H342100 [IIM4425]",
+    "name": "供應鏈系統 工資管三、四合班  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "林清河",
+    "enrollment": "42/271",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[1]9 工管系館 61103 [3]8~9 工管系館 61103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-122",
+    "code": "H3-122 H334000 [IIM4216]",
+    "name": "電子商務概論 工資管三、四合班  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王維聰",
+    "enrollment": "719/83",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[4]1 工管系館 61101 [5]1~2 工管系館 61101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-123",
+    "code": "H3-123 H330200 [IIM3211]",
+    "name": "JAVA網路應用",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李昇暾",
+    "enrollment": "5/97",
+    "locations": [
+      "61202",
+      "工管系館"
+    ],
+    "period": "[2]2~4 工管系館 61202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-153",
+    "code": "H3-153 H342700 [IIM4416]",
+    "name": "管理資訊系統 工資管三、四合班  限3年級以上選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "吳植森",
+    "enrollment": "50/52",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[1]6 工管系館 61101 [2]6~7 工管系館 61101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-154",
+    "code": "H3-154 H334000 [IIM4216]",
+    "name": "電子商務概論 工資管三、四合班  限3年級以上選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "王維聰",
+    "enrollment": "197/83",
+    "locations": [
+      "61101",
+      "工管系館"
+    ],
+    "period": "[4]1 工管系館 61101 [5]1~2 工管系館 61101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-157",
+    "code": "H3-157 H342100 [IIM4425]",
+    "name": "供應鏈系統 工資管三、四合班  限3年級以上選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "林清河",
+    "enrollment": "472/21",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[1]9 工管系館 61103 [3]8~9 工管系館 61103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-161",
+    "code": "H3-161 H332400 [IIM]",
+    "name": "運銷學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "徐蕙元",
+    "enrollment": "19/59",
+    "locations": [
+      "61102",
+      "工管系館"
+    ],
+    "period": "[1]3 工管系館 61102 [2]3~4 工管系館 61102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H310081-Z",
+    "code": "H310081-Z [IIM]",
+    "name": "體育（八） 依照體育選項科目序號選課",
+    "grade": 4,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "",
+    "enrollment": "0/7不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H3-166",
+    "code": "H3-166 H302500 [IIM]",
+    "name": "校外實習 限延畢生選課  限5年級以上選課",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H3",
+    "department": "工資系 IIM",
+    "teacher": "李賢得",
+    "enrollment": "37/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

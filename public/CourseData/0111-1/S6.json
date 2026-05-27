@@ -1,0 +1,798 @@
+[
+  {
+    "id": "S6-002",
+    "code": "S6-002 S650210 [CP6018]",
+    "name": "臨床藥學專題討論（一） 醫院藥學組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 洪欣儀 郭賓崇 賴嘉鎮 林少紅 陳儒伶 熊彥傑 陳登豪 吳律萱 歐凰姿 高雅慧 周辰熹 王明誠 張惠華",
+    "enrollment": "7/網路選4課不開放",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]1 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-003",
+    "code": "S6-003 S653300 [CP6047]",
+    "name": "物理藥學特論",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "蔡瑞真*",
+    "enrollment": "11/29",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]7~8 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-004",
+    "code": "S6-004 S651800 [CP6023]",
+    "name": "藥品治療學",
+    "grade": 1,
+    "credits": 4,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "賴嘉鎮* 高雅慧 王明誠",
+    "enrollment": "7/網路選課不開放",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[2]3~4 醫學院 604 [5]3~4 醫學院 604",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-012",
+    "code": "S6-012 S650230 [CP6020]",
+    "name": "臨床藥學專題討論（三） 醫院藥學組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 洪欣儀 郭賓崇 賴嘉鎮 林少紅 陳儒伶 熊彥傑 陳登豪 吳律萱 歐凰姿 高雅慧 周辰熹 王明誠 張惠華",
+    "enrollment": "141/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[5]1 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-013",
+    "code": "S6-013 S650720 [CP6010]",
+    "name": "臨床實習（二） 醫院藥學組",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 高淑敏 許美英 林嘉音",
+    "enrollment": "12/4網路選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S6-014",
+    "code": "S6-014 S650330 [CP6003]",
+    "name": "藥品動態書報討論（三） 藥品動態組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 林少紅 熊彥傑 陳登豪 張惠華",
+    "enrollment": "7/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-017",
+    "code": "S6-017 S650310 [CP6001]",
+    "name": "藥品動態書報討論（一） 藥品動態組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 林少紅 熊彥傑 陳登豪 張惠華",
+    "enrollment": "7/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-021",
+    "code": "S6-021 S652500 [CP6012]",
+    "name": "藥品實驗設計",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 熊彥傑 張惠華",
+    "enrollment": "6/454",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[2]1 醫學院 604",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-024",
+    "code": "S6-024 S650520 [CP6006]",
+    "name": "藥物不良反應專題討論（二） 藥劑部",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 高雅慧 王明誠",
+    "enrollment": "114/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[3]1 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-025",
+    "code": "S6-025 S650620 [CP6008]",
+    "name": "藥物治療專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 高雅慧 王明誠",
+    "enrollment": "11/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[3]8~9 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-030",
+    "code": "S6-030 S652200 [CP7003]",
+    "name": "藥品劑型設計",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "張惠華* 蔡瑞真",
+    "enrollment": "141/49",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]5~6 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-034",
+    "code": "S6-034 S661100 [CPPS6022]",
+    "name": "醫院藥事作業實習 醫院實習",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "鄭靜蘭* 高淑敏 許美英 林嘉音",
+    "enrollment": "74/網路選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S6-038",
+    "code": "S6-038 S653400 [CP7014]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 高雅慧",
+    "enrollment": "21/網4路選課不開放",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-040",
+    "code": "S6-040 T851401 [PH7301]",
+    "name": "生物統計學 醫療器材與系統學程  與公衛所、臨醫所合開。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "王亮懿*",
+    "enrollment": "81/18",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]3~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-041",
+    "code": "S6-041 S670110 [CP9090]",
+    "name": "專題討論（一） 醫院藥學組：醫學院 604；藥物科技組：醫學院 501。",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 賴嘉鎮 林少紅 陳儒伶 熊彥傑 陳登豪 吳律萱 歐凰姿 高雅慧 王明誠 陳立宗 劉柯俊 鄭靜蘭 張惠華",
+    "enrollment": "4/網路選4課不開放",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]7~8 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S6-042",
+    "code": "S6-042 S670130 [CP9092]",
+    "name": "專題討論（三） 醫院藥學組：醫學院 604；藥物科技組：醫學院 501。",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 賴嘉鎮 林立人 黃金鼎 林少紅 陳儒伶 熊彥傑 陳登豪 吳律萱 歐凰姿 高雅慧 王明誠 陳本忠 陳立宗 劉柯俊 鄭靜蘭 張惠華",
+    "enrollment": "10/網路選課不開放",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S6-043",
+    "code": "S6-043 S671300 [CPPS90019]",
+    "name": "藥物發展實務（一） 業界專家參與",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 林少紅 熊彥傑 陳登豪 蔡瑞真 張惠華",
+    "enrollment": "7/53",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-044",
+    "code": "S6-044 S680200 [CPPS9003]",
+    "name": "藥物發展實務（三） 業界專家參與",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹* 洪欣儀 郭賓崇 林少紅 熊彥傑 陳登豪 蔡瑞真 張惠華",
+    "enrollment": "10/540",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-050",
+    "code": "S6-050 S660801 [CPPS6055]",
+    "name": "藥物臨床試驗研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "歐凰姿* 高雅慧",
+    "enrollment": "420/30",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]3~4 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-051",
+    "code": "S6-051 S654400 [CPPS7009]",
+    "name": "藥物經濟學",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "歐凰姿*",
+    "enrollment": "140/30",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[4]5~6 醫學院 203D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-052",
+    "code": "S6-052 S654600 [CPPS7015]",
+    "name": "藥物基因體學",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "張惠華",
+    "enrollment": "74/43",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[3]5~6 醫學院 208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-055",
+    "code": "S6-055 S680700 [CPPS6024]",
+    "name": "藥物化學及新藥開發特論 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "洪欣儀",
+    "enrollment": "6/344",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[3]6~8 醫學院 202D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-057",
+    "code": "S6-057 S680400 [CPPS7018]",
+    "name": "實證醫學研究方法 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "賴嘉鎮",
+    "enrollment": "19/網路選課不開放",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]8~9 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-061",
+    "code": "S6-061 S690300 [CPPS7021]",
+    "name": "進階藥物流行病學（1）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "賴嘉鎮*",
+    "enrollment": "3/47",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9~A 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-062",
+    "code": "S6-062 S981000 [CM7159]",
+    "name": "人類遺傳流行病學與次世代定序資料分析 再生醫學科技學分學程  再生學程(D 生物資訊或統計方法群);智慧生醫學程(進階)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "林聖翔* 李俊毅 蘇美慈 黃柏憲 張惠華 陳芃潔 陳健生",
+    "enrollment": "13/7",
+    "locations": [
+      "門診大樓",
+      "7027"
+    ],
+    "period": "[2]3~4 門診大樓 7027",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-063",
+    "code": "S6-063 S354600 [PHSL6041]",
+    "name": "神經精神藥理學 與基醫所、藥理所合班上課，本課程採中英文上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "張雅雯* 黃欽威 陳志弘 陳高欽 宋碧姍 許桂森 簡伯武 蕭雅心 吳偉立 張惠華",
+    "enrollment": "18/6",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[4]3~4 醫學院 0724",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-065",
+    "code": "S6-065 S671020 [CPPS7013]",
+    "name": "藥物基因體資料庫之分析與應用（二） 再生醫學科技學分學程  再生學程(D生物資訊或統計方法群)與臨醫所合開",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "張惠華*",
+    "enrollment": "2/28",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[1]5~6 醫學院 201D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-067",
+    "code": "S6-067 S655200 [CPPS8001]",
+    "name": "人工智慧導論及其於數位治療與智慧用藥探討",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "林哲偉* 鄭靜蘭",
+    "enrollment": "224/洽系辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  }
+]

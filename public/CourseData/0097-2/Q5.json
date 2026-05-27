@@ -1,0 +1,954 @@
+[
+  {
+    "id": "Q5-001",
+    "code": "Q5-001 P750421-1 [CSIE7094]",
+    "name": "專題討論（二） 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "黃崇明",
+    "enrollment": "3129/不限",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[5]6~7 資訊系館 4263",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q5-002",
+    "code": "Q5-002 P760201 [CSIE7096]",
+    "name": "專題討論 碩博二以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "黃崇明",
+    "enrollment": "2253/不限",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[5]6~7 資訊系館 4263",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q5-006",
+    "code": "Q5-006 P770400 [CSIE7151]",
+    "name": "網際網路通訊協定 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "黃崇明",
+    "enrollment": "539/33",
+    "locations": [
+      "4204",
+      "資訊系館"
+    ],
+    "period": "[4]6~8 資訊系館 4204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-008",
+    "code": "Q5-008 P762200 [CSIE7107]",
+    "name": "機器學習 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "簡仁宗",
+    "enrollment": "163/4",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[3]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-009",
+    "code": "Q5-009 P768300 [CSIE7114]",
+    "name": "機器學習專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "蔣榮先",
+    "enrollment": "6/354",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[2]2~4 資訊系館 4202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-010",
+    "code": "Q5-010 P75F000 [CSIE5306]",
+    "name": "數位生活科技專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "鄭憲宗",
+    "enrollment": "15/25",
+    "locations": [
+      "4210A",
+      "資訊系館"
+    ],
+    "period": "[4]5~7 資訊系館 4210A",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-012",
+    "code": "Q5-012 P769900 [CSIE7117]",
+    "name": "高等容錯嵌入 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "謝孫源",
+    "enrollment": "5/331",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[5]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-014",
+    "code": "Q5-014 P759200 [CSIE7016]",
+    "name": "隨機程序 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "謝璧妃",
+    "enrollment": "61/4",
+    "locations": [
+      "4203",
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[2]2 資訊系館 4203 [3]3~4 資訊系館 4201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-015",
+    "code": "Q5-015 P750200 [CSIE7001]",
+    "name": "三維電腦視覺：幾何重建專論 英語授課  資訊所醫資所合班 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "連震杰",
+    "enrollment": "8/37",
+    "locations": [
+      "4215",
+      "資訊系館"
+    ],
+    "period": "[5]2~4 資訊系館 4215",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-016",
+    "code": "Q5-016 P764200 [CSIE7110]",
+    "name": "排隊理論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "許靜芳",
+    "enrollment": "319/1",
+    "locations": [
+      "4204",
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[3]5~6 資訊系館 4204 [5]2 資訊系館 4263",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-017",
+    "code": "Q5-017 P759900 [CSIE7017]",
+    "name": "電腦語音處理專論 電機資訊醫資合班電機系四樓會議室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "王駿發",
+    "enrollment": "20/10",
+    "locations": [
+      "92453",
+      "電機系館"
+    ],
+    "period": "[3]B~D 電機系館 92453",
+    "slots": []
+  },
+  {
+    "id": "Q5-018",
+    "code": "Q5-018 P75E400 [CSIE7037]",
+    "name": "量子安全協定專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "黃宗立",
+    "enrollment": "4/311",
+    "locations": [
+      "4215",
+      "資訊系館"
+    ],
+    "period": "[3]6~8 資訊系館 4215",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-026",
+    "code": "Q5-026 P871000 [BME7400]",
+    "name": "最佳化設計 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "鄭匡佑",
+    "enrollment": "52/3",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[2]2~4 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-027",
+    "code": "Q5-027 P75E800 [CSIE7041]",
+    "name": "IPTV網路電視技術與網路傳輸協定 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "蘇銓清",
+    "enrollment": "27/33",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[2]6~8 資訊系館 4201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-028",
+    "code": "Q5-028 P75E500 [CSIE7038]",
+    "name": "分散式嵌入式系統與應用專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "楊中平",
+    "enrollment": "5/310",
+    "locations": [
+      "4215",
+      "資訊系館"
+    ],
+    "period": "[1]6~8 資訊系館 4215",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-029",
+    "code": "Q5-029 P755100 [CSIE7206]",
+    "name": "進階晶片設計專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "陳培殷",
+    "enrollment": "13/7",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[5]2~4 資訊系館 4202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-030",
+    "code": "Q5-030 P75D700 [CSIE7034]",
+    "name": "作業系統與虛擬機器專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "張大緯",
+    "enrollment": "5/5",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[1]6~8 資訊系館 4201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-031",
+    "code": "Q5-031 P757800 [CSIE7014]",
+    "name": "全球資訊網通訊協定與快取技術 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "張燕光",
+    "enrollment": "330/30",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[2]6~8 資訊系館 4202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-032",
+    "code": "Q5-032 P757600 [CSIE]",
+    "name": "高效能封包交換器設計專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "張燕光",
+    "enrollment": "6/54",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[3]2~4 資訊系館 4202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-033",
+    "code": "Q5-033 P75E700 [CSIE7040]",
+    "name": "同儕計算與最佳化專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "蕭宏章",
+    "enrollment": "4/32",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[4]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-035",
+    "code": "Q5-035 P862900 [BME7000]",
+    "name": "生物統計 醫工所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "鍾高基",
+    "enrollment": "583/12",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[2]2~4 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-037",
+    "code": "Q5-037 P75E900 [CSIE7042]",
+    "name": "神經運算與腦機介面專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "梁勝富",
+    "enrollment": "8/2",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[1]6~8 資訊系館 4260",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-038",
+    "code": "Q5-038 P75E600 [CSIE7039]",
+    "name": "多媒體訊號之分析、合成與壓縮專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "蘇文鈺",
+    "enrollment": "9/327",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[4]6~8 資訊系館 4260",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-048",
+    "code": "Q5-048 P75B400 [CSIE7025]",
+    "name": "情境感知系統設計 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "郭耀煌",
+    "enrollment": "153/21",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[2]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-050",
+    "code": "Q5-050 P75C100 [CSIE7027]",
+    "name": "網路研究與模擬 英語授課  醫資所資訊所合班　英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "藍崑展",
+    "enrollment": "5/31",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[3]6~8 資訊系館 4260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-052",
+    "code": "Q5-052 P767800 [CSIE7113]",
+    "name": "高等圖形理論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "謝孫源",
+    "enrollment": "31/29",
+    "locations": [
+      "4203",
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[3]6~7 資訊系館 4203 [4]2 資訊系館 4261",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-053",
+    "code": "Q5-053 S351700 [PHSL6013]",
+    "name": "分子生物學 先端手術研究轉譯醫學學分學程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "蔡少正 黃阿敏 蔣輯武",
+    "enrollment": "32/28",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[3]3~4 醫學院 602",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q5-054",
+    "code": "Q5-054 P75D900 [CSIE]",
+    "name": "電子設計自動化專論 資訊所醫資所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q5",
+    "department": "醫資所 IMI",
+    "teacher": "何宗易",
+    "enrollment": "138/1",
+    "locations": [
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[4]7~9 資訊系館 4261",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "Z3-001",
+    "code": "Z3-001 Z390100 [TPS6895]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "0/274",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]7~8 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-002",
+    "code": "Z3-002 Z350121 [TPS6897]",
+    "name": "書報討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "8/716",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]7 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-003",
+    "code": "Z3-003 Z350141 [TPS6899]",
+    "name": "書報討論（四）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "8/16",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]8 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-004",
+    "code": "Z3-004 Z352320 [TPS6996]",
+    "name": "植物科學講座（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "78/16",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]5 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-005",
+    "code": "Z3-005 Z352340 [TPS6998]",
+    "name": "植物科學講座（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "8/716",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]6 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-006",
+    "code": "Z3-006 Z381800 [TPS6817]",
+    "name": "植物生物科技 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 謝羅倫",
+    "enrollment": "7/75",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[1]6~8 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-008",
+    "code": "Z3-008 Z382100 [TPS6821]",
+    "name": "植物跳躍基因體學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰*",
+    "enrollment": "57/9",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[4]2~4 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-010",
+    "code": "Z3-010 Z382201 [TPS6822]",
+    "name": "植物分子與細胞生物學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺* 蔡文杰 黃兆立",
+    "enrollment": "7/7",
+    "locations": [
+      "6樓小會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]3~4 生科院大樓 6樓小會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-011",
+    "code": "Z3-011 Z382000 [TPS6820]",
+    "name": "實驗資料分析與統計專論 限選修過植物學講座系列課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 張文綺 李瑞花 黃兆立",
+    "enrollment": "9/5",
+    "locations": [
+      "6樓小會議室",
+      "生科院大樓"
+    ],
+    "period": "[4]5~6 生科院大樓 6樓小會議室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-012",
+    "code": "Z3-012 L682700-1 [BIOT7002]",
+    "name": "高等細胞生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "林鼎晏* 何盧勳 張松彬 洪健睿 黃玲惠 張純純 洪建中 洪良宜 盧福翊 李瑞花",
+    "enrollment": "40/25",
+    "locations": [
+      "生科院大樓",
+      "891S3"
+    ],
+    "period": "[4]2~4 生科院大樓 891S3",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-013",
+    "code": "Z3-013 L682700-2 [BIOT7002]",
+    "name": "高等細胞生物學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "林鼎晏* 何盧勳 張松彬 洪健睿 黃玲惠 張純純 洪建中 洪良宜 盧福翊 李瑞花",
+    "enrollment": "73/38",
+    "locations": [
+      "89901",
+      "生科院大樓"
+    ],
+    "period": "[4]2~4 生科院大樓 89901",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-017",
+    "code": "Z3-017 Z351600 [TPS6808]",
+    "name": "作物育種與生物技術 生命所、與熱植所合班上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張松彬* 陳文輝",
+    "enrollment": "16/額滿",
+    "locations": [
+      "生科院大樓",
+      "89110"
+    ],
+    "period": "[3]7~8 生科院大樓 89110",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-018",
+    "code": "Z3-018 Z370500 [TPS6905]",
+    "name": "基因編輯：農桿菌基因轉殖機制與應用 英語授課  與普渡大學及中研院合開微學分課程，配合普渡大學教授時間為3/9 2-A節9小時課程中央研究院南部生物技術中心 1F 會議室上課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 黃浩仁 詹明才",
+    "enrollment": "714/1",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "Z3-019",
+    "code": "Z3-019 Z370600 [TPS6906]",
+    "name": "螢光蛋白質影像在植物細胞研究上的應用 英語授課  與普渡大學及中研院合開微學分課程，配合普渡大學教授時間為3/10 2-A節9小時課程中央研究院南部生物技術中心 1F 會議室上課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 黃浩仁 詹明才",
+    "enrollment": "174/1",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  }
+]

@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "I710710-Z",
+    "code": "I710710-Z [OT]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "80/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-Zs",
+    "code": "A119110-Zs [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "0/請參8考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-004",
+    "code": "I7-004 I712400 [OT1212]",
+    "name": "普通生物學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "宋皇模* 何盧勳 仲澤剛史 彭怡禎 大林祝 李瑞花",
+    "enrollment": "26/額滿",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[3]3~4 醫學院 208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-005",
+    "code": "I7-005 I712500 [OT1171]",
+    "name": "普通生物學實驗 生科系館實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "廖泓鈞* 宋皇模 張松彬",
+    "enrollment": "380/額滿",
+    "locations": [
+      "生科院大樓",
+      "89209"
+    ],
+    "period": "[1]5~7 生科院大樓 89209",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I7-006",
+    "code": "I7-006 I713100 [OT1312]",
+    "name": "人類發展",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "陳官琳* 汪翠瀅",
+    "enrollment": "28/8額滿",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[1]2~3 醫學院 501",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-015",
+    "code": "I7-015 I717910 [OT0071]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "古佳苓* 陳官琳*",
+    "enrollment": "824/1",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-018",
+    "code": "I7-018 I715001 [OT1213]",
+    "name": "職能治療導論",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "黃百川* 林玲伊 張雁晴 張哲豪",
+    "enrollment": "29/1",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[2]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-020",
+    "code": "I7-020 A215500-52 [OPE0300]",
+    "name": "體育（一） 藥學系、職治系合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "黃鴻鈞",
+    "enrollment": "48/52",
+    "locations": [
+      "中正堂綜合球場",
+      "中正堂"
+    ],
+    "period": "[5]7~8 中正堂 中正堂綜合球場",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-021",
+    "code": "I7-021 I710200 [OT1221]",
+    "name": "職能與活動 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張雁晴* 林玲伊 張哲豪",
+    "enrollment": "29/4",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[4]7~8 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I700000-Z1",
+    "code": "I700000-Z1 [OT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-027",
+    "code": "I7-027 I741600 [OT1226]",
+    "name": "壓力因應與職能調適",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "汪翠瀅*",
+    "enrollment": "31/1",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[4]1~2 醫學院 202D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-057",
+    "code": "I7-057 I620100 [PT2006]",
+    "name": "解剖學（含實驗） 醫療器材與系統學程  周五第一至四節，多位教師合上，限醫學院學生",
+    "grade": 2,
+    "credits": 6,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "王家義* 賴吾為 蔡宏名 林聖哲 官大紳 謝式洲 吳俊良 鄭雅敏 張志偉 許聖民 趙盈瑞 黃正池 陳柏全 黃于芳 鄭裕生 連偉志 林宗彥 劉秉彥 黃則達 黃步敏 吳佳慶 許鍾瑜 王仰高 李榮順 陳政義",
+    "enrollment": "57/額滿",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]5~8 醫學院 第三講堂 [2]1~4 醫學院 第三講堂 [4]1~4 醫學院 第三講堂 [5]1~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I700000-Z3",
+    "code": "I700000-Z3 [OT]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I700000-Z2",
+    "code": "I700000-Z2 [OT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I710030-Z",
+    "code": "I710030-Z [OT]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "08/請參考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-071",
+    "code": "I7-071 I322401 [MLSB2101]",
+    "name": "生理學 醫療器材與系統學程  非本系生修課須經授課教師同意",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張雅雯* 蔡少正 黃阿敏 吳勝男 顏賢章 陳珮君 吳偉立",
+    "enrollment": "129/21",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[1]1 醫學院 第四講堂 [3]3~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-073",
+    "code": "I7-073 I722700 [OT2215]",
+    "name": "公共衛生概論 護理，物治，醫技合班上課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "胡淑貞* 呂宗學",
+    "enrollment": "24/1",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[4]7~8 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-074",
+    "code": "I7-074 I741700 [OT2224]",
+    "name": "照護關係之友善互動與共融意識 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "馬慧英*",
+    "enrollment": "14/10",
+    "locations": [
+      "醫學院",
+      "604上課時間"
+    ],
+    "period": "[3]5 醫學院 604上課時間 [3]6 醫學院 604上課時間",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "I7-103",
+    "code": "I7-103 I611800 [PT2002]",
+    "name": "病理學概論 多位老師合上，醫技，物治，職治合班",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "李忠達* 周楠華* 張孔昭* 顏經洲 呂政展 何中良 蔡弘文 張珍",
+    "enrollment": "78/額8滿",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[4]1~2 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-104",
+    "code": "I7-104 I613000 [PT2005]",
+    "name": "骨科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "蘇維仁* 楊岱樺 林啓禎 賴國安 張志偉 黃國淵 戴大為 林政立 吳柏廷",
+    "enrollment": "875/額滿",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[5]7~8 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-105",
+    "code": "I7-105 I612000 [PT2003]",
+    "name": "小兒科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "王世敏* 陳建旭 王志堯 劉清泉 吳俊明 邱元佑 王玠能 楊燿榮 林毓志 杜伊芳 周言穎 紀美宏",
+    "enrollment": "786/額滿",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[4]8 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-106",
+    "code": "I7-106 I612200 [PT2004]",
+    "name": "外科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "曾堯麟* 李政昌 陳琮琳 洪崇傑 顏亦廷 林毅志 王亮超 徐慧萍 潘信誠 戴世煌 施俊偉 蔡孟達",
+    "enrollment": "76/額8滿",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[1]8~9 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-107",
+    "code": "I7-107 I630200 [PT2016]",
+    "name": "神經科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "林宙晴* 白明奇 黃欽威 陳志弘 黃涵薇 孫苑庭 戴世煌 吳怡 宋碧姍",
+    "enrollment": "873/額滿",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[5]9 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-112",
+    "code": "I7-112 I732100 [OT3111]",
+    "name": "義肢裝具學 需先修以下科目:《應用肌動學/必修/2.0 學分/60 分以上》《職能治療評估學/必修/1.0 學分/60 分以上》《解剖學（含實驗）/必修/6.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張哲豪* 徐秀雲 郭立杰",
+    "enrollment": "385/額滿",
+    "locations": [
+      "醫學院",
+      "技術學教室"
+    ],
+    "period": "[5]1 醫學院 技術學教室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-113",
+    "code": "I7-113 I732200-1 [OT3171]",
+    "name": "義肢裝具學實習 需先修以下科目:《應用肌動學/必修/2.0 學分/60 分以上》《職能治療評估學/必修/1.0 學分/60 分以上》《解剖學（含實驗）/必修/6.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張哲豪* 徐秀雲 郭立杰",
+    "enrollment": "834/額滿",
+    "locations": [
+      "醫學院",
+      "技術學教室"
+    ],
+    "period": "[5]2~4 醫學院 技術學教室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I700000-Z4",
+    "code": "I700000-Z4 [OT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "",
+    "enrollment": "0/請8參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-127",
+    "code": "I7-127 I732600 [OT3223]",
+    "name": "職能治療團體動力",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "汪翠瀅*",
+    "enrollment": "19/5",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[1]5~6 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-128",
+    "code": "I7-128 I715300 [OT3212]",
+    "name": "心理疾病職能治療學",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "汪翠瀅* 劉怡佳 陳官琳 張雁晴",
+    "enrollment": "34/額滿",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[4]3~4 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-129",
+    "code": "I7-129 I715400 [OT3176]",
+    "name": "心理疾病職能治療學實習",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "汪翠瀅* 劉怡佳 陳官琳 張雁晴",
+    "enrollment": "33/額滿",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[2]2~4 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I7-130",
+    "code": "I7-130 I732800 [OT3225]",
+    "name": "老人職能治療學",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張玲慧*",
+    "enrollment": "30/7",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[1]2~3 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-131",
+    "code": "I7-131 I730100 [OT3114]",
+    "name": "兒童職能治療學",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "林玲伊* 黃雅淑 黃璨珣 楊琇晴",
+    "enrollment": "34/額滿",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[3]1 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I7-132",
+    "code": "I7-132 I730300 [OT3174]",
+    "name": "兒童職能治療學實習",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "林玲伊* 黃雅淑 黃璨珣 楊琇晴",
+    "enrollment": "34/額滿",
+    "locations": [
+      "職治系館",
+      "專業教室"
+    ],
+    "period": "[3]2~4 職治系館 專業教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I7-151",
+    "code": "I7-151 I741400 [OT4293]",
+    "name": "職能治療專題討論",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張哲豪* 黃雅淑* 汪翠瀅 林玲伊 馬慧英 郭立杰 陳官琳 黃百川 張雁晴 古佳苓",
+    "enrollment": "30/5",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "I7-152",
+    "code": "I7-152 I740410 [OT4571]",
+    "name": "心理疾病職能治療臨床實習（一） 科目序號152至157等六科上下學期開課，每學期至少修15學分，至各醫院實習",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張雁晴* 黃雅淑 汪翠瀅 林玲伊 馬慧英 張玲慧 郭立杰 陳官琳 黃百川 古佳苓 張哲豪",
+    "enrollment": "820/15",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-153",
+    "code": "I7-153 I740420 [OT4572]",
+    "name": "心理疾病職能治療臨床實習（二）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "張雁晴* 黃雅淑 汪翠瀅 林玲伊 馬慧英 張玲慧 郭立杰 陳官琳 黃百川 古佳苓 張哲豪",
+    "enrollment": "11/24",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-154",
+    "code": "I7-154 I740510 [OT4573]",
+    "name": "生理疾病職能治療臨床實習（一）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "郭立杰* 黃雅淑 汪翠瀅 林玲伊 徐秀雲 馬慧英 張玲慧 陳官琳 黃百川 張雁晴 古佳苓 張哲豪",
+    "enrollment": "19/16",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-155",
+    "code": "I7-155 I740520 [OT4574]",
+    "name": "生理疾病職能治療臨床實習（二）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "郭立杰* 黃雅淑 汪翠瀅 林玲伊 徐秀雲 馬慧英 張玲慧 陳官琳 黃百川 張雁晴 古佳苓 張哲豪",
+    "enrollment": "8/27",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-156",
+    "code": "I7-156 I740710 [OT4575]",
+    "name": "兒童職能治療臨床實習（一）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "黃雅淑* 汪翠瀅 林玲伊 馬慧英 張玲慧 郭立杰 陳官琳 黃百川 張雁晴 古佳苓 張哲豪",
+    "enrollment": "281/14",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I7-157",
+    "code": "I7-157 I740720 [OT4576]",
+    "name": "兒童職能治療臨床實習（二）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I7",
+    "department": "職治系 OT",
+    "teacher": "黃雅淑* 汪翠瀅 林玲伊 馬慧英 張玲慧 郭立杰 陳官琳 黃百川 張雁晴 古佳苓 張哲豪",
+    "enrollment": "182/23",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

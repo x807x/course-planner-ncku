@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "VX-001",
+    "code": "VX-001 VX50100 [6901]",
+    "name": "資訊工程實務實習 限本班碩二完成實習課程者選修  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "張燕光",
+    "enrollment": "32/額滿",
+    "locations": [
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[3]8~A 資訊系館 4261 [5]8~A 資訊系館 4261",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "VX-002",
+    "code": "VX-002 P760201 [CSIE7096]",
+    "name": "專題討論 (112學年度碩博新生與碩博二以上學生請選此課)資工所/醫資所/多媒體學位學程/AI學位學程合班,大學部勿選",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "張燕光",
+    "enrollment": "459/不2限",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[5]6~7 資訊系館 4263",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VX-003",
+    "code": "VX-003 P75F300 [CSIE7095]",
+    "name": "資工與醫資導論 須修過本課方可畢業，資工所/醫資所/多媒體學位學程/AI學位學程合班",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "張燕光",
+    "enrollment": "217/不限",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[5]5 資訊系館 4263",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-004",
+    "code": "VX-004 P75F200 [CSIE7043]",
+    "name": "文件資料探勘研究與應用專論 資工所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "高宏宇",
+    "enrollment": "9/3",
+    "locations": [
+      "65805",
+      "資訊新館"
+    ],
+    "period": "[4]2~4 資訊新館 65805",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-005",
+    "code": "VX-005 P764600 [CSIE7111]",
+    "name": "資料探勘 人工智慧學分學程  資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "高宏宇",
+    "enrollment": "69/329",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[2]2~4 資訊系館 4203",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-006",
+    "code": "VX-006 P76A200 [CSIE7119]",
+    "name": "普及運算專論 新開，資訊所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "郭耀煌",
+    "enrollment": "24/51",
+    "locations": [
+      "65105",
+      "資訊新館"
+    ],
+    "period": "[1]2~4 資訊新館 65105",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-007",
+    "code": "VX-007 P755000 [CSIE7012]",
+    "name": "影像處理 醫療器材與系統學程，人工智慧學分學程  資訊所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "洪昌鈺",
+    "enrollment": "62/38",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[4]6~8 資訊系館 4203",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-008",
+    "code": "VX-008 P762800 [CSIE7108]",
+    "name": "電腦繪圖 資工所/AI學位學程合班，大學部勿選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "李同益",
+    "enrollment": "30/25",
+    "locations": [
+      "65105",
+      "資訊新館"
+    ],
+    "period": "[1]6~7 資訊新館 65105 [3]7 資訊新館 65105",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-009",
+    "code": "VX-009 P75I300 [CSIE7556]",
+    "name": "物聯網核心網路技術 人工智慧學分學程  資工所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "蘇銓清",
+    "enrollment": "192/41",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[4]6~8 資訊系館 4202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-013",
+    "code": "VX-013 P753900 [CSIE7008]",
+    "name": "數位信號處理 人工智慧學分學程  資工所/醫資所/AI學位學程/製造所合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "吳宗憲",
+    "enrollment": "41/9",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[1]6~8 資訊新館 65104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-014",
+    "code": "VX-014 P76C700 [CSIE7129]",
+    "name": "口語感知及互動專論 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "吳宗憲",
+    "enrollment": "6/24",
+    "locations": [
+      "65805",
+      "資訊新館"
+    ],
+    "period": "[2]2~4 資訊新館 65805",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-015",
+    "code": "VX-015 P75A500 [CSIE7020]",
+    "name": "生醫資訊擷取技術 人工智慧學分學程  資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "蔣榮先",
+    "enrollment": "8/13",
+    "locations": [
+      "65605",
+      "資訊新館"
+    ],
+    "period": "[2]2~4 資訊新館 65605",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-016",
+    "code": "VX-016 P76I200 [CSIE7606]",
+    "name": "電腦視覺與深度學習 人工智慧學分學程 英語授課  資工所/醫資所/AI學位學程/製造所/運算學院合班，英語授課。上課教室再增開4204教室共2間教室，4204教室採連線上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "連震杰",
+    "enrollment": "275/125",
+    "locations": [
+      "65405",
+      "資訊新館"
+    ],
+    "period": "[4]2~4 資訊新館 65405",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-017",
+    "code": "VX-017 P76A700 [CSIE7120]",
+    "name": "進化計算演譯法專論 資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "郭淑美",
+    "enrollment": "7/8",
+    "locations": [
+      "4215",
+      "資訊系館"
+    ],
+    "period": "[3]6~8 資訊系館 4215",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-018",
+    "code": "VX-018 P754600 [CSIE7010]",
+    "name": "圖形理論 資工所/醫資所/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "謝孫源",
+    "enrollment": "109/8",
+    "locations": [
+      "資訊系館",
+      "4264"
+    ],
+    "period": "[2]2~4 資訊系館 4264",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-022",
+    "code": "VX-022 P772800 [CSIE7621]",
+    "name": "下世代無線行動網路 資工所/醫資所/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "黃崇明",
+    "enrollment": "10/520",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[4]6~8 資訊系館 4201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-023",
+    "code": "VX-023 P75L300 [CSIE7644]",
+    "name": "數位孿生與機器學習 資工所/醫資所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "蘇文鈺",
+    "enrollment": "19/額滿",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[2]6~8 資訊新館 65104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-024",
+    "code": "VX-024 P773000 [CSIE7622]",
+    "name": "光網路之深入探究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "許靜芳",
+    "enrollment": "32/52",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[3]2 資訊新館 65104 [5]3~4 資訊新館 65104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-025",
+    "code": "VX-025 P76G500 [CSIE7211]",
+    "name": "計算機結構 英語授課  資工所/AI學位學程合班,英語授課  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "黃敬群",
+    "enrollment": "602/13",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[2]2~4 資訊系館 4201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-026",
+    "code": "VX-026 P75C600 [CSIE7030]",
+    "name": "生醫訊號處理 資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "梁勝富",
+    "enrollment": "424/16",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[3]2~4 資訊系館 4203",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-027",
+    "code": "VX-027 P75L100 [CSIE7642]",
+    "name": "分散式系統: 進階實務 （II） 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "蕭宏章",
+    "enrollment": "212/額滿",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[1]2~4 資訊系館 4201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-028",
+    "code": "VX-028 P75L200 [CSIE7643]",
+    "name": "NoSQL 高等資料結構專論 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "蕭宏章",
+    "enrollment": "11/額滿",
+    "locations": [
+      "65605",
+      "資訊新館"
+    ],
+    "period": "[4]2~4 資訊新館 65605",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-031",
+    "code": "VX-031 P755100 [CSIE7206]",
+    "name": "進階晶片設計專論 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "陳培殷",
+    "enrollment": "29/額滿",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[1]2~4 資訊新館 65104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-032",
+    "code": "VX-032 P76D500 [CSIE7132]",
+    "name": "網路入侵偵測系統設計專論 資工所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "張燕光",
+    "enrollment": "11/44",
+    "locations": [
+      "65105",
+      "資訊新館"
+    ],
+    "period": "[3]2~4 資訊新館 65105",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-033",
+    "code": "VX-033 P75F700 [CSIE7047]",
+    "name": "生醫超音波訊號與成像技術 醫療器材與系統學程  資工所/醫資所合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "王士豪",
+    "enrollment": "123/額滿",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[3]6~8 資訊新館 65104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-035",
+    "code": "VX-035 P76G100 [CSIE7150]",
+    "name": "物聯網系統設計與應用 人工智慧學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "楊中平",
+    "enrollment": "4/32",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[4]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-036",
+    "code": "VX-036 P774000 [CSIE7632]",
+    "name": "深入emacs lisp 資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "賀保羅",
+    "enrollment": "9/46",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[2]7~9 資訊系館 4201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-037",
+    "code": "VX-037 P75L500 [CSIE7646]",
+    "name": "基因體資訊學 資訊所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "賀保羅",
+    "enrollment": "214/41",
+    "locations": [
+      "65105",
+      "資訊新館"
+    ],
+    "period": "[4]2~4 資訊新館 65105",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-038",
+    "code": "VX-038 Q550400 [IMI7203]",
+    "name": "醫用磁振造影：原理與應用 資工所/醫資所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "吳明龍",
+    "enrollment": "4/226",
+    "locations": [
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[2]6~8 資訊系館 4261",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-040",
+    "code": "VX-040 P76E900 [CSIE7207]",
+    "name": "空間資料分析專論 資工所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "莊坤達",
+    "enrollment": "82/28",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[3]2~4 資訊系館 4260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-043",
+    "code": "VX-043 P774100 [CSIE7633]",
+    "name": "資訊科技產業專案設計 資工所/醫資所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "黃敬群",
+    "enrollment": "80/221",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]7~9 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-044",
+    "code": "VX-044 P76F500 [CSIE7144]",
+    "name": "軟體設計 資工所/醫資所/AI學位學程合班,資訊大樓3樓上課  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "李信杰",
+    "enrollment": "428/1",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[2]2~4 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-045",
+    "code": "VX-045 P75F500 [CSIE7045]",
+    "name": "圖訊識別專論 電機所資工所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "王駿發",
+    "enrollment": "16/54",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-046",
+    "code": "VX-046 P773900 [CSIE7631]",
+    "name": "物聯網技術之應用及系統開發 人工智慧學分學程  資工所/醫資所/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "藍崑展",
+    "enrollment": "7/53",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[1]6~8 資訊系館 4202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-076",
+    "code": "VX-076 P75L400 [CSIE7645]",
+    "name": "人工智慧於醫療應用與服務 人工智慧學分學程  資訊所/醫資所/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "王士豪",
+    "enrollment": "238/62",
+    "locations": [
+      "資訊系館",
+      "4264"
+    ],
+    "period": "[2]7~9 資訊系館 4264",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-078",
+    "code": "VX-078 F742900 [CSIE5010]",
+    "name": "人工智慧導論 人工智慧學分學程 資訊科學專長微學程  大四碩班合班,資工所醫資所AI學位學程製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "朱威達",
+    "enrollment": "992/31",
+    "locations": [
+      "資訊系館",
+      "4264"
+    ],
+    "period": "[4]5~7 資訊系館 4264",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-080",
+    "code": "VX-080 P76I600 [CSIE7617]",
+    "name": "深度學習 人工智慧學分學程  資工所/醫資所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "陳奇業",
+    "enrollment": "27/4",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[2]6~8 資訊系館 4202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-081",
+    "code": "VX-081 P780100 [CSIE7623]",
+    "name": "新興記憶體技術導論 資工所/醫資所/AI學位學程/製造所合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "何建忠",
+    "enrollment": "32/額滿",
+    "locations": [
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[5]2~4 資訊系館 4261",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-082",
+    "code": "VX-082 P773800 [CSIE7630]",
+    "name": "無線電接取網路專論 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "曾繁勛",
+    "enrollment": "5/225",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[3]7~9 資訊系館 4260",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VX-083",
+    "code": "VX-083 P773500 [CSIE7627]",
+    "name": "升級版第五代行動網路導論 資工所/AI學位學程合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VX",
+    "department": "資訊產碩 VX",
+    "teacher": "曾繁勛",
+    "enrollment": "18/12",
+    "locations": [
+      "4260",
+      "資訊系館"
+    ],
+    "period": "[2]7~9 資訊系館 4260",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

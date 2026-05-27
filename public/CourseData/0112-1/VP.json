@@ -1,0 +1,307 @@
+[
+  {
+    "id": "VP-001",
+    "code": "VP-001 L750310 [DPS6001]",
+    "name": "光電子學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "張世慧",
+    "enrollment": "99/3",
+    "locations": [
+      "綜合大樓",
+      "48424"
+    ],
+    "period": "[5]2~4 綜合大樓 48424",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-002",
+    "code": "VP-002 L762500-A [DPS6073]",
+    "name": "光電實驗",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "李佳榮",
+    "enrollment": "022/1",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[2]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "VP-003",
+    "code": "VP-003 L762500-B [DPS6073]",
+    "name": "光電實驗",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "張世慧",
+    "enrollment": "23/額滿",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[3]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "VP-005",
+    "code": "VP-005 L750210 [DPS6091]",
+    "name": "專題討論（一） 業界專家參與  碩一",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "周昱薰",
+    "enrollment": "79/11",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[5]6~7 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-010",
+    "code": "VP-010 L762200 [DPS5002]",
+    "name": "波導光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "曾碩彥",
+    "enrollment": "15/35",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[2]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-011",
+    "code": "VP-011 L771400 [DPS7024]",
+    "name": "物理光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "魏明達",
+    "enrollment": "25/25",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[3]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-012",
+    "code": "VP-012 L783500 [DPS7010]",
+    "name": "顯示器光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "許家榮",
+    "enrollment": "14/106",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[2]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-014",
+    "code": "VP-014 L760300 [DPS7001]",
+    "name": "傅氏光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "邱爾德",
+    "enrollment": "7/28",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[3]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VP-015",
+    "code": "VP-015 L780810 [DPS7192]",
+    "name": "液晶光電專題（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "李佳榮",
+    "enrollment": "50/25",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[4]5~6 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

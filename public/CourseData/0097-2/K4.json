@@ -1,0 +1,230 @@
+[
+  {
+    "id": "K4-001",
+    "code": "K4-001 K450100 [AS]",
+    "name": "藝術論衡 限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "27/11",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[2]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-002",
+    "code": "K4-002 K456700 [AS6009]",
+    "name": "公共藝術專題研究 外所學生需老師同意  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "高燦榮",
+    "enrollment": "185/10",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]6~8 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-003",
+    "code": "K4-003 K456800 [AS]",
+    "name": "電影配樂理論與實際 限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "5/25",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-004",
+    "code": "K4-004 K456900 [AS]",
+    "name": "藝術風格研究 限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "吳奕芳",
+    "enrollment": "16/814",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[4]6~8 藝術所 5450",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-007",
+    "code": "K4-007 K465000 [AS6021]",
+    "name": "陶瓷藝術造型與裝飾 本課程若有餘額始開放外所選課  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "徐永旭",
+    "enrollment": "10/5",
+    "locations": [
+      "5451",
+      "藝術所"
+    ],
+    "period": "[3]6~8 藝術所 5451",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-009",
+    "code": "K4-009 K452500 [AS]",
+    "name": "希臘戲劇 限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "邱源貴",
+    "enrollment": "5/818",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[4]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-010",
+    "code": "K4-010 K454200 [AS9999]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "吳奕芳",
+    "enrollment": "17/不8限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

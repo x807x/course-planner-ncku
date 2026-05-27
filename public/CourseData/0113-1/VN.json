@@ -1,0 +1,202 @@
+[
+  {
+    "id": "VN-001",
+    "code": "VN-001 N250010-1 [EE7091]",
+    "name": "專題討論（一） 材料組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "施權峰* 黃正亮",
+    "enrollment": "37/不9限",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[3]N~5 電機系館 92B28",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VN-002",
+    "code": "VN-002 N250030-1 [EE7093]",
+    "name": "專題討論（三） 材料組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "李炳鈞",
+    "enrollment": "41/不限",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[4]N~5 電機系館 92B28",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VN-003",
+    "code": "VN-003 N25J600 [EE8801]",
+    "name": "電子陶瓷",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "李文熙",
+    "enrollment": "18/12",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[5]2~4 電機系館 92B28",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-004",
+    "code": "VN-004 Q170400 [IME7132]",
+    "name": "半導體雷射概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "李文熙* 林蔚",
+    "enrollment": "499/21",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-005",
+    "code": "VN-005 N26F600 [EE8013]",
+    "name": "晶體結構與材料分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "施權峰",
+    "enrollment": "22/8",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[5]5~7 電機系館 92B28",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-006",
+    "code": "VN-006 N26C200 [EE7033]",
+    "name": "陶瓷材料專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "黃正亮",
+    "enrollment": "149/16",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[2]2 電機系館 92B28 [4]1~2 電機系館 92B28",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,771 @@
+[
+  {
+    "id": "P9-001",
+    "code": "P9-001 P950110 [IMIS7191]",
+    "name": "專題討論（一） 業界專家參與  碩一、博一，碩博合班上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳朝鈞* 陳裕民 陳響亮 鄭芳田 楊大和 蔡佩璇 王宏鍇",
+    "enrollment": "45/55",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[4]6 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P9-002",
+    "code": "P9-002 P950130 [IMIS7193]",
+    "name": "專題討論（三） 業界專家參與  碩二、博二以上，碩博合班上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳朝鈞* 陳裕民 陳響亮 鄭芳田 楊大和 蔡佩璇 王宏鍇",
+    "enrollment": "453/57",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[4]7 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P9-003",
+    "code": "P9-003 P971000 [IMIS7215]",
+    "name": "智慧商務 業界專家參與  製造所、工程專班、智慧製造學位學程、半導體學院、AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳裕民",
+    "enrollment": "67/33",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[1]A~C 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-004",
+    "code": "P9-004 P970900 [IMIS7215]",
+    "name": "工業4.1:零缺陷的智慧製造 英語授課 智慧醫療專長微學程  製造所、資訊所、智慧製造學位學程、半導體學院、敏求學院合班，英語授課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "鄭芳田",
+    "enrollment": "19/581",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[4]B~D 照坤精密儀器大樓 95405",
+    "slots": []
+  },
+  {
+    "id": "P9-005",
+    "code": "P9-005 P971100 [IMIS7215]",
+    "name": "製造分析專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳裕民",
+    "enrollment": "13/87",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[3]2~4 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-006",
+    "code": "P9-006 P953500 [IMIS7223]",
+    "name": "即時系統 製造所、資訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "蔡佩璇",
+    "enrollment": "351/1",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[3]5~7 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-007",
+    "code": "P9-007 P980400 [IMIS7215]",
+    "name": "資料驅動智慧型工業系統實務 製造所、資訊所、智慧製造學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳朝鈞",
+    "enrollment": "175/3",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95509"
+    ],
+    "period": "[3]6~8 照坤精密儀器大樓 95509",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-008",
+    "code": "P9-008 P961900 [IMIS7241]",
+    "name": "精實企業系統 業界專家參與  製造所、資訊所、智慧製造學位學程、半導體學院、金融資訊產碩專班合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "楊大和",
+    "enrollment": "8/592",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95519"
+    ],
+    "period": "[4]2~4 照坤精密儀器大樓 95519",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-009",
+    "code": "P9-009 P951600 [IMIS7210]",
+    "name": "製造系統管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "楊大和",
+    "enrollment": "6/19",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95519"
+    ],
+    "period": "[1]2~4 照坤精密儀器大樓 95519",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-010",
+    "code": "P9-010 P980600 [IMIS7215]",
+    "name": "作業研究應用與實作 製造所、資訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "李家岩",
+    "enrollment": "515/85",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[1]2~4 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-011",
+    "code": "P9-011 P953100 [IMIS7219]",
+    "name": "C#程式設計 業界專家參與  製造所、資訊所、半導體學院合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳響亮",
+    "enrollment": "44/4",
+    "locations": [
+      "資訊大樓",
+      "75209"
+    ],
+    "period": "[2]6~8 資訊大樓 75209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-012",
+    "code": "P9-012 P980500 [IMIS7236]",
+    "name": "智慧加工系統 業界專家參與  製造所、資訊所、智慧製造學位學程、半導體學院合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳響亮",
+    "enrollment": "14/86",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95519"
+    ],
+    "period": "[3]6~8 照坤精密儀器大樓 95519",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-013",
+    "code": "P9-013 P961400 [IMIS7232E]",
+    "name": "智慧型製造系統 人工智慧學分學程 英語授課  製造所、資訊所、AI學位學程、智慧製造學位學程、半導體學院合班，英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "王宏鍇",
+    "enrollment": "523/77",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[1]7~9 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-014",
+    "code": "P9-014 MZ50300 [7003]",
+    "name": "大數據分析與雲端運算 此課程為院必選修核心課程，AI核心課程須至少完成3學分",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "王宏鍇*",
+    "enrollment": "654/36",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[1]N~6 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-015",
+    "code": "P9-015 P961500 [IMIS8238]",
+    "name": "進階分散式資料管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳朝鈞*",
+    "enrollment": "9/11",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95509"
+    ],
+    "period": "[2]6~8 照坤精密儀器大樓 95509",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-016",
+    "code": "P9-016 P753900 [CSIE7008]",
+    "name": "數位信號處理 人工智慧學分學程  資工所/醫資所/多媒體學位學程/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "吳宗憲",
+    "enrollment": "29/1",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[1]6~8 資訊新館 65104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-017",
+    "code": "P9-017 P76I200 [CSIE7606]",
+    "name": "電腦視覺與深度學習 人工智慧學分學程 英語授課  資工所/醫資所/多媒體學位學程/AI學位學程/製造所/運算學院合班，英語授課。上課教室再增開4204教室共2間教室，4204教室採連線上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "連震杰",
+    "enrollment": "1586/7",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[4]2~4 資訊系館 4263",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-018",
+    "code": "P9-018 F743000 [CSIE5009]",
+    "name": "影像處理、電腦視覺及深度學習概論 人工智慧學分學程，醫療器材與系統學程 資訊科學專長微學程，AI 運動科技專長微學程  111起不再大碩合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "連震杰",
+    "enrollment": "246/54",
+    "locations": [
+      "A1302",
+      "共同教室"
+    ],
+    "period": "[1]1~3 共同教室 A1302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-019",
+    "code": "P9-019 N163900 [ME7507]",
+    "name": "電腦整合製造 機械所、製造所合班(大四可選)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "李榮顯",
+    "enrollment": "520/20",
+    "locations": [
+      "機械系館",
+      "91103"
+    ],
+    "period": "[2]2~4 機械系館 91103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-020",
+    "code": "P9-020 P754600 [CSIE7010]",
+    "name": "圖形理論 資工所/醫資所/多媒體學位學程/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "謝孫源",
+    "enrollment": "122/13",
+    "locations": [
+      "65304",
+      "資訊新館"
+    ],
+    "period": "[2]2~4 資訊新館 65304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-021",
+    "code": "P9-021 P780100 [CSIE7623]",
+    "name": "新興記憶體技術導論 資工所/醫資所/多媒體學位學程/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "何建忠",
+    "enrollment": "352/額滿",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[1]2~4 資訊系館 4202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-022",
+    "code": "P9-022 P772800 [CSIE7621]",
+    "name": "下世代無線行動網路 資工所/醫資所/AI學位學程/多媒體學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "黃崇明",
+    "enrollment": "9/551",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[4]6~8 資訊系館 4201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-024",
+    "code": "P9-024 P773900 [CSIE7631]",
+    "name": "物聯網技術之應用及系統開發 人工智慧學分學程  資工所/醫資所/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "藍崑展",
+    "enrollment": "7/53",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[1]6~8 資訊系館 4202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

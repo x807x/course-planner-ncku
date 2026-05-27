@@ -1,0 +1,452 @@
+[
+  {
+    "id": "VF-001",
+    "code": "VF-001 L762000 [DPS7091]",
+    "name": "專題討論 限碩二及博三以上",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "林俊宏",
+    "enrollment": "88/248",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[5]5~6 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-002",
+    "code": "VF-002 L770600 [DPS7023]",
+    "name": "電磁理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "黃勝廣",
+    "enrollment": "11/224",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[1]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-003",
+    "code": "VF-003 L785400 [DPS7016]",
+    "name": "有機光電材料與元件",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "鄭弘隆",
+    "enrollment": "33/2",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[4]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-004",
+    "code": "VF-004 L783500 [DPS7010]",
+    "name": "顯示器光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "許家榮",
+    "enrollment": "342/1",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[2]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-005",
+    "code": "VF-005 L781200 [DPS7006]",
+    "name": "固態物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "陳昭宇",
+    "enrollment": "210/35",
+    "locations": [
+      "49323",
+      "綜合二館"
+    ],
+    "period": "[2]3~4 綜合二館 49323 [3]7 綜合二館 49323",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-006",
+    "code": "VF-006 L785200 [DPS7014]",
+    "name": "生醫光電原理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "曾盛豪",
+    "enrollment": "23/7",
+    "locations": [
+      "綜合大樓",
+      "48423"
+    ],
+    "period": "[4]2~4 綜合大樓 48423",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-007",
+    "code": "VF-007 L750600 [DPS7021]",
+    "name": "非線性光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "呂佳諭",
+    "enrollment": "42/31",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[4]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-008",
+    "code": "VF-008 L771400 [DPS7024]",
+    "name": "物理光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "林俊宏",
+    "enrollment": "27/8",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[3]7~9 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-010",
+    "code": "VF-010 L782900 [DPS7007]",
+    "name": "奈米光學 電漿學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "張世慧",
+    "enrollment": "322/3",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[3]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-011",
+    "code": "VF-011 L786400 [DPS5005]",
+    "name": "材料科學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "郭宗枋",
+    "enrollment": "8/324",
+    "locations": [
+      "49323",
+      "綜合二館"
+    ],
+    "period": "[1]2~3 綜合二館 49323 [1]5 綜合二館 49323",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-012",
+    "code": "VF-012 L762200 [DPS5002]",
+    "name": "波導光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "曾碩彥",
+    "enrollment": "212/18",
+    "locations": [
+      "綜合大樓",
+      "48423"
+    ],
+    "period": "[3]2~4 綜合大樓 48423",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-013",
+    "code": "VF-013 Q153010 [IME6310]",
+    "name": "半導體及先進奈米化製程技術概論（一） 奈米積體電路工程碩士班學分學程  台積電主管開授(一),(二)都需修課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "王英郎",
+    "enrollment": "254/6",
+    "locations": [
+      "迅慧講堂",
+      "電機系館"
+    ],
+    "period": "[4]6~8 電機系館 迅慧講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VF-015",
+    "code": "VF-015 Q352200 [CCE5240]",
+    "name": "光電通訊系統",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VF",
+    "department": "發光二極產碩",
+    "teacher": "黃振發",
+    "enrollment": "27/23",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[1]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

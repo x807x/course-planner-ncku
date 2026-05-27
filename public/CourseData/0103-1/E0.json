@@ -1,0 +1,117 @@
+[
+  {
+    "id": "E0-051",
+    "code": "E0-051 E020100 [COE3172]",
+    "name": "土木環工創新實作 第一階段不開放選課。  第一階段不受理選課 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "王驥魁* 郭振銘 楊士賢 王筱雯 賴悅仁 陳如 侯文哲 洪榮宏",
+    "enrollment": "320/1",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[3]N~5 環工系館 47118 [4]N~5 環工系館 47118",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E0-152",
+    "code": "E0-152 E030120 [COE3173]",
+    "name": "機電創新實作（二） 第一階段不開放選修，欲選修者請向各系授課老師申請  第一階段不受理選課 (含實習)",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "陳嘉元* 王明習 陳永裕 賴維祥 葉明龍",
+    "enrollment": "24/網路選課不開放",
+    "locations": [
+      "機械系館",
+      "91X01"
+    ],
+    "period": "[1]N 機械系館 91X01 [2]N 機械系館 91X01 [3]N 機械系館 91X01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E0-153",
+    "code": "E0-153 E030420 [COE3176]",
+    "name": "創意專題實作（二） 化工、材料、資源三系學生選修為宜",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "劉瑞祥*",
+    "enrollment": "90/21",
+    "locations": [
+      "93156",
+      "化工系館"
+    ],
+    "period": "[4]9~A 化工系館 93156 [5]9~A 化工系館 93156",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  }
+]

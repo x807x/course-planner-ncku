@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "M5-001",
+    "code": "M5-001 M550120 [7592]",
+    "name": "專題討論（二） 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "林士剛* 劉瑞農 許文東 盧志文 李亞儒",
+    "enrollment": "16/24",
+    "locations": [
+      "迅慧講堂",
+      "電機系館"
+    ],
+    "period": "[5]5~6 電機系館 迅慧講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M5-002",
+    "code": "M5-002 M550140 [7594]",
+    "name": "專題討論（四） 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "林士剛* 劉瑞農 許文東 盧志文 李亞儒",
+    "enrollment": "18/22",
+    "locations": [
+      "迅慧講堂",
+      "電機系館"
+    ],
+    "period": "[5]5~6 電機系館 迅慧講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M5-003",
+    "code": "M5-003 N382500 [CHE7086]",
+    "name": "永續能源材料與元件 韌性智慧能源學分學程 英語授課  英語授課；半導體學院必選修核心課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "柯碧蓮",
+    "enrollment": "62/額滿",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[3]6 化工系館 93322 [5]3~4 化工系館 93322",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-004",
+    "code": "M5-004 MZ50300 [7003]",
+    "name": "大數據分析與雲端運算 英語授課  此課程為院必選修核心課程，AI核心課程須至少完成3學分",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "王宏鍇",
+    "enrollment": "58/22",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92283",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-005",
+    "code": "M5-005 N557300 [MSE7052]",
+    "name": "固態熱力學 奈米積體電路工程碩士班學分學程  中文授課，永續學程、封測學程為選修課  限碩一以上選課；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳雨澤",
+    "enrollment": "916/額滿",
+    "locations": [
+      "44101",
+      "材料新館"
+    ],
+    "period": "[2]6~8 材料新館 44101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-006",
+    "code": "M5-006 N557300-2 [MSE7052]",
+    "name": "固態熱力學 奈米積體電路工程碩士班學分學程 英語授課  EMI課程(英文授課比例:100%)，封測學程、永續學程為選修課  限碩一以上選課；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "孫彰佑",
+    "enrollment": "516/額滿",
+    "locations": [
+      "44203",
+      "材料新館"
+    ],
+    "period": "[3]6~8 材料新館 44203",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-007",
+    "code": "M5-007 N151700 [ME7301]",
+    "name": "振動力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳重德* 李森墉",
+    "enrollment": "41/624",
+    "locations": [
+      "91207",
+      "機械系館"
+    ],
+    "period": "[4]6~7 機械系館 91207 [5]6 機械系館 91207",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-008",
+    "code": "M5-008 M550800 [PSSM7507E]",
+    "name": "三維度微奈元件整合與製造 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "水野潤",
+    "enrollment": "20/30",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[2]5~7 電機系館 92271",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-009",
+    "code": "M5-009 M550500 [7502]",
+    "name": "再生能源智慧控制 含碳管理與碳減量方法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "歐庭嘉",
+    "enrollment": "69/3",
+    "locations": [
+      "93156",
+      "化工系館"
+    ],
+    "period": "[3]4~6 化工系館 93156",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-011",
+    "code": "M5-011 M350400 [7303]",
+    "name": "智慧工廠資訊系統 封測學程、永續學程、製造所、資訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "謝昱銘",
+    "enrollment": "44/6",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[5]2~4 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-012",
+    "code": "M5-012 M350500 [7304]",
+    "name": "E化製造 英語授課  封測學程、永續學程、製造所、資訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "謝昱銘",
+    "enrollment": "23/7",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95519"
+    ],
+    "period": "[1]5~7 照坤精密儀器大樓 95519",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-013",
+    "code": "M5-013 N381700 [CHE7071]",
+    "name": "鋰電池製作及應用 韌性智慧能源學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "楊明長* 梁從主 張鑑祥 鄧熙聖 郭炳林 柯碧蓮 陳偉聖 方冠榮 劉全璞",
+    "enrollment": "102/8",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[4]6~8 化工系館 93322",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-014",
+    "code": "M5-014 N155000 [ME6100]",
+    "name": "有限元素法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳重德",
+    "enrollment": "406/25",
+    "locations": [
+      "91207",
+      "機械系館"
+    ],
+    "period": "[4]8 機械系館 91207 [5]7~8 機械系館 91207",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-016",
+    "code": "M5-016 P75L900 [CSIE7651]",
+    "name": "數位IC設計 人工智慧學分學程  資訊所、人工智慧學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳培殷",
+    "enrollment": "1609/額滿",
+    "locations": [
+      "65405",
+      "資訊新館"
+    ],
+    "period": "[1]2~4 資訊新館 65405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-017",
+    "code": "M5-017 P884600 [BME7603]",
+    "name": "磨潤學特論：永續發展科技 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "鄭友仁",
+    "enrollment": "5/15",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[4]2~4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-018",
+    "code": "M5-018 P953800 [IMIS7215]",
+    "name": "智慧製造執行系統 製造所、資訊所、智慧製造國際學位學程、半導體智慧與永續製造學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳裕民",
+    "enrollment": "674/26",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[1]A~C 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-019",
+    "code": "M5-019 N383800 [CHE7106]",
+    "name": "二氧化碳再利用技術 碳中和專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "吳煒* 許梅娟 許蘇文 田弘康 陳志勇",
+    "enrollment": "156/6額滿",
+    "locations": [
+      "化工系館",
+      "華立廳"
+    ],
+    "period": "[1]7~9 化工系館 華立廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-020",
+    "code": "M5-020 N381500 [CHE7069]",
+    "name": "分子模擬 修過化工熱力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "邱繼正",
+    "enrollment": "25/額滿",
+    "locations": [
+      "93452",
+      "化工系館"
+    ],
+    "period": "[5]2~4 化工系館 93452",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-021",
+    "code": "M5-021 N383900 [CHE7108]",
+    "name": "碳盤查、碳管理、碳經濟 碳中和專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "歐庭嘉* 龔仲偉",
+    "enrollment": "15/35",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[3]7~9 化工系館 93456",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-022",
+    "code": "M5-022 N564800 [MSE7021]",
+    "name": "固態離子元件 韌性智慧能源學分學程 英語授課  EMI課程(英文授課比例:100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "方冠榮",
+    "enrollment": "14/26",
+    "locations": [
+      "44124",
+      "材料新館"
+    ],
+    "period": "[3]5 材料新館 44124 [5]5~6 材料新館 44124",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-023",
+    "code": "M5-023 N564000 [MSE5059]",
+    "name": "永續綠色材料導論 韌性智慧能源學分學程 英語授課  大碩合開，研究所欲抵免請選材料所N5之序號。EMI課程(英文授課比例:100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "蘇彥勳* 丁志明",
+    "enrollment": "32/8",
+    "locations": [
+      "44122",
+      "材料新館"
+    ],
+    "period": "[1]6~8 材料新館 44122",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-024",
+    "code": "M5-024 N187800 [ME7219]",
+    "name": "燃燒特論 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "吳明勳* 伍芳嫺",
+    "enrollment": "106/30",
+    "locations": [
+      "機械系館",
+      "91102"
+    ],
+    "period": "[3]6~8 機械系館 91102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-026",
+    "code": "M5-026 N561900 [MSE7052E]",
+    "name": "半導體工程 英語授課  EMI課程(英文授課比例:100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳嘉勻",
+    "enrollment": "24/66",
+    "locations": [
+      "44201",
+      "材料新館"
+    ],
+    "period": "[3]5~7 材料新館 44201",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-027",
+    "code": "M5-027 N552400 [MSE7051]",
+    "name": "材料光學特性 韌性智慧能源學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳嘉勻",
+    "enrollment": "35/5",
+    "locations": [
+      "44124",
+      "材料新館"
+    ],
+    "period": "[5]2~4 材料新館 44124",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-028",
+    "code": "M5-028 E443900 [RE5210]",
+    "name": "城市採礦與循環經濟 韌性智慧能源學分學程  大碩合開，研究生請選N4代碼課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳偉聖",
+    "enrollment": "33/22",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[5]2~4 資源系館 4352",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-029",
+    "code": "M5-029 E442500 [RE5207]",
+    "name": "固體廢棄物處理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "陳偉聖",
+    "enrollment": "196/36",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[3]2~4 資源系館 4351",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-030",
+    "code": "M5-030 N96B000 [ES5102]",
+    "name": "機器學習工程應用 英語授課  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "游濟華",
+    "enrollment": "653/8",
+    "locations": [
+      "41101",
+      "工科系館"
+    ],
+    "period": "[2]2~4 工科系館 41101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-031",
+    "code": "M5-031 N482100 [RE7219]",
+    "name": "被動元件導論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "李俊德",
+    "enrollment": "461/14",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[4]2~4 資源系館 4352",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M5-032",
+    "code": "M5-032 N96B900 [ES7404]",
+    "name": "最佳化與增強式學習 英語授課  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M5",
+    "department": "永續學程 PSSM",
+    "teacher": "游濟華",
+    "enrollment": "22/18",
+    "locations": [
+      "41101",
+      "工科系館"
+    ],
+    "period": "[4]2~4 工科系館 41101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

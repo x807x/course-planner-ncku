@@ -1,0 +1,265 @@
+[
+  {
+    "id": "K4-001",
+    "code": "K4-001 K461400 [AS]",
+    "name": "藝術與儀式 限碩一以上選課；限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "劉梅琴",
+    "enrollment": "19/不限",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-002",
+    "code": "K4-002 K450100 [AS]",
+    "name": "藝術論衡 限碩二以上選課；限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "劉梅琴",
+    "enrollment": "815/不限",
+    "locations": [],
+    "period": "[2]6~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-003",
+    "code": "K4-003 K453600 [AS]",
+    "name": "應用陶瓷美術 陶藝教室，１．不收大學部學生，２．本所學生選課優先  限本系(系所可互選)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "高燦榮",
+    "enrollment": "817/額滿",
+    "locations": [],
+    "period": "[3]6~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-004",
+    "code": "K4-004 K454200 [AS9999]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "劉梅琴",
+    "enrollment": "19/不8限",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-005",
+    "code": "K4-005 K470300 [AS]",
+    "name": "台灣民間戲劇專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "石光生",
+    "enrollment": "182/不限",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[4]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-006",
+    "code": "K4-006 K463600 [AS]",
+    "name": "文藝復興藝術專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "蘇信恩",
+    "enrollment": "14/8不限",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[5]5~7 藝術所 5452",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-007",
+    "code": "K4-007 K463700 [AS]",
+    "name": "西方音樂理論專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "5/不限",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[3]6~8 藝術所 5452",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-008",
+    "code": "K4-008 K463500 [AS]",
+    "name": "電影藝術與文化",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "林素幸",
+    "enrollment": "288/不限",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[1]6~8 藝術所 5450",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

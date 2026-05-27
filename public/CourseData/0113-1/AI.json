@@ -1,0 +1,165 @@
+[
+  {
+    "id": "ZA-001",
+    "code": "ZA-001 F742900 [CSIE5010]",
+    "name": "人工智慧導論 人工智慧學分學程 資訊科學專長微學程  大四碩班合班,資工所醫資所AI學位學程製造所合班，因教室容量限制4263教室採線上同步上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "AI",
+    "department": "AI聯盟 AIA",
+    "teacher": "朱威達",
+    "enrollment": "150/50",
+    "locations": [
+      "資訊系館",
+      "4264"
+    ],
+    "period": "[4]5~7 資訊系館 4264",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "ZA-002",
+    "code": "ZA-002 ZA50200 [AIA5002]",
+    "name": "機器學習--台大 英語授課 遠距課程  AI聯盟課程，授課教師：林軒田老師。同步遠距上課時間：星期一13:20~16:20。NTU COOL同步遠距上課。  限3年級以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "AI",
+    "department": "AI聯盟 AIA",
+    "teacher": "未定",
+    "enrollment": "5/45",
+    "locations": [],
+    "period": "[1]5~7",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "校外課程"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "校外課程"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "校外課程"
+      }
+    ]
+  },
+  {
+    "id": "ZA-003",
+    "code": "ZA-003 ZA50100 [AIA5001]",
+    "name": "金融科技導論--台大 遠距課程  AI聯盟課程，授課教師：張智星老師、陳君明老師。同步遠距上課時間：星期三9:10~12:10。NTU COOL同步遠距上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "AI",
+    "department": "AI聯盟 AIA",
+    "teacher": "未定",
+    "enrollment": "104/35",
+    "locations": [],
+    "period": "[3]2~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "校外課程"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "校外課程"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "校外課程"
+      }
+    ]
+  },
+  {
+    "id": "ZA-004",
+    "code": "ZA-004 ZA50400 [AIA5004]",
+    "name": "資料探勘與應用--清大 英語授課 遠距課程  AI聯盟課程，授課教師：陳宜欣老師。同步遠距上課時間：星期一9:00~12:00。NTU COOL同步遠距上課。  限3年級以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "AI",
+    "department": "AI聯盟 AIA",
+    "teacher": "未定",
+    "enrollment": "41/44",
+    "locations": [],
+    "period": "[1]2~4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "校外課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "校外課程"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "校外課程"
+      }
+    ]
+  },
+  {
+    "id": "ZA-005",
+    "code": "ZA-005 ZA50300 [AIA5003]",
+    "name": "自然語言處理--清大 遠距課程  AI聯盟課程，授課教師：高宏宇老師。同步遠距上課時間：星期二13:20~15:10 星期四13:20~14:10。NTU COOL同步遠距上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "AI",
+    "department": "AI聯盟 AIA",
+    "teacher": "未定",
+    "enrollment": "417/33",
+    "locations": [],
+    "period": "[2]5~6 [4]5",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "校外課程"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "校外課程"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "校外課程"
+      }
+    ]
+  }
+]

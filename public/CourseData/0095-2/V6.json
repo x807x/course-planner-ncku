@@ -1,0 +1,210 @@
+[
+  {
+    "id": "V6-001",
+    "code": "V6-001 V650600 [MPPE6903]",
+    "name": "系統控制技術 限本系本組學生選生  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "鄭銘揚 李嘉猷 李祖聖",
+    "enrollment": "169/11",
+    "locations": [
+      "電機系館",
+      "92879"
+    ],
+    "period": "[2]B~D 電機系館 92879",
+    "slots": []
+  },
+  {
+    "id": "V6-002",
+    "code": "V6-002 V650700 [MPPE6907]",
+    "name": "系統控制分析與模擬 限本系本組學生選生  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "鄭銘揚 李嘉猷 李祖聖",
+    "enrollment": "19/11",
+    "locations": [
+      "電機系館",
+      "92417"
+    ],
+    "period": "[4]B~D 電機系館 92417",
+    "slots": []
+  },
+  {
+    "id": "V6-003",
+    "code": "V6-003 V650520 [MPPE6909]",
+    "name": "論文研討（二） 限本系本組學生選生  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "鄭銘揚 李嘉猷 李祖聖",
+    "enrollment": "19/11",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]A~B 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "V6-004",
+    "code": "V6-004 N26B300-1 [EE8315]",
+    "name": "光源驅動電路設計 碩專碩博合班　限本系專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "梁從主",
+    "enrollment": "468/額滿",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92720",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "V6-005",
+    "code": "V6-005 N265100 [EE7334]",
+    "name": "壓電變壓器 碩專碩博合班　限本系專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "李嘉猷",
+    "enrollment": "11/19",
+    "locations": [
+      "電機系館",
+      "92879"
+    ],
+    "period": "[2]2~4 電機系館 92879",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "V6-006",
+    "code": "V6-006 N26B200 [EE8313E]",
+    "name": "電源轉換系統分析 英語授課  英語授課　碩專碩博合班　限本系專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "林瑞禮",
+    "enrollment": "10/20",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[2]3~N 電機系館 92720",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "V6-007",
+    "code": "V6-007 N26C100 [EE8323E]",
+    "name": "共振式電能轉換器設計 英語授課  英語授課　碩專碩博合班　限本系專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "林瑞禮",
+    "enrollment": "19/161",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[1]5~7 電機系館 92720",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

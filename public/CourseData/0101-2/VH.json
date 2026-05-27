@@ -1,0 +1,137 @@
+[
+  {
+    "id": "VH-002",
+    "code": "VH-002 N25D000 [EE6752]",
+    "name": "電子陶瓷專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VH",
+    "department": "磁性材料產碩",
+    "teacher": "黃正亮",
+    "enrollment": "7/233",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[4]2~4 電機系館 92B28",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VH-003",
+    "code": "VH-003 N25G900 [EE7011]",
+    "name": "材料物理特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VH",
+    "department": "磁性材料產碩",
+    "teacher": "施權峰",
+    "enrollment": "6/324",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[2]6~8 電機系館 92B28",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VH-004",
+    "code": "VH-004 N265600 [EE7021]",
+    "name": "固態熱力學 奈米積體電路工程碩士班學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VH",
+    "department": "磁性材料產碩",
+    "teacher": "李炳鈞",
+    "enrollment": "33/27",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[1]2~4 電機系館 92B28",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VH-005",
+    "code": "VH-005 N250020-1 [EE7092]",
+    "name": "專題討論（二） 電子材料組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VH",
+    "department": "磁性材料產碩",
+    "teacher": "施權峰",
+    "enrollment": "22/3不限",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[3]N~5 電機系館 92B28",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  }
+]

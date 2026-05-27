@@ -1,0 +1,397 @@
+[
+  {
+    "id": "U3-001",
+    "code": "U3-001 U354300 [EDU6008]",
+    "name": "學生出題教學設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "于富雲",
+    "enrollment": "6/14",
+    "locations": [
+      "A422",
+      "社科院大樓"
+    ],
+    "period": "[3]5~7 社科院大樓 A422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-002",
+    "code": "U3-002 U361100 [EDU7000]",
+    "name": "專題研討",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "陸偉明",
+    "enrollment": "51/204",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[1]4~N 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 1,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "N",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U3-003",
+    "code": "U3-003 U362600 [EDU7008]",
+    "name": "動機心理學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "程炳林",
+    "enrollment": "104/21",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[2]6~8 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-004",
+    "code": "U3-004 U370800 [EDU9002]",
+    "name": "青少年偏差行為專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "董旭英",
+    "enrollment": "25/15",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[2]2~4 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-006",
+    "code": "U3-006 U354400 [EDU7001]",
+    "name": "資料管理 外所學生須經授課教師確認統計基本知識，同意後才可選修本課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "許清芳",
+    "enrollment": "160/4",
+    "locations": [
+      "社科院大樓",
+      "80301電腦教室"
+    ],
+    "period": "[1]6~8 社科院大樓 80301電腦教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-007",
+    "code": "U3-007 U382000 [EDU9003]",
+    "name": "高等教育專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "湯堯",
+    "enrollment": "11/14",
+    "locations": [
+      "A422",
+      "社科院大樓"
+    ],
+    "period": "[4]5~7 社科院大樓 A422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-008",
+    "code": "U3-008 U354000 [EDU7013]",
+    "name": "教育科技之研究議題與方法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "楊雅婷",
+    "enrollment": "022/3",
+    "locations": [
+      "A422",
+      "社科院大樓"
+    ],
+    "period": "[1]1~3 社科院大樓 A422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-009",
+    "code": "U3-009 U353400 [EDU7011]",
+    "name": "生涯輔導研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "饒夢霞",
+    "enrollment": "15/35",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[1]7~9 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-010",
+    "code": "U3-010 U374500 [EDU7028]",
+    "name": "紮根理論與個案研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "楊琬琳",
+    "enrollment": "17/103",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[3]5~7 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-011",
+    "code": "U3-011 U363820 [EDU9093]",
+    "name": "專業實習（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "于富雲* 湯堯 楊雅婷",
+    "enrollment": "4/16",
+    "locations": [
+      "A422",
+      "社科院大樓"
+    ],
+    "period": "[3]1 社科院大樓 A422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-012",
+    "code": "U3-012 U363720 [EDU9092]",
+    "name": "獨立研究（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "于富雲* 湯堯 程炳林 楊雅婷",
+    "enrollment": "5/015",
+    "locations": [
+      "A422",
+      "社科院大樓"
+    ],
+    "period": "[4]1 社科院大樓 A422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U3-013",
+    "code": "U3-013 U364100 [EDU7002]",
+    "name": "諮商理論與技術專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U3",
+    "department": "教育所 EDU",
+    "teacher": "饒夢霞",
+    "enrollment": "8/047",
+    "locations": [
+      "社科院大樓",
+      "A424"
+    ],
+    "period": "[3]3~N 社科院大樓 A424",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  }
+]

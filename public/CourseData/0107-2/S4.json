@@ -1,0 +1,304 @@
+[
+  {
+    "id": "S4-001",
+    "code": "S4-001 S410100 [MI6111]",
+    "name": "醫學微生物學 與醫學系合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳舜華* 劉清泉 王德華 楊燿榮 何宗憲 王世敏 陳柏齡 劉校生 黃一修 陳振暐 鄧景浩",
+    "enrollment": "27/93",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[1]5~6 醫學院 第一講堂 [3]1~2 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-004",
+    "code": "S4-004 S410120 [MI6002]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳振暐* 彭貴春*",
+    "enrollment": "27/263",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-005",
+    "code": "S4-005 S410140 [MI6004]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳振暐* 彭貴春*",
+    "enrollment": "262/28",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-007",
+    "code": "S4-007 S452700 [MI7112]",
+    "name": "高等細菌學 微免所與基醫所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "黃一修* 陳振暐 鄧景浩 橋本昌征",
+    "enrollment": "617/13",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[4]2~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-008",
+    "code": "S4-008 S450700 [MI6000]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳振暐* 彭貴春*",
+    "enrollment": "0/50",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6~7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-010",
+    "code": "S4-010 S452800 [MI7111]",
+    "name": "高等病毒學 微免所與基醫所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳舜華* 楊孔嘉 王貞仁 張定宗 劉校生 凌斌 張　堯 彭貴春 余佳益 王憲威",
+    "enrollment": "166/14",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[4]5~7 醫學院 1124",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-011",
+    "code": "S4-011 S450900 [MI7002]",
+    "name": "動物實驗研究法",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "余俊強*",
+    "enrollment": "22/8",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-012",
+    "code": "S4-012 S410800 [MI6071]",
+    "name": "實驗微生物及免疫學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳舜華* 辛致煒 林威辰 劉校生 林以行 凌斌 王淑鶯 張志鵬 黃一修 彭貴春 陳振暐",
+    "enrollment": "627/3",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]8 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-013",
+    "code": "S4-013 S452300 [MI7005E]",
+    "name": "轉譯醫學導論 先端手術研究轉譯醫學學分學程 英語授課  與基醫所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "彭貴春* 羅玉枝 黃一修 吳尚蓉",
+    "enrollment": "10/20",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 1124",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-015",
+    "code": "S4-015 S452400 [MI7331]",
+    "name": "寄生蟲學 與醫學系合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "林威辰* 辛致煒*",
+    "enrollment": "3/2",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

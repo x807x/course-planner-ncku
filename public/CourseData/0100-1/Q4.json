@@ -1,0 +1,215 @@
+[
+  {
+    "id": "Q4-001",
+    "code": "Q4-001 Q451600 [CA7526E]",
+    "name": "航空氣象學 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "陳介中",
+    "enrollment": "18/22",
+    "locations": [
+      "5821",
+      "航太系館"
+    ],
+    "period": "[1]5~7 航太系館 5821",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-002",
+    "code": "Q4-002 Q451100 [CA7512]",
+    "name": "民航實務 暑期實習",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "黃純俊",
+    "enrollment": "39/6",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Q4-004",
+    "code": "Q4-004 Q470500 [CA7531]",
+    "name": "現代衛星導航",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳",
+    "enrollment": "24/16",
+    "locations": [
+      "5827",
+      "航太系館"
+    ],
+    "period": "[2]2 航太系館 5827 [4]3~4 航太系館 5827",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-007",
+    "code": "Q4-007 Q460400 [CA7511]",
+    "name": "民航系統 跨學門民航學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳 袁曉峰 尤芳忞",
+    "enrollment": "19/311",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[2]5~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q4-020",
+    "code": "Q4-020 Q451210 [CA7591]",
+    "name": "專題討論（一） 民航所碩一必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "袁曉峰",
+    "enrollment": "113/19",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q4-021",
+    "code": "Q4-021 Q451230 [CA7593]",
+    "name": "專題討論（三） 民航所碩二必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳",
+    "enrollment": "8/232",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q4-022",
+    "code": "Q4-022 Q460300 [CA7595]",
+    "name": "專題討論 民航所碩三以上必修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "Q4",
+    "department": "民航所 CA",
+    "teacher": "詹劭勳",
+    "enrollment": "1/29",
+    "locations": [
+      "5833",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 5833",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  }
+]

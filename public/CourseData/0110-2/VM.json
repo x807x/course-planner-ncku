@@ -1,0 +1,331 @@
+[
+  {
+    "id": "VM-001",
+    "code": "VM-001 Q750140 [NICE7140]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "涂維珍",
+    "enrollment": "820/不限",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[1]N~5 電機系館 92271",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VM-002",
+    "code": "VM-002 N258300 [EE6133]",
+    "name": "半導體元件模擬分析 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "盧達生",
+    "enrollment": "63/7",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[4]5~7 電機系館 92383",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-003",
+    "code": "VM-003 Q153300 [IME6330]",
+    "name": "半導體元件,應用,和可靠度",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "陳一浸",
+    "enrollment": "21/49",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[5]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-005",
+    "code": "VM-005 Q152900 [IME6157]",
+    "name": "功率半導體元件概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "王水進",
+    "enrollment": "36/4",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92177",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-006",
+    "code": "VM-006 Q151300 [IME6133]",
+    "name": "光電元件物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "洪茂峰",
+    "enrollment": "39/1",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 令洋廳 [4]2 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-007",
+    "code": "VM-007 Q152400 [IME6152]",
+    "name": "雷射工程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "蔡宗祐",
+    "enrollment": "5/35",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-009",
+    "code": "VM-009 N279100 [EE8743]",
+    "name": "生物電子系統 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "戴政祺",
+    "enrollment": "18/52",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]B~D 電機系館 92283",
+    "slots": []
+  },
+  {
+    "id": "VM-011",
+    "code": "VM-011 N260500 [EE6653]",
+    "name": "高等類比積體電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "張順志",
+    "enrollment": "39/51",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[4]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-013",
+    "code": "VM-013 N26C800 [EE8333]",
+    "name": "負載潮流分析 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "蕭純育",
+    "enrollment": "842/額滿",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[6]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VM-017",
+    "code": "VM-017 Q311100 [CCE6512]",
+    "name": "偵測與評估理論 需先修以下科目:《通訊理論/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VM",
+    "department": "積體製程產碩",
+    "teacher": "賴癸江",
+    "enrollment": "26/84",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

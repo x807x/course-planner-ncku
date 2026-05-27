@@ -1,0 +1,2310 @@
+[
+  {
+    "id": "E6-001",
+    "code": "E6-001 E615611 [MATH1021]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "劉珈銘",
+    "enrollment": "116/884",
+    "locations": [
+      "土木系館",
+      "47X52"
+    ],
+    "period": "[1]2~3 土木系館 47X52 [3]2 土木系館 47X52 [3]1 土木系館 47X52",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-002",
+    "code": "E6-002 E611501 [CHEM1021]",
+    "name": "普通化學 甲乙合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "王小萍* 蕭世裕",
+    "enrollment": "1841/59",
+    "locations": [
+      "土木系館",
+      "47X52"
+    ],
+    "period": "[1]7~8 土木系館 47X52 [4]5~6 土木系館 47X52",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-005",
+    "code": "E6-005 E617910-1 [CE0000]",
+    "name": "服務學習（一） 系館",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳景文",
+    "enrollment": "658/16",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[2]9 土木系館 4509",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-006",
+    "code": "E6-006 A215500-27 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "邱宏達",
+    "enrollment": "56/484",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[2]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z1",
+    "code": "E625000-Z1 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考8備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E612510-Z1",
+    "code": "E612510-Z1 [CE1013]",
+    "name": "基礎國文（一） 核心通識依基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "80/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E612610-Z1",
+    "code": "E612610-Z1 [CE]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6 [5]8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "E612400-Z1",
+    "code": "E612400-Z1 [CE1012]",
+    "name": "公民 核心通識依公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "E6-011",
+    "code": "E6-011 E615710-1 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "李玉華",
+    "enrollment": "57/13",
+    "locations": [
+      "土木系館",
+      "4501"
+    ],
+    "period": "[2]1 土木系館 4501 [4]3~4 土木系館 4501",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-012",
+    "code": "E6-012 E615810-1 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓普物實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "李玉華",
+    "enrollment": "56/44",
+    "locations": [],
+    "period": "[3]5~7",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-013",
+    "code": "E6-013 E611400-1 [CHEM1022]",
+    "name": "普通化學實驗 理化大樓化學實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "黃志遠",
+    "enrollment": "60/7",
+    "locations": [
+      "理化大樓",
+      "35122"
+    ],
+    "period": "[5]2~4 理化大樓 35122",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-016",
+    "code": "E6-016 E623000-1 [CE2008]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "鍾興陽",
+    "enrollment": "608/10",
+    "locations": [
+      "土木系館",
+      "4501"
+    ],
+    "period": "[2]3~4 土木系館 4501 [4]2 土木系館 4501",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-017",
+    "code": "E6-017 E611110-1 [CE1071]",
+    "name": "工程圖學（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "賴啟銘",
+    "enrollment": "863/47",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[5]5~7 土木系館 4509",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-030",
+    "code": "E6-030 E617910-2 [CE0000]",
+    "name": "服務學習（一） 系館",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳景文",
+    "enrollment": "585/25",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[4]9 土木系館 4509",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-031",
+    "code": "E6-031 A215500-28 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "黃滄海",
+    "enrollment": "56/844",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[2]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z2",
+    "code": "E625000-Z2 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E612510-Z2",
+    "code": "E612510-Z2 [CE1013]",
+    "name": "基礎國文（一） 核心通識依基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/8請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E612610-Z2",
+    "code": "E612610-Z2 [CE]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請8參考備註",
+    "locations": [],
+    "period": "[2]5~6 [5]8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "E612400-Z2",
+    "code": "E612400-Z2 [CE1012]",
+    "name": "公民 核心通識依公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考8備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "E6-036",
+    "code": "E6-036 E615710-2 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "閔振發",
+    "enrollment": "608/10",
+    "locations": [
+      "土木系館",
+      "4502"
+    ],
+    "period": "[2]1 土木系館 4502 [4]3~4 土木系館 4502",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-037",
+    "code": "E6-037 E615810-2 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓普物實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "閔振發",
+    "enrollment": "858/42",
+    "locations": [],
+    "period": "[3]5~7",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-038",
+    "code": "E6-038 E611400-2 [CHEM1022]",
+    "name": "普通化學實驗 理化大樓化學實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "蕭世裕",
+    "enrollment": "857/7",
+    "locations": [
+      "理化大樓",
+      "35121"
+    ],
+    "period": "[5]2~4 理化大樓 35121",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-041",
+    "code": "E6-041 E623000-2 [CE2008]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "鍾興陽",
+    "enrollment": "868/12",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[3]8 土木系館 4507 [5]5~6 土木系館 4507",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-042",
+    "code": "E6-042 E611110-2 [CE1071]",
+    "name": "工程圖學（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "賴啟銘",
+    "enrollment": "57/53",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[2]2~4 土木系館 4509",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-051",
+    "code": "E6-051 E620500 [CE2002]",
+    "name": "水文學 防災科技管理學分學程  土木甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "呂珍謀",
+    "enrollment": "8135/5",
+    "locations": [
+      "4671",
+      "水利系館"
+    ],
+    "period": "[2]7~9 水利系館 4671",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E612200-Z",
+    "code": "E612200-Z [CE]",
+    "name": "哲學與藝術 核心通識，依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "E6-053",
+    "code": "E6-053 E621300 [CE1075]",
+    "name": "測量學 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "尤瑞哲",
+    "enrollment": "145/55",
+    "locations": [
+      "土木系館",
+      "47X52"
+    ],
+    "period": "[3]3~4 土木系館 47X52 [5]5 土木系館 47X52",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-054",
+    "code": "E6-054 E621400-3 [CE1076]",
+    "name": "測量學實習 甲乙混合編班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "尤瑞哲",
+    "enrollment": "38/27",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[1]6~8 測量系副館 55160",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-055",
+    "code": "E6-055 E621400-2 [CE1076]",
+    "name": "測量學實習 甲乙混合編班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "尤瑞哲",
+    "enrollment": "42/23",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[4]6~8 測量系副館 55160",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-056",
+    "code": "E6-056 E621400-1 [CE1076]",
+    "name": "測量學實習 甲乙混合編班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "尤瑞哲",
+    "enrollment": "42/823",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[5]6~8 測量系副館 55160",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-057",
+    "code": "E6-057 E020100 [COE3172]",
+    "name": "土木環工創新實作 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "王驥魁* 朱聖浩 吳建宏 賴啟銘 詹錢登 黃進坤 李文智 王鴻博",
+    "enrollment": "30/1",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[1]N 環工系館 47118 [2]N 環工系館 47118 [4]N 環工系館 47118 [5]N 環工系館 47118",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E610030-Z1",
+    "code": "E610030-Z1 [CE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z3",
+    "code": "E625000-Z3 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參8考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E610330-Z1",
+    "code": "E610330-Z1 [CE]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E6-064",
+    "code": "E6-064 E617930-1 [CE0002]",
+    "name": "服務學習（三） 系館",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳景文",
+    "enrollment": "86/24",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[3]9 土木系館 4509",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-065",
+    "code": "E6-065 E620610-1 [CE2003]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "王永明",
+    "enrollment": "60/21",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[2]3~4 土木系館 4505 [4]2 土木系館 4505",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-066",
+    "code": "E6-066 E625700-1 [CE2009]",
+    "name": "動力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "顏崇斌",
+    "enrollment": "62/19",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[2]2 土木系館 4505 [5]3~4 土木系館 4505",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-067",
+    "code": "E6-067 E625910-1 [CE2010]",
+    "name": "材料力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "胡宣德",
+    "enrollment": "68/183",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[2]1 土木系館 4505 [4]3~4 土木系館 4505",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-068",
+    "code": "E6-068 E620800-1 [CE2005]",
+    "name": "運輸工程學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "楊士賢",
+    "enrollment": "58/283",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[1]2~3 土木系館 4505 [3]2 土木系館 4505",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E610030-Z2",
+    "code": "E610030-Z2 [CE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z4",
+    "code": "E625000-Z4 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "08/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E610330-Z2",
+    "code": "E610330-Z2 [CE]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E6-086",
+    "code": "E6-086 E620610-2 [CE2003]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "顏崇斌",
+    "enrollment": "65/15",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[2]1 土木系館 4507 [4]3~4 土木系館 4507",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-087",
+    "code": "E6-087 E625700-2 [CE2009]",
+    "name": "動力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "王永明",
+    "enrollment": "71/9",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[1]2~3 土木系館 4507 [3]2 土木系館 4507",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-088",
+    "code": "E6-088 E625910-2 [CE2010]",
+    "name": "材料力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "宋見春",
+    "enrollment": "71/9",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[2]3~4 土木系館 4507 [4]2 土木系館 4507",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-089",
+    "code": "E6-089 E620800-2 [CE2005]",
+    "name": "運輸工程學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "蕭志銘",
+    "enrollment": "876/4",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[2]2 土木系館 4507 [5]3~4 土木系館 4507",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-102",
+    "code": "E6-102 E620630 [CE3100]",
+    "name": "工程數學（三） 甲乙合班  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "顏崇斌",
+    "enrollment": "42/39",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[5]6~8 土木系館 4505",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-103",
+    "code": "E6-103 E639800-1 [CE3203]",
+    "name": "岩石力學 甲乙合班  第一階段不受理選課 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "李德河",
+    "enrollment": "18/52",
+    "locations": [
+      "土木系館",
+      "4501"
+    ],
+    "period": "[4]5~6 土木系館 4501 [5]7~9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-106",
+    "code": "E6-106 E633600 [CE3322]",
+    "name": "施工法 第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳建旭",
+    "enrollment": "849/21",
+    "locations": [
+      "土木系館",
+      "4501"
+    ],
+    "period": "[1]2~3 土木系館 4501 [3]2 土木系館 4501",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-108",
+    "code": "E6-108 E612000 [CE2000]",
+    "name": "演算法與物件導向程式設計 甲乙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "李宇欣",
+    "enrollment": "10/44",
+    "locations": [
+      "土木系館",
+      "4503"
+    ],
+    "period": "[2]N~6 土木系館 4503",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-109",
+    "code": "E6-109 E631600 [CE2500]",
+    "name": "工程經濟 防災科技管理學分學程  甲乙和班  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "馮重偉",
+    "enrollment": "49/31",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[1]5~6 土木系館 4507 [3]7 土木系館 4507",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-110",
+    "code": "E6-110 E643800-1 [CE4300]",
+    "name": "機場計劃與設計 業界專家參與  甲乙合班  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "郭振銘",
+    "enrollment": "886/4",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[1]8 土木系館 4509 [4]5~6 土木系館 4509",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-114",
+    "code": "E6-114 E630710-1 [CE3001]",
+    "name": "結構學（一） 風能發電專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "王彬",
+    "enrollment": "65/45",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[2]1 土木系館 4509 [4]3~4 土木系館 4509",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-115",
+    "code": "E6-115 E630800-1 [CE3002]",
+    "name": "鋼筋混凝土學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "方一匡",
+    "enrollment": "65/15",
+    "locations": [
+      "土木系館",
+      "210"
+    ],
+    "period": "[2]3~4 土木系館 210 [4]2 土木系館 210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z5",
+    "code": "E625000-Z5 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-117",
+    "code": "E6-117 E632600-1 [CE2014]",
+    "name": "工程計畫管理 防災科技管理學分學程，軌道運輸",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "張行道",
+    "enrollment": "59/822",
+    "locations": [
+      "土木系館",
+      "4505"
+    ],
+    "period": "[1]7 土木系館 4505 [4]7~8 土木系館 4505",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-118",
+    "code": "E6-118 E631000-1 [CE3003]",
+    "name": "土壤力學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "吳建宏",
+    "enrollment": "77/3",
+    "locations": [
+      "土木系館",
+      "210"
+    ],
+    "period": "[2]2 土木系館 210 [5]3~4 土木系館 210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-119",
+    "code": "E6-119 E631100-1 [CE3070]",
+    "name": "土壤力學實驗 土壤力學實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "吳建宏",
+    "enrollment": "56/45",
+    "locations": [],
+    "period": "[3]5~7",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-139",
+    "code": "E6-139 E630710 [CE3001]",
+    "name": "結構學（一） 風能發電專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "吳致平",
+    "enrollment": "684/6",
+    "locations": [
+      "土木系館",
+      "4509",
+      "4502"
+    ],
+    "period": "[2]3~4 土木系館 4502 [4]2 土木系館 4509",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-140",
+    "code": "E6-140 E630800-2 [CE3002]",
+    "name": "鋼筋混凝土學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "侯琮欽",
+    "enrollment": "86/4",
+    "locations": [
+      "土木系館",
+      "210"
+    ],
+    "period": "[2]1 土木系館 210 [4]3~4 土木系館 210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z6",
+    "code": "E625000-Z6 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "80/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-142",
+    "code": "E6-142 E632600-2 [CE2014]",
+    "name": "工程計畫管理 防災科技管理學分學程，軌道運輸",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "馮重偉",
+    "enrollment": "818/1",
+    "locations": [
+      "土木系館",
+      "4507"
+    ],
+    "period": "[1]7 土木系館 4507 [4]7~8 土木系館 4507",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-143",
+    "code": "E6-143 E631000-2 [CE3003]",
+    "name": "土壤力學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "黃景川",
+    "enrollment": "69/481",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[1]2~3 土木系館 4509 [3]2 土木系館 4509",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-144",
+    "code": "E6-144 E631100-2 [CE3070]",
+    "name": "土壤力學實驗 土壤力學實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "黃景川",
+    "enrollment": "68/32",
+    "locations": [],
+    "period": "[2]7~9",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E6-151",
+    "code": "E6-151 E640200 [CE4091]",
+    "name": "論文",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "李宇欣",
+    "enrollment": "5/25",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E6-152",
+    "code": "E6-152 E641700 [CE4090]",
+    "name": "論文選讀",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳建旭",
+    "enrollment": "3/827",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E6-153",
+    "code": "E6-153 E643900 [CE4202]",
+    "name": "生態工程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "陳景文",
+    "enrollment": "99/11",
+    "locations": [
+      "土木系館",
+      "4509"
+    ],
+    "period": "[3]6~8 土木系館 4509",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-155",
+    "code": "E6-155 E644900 [CE4404]",
+    "name": "結構系統 甲乙合班",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "黃錦旗",
+    "enrollment": "53/81",
+    "locations": [
+      "土木系館",
+      "4504"
+    ],
+    "period": "[4]7~8 土木系館 4504",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-156",
+    "code": "E6-156 E629600 [CE2012]",
+    "name": "都市計劃 測量四與土木四甲乙合班  第一階段不受理選課",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "徐中強",
+    "enrollment": "95/105",
+    "locations": [
+      "土木系館",
+      "47X52"
+    ],
+    "period": "[4]3~4 土木系館 47X52",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E6-157",
+    "code": "E6-157 E632800 [CE3501]",
+    "name": "工程談判 甲乙合班  第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "蔡錦松",
+    "enrollment": "32/838",
+    "locations": [
+      "土木系館",
+      "4501"
+    ],
+    "period": "[2]7~9 土木系館 4501",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z7",
+    "code": "E625000-Z7 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "08/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E625000-Z8",
+    "code": "E625000-Z8 [CE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E6",
+    "department": "土木系 CE",
+    "teacher": "",
+    "enrollment": "08/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

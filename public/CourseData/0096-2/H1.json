@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "H1-001",
+    "code": "H1-001 H115020 [ACC]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "林美惠",
+    "enrollment": "370/額滿",
+    "locations": [
+      "63101",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63101 [5]7 會計系館 63101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H110720-Z",
+    "code": "H110720-Z [ACC]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/365",
+    "locations": [],
+    "period": "[4]5~6 [1]5",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H1-004",
+    "code": "H1-004 C417701 [EARS]",
+    "name": "憲政民主與國家發展 地科會計合班，屬「核心通識－公民素養」",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "黃清賢",
+    "enrollment": "1138/26",
+    "locations": [
+      "格致堂"
+    ],
+    "period": "[2]3~4 格致堂 格致堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H100000-Z1",
+    "code": "H100000-Z1 [ACC]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/635",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-006",
+    "code": "H1-006 H111720 [ACC1007]",
+    "name": "初級會計學（二） 外系學生選課須經教師簽名  限本系 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "楊朝旭",
+    "enrollment": "85/額滿",
+    "locations": [
+      "63101",
+      "會計系館"
+    ],
+    "period": "[1]2 會計系館 63101 [4]3~4 會計系館 63101 [5]1~2 會計系館 63101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H1-007",
+    "code": "H1-007 H111220 [ACC1004]",
+    "name": "經濟學（二） 外系學生選課須經教師簽名，限本班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "廖肇寧",
+    "enrollment": "81/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-008",
+    "code": "H1-008 H115620 [ACC1009]",
+    "name": "微積分（二） 外系學生選課須經教師簽名，限本班  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "陳能新",
+    "enrollment": "92/1",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[5]5~6 會計系館 63104",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H110121-Z",
+    "code": "H110121-Z [ACC]",
+    "name": "軍訓（二） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H110020-Z",
+    "code": "H110020-Z [ACC]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-011",
+    "code": "H1-011 H111400 [ACC1005]",
+    "name": "商用數學 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "許秀麗",
+    "enrollment": "57/8",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[2]7 會計系館 63104 [5]3~4 會計系館 63104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-013",
+    "code": "H1-013 H117920 [ACC0003]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "顏盟峯",
+    "enrollment": "64/不限",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H1-015",
+    "code": "H1-015 A510110 [CN1001]",
+    "name": "JAVA 程式設計（一） 資訊大樓上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "張迺華",
+    "enrollment": "24/321",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[1]6 資訊大樓 75309 [3]5~6 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-016",
+    "code": "H1-016 H110220-1 [ACC]",
+    "name": "計算機概論（二） 資訊大樓",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "陳明輝",
+    "enrollment": "52/額滿",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[2]1~2 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-017",
+    "code": "H1-017 H110220-2 [ACC]",
+    "name": "計算機概論（二） 資訊大樓",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "陳明輝",
+    "enrollment": "51/額滿",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[2]5~6 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H100000-Z2",
+    "code": "H100000-Z2 [ACC]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/930",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H110340-Z",
+    "code": "H110340-Z [ACC]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "03/90",
+    "locations": [],
+    "period": "[2]1 [2]2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H1101D0-Z",
+    "code": "H1101D0-Z [ACC]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H110040-Z",
+    "code": "H110040-Z [ACC]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "30/不限",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-055",
+    "code": "H1-055 H130620 [ACC2009]",
+    "name": "成本會計（二） (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "林松宏",
+    "enrollment": "378/12",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[3]1~2 會計系館 63104 [4]6 會計系館 63104 [2]5~6 會計系館 63104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H1-056",
+    "code": "H1-056 H120221 [ACC2003]",
+    "name": "中級會計學（二） (含實習)",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "陳政芳",
+    "enrollment": "736/14",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[2]3~4 會計系館 63104 [4]3~4 會計系館 63104 [3]5~6 會計系館 63104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H1-058",
+    "code": "H1-058 H120100 [ACC2007]",
+    "name": "企業管理",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "東惠瑛",
+    "enrollment": "70/20",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[1]2 會計系館 63104 [5]1~2 會計系館 63104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-059",
+    "code": "H1-059 H120320 [ACC2005]",
+    "name": "統計學（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "溫敏杰",
+    "enrollment": "393/3",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[1]3 會計系館 63104 [3]3~4 會計系館 63104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-061",
+    "code": "H1-061 H120200 [ACC2001]",
+    "name": "基本財務學 FinTech金融科技學分學程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "王明隆",
+    "enrollment": "104/4",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[2]9 會計系館 63104 [4]7~8 會計系館 63104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-062",
+    "code": "H1-062 H120721 [ACC3004]",
+    "name": "商業應用軟體（二） 限本系",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "顏盟峯",
+    "enrollment": "42/3",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[1]5~6 會計系館 63104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H100000-Z3",
+    "code": "H100000-Z3 [ACC]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/80",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-102",
+    "code": "H1-102 H130521 [ACC3006]",
+    "name": "高級會計學（二） (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "賴秀卿",
+    "enrollment": "57/233",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[2]6~7 會計系館 63210 [4]6 會計系館 63210 [1]N 會計系館 63210 [2]N 會計系館 63210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H110061-Z",
+    "code": "H110061-Z [ACC]",
+    "name": "體育（六） 依照體育選項科目序號選課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "30/不限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-106",
+    "code": "H1-106 H130601 [ACC3007]",
+    "name": "證券交易法",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "蘇義洲",
+    "enrollment": "36/34",
+    "locations": [
+      "63104",
+      "會計系館"
+    ],
+    "period": "[4]9~B 會計系館 63104",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-107",
+    "code": "H1-107 H140620-1 [ACC3017E]",
+    "name": "審計學（二） 限本班 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "黃崇輝",
+    "enrollment": "593/21",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[4]2~4 會計系館 63210 [5]N~5 會計系館 63210",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H1-111",
+    "code": "H1-111 H130300 [ACC3020]",
+    "name": "國際財務管理 統計系，會計系三合班，日夜合開",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "黎明淵",
+    "enrollment": "370/10",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[2]3~4 會計系館 63210 [4]5 會計系館 63210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-116",
+    "code": "H1-116 H132400 [ACC3011]",
+    "name": "營業稅法及稅捐稽徵法",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "羅子強",
+    "enrollment": "66/134",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[5]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-118",
+    "code": "H1-118 H143001 [ACC3019E]",
+    "name": "資料庫管理系統",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "徐立群",
+    "enrollment": "153/25",
+    "locations": [
+      "63206",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63206",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-119",
+    "code": "H1-119 H140000 [ACC3015]",
+    "name": "衍生性金融商品導論 FinTech金融科技學分學程 計量財務專長微學程  會計大三四五，日夜合開，外系學生選課須經教師簽名",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "陳俊男",
+    "enrollment": "379/1",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]9 會計系館 63210 [4]7~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-120",
+    "code": "H1-120 H132100 [ACC3010]",
+    "name": "投資學 英語授課  會計三、四合班，英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "黃炳勳",
+    "enrollment": "239/11",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[1]1~3 會計系館 63102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-121",
+    "code": "H1-121 H133400 [ACC3013]",
+    "name": "期貨與選擇權 FinTech金融科技學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "顏盟峯",
+    "enrollment": "593/6",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H100000-Z4",
+    "code": "H100000-Z4 [ACC]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "",
+    "enrollment": "0/40",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-158",
+    "code": "H1-158 H142000 [ACC4007]",
+    "name": "財務報表分析 會計系日夜合開，英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "林軒竹",
+    "enrollment": "70/3",
+    "locations": [
+      "63101",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-160",
+    "code": "H1-160 H142100 [ACC4008]",
+    "name": "會計師業務及工商服務專題 日夜合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "曾光敏",
+    "enrollment": "583/22",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-162",
+    "code": "H1-162 H142801 [ACC4017]",
+    "name": "土地稅法與遺產及贈與稅法 外系學生選課須經教師簽名",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "吳清在",
+    "enrollment": "72/8",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]1~3 會計系館 63210",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H1-163",
+    "code": "H1-163 H143400 [ACC4012E]",
+    "name": "金融創新 FinTech金融科技學分學程 金融科技專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H1",
+    "department": "會計系 ACC",
+    "teacher": "劉裕宏",
+    "enrollment": "31/14",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

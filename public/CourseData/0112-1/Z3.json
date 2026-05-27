@@ -1,0 +1,344 @@
+[
+  {
+    "id": "Z3-001",
+    "code": "Z3-001 Z350111 [TPS6896]",
+    "name": "書報討論（一） 英語授課  EMI",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺* 蔡文杰 李瑞花 邱啟洲 黃兆立",
+    "enrollment": "7/723",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]7 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-002",
+    "code": "Z3-002 Z350131 [TPS6898]",
+    "name": "書報討論（三） 英語授課  限碩二以上選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺* 蔡文杰 李瑞花 邱啟洲 黃兆立",
+    "enrollment": "10/270",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]8 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-003",
+    "code": "Z3-003 Z352310 [TPS6995]",
+    "name": "植物科學講座（一） 英語授課  EMI",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺* 蔡文杰 李瑞花 邱啟洲 黃兆立",
+    "enrollment": "77/23",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]5 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-004",
+    "code": "Z3-004 Z352330 [TPS6997]",
+    "name": "植物科學講座（三） 英語授課  EMI  限碩二以上選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺* 蔡文杰 李瑞花 邱啟洲 黃兆立",
+    "enrollment": "10/20",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]6 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-005",
+    "code": "Z3-005 Z352800 [TPS6894]",
+    "name": "植物生理與微生物體學 英語授課  熱植所與轉譯農學合開(轉譯農學選修)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 方素瓊 邱啟洲 黃兆立 山田昌史 林哲揚 陳韻竹 林耀正 劉明容",
+    "enrollment": "10/20",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[1]6~8 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-006",
+    "code": "Z3-006 Z352200 [TPS6812]",
+    "name": "植物二次代謝體學 熱植所與生科所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰*",
+    "enrollment": "6/724",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[2]2~4 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-007",
+    "code": "Z3-007 Z352600 [TPS6819]",
+    "name": "實驗設計與方法專論 英語授課  EMI",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "邱啟洲* 李瑞花 高木優",
+    "enrollment": "78/22",
+    "locations": [
+      "5樓大會議室",
+      "生科院大樓"
+    ],
+    "period": "[1]9~A 生科院大樓 5樓大會議室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-008",
+    "code": "Z3-008 Z371100 [TPS6825E]",
+    "name": "智慧農業:R軟體在作物性狀改良之應用 英語授課 業界專家參與  此為彈性密集課程，112/7/10-7/11 於善化亞蔬世界蔬菜中心，7/12 於成大，請先上課後選課，詳見熱植所官網。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 蔣鎮宇 謝羅倫",
+    "enrollment": "13/7",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "Z3-010",
+    "code": "Z3-010 L650800-2 [BIOT7002]",
+    "name": "高等分子生物學 英語授課  院核心課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "林士鳴* 大林祝 張清俊 王涵青 洪建中 曾大千 羅玉枝 許觀達 蔡文杰",
+    "enrollment": "758/7",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[4]2~4 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-011",
+    "code": "Z3-011 L581200 [LS7300]",
+    "name": "基因體學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "陳虹樺* 廖寶琦 蔡文杰 黃兆立",
+    "enrollment": "713/12",
+    "locations": [
+      "89111",
+      "生科院大樓"
+    ],
+    "period": "[3]7~9 生科院大樓 89111",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-012",
+    "code": "Z3-012 L578200-Y [LS7773]",
+    "name": "蘭花療癒實作 8/1 2023暑期密集授課；請至生科系首頁報名，先上課再選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰* 陳虹樺",
+    "enrollment": "24/1",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "Z3-014",
+    "code": "Z3-014 L562200 [LS7719]",
+    "name": "大學社會實踐-自然農法與有機農法 業界專家參與  8/22　2023暑期密集授課；請至生科系首頁報名，先上課再選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔣鎮宇* 高木優",
+    "enrollment": "15/額滿",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "Z3-016",
+    "code": "Z3-016 Z360100 [TPS6816]",
+    "name": "大學社會實踐-自然農法 此為112/8/14-8/19 彈性密集課程，將於生科大樓1樓廣場，請先上課後選課，報名請參考熱植所官網。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花* 蔣鎮宇",
+    "enrollment": "15/75",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  }
+]

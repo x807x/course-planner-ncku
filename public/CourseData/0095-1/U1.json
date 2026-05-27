@@ -1,0 +1,899 @@
+[
+  {
+    "id": "U1-001",
+    "code": "U1-001 U150210-1 [PE6001]",
+    "name": "政治經濟學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "許永河",
+    "enrollment": "129/1",
+    "locations": [
+      "雲平大樓",
+      "27301"
+    ],
+    "period": "[2]2~4 雲平大樓 27301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-002",
+    "code": "U1-002 U151700-1 [PE6003]",
+    "name": "研究方法論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "周志杰",
+    "enrollment": "123/7",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[1]N~6 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-003",
+    "code": "U1-003 U154600-1 [PE]",
+    "name": "個體經濟分析",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "謝文真",
+    "enrollment": "12/8",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[2]7~9 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-004",
+    "code": "U1-004 U151800 [PE]",
+    "name": "社會學 基礎課程不計入畢業學分",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王金壽",
+    "enrollment": "11/9",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[3]6~8 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-005",
+    "code": "U1-005 U161901 [PE]",
+    "name": "國際組織與國際關係",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "陳　勁",
+    "enrollment": "6/14",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[5]5~7 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-007",
+    "code": "U1-007 U152800-1 [PE7001]",
+    "name": "東南亞政經專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "8/12",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[4]5~7 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-009",
+    "code": "U1-009 U161100-1 [PE6190]",
+    "name": "專題研究 碩三（含）以上同學修習",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "",
+    "enrollment": "216/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "U1-010",
+    "code": "U1-010 U162000-1 [PE7105]",
+    "name": "國際金融專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "蔡群立",
+    "enrollment": "19/1",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[4]5~7 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-017",
+    "code": "U1-017 U153500 [PE7003]",
+    "name": "總體經濟政策",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "許永河",
+    "enrollment": "6/214",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[3]2~4 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-018",
+    "code": "U1-018 U160700-1 [PE7102]",
+    "name": "政府與企業",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王慶輝",
+    "enrollment": "19/21",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[3]6~8 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-019",
+    "code": "U1-019 U170101 [PE]",
+    "name": "政經研究方法論（Ａ）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "梁文韜 丁仁方",
+    "enrollment": "6/14",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[3]2~4 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-022",
+    "code": "U1-022 U170500 [PE9001]",
+    "name": "高等政治經濟學理論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "李伯岳 洪敬富",
+    "enrollment": "6/14",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[2]2~4 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-023",
+    "code": "U1-023 U170610 [PE9190]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "6/不限",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U1-024",
+    "code": "U1-024 U170630 [PE]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "25/不限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U1-025",
+    "code": "U1-025 U154500-1 [PE7006]",
+    "name": "地方政治經濟",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "丁仁方",
+    "enrollment": "10/10",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[2]5~7 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-027",
+    "code": "U1-027 U180100 [PE]",
+    "name": "政治制度專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "楊永年",
+    "enrollment": "4/16",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[1]7~9 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-028",
+    "code": "U1-028 U180200 [PE]",
+    "name": "國際政治經濟專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王慶瑜",
+    "enrollment": "7/13",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[1]1~3 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-029",
+    "code": "U1-029 U180300 [PE]",
+    "name": "獨立研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "許永河",
+    "enrollment": "1/不2限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "U1-301",
+    "code": "U1-301 U150210-2 [PE6001]",
+    "name": "政治經濟學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "15/5",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[5]A~C 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-302",
+    "code": "U1-302 U151700-2 [PE6003]",
+    "name": "研究方法論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "周志杰",
+    "enrollment": "21/額滿",
+    "locations": [
+      "雲平大樓",
+      "27301"
+    ],
+    "period": "[2]A~C 雲平大樓 27301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-303",
+    "code": "U1-303 U160700-2 [PE7102]",
+    "name": "政府與企業",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王慶輝",
+    "enrollment": "7/13",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[3]A~C 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-306",
+    "code": "U1-306 U154600-2 [PE]",
+    "name": "個體經濟分析",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "廖肇寧",
+    "enrollment": "17/3",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[1]A~C 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-310",
+    "code": "U1-310 U155000 [PE7009]",
+    "name": "環境經濟與政策",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "廖肇寧",
+    "enrollment": "6/14",
+    "locations": [
+      "雲平大樓",
+      "27311"
+    ],
+    "period": "[2]A~C 雲平大樓 27311",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-311",
+    "code": "U1-311 U153400-2 [PE7002]",
+    "name": "中國大陸政經專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王慶瑜",
+    "enrollment": "8/12",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[4]A~C 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-312",
+    "code": "U1-312 U161100-2 [PE6190]",
+    "name": "專題研究 碩三（含）以上同學修習",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "",
+    "enrollment": "16/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "U1-313",
+    "code": "U1-313 U162000-2 [PE7105]",
+    "name": "國際金融專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "賴鈺城",
+    "enrollment": "4/16",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[2]B~D 雲平大樓 27304",
+    "slots": []
+  },
+  {
+    "id": "U1-314",
+    "code": "U1-314 U154500-2 [PE7006]",
+    "name": "地方政治經濟",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "丁仁方",
+    "enrollment": "6/14",
+    "locations": [
+      "雲平大樓",
+      "27304"
+    ],
+    "period": "[3]A~C 雲平大樓 27304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-315",
+    "code": "U1-315 U162100 [PE7106]",
+    "name": "醫療經濟與政策",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "劉亞明",
+    "enrollment": "17/不2限",
+    "locations": [
+      "雲平大樓",
+      "27301"
+    ],
+    "period": "[1]A~C 雲平大樓 27301",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

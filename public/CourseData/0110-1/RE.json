@@ -1,0 +1,167 @@
+[
+  {
+    "id": "RE-001",
+    "code": "RE-001 R250610 [STAT6017]",
+    "name": "專題討論（一） 業界專家參與  統計所與數據所碩博合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "李俊毅",
+    "enrollment": "28/49",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RE-002",
+    "code": "RE-002 R250530 [STAT6021]",
+    "name": "專題討論（三） 業界專家參與  統計所與數據所碩博合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "李俊毅",
+    "enrollment": "23/54",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RE-003",
+    "code": "RE-003 R250500 [STAT6016]",
+    "name": "統計方法 英語授課  統計所及數據所必選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "陳瑞彬* 李國榮 李宜真",
+    "enrollment": "28/2",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[2]2~3 統計系館 62333 [4]2 統計系館 62333",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RE-005",
+    "code": "RE-005 RE50400 [DS6012]",
+    "name": "機器學習 智慧醫療專長微學程  數據所學生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "李政德",
+    "enrollment": "732/9",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[1]6~8 統計系館 62113",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RE-006",
+    "code": "RE-006 RE50900 [DS6017]",
+    "name": "影像處理與電腦視覺 FinTech金融科技學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "許志仲",
+    "enrollment": "15/15",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[3]6~8 統計系館 62225",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

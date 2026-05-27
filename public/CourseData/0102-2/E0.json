@@ -1,0 +1,77 @@
+[
+  {
+    "id": "E0-101",
+    "code": "E0-101 E030110 [COE3171]",
+    "name": "機電創新實作（一） 限三年級修課（機械系、工科系、航太系、系統系、醫工系合開）  第一階段不受理選課 (含實習)",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "劉彥辰* 王明習 趙儒民 賴維祥 葉明龍",
+    "enrollment": "29/1",
+    "locations": [
+      "機械系館",
+      "91X01"
+    ],
+    "period": "[1]N 機械系館 91X01 [2]N 機械系館 91X01 [3]N 機械系館 91X01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E0-102",
+    "code": "E0-102 E030200 [COE3174]",
+    "name": "創意專題實作 限化工系、材料系、資源系三系學生選課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "劉瑞祥",
+    "enrollment": "20/10",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[4]9~A 化工系館 93422 [5]9~A 化工系館 93422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  }
+]

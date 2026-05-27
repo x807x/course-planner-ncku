@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "A718310-Z2",
+    "code": "A718310-Z2 [CL1078]",
+    "name": "大學國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/1請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-Z2",
+    "code": "A119110-Z2 [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B325000-Z1",
+    "code": "B325000-Z1 [HIS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請1參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-004",
+    "code": "B3-004 A215500-4 [OPE0300]",
+    "name": "體育（一） 上課場地請參考授課教師公告或課程大綱。",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "黃鴻鈞",
+    "enrollment": "621/8",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-005",
+    "code": "B3-005 B317910 [HIS1022]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳文松",
+    "enrollment": "71/114",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "B3-006",
+    "code": "B3-006 B310910 [HIS1003]",
+    "name": "中國通史（一） 基礎課程",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "蔡幸娟",
+    "enrollment": "68/22",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[5]2~4 歷史系館 25235",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-007",
+    "code": "B3-007 B331010 [HIS1005]",
+    "name": "台灣史（一） 基礎課程",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "謝仕淵",
+    "enrollment": "617/13",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[2]6~8 歷史系館 25235",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-008",
+    "code": "B3-008 B312810 [HIS1001]",
+    "name": "世界文化史（一） 基礎課程，四選二。多修計入世界史領域",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "翁嘉聲",
+    "enrollment": "80/10",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[4]2~4 歷史系館 25235",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-010",
+    "code": "B3-010 B34A700 [HIS3018]",
+    "name": "歷史畫賞鑑 中、世  第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "謝美娥",
+    "enrollment": "812/3",
+    "locations": [
+      "893S1",
+      "生科院大樓南側"
+    ],
+    "period": "[5]5~6 生科院大樓南側 893S1",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-011",
+    "code": "B3-011 B338800 [HIS3022]",
+    "name": "伊斯蘭文明導論 東南亞文化學分學程  世  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "林長寬",
+    "enrollment": "33/2",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[2]2~4 歷史系館 25235",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-012",
+    "code": "B3-012 B312900 [HIS2100]",
+    "name": "伊斯蘭傳播史 世  第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "林長寬",
+    "enrollment": "33/7",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[1]7~8 歷史系館 25236",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B325000-Z5",
+    "code": "B325000-Z5 [HIS]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B325000-Z2",
+    "code": "B325000-Z2 [HIS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "10/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B310030-Z",
+    "code": "B310030-Z [HIS]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-060",
+    "code": "B3-060 B324010 [HIS1007]",
+    "name": "史學理論與方法（一） 基礎課程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳計堯",
+    "enrollment": "37/218",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[2]2~4 歷史系館 25236",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-065",
+    "code": "B3-065 B321210 [HIS2053]",
+    "name": "中國上古史（一） 中",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "江達智",
+    "enrollment": "130/10",
+    "locations": [
+      "修齊大樓",
+      "修齊講堂"
+    ],
+    "period": "[4]6~8 修齊大樓 修齊講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-066",
+    "code": "B3-066 B329100 [HIS2050]",
+    "name": "希臘古典時期歷史 世  需先修以下科目:《台灣史（一）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "翁嘉聲",
+    "enrollment": "29/116",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[5]2~4 歷史系館 25236",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-068",
+    "code": "B3-068 B326600 [HIS3034]",
+    "name": "清史 中  需先修以下科目:《中國通史（一）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "謝美娥",
+    "enrollment": "148/7",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[3]2~4 歷史系館 25235",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-069",
+    "code": "B3-069 B339000 [HIS3027]",
+    "name": "人與動物關係史 英語授課  世，英語授課  第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "李鑑慧",
+    "enrollment": "116/9",
+    "locations": [
+      "25129",
+      "歷史系館"
+    ],
+    "period": "[4]3~4 歷史系館 25129",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-070",
+    "code": "B3-070 B329900 [HIS3029]",
+    "name": "遼朝的政治、社會與文化 中  需先修以下科目:《中國通史（一）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "許守泯",
+    "enrollment": "32/1",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[2]5~7 歷史系館 25234",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B325000-Z3",
+    "code": "B325000-Z3 [HIS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-103",
+    "code": "B3-103 B337400 [HIS2044]",
+    "name": "史學名著導讀 英語授課 遠距課程  世。每學期領域不同，多修計入所屬領域  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "區曣中",
+    "enrollment": "16/34",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[3]2~4 歷史系館 25234",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-111",
+    "code": "B3-111 B338500 [HIS2210]",
+    "name": "愛爾蘭史 世",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "張勝柏",
+    "enrollment": "57/6",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[4]3~4 歷史系館 25236",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-112",
+    "code": "B3-112 B33C000 [HIS3017]",
+    "name": "日本表演藝術史 戲劇學程 業界專家參與  世  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "顧盼",
+    "enrollment": "36/4",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[5]5~7 歷史系館 25236",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-113",
+    "code": "B3-113 B331711 [HIS3021]",
+    "name": "日本史（一） 世",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "李啟彰",
+    "enrollment": "60/2",
+    "locations": [
+      "振芝講堂",
+      "歷史系館"
+    ],
+    "period": "[4]2~4 歷史系館 振芝講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-114",
+    "code": "B3-114 B337600 [HIS2192]",
+    "name": "東南亞華人史 東南亞文化學分學程  中、世",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "李貴民",
+    "enrollment": "416/4",
+    "locations": [
+      "振芝講堂",
+      "歷史系館"
+    ],
+    "period": "[5]2~4 歷史系館 振芝講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-115",
+    "code": "B3-115 B33B600 [HIS3012]",
+    "name": "隋唐帝國史 中  需先修以下科目:《中國通史（一）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "凃宗呈",
+    "enrollment": "191/11",
+    "locations": [
+      "25131",
+      "歷史系館"
+    ],
+    "period": "[2]3~4 歷史系館 25131",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-116",
+    "code": "B3-116 B33C600 [HIS3016]",
+    "name": "探究與實作 限師培生選課，教程專業課程。一般生不採計為畢業學分。  第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳文松",
+    "enrollment": "112/3",
+    "locations": [
+      "25129",
+      "歷史系館"
+    ],
+    "period": "[1]2~3 歷史系館 25129",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-117",
+    "code": "B3-117 B33A400 [HIS3012]",
+    "name": "帝國主義與殖民地社會1500-1945（上） 原住民族文化暨社會實踐專長微學程  台、世  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳計堯",
+    "enrollment": "14/116",
+    "locations": [
+      "25130",
+      "歷史系館"
+    ],
+    "period": "[1]6~8 歷史系館 25130",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-118",
+    "code": "B3-118 B339610 [HIS3031]",
+    "name": "法國文化與藝術史（一） 美學與藝術跨域學分學程  世  需先修以下科目:《台灣史（二）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "楊尹瑄",
+    "enrollment": "124/16",
+    "locations": [
+      "振芝講堂",
+      "歷史系館"
+    ],
+    "period": "[2]2~4 歷史系館 振芝講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-119",
+    "code": "B3-119 B339700 [HIS3035]",
+    "name": "考古學概論 考古學與文化資產學分學程  台、世  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "鍾國風* 熊仲卿 莊家銘",
+    "enrollment": "48/12",
+    "locations": [
+      "振芝講堂",
+      "歷史系館"
+    ],
+    "period": "[4]6~8 歷史系館 振芝講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-120",
+    "code": "B3-120 B33D600 [HIS3036]",
+    "name": "中國近世發展與變遷 中  需先修以下科目:《中國通史（一）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "許守泯",
+    "enrollment": "331/2",
+    "locations": [
+      "歷史系館",
+      "25235"
+    ],
+    "period": "[1]5~7 歷史系館 25235",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-121",
+    "code": "B3-121 B33D700 [HIS3061]",
+    "name": "家將文化探索體驗 台；彈性課程，選課請參系網公告",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳文松",
+    "enrollment": "414/洽系辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "B3-122",
+    "code": "B3-122 B33D900 [HIS3060]",
+    "name": "維基融入歷史教學：校園歷史建築編輯松 台、中、世；彈性課程，選課請參系網公告",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "許宏彬",
+    "enrollment": "14/洽系辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "B325000-Z4",
+    "code": "B325000-Z4 [HIS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-154",
+    "code": "B3-154 B34A800 [HIS3021]",
+    "name": "早期東南亞史 東南亞文化學分學程 英語授課  世，英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "董梵",
+    "enrollment": "20/15",
+    "locations": [
+      "25130",
+      "歷史系館"
+    ],
+    "period": "[4]6~8 歷史系館 25130",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-155",
+    "code": "B3-155 B348500 [HIS2041]",
+    "name": "中國喪葬史 中",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "江達智",
+    "enrollment": "186/4",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[3]3~4 歷史系館 25236",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-156",
+    "code": "B3-156 B34A100 [HIS3034]",
+    "name": "東亞茶文化交流史 世",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "李啟彰",
+    "enrollment": "54/16",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[2]7~8 歷史系館 25236",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-157",
+    "code": "B3-157 B34B600 [HIS3056]",
+    "name": "歷史與非虛構寫作 台  需先修以下科目:《史學理論與方法（一）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "梁秋虹",
+    "enrollment": "23/7",
+    "locations": [
+      "25131",
+      "歷史系館"
+    ],
+    "period": "[5]5~6 歷史系館 25131",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-165",
+    "code": "B3-165 B330600 [HIS2043]",
+    "name": "史學專題講座 業界專家參與  本學期未能聽滿十場次者，請先辦理棄選。",
+    "grade": 4,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳文松",
+    "enrollment": "33/47",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "B3-166",
+    "code": "B3-166 B334410 [HIS3035]",
+    "name": "論文（一） 由本系老師指導，並取得指導教授同意",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳文松",
+    "enrollment": "1/9",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "B3-167",
+    "code": "B3-167 B34B900 [HIS3057]",
+    "name": "文化史與生命科學 世",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "陳恒安",
+    "enrollment": "42/8",
+    "locations": [
+      "25236",
+      "歷史系館"
+    ],
+    "period": "[2]5~6 歷史系館 25236",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-168",
+    "code": "B3-168 B34B700 [HIS3058]",
+    "name": "十七世紀台灣與東亞 台  第一階段不受理選課",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "簡宏逸",
+    "enrollment": "31/9",
+    "locations": [
+      "7307",
+      "唯農大樓"
+    ],
+    "period": "[3]3~4 唯農大樓 7307",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B3-169",
+    "code": "B3-169 B34B800 [HIS3059]",
+    "name": "地名與臺灣歷史 台  第一階段不受理選課",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B3",
+    "department": "歷史系 HIS",
+    "teacher": "簡宏逸",
+    "enrollment": "41/14",
+    "locations": [
+      "7307",
+      "唯農大樓"
+    ],
+    "period": "[5]3~4 唯農大樓 7307",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

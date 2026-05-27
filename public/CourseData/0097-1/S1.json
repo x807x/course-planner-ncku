@@ -1,0 +1,456 @@
+[
+  {
+    "id": "S1-006",
+    "code": "S1-006 S153800 [BIMB6406]",
+    "name": "分子遺傳學",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "吳昭良",
+    "enrollment": "56/19",
+    "locations": [
+      "醫學院",
+      "0929"
+    ],
+    "period": "[1]8 醫學院 0929",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-007",
+    "code": "S1-007 S151100 [BIMB6101]",
+    "name": "高等分子生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "吳昭良",
+    "enrollment": "259/205",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-008",
+    "code": "S1-008 S110800 [BIMB6201]",
+    "name": "蛋白質與酵素學 基醫所與生化所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "吳華林",
+    "enrollment": "29/521",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]3~4 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-013",
+    "code": "S1-013 S151110 [BIMB6291]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "施桂月",
+    "enrollment": "529/21",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]6 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-015",
+    "code": "S1-015 S151130 [BIMB6293]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "施桂月",
+    "enrollment": "28/252",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]7 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-017",
+    "code": "S1-017 S152900 [BIMB6503]",
+    "name": "基因標定技術",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "張文粲",
+    "enrollment": "32/額滿",
+    "locations": [
+      "醫學院",
+      "0929"
+    ],
+    "period": "[2]6 醫學院 0929",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-025",
+    "code": "S1-025 S153200 [BIMB6404]",
+    "name": "分子技術學 需先修以下科目:《分子遺傳學/選修/1.0 學分/0 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "吳昭良 蕭璦莉",
+    "enrollment": "6/19",
+    "locations": [
+      "醫學院",
+      "0929"
+    ],
+    "period": "[3]3~4 醫學院 0929",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-028",
+    "code": "S1-028 S153500 [BIMB6202]",
+    "name": "細胞生物學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "張文粲",
+    "enrollment": "43/7",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]1~2 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-029",
+    "code": "S1-029 S160100 [BIMB6295]",
+    "name": "專題討論 碩三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "施桂月",
+    "enrollment": "2/48",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]6~7 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-032",
+    "code": "S1-032 S154700 [BIMB]",
+    "name": "癌症研究新知探討",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "鄭宏祺",
+    "enrollment": "6/19",
+    "locations": [
+      "醫學院",
+      "0929"
+    ],
+    "period": "[3]5 醫學院 0929",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-033",
+    "code": "S1-033 S154101 [BIMB6401]",
+    "name": "癌症特論 生化所、基醫所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "賴明德",
+    "enrollment": "55/5",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[3]8~9 醫學院 602",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S1-034",
+    "code": "S1-034 S151800-Y [BIMB6511]",
+    "name": "生物技術 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "施桂月",
+    "enrollment": "895/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-035",
+    "code": "S1-035 S154500-Y [BIMB6514]",
+    "name": "藥用蛋白表現與純化 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "施桂月",
+    "enrollment": "9/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-036",
+    "code": "S1-036 S160401-Y [BIMB6518]",
+    "name": "生物技術實驗－蛋白質體分析 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "廖寶琦",
+    "enrollment": "1/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-037",
+    "code": "S1-037 S154200-Y [BIMB6515]",
+    "name": "核醣核酸干擾技術 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "張文粲",
+    "enrollment": "27/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-038",
+    "code": "S1-038 S160500-Y [BIMB6519]",
+    "name": "生物技術實驗－蛋白質交互作用 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "吳華林",
+    "enrollment": "18/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-040",
+    "code": "S1-040 S154800-Y [BIMB6512]",
+    "name": "基因體學與功能生物學 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "王憶卿",
+    "enrollment": "21/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-041",
+    "code": "S1-041 S154900-Y [BIMB6513]",
+    "name": "實驗動物模式建立、分析與運用 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "張文粲",
+    "enrollment": "45/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S1-042",
+    "code": "S1-042 S155000-Y [BIMB6517]",
+    "name": "實驗動物模式建立、分析與運用實習 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S1",
+    "department": "生化所 BIMB",
+    "teacher": "張文粲",
+    "enrollment": "30/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

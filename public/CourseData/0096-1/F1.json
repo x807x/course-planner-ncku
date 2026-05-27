@@ -1,0 +1,1383 @@
+[
+  {
+    "id": "F1-001",
+    "code": "F1-001 F115010 [SYS]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "賴麗娟",
+    "enrollment": "504/6",
+    "locations": [
+      "56111",
+      "系統系館"
+    ],
+    "period": "[2]4 系統系館 56111 [5]3~4 系統系館 56111",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F111310-Z",
+    "code": "F111310-Z [SYS]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/546",
+    "locations": [],
+    "period": "[4]5~6 [1]5",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F1-003",
+    "code": "F1-003 F117600 [SYS]",
+    "name": "歷史",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "顧盼",
+    "enrollment": "54/42",
+    "locations": [
+      "56111",
+      "系統系館"
+    ],
+    "period": "[2]7~8 系統系館 56111",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F1-006",
+    "code": "F1-006 F110200 [SYS]",
+    "name": "計算機程式設計 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "吳鴻文",
+    "enrollment": "63/額滿",
+    "locations": [
+      "56111",
+      "系統系館"
+    ],
+    "period": "[4]2~3 系統系館 56111 [4]4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F1-010",
+    "code": "F1-010 F115610 [MATH1021]",
+    "name": "微積分（一） 1F視聽教室 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "史振裕",
+    "enrollment": "119/額滿",
+    "locations": [
+      "56226",
+      "系統系館",
+      "惠特講堂",
+      "工科系館",
+      "56111",
+      "41101",
+      "41102"
+    ],
+    "period": "[1]6~7 系統系館 惠特講堂 [3]1 系統系館 惠特講堂 [3]2 系統系館 56111 [3]2 系統系館 56226 [3]2 工科系館 41101 [3]2 工科系館 41102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F1-011",
+    "code": "F1-011 F115710 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "賴建雄",
+    "enrollment": "549/額滿",
+    "locations": [
+      "56111",
+      "系統系館"
+    ],
+    "period": "[4]1 系統系館 56111 [5]7~8 系統系館 56111",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-012",
+    "code": "F1-012 F115810 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓２Ｆ普物實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "林明發",
+    "enrollment": "452/不限",
+    "locations": [],
+    "period": "[2]1~3",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F110111-Z",
+    "code": "F110111-Z [SYS]",
+    "name": "軍訓（一） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-014",
+    "code": "F1-014 F110010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃滄海",
+    "enrollment": "51/49",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F125000-Z1",
+    "code": "F125000-Z1 [SYS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-016",
+    "code": "F1-016 F117910 [SYS0001]",
+    "name": "服務學習（一） 系館內外",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃明志",
+    "enrollment": "534/不限",
+    "locations": [],
+    "period": "[1]8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F1-017",
+    "code": "F1-017 F120400 [SYS1402]",
+    "name": "工程圖學 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "陳政宏",
+    "enrollment": "62/額滿",
+    "locations": [
+      "56111",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 56111 [3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F1-052",
+    "code": "F1-052 F120300 [SYS2403]",
+    "name": "應用力學（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "涂季平",
+    "enrollment": "543/3",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[3]8 系統系館 56113 [4]3~4 系統系館 56113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-053",
+    "code": "F1-053 F120610 [SYS2401]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃明志",
+    "enrollment": "55/1",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[2]3 系統系館 56113 [5]7~8 系統系館 56113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-056",
+    "code": "F1-056 F121310 [SYS2404]",
+    "name": "熱力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "陳政宏",
+    "enrollment": "460/額滿",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[2]4 系統系館 56113 [3]1~2 系統系館 56113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F110330-Z",
+    "code": "F110330-Z [SYS]",
+    "name": "英文（含口語訓練）（三） 依照英文課程科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/456",
+    "locations": [],
+    "period": "[1]7 [1]8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F1101C0-Z",
+    "code": "F1101C0-Z [SYS]",
+    "name": "軍訓（三） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/不4限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F125000-Z2",
+    "code": "F125000-Z2 [SYS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/4不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F110030-Z",
+    "code": "F110030-Z [SYS]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "04/不限",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-072",
+    "code": "F1-072 F117930 [SYS0003]",
+    "name": "服務學習（三） 系館公共區域",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃明志",
+    "enrollment": "52/不限",
+    "locations": [],
+    "period": "[3]9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F1-073",
+    "code": "F1-073 F146401 [SYS2406]",
+    "name": "電子學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "沈聖智",
+    "enrollment": "59/額滿",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[2]2 系統系館 56113 [4]1~2 系統系館 56113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-074",
+    "code": "F1-074 F120200 [SYS2405]",
+    "name": "電工學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "謝旻甫",
+    "enrollment": "59/額滿",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[3]7 系統系館 56113 [4]5~6 系統系館 56113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-101",
+    "code": "F1-101 F120730 [SYS3312]",
+    "name": "工程數學（三） 系統應用組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "楊世安",
+    "enrollment": "68/額滿",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[2]2 系統系館 56222 [4]1~2 系統系館 56222",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F125000-Z3",
+    "code": "F125000-Z3 [SYS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-107",
+    "code": "F1-107 F132000 [SYS3113]",
+    "name": "造機設計原理 船舶科技組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃正清",
+    "enrollment": "45/11",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[5]2~4 系統系館 56222",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-124",
+    "code": "F1-124 F130410 [SYS3391]",
+    "name": "論文（一）",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "謝旻甫",
+    "enrollment": "8/不4限",
+    "locations": [],
+    "period": "[5]8~9",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-127",
+    "code": "F1-127 F132200 [SYS3111]",
+    "name": "船舶結構學 船舶科技組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "楊澤民",
+    "enrollment": "36/20",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[3]5~6 系統系館 56222 [4]6 系統系館 56222",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-128",
+    "code": "F1-128 F130700 [SYS3112]",
+    "name": "船舶靜力學 船舶科技組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "林忠宏",
+    "enrollment": "18/438",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[1]1~2 系統系館 56222 [3]2 系統系館 56222",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-129",
+    "code": "F1-129 F132300 [SYS3313]",
+    "name": "機械設計 系統應用組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "林忠宏",
+    "enrollment": "42/14",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[1]7 系統系館 56222 [4]3~4 系統系館 56222",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-133",
+    "code": "F1-133 F120900 [SYS3211]",
+    "name": "電磁學 機電控制組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "李建興",
+    "enrollment": "22/34",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[1]5~6 系統系館 56222 [2]8 系統系館 56222",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-135",
+    "code": "F1-135 F142300 [SYS3212]",
+    "name": "高頻電子學 機電控制組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "李坤洲",
+    "enrollment": "32/24",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[2]3~4 系統系館 56222 [3]1 系統系館 56222",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-136",
+    "code": "F1-136 F132500 [SYS3213]",
+    "name": "電力系統 機電控制組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "李建興",
+    "enrollment": "15/41",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[2]9 系統系館 56222 [4]7~8 系統系館 56222",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-137",
+    "code": "F1-137 F133300 [SYS3214]",
+    "name": "工程量測與虛擬儀錶設計 系統應用組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "趙儒民",
+    "enrollment": "14/42",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[3]8~9 系統系館 56222 [4]5 系統系館 56222",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-138",
+    "code": "F1-138 F132400 [SYS3402]",
+    "name": "電腦輔助設計與製造 系統應用組必選",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "沈聖智",
+    "enrollment": "540/6",
+    "locations": [
+      "系統系館",
+      "56222"
+    ],
+    "period": "[2]7 系統系館 56222 [3]3~4 系統系館 56222",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-139",
+    "code": "F1-139 F133400 [SYS3314]",
+    "name": "科技與社會導論 與通識課程合班授課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "陳恒安",
+    "enrollment": "64/19",
+    "locations": [
+      "綜合大樓",
+      "4891"
+    ],
+    "period": "[4]5~6 綜合大樓 4891",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F125000-Z4",
+    "code": "F125000-Z4 [SYS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-162",
+    "code": "F1-162 F145700 [SYS4311]",
+    "name": "工程統計學 系統應用組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "陸磐安",
+    "enrollment": "40/16",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[1]1~3 系統系館 56224",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-174",
+    "code": "F1-174 F142400 [SYS4212]",
+    "name": "微機電系統概論 機電控制組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "趙儒民",
+    "enrollment": "15/41",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[3]5~6 系統系館 56224 [4]6 系統系館 56224",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-176",
+    "code": "F1-176 F140900 [SYS4112]",
+    "name": "船舶設計基礎 船舶科技組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "邵揮洲",
+    "enrollment": "18/38",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[2]7~8 系統系館 56224 [4]N 系統系館 56224",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-177",
+    "code": "F1-177 F142600 [SYS4316]",
+    "name": "產業電子化導論 系統應用組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "邵揮洲",
+    "enrollment": "27/29",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[2]3~4 系統系館 56224 [3]N 系統系館 56224",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-178",
+    "code": "F1-178 F140500 [SYS4211]",
+    "name": "線性系統分析 機電控制組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "黃正能",
+    "enrollment": "22/34",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[2]1~2 系統系館 56224 [3]7 系統系館 56224",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F1-179",
+    "code": "F1-179 F143100 [SYS4213]",
+    "name": "機電系統整合 機電控制組必選",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F1",
+    "department": "系統系 SNME",
+    "teacher": "謝旻甫",
+    "enrollment": "24/32",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[1]8~9 系統系館 56224 [4]9 系統系館 56224",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "id": "P5-001",
+    "code": "P5-001 P555020-1 [EV6092E]",
+    "name": "專題討論（二） 碩一與碩二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "張智華",
+    "enrollment": "43/37",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[3]6~8 環工系館 47118",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-002",
+    "code": "P5-002 P555040-1 [EV6094E]",
+    "name": "專題討論（四） 碩一與碩二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "張智華",
+    "enrollment": "439/57",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[3]6~8 環工系館 47118",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-003",
+    "code": "P5-003 P555200 [EV7092E]",
+    "name": "專題討論 英語授課  碩三與博合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "邱成財",
+    "enrollment": "17/23",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[3]6~8 環工系館 47112",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-024",
+    "code": "P5-024 P570300 [EV7015E]",
+    "name": "大氣污染化學與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "吳義林",
+    "enrollment": "7/23",
+    "locations": [
+      "環工系館",
+      "47102"
+    ],
+    "period": "[1]5 環工系館 47102 [2]3~4 環工系館 47102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-027",
+    "code": "P5-027 P560200 [EV8003E]",
+    "name": "環工化學原理 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "鄭幸雄 葉宣顯",
+    "enrollment": "42/2",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[3]1~2 環工系館 47110 [4]8 環工系館 47110",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-029",
+    "code": "P5-029 S780100 [EOH7112]",
+    "name": "環境保護法規 環醫所與環工所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "顏秀慧",
+    "enrollment": "26/14",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[2]3~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-042",
+    "code": "P5-042 P558300 [EV7010]",
+    "name": "環境影響評估",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "林素貞",
+    "enrollment": "5/30",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[2]8 環工系館 47110 [4]5~6 環工系館 47110",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-043",
+    "code": "P5-043 P551101 [EV7002]",
+    "name": "給水廠設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "張　皓",
+    "enrollment": "32/3",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[2]5~7 環工系館 47110",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-044",
+    "code": "P5-044 P570800 [EV7018E]",
+    "name": "環境有機化學 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "邱成財",
+    "enrollment": "196/14",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[4]1~3 環工系館 47110",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-101",
+    "code": "P5-101 P555020-2 [EV6092E]",
+    "name": "專題討論（二） 英語授課  博一二合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "邱成財",
+    "enrollment": "12/28",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[3]6~8 環工系館 47112",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-105",
+    "code": "P5-105 P555040-2 [EV6094E]",
+    "name": "專題討論（四） 英語授課  博一二合班（英語授課）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "邱成財",
+    "enrollment": "9/31",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[3]6~8 環工系館 47112",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-106",
+    "code": "P5-106 P510200 [EV7000E]",
+    "name": "微量化學分析 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "林達昌",
+    "enrollment": "39/5",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[3]3~N 環工系館 47110",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-107",
+    "code": "P5-107 P570700 [EV7017E]",
+    "name": "空氣污染高級控制技術 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "朱信",
+    "enrollment": "6/24",
+    "locations": [
+      "環工系館",
+      "47102"
+    ],
+    "period": "[1]6~8 環工系館 47102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-110",
+    "code": "P5-110 P556000 [EV7096E]",
+    "name": "永續發展專題討論（二） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "福島康裕",
+    "enrollment": "10/25",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[5]5~7 環工系館 47110",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P5-111",
+    "code": "P5-111 P556600 [EV7028E]",
+    "name": "水處理技術 跨領域永續發展全英語學分學程(CPSD) 英語授課  限MDP 國際學程選修，本系生選修學分不予採計，選課洽系辦  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "黃良銘 張智華",
+    "enrollment": "89/62",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[1]3 環工系館 47111 [5]1~2 環工系館 47111",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-112",
+    "code": "P5-112 P556800 [EV7004]",
+    "name": "綠色能源技術 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "王鴻博",
+    "enrollment": "14/16",
+    "locations": [
+      "環工系館",
+      "47102"
+    ],
+    "period": "[4]5~7 環工系館 47102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P5-113",
+    "code": "P5-113 P556700 [EV7022E]",
+    "name": "污染預防與永續物料管理 跨領域永續發展全英語學分學程(CPSD) 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P5",
+    "department": "環工所 EV",
+    "teacher": "巢志成",
+    "enrollment": "199/16",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[1]7~9 環工系館 47111",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "id": "AH-001",
+    "code": "AH-001 AH40200 [CLC2002]",
+    "name": "語言與文化",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "呂璯敏",
+    "enrollment": "24/7",
+    "locations": [
+      "修齊大樓",
+      "26707"
+    ],
+    "period": "[1]5~6 修齊大樓 26707",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-002",
+    "code": "AH-002 AH40600 [CLC2006]",
+    "name": "華語教材教法",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "施安辛",
+    "enrollment": "8/22",
+    "locations": [
+      "修齊大樓",
+      "26707"
+    ],
+    "period": "[2]3~4 修齊大樓 26707",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-003",
+    "code": "AH-003 AH40100 [CLC2001]",
+    "name": "多媒體與電腦輔助",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "呂璯敏",
+    "enrollment": "325/2",
+    "locations": [
+      "唯農大樓",
+      "7113"
+    ],
+    "period": "[3]5~6 唯農大樓 7113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-004",
+    "code": "AH-004 AH10300 [CLC2012]",
+    "name": "社會語言學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "陳菘霖",
+    "enrollment": "37/25",
+    "locations": [
+      "21101",
+      "中文系館"
+    ],
+    "period": "[4]5~6 中文系館 21101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-011",
+    "code": "AH-011 A712100-Y [CL1026]",
+    "name": "基礎國文LEVEL1 Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/18至4/17 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "劉怡如",
+    "enrollment": "16/21",
+    "locations": [
+      "26313上課時間",
+      "7117",
+      "唯農大樓",
+      "修齊大樓"
+    ],
+    "period": "[1]7~8 唯農大樓 7117 [3]9~A 修齊大樓 26313上課時間",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-013",
+    "code": "AH-013 A712100-Y2 [CL1026]",
+    "name": "基礎國文LEVEL1 Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/18至4/17 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "呂璯敏",
+    "enrollment": "12/5",
+    "locations": [
+      "修齊大樓",
+      "唯農大樓",
+      "7113上課時間",
+      "26317"
+    ],
+    "period": "[1]9~A 修齊大樓 26317 [3]7~8 唯農大樓 7113上課時間",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-014",
+    "code": "AH-014 A712100-Y3 [CL1026]",
+    "name": "基礎國文LEVEL1 Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "呂璯敏",
+    "enrollment": "6/11",
+    "locations": [
+      "修齊大樓",
+      "唯農大樓",
+      "7113上課時間",
+      "26317"
+    ],
+    "period": "[2]9~A 修齊大樓 26317 [4]7~8 唯農大樓 7113上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-015",
+    "code": "AH-015 A712100-Y4 [CL1026]",
+    "name": "基礎國文LEVEL1 Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "張靜嵐",
+    "enrollment": "8/9",
+    "locations": [
+      "7115上課時間",
+      "修齊大樓",
+      "唯農大樓",
+      "26315"
+    ],
+    "period": "[2]9~A 修齊大樓 26315 [4]7~8 唯農大樓 7115上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-016",
+    "code": "AH-016 A712100-Y5 [CL1026]",
+    "name": "基礎國文LEVEL1 Level 1課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "劉怡如",
+    "enrollment": "120/7",
+    "locations": [
+      "26313上課時間",
+      "7117",
+      "唯農大樓",
+      "修齊大樓"
+    ],
+    "period": "[2]7~8 唯農大樓 7117 [4]9~A 修齊大樓 26313上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-018",
+    "code": "AH-018 A712200-Y [CL1027]",
+    "name": "基礎國文LEVEL2 Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/18至4/17 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "張靜嵐",
+    "enrollment": "25/12",
+    "locations": [
+      "26315上課時間",
+      "修齊大樓",
+      "唯農大樓",
+      "7115"
+    ],
+    "period": "[1]7~8 唯農大樓 7115 [3]9~A 修齊大樓 26315上課時間",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-019",
+    "code": "AH-019 A712200-Y1 [CL1027]",
+    "name": "基礎國文LEVEL2 Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/18至4/17 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "劉怡如",
+    "enrollment": "214/3",
+    "locations": [
+      "修齊大樓",
+      "26707上課時間",
+      "26707"
+    ],
+    "period": "[1]9~A 修齊大樓 26707 [3]1~2 修齊大樓 26707上課時間",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-020",
+    "code": "AH-020 A712200-Y2 [CL1027]",
+    "name": "基礎國文LEVEL2 Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "施安辛",
+    "enrollment": "8/9",
+    "locations": [
+      "修齊大樓",
+      "26707上課時間",
+      "26707"
+    ],
+    "period": "[2]9~A 修齊大樓 26707 [4]1~2 修齊大樓 26707上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-021",
+    "code": "AH-021 A712200-Y3 [CL1027]",
+    "name": "基礎國文LEVEL2 Level 2課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。此為9週密集課程，上課日期自2/19至4/18 (如有異動另行",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "張靜嵐",
+    "enrollment": "6/11",
+    "locations": [
+      "修齊大樓",
+      "26707上課時間",
+      "26707"
+    ],
+    "period": "[2]1~2 修齊大樓 26707 [4]9~A 修齊大樓 26707上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-023",
+    "code": "AH-023 A712400-Y [CL1029]",
+    "name": "基礎國文Level 4 Level 4課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "施安辛",
+    "enrollment": "16/1",
+    "locations": [
+      "7206",
+      "唯農大樓"
+    ],
+    "period": "[2]1~2 唯農大樓 7206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-024",
+    "code": "AH-024 A712400-Y1 [CL1029]",
+    "name": "基礎國文Level 4 Level 4課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "施安辛",
+    "enrollment": "13/4",
+    "locations": [
+      "7206",
+      "唯農大樓"
+    ],
+    "period": "[3]1~2 唯農大樓 7206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-026",
+    "code": "AH-026 A712500-Y1 [CL1030]",
+    "name": "基礎國文Level 5 Level 5課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "洪瑄鍞",
+    "enrollment": "120/7",
+    "locations": [
+      "唯農大樓",
+      "7115"
+    ],
+    "period": "[4]5~6 唯農大樓 7115",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-027",
+    "code": "AH-027 A712600-Y [CL1031]",
+    "name": "基礎國文Level 6 Level 6課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "呂璯敏",
+    "enrollment": "19/2額滿",
+    "locations": [
+      "唯農大樓",
+      "7113"
+    ],
+    "period": "[4]5~6 唯農大樓 7113",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AH-029",
+    "code": "AH-029 A712800-Y [CL1033]",
+    "name": "基礎國文Level 8 Level 8課程，非經華語中心(ext.52040)認定分級之外籍生，無法選此課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AH",
+    "department": "華語中心 CLC",
+    "teacher": "施安辛",
+    "enrollment": "10/27",
+    "locations": [
+      "唯農大樓",
+      "7108"
+    ],
+    "period": "[4]7~8 唯農大樓 7108",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

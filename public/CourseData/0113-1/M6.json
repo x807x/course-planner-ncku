@@ -1,0 +1,77 @@
+[
+  {
+    "id": "M6-301",
+    "code": "M6-301 M650100 [TSMM7801]",
+    "name": "數位轉型 業界專家參與 遠距課程  遠距授課  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "徐立群*",
+    "enrollment": "7/13",
+    "locations": [],
+    "period": "[5]B~D",
+    "slots": []
+  },
+  {
+    "id": "M6-302",
+    "code": "M6-302 M650200 [TSMM7802]",
+    "name": "半導體講座 業界專家參與 遠距課程  遠距授課  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "李文熙* 張鼎張",
+    "enrollment": "7/013",
+    "locations": [],
+    "period": "[6]2~4",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M6-303",
+    "code": "M6-303 M650310 [TSMM7891]",
+    "name": "專題討論（一） 英語授課  限本專班選修  限碩專選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "李文熙*",
+    "enrollment": "07/1",
+    "locations": [],
+    "period": "[6]6~7",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  }
+]

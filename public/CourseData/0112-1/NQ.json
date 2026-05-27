@@ -1,0 +1,242 @@
+[
+  {
+    "id": "NQ-001",
+    "code": "NQ-001 NQ50110 [CSI7091]",
+    "name": "專題討論（一） 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "132/不限",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[4]7~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NQ-032",
+    "code": "NQ-032 N25J400 [EE5701]",
+    "name": "醫療系統設計與安全概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "李順裕",
+    "enrollment": "213/57",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-143",
+    "code": "NQ-143 N264800 [EE7541]",
+    "name": "網際網路架構",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "謝錫堃",
+    "enrollment": "43/27",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-147",
+    "code": "NQ-147 N27B100 [EE7509]",
+    "name": "人工智慧模型設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡家齊",
+    "enrollment": "552/15",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-158",
+    "code": "NQ-158 NQ50300 [CSI7517]",
+    "name": "計算機系統管理與安全概論 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡邦維",
+    "enrollment": "172/13",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-159",
+    "code": "NQ-159 NQ50200 [CSI7901]",
+    "name": "關鍵基礎設施資訊安全實務 業界專家參與  預定由新聘老師授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "217/13",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-202",
+    "code": "NQ-202 Q357000 [CCE8401]",
+    "name": "通信網路",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "李忠憲",
+    "enrollment": "302/40",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]5~7 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

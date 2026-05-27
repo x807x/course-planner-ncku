@@ -1,0 +1,37 @@
+[
+  {
+    "id": "E0-101",
+    "code": "E0-101 E040200 [COE3101]",
+    "name": "資訊安全概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E0",
+    "department": "工學院 COE",
+    "teacher": "莊允心",
+    "enrollment": "20/15",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[1]8 系統系館 56441 [4]5~6 系統系館 56441",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "id": "K1-001",
+    "code": "K1-001 K160810 [CL6010]",
+    "name": "學術討論（一） 碩博一必修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "江建俊",
+    "enrollment": "40/9不限",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[1]7~8 中文系館 21207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-002",
+    "code": "K1-002 K160500 [CL7030]",
+    "name": "專題討論 供碩博三以上及專班三研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "沈寶春",
+    "enrollment": "57/31",
+    "locations": [
+      "21302",
+      "中文系館"
+    ],
+    "period": "[1]7~8 中文系館 21302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-003",
+    "code": "K1-003 K171310 [CL6003]",
+    "name": "漢學英文（一） 中文碩士班必修",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "萬胥亭",
+    "enrollment": "291/4",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[1]5~6 中文系館 21207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-004",
+    "code": "K1-004 K152410 [CL7068]",
+    "name": "漢學日文（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "王翠玲",
+    "enrollment": "3/17",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[1]3~4 中文系館 21205",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-005",
+    "code": "K1-005 K154310 [CL7080]",
+    "name": "易學專題研究（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "林金泉",
+    "enrollment": "8/192",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[2]5~6 中文系館 21205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-006",
+    "code": "K1-006 K172210 [CL7041]",
+    "name": "楚辭與中國神話專題研究（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "陳怡良",
+    "enrollment": "139/7",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[2]3~4 中文系館 21205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-007",
+    "code": "K1-007 K173010 [CL7045]",
+    "name": "經學專題討論（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "宋鼎宗",
+    "enrollment": "196/9",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[3]3~4 中文系館 21207",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-009",
+    "code": "K1-009 K173600 [CL7003]",
+    "name": "左傳專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "張高評",
+    "enrollment": "26/4",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[4]6~8 中文系館 21207",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-010",
+    "code": "K1-010 K186800 [CL7108]",
+    "name": "竹林七賢研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "江建俊",
+    "enrollment": "129/13",
+    "locations": [
+      "21202",
+      "中文系館"
+    ],
+    "period": "[2]2~4 中文系館 21202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-011",
+    "code": "K1-011 K165400 [CL7036]",
+    "name": "文心雕龍專題研究 限15人選",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "陳昌明",
+    "enrollment": "12/額滿",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[2]5~6 中文系館 21207",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-012",
+    "code": "K1-012 K182900 [CL7055]",
+    "name": "詞學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "王偉勇",
+    "enrollment": "198/7",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[4]2~4 中文系館 21207",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-013",
+    "code": "K1-013 K186100 [CL7067]",
+    "name": "道家思想專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "葉海煙",
+    "enrollment": "194/6",
+    "locations": [
+      "21202",
+      "中文系館"
+    ],
+    "period": "[3]2~4 中文系館 21202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-014",
+    "code": "K1-014 K186200 [CL7068]",
+    "name": "中國美學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "林朝成",
+    "enrollment": "159/10",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[2]2~4 中文系館 21207",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-015",
+    "code": "K1-015 K183000 [CL7070]",
+    "name": "漢語語法學專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "許長謨",
+    "enrollment": "15/5",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[3]2~4 中文系館 21205",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-016",
+    "code": "K1-016 K172910 [CL7018]",
+    "name": "民俗學專題研究（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "陳益源",
+    "enrollment": "193/12",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[1]3~4 中文系館 21207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-017",
+    "code": "K1-017 K165200 [CL6006]",
+    "name": "臺灣當代戲曲專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "林幸慧",
+    "enrollment": "11/4",
+    "locations": [
+      "21202",
+      "中文系館"
+    ],
+    "period": "[5]2~4 中文系館 21202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-020",
+    "code": "K1-020 K680410 [CL7066]",
+    "name": "現代作家專題（一） 現代文學碩士班課程(限碩士班選)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "蘇敏逸",
+    "enrollment": "922/3",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[4]1~2 中文系館 21205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-021",
+    "code": "K1-021 K164210 [CL7097]",
+    "name": "西方漢學家詩學研讀（一） 現代文學碩士班課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "翁文嫻",
+    "enrollment": "3/17",
+    "locations": [
+      "21205",
+      "中文系館"
+    ],
+    "period": "[5]3~4 中文系館 21205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-022",
+    "code": "K1-022 K173710 [CL7005]",
+    "name": "海外華文文學研究：香港南來作家（一） 現代文學碩士班課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "蘇偉貞",
+    "enrollment": "15/10",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[3]7~8 中文系館 21207",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-023",
+    "code": "K1-023 K650110 [CL6006]",
+    "name": "現代漢學英文選讀（一） 現代文學碩士班必修課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "廖玉如",
+    "enrollment": "10/925",
+    "locations": [
+      "21208",
+      "中文系館"
+    ],
+    "period": "[1]5~6 中文系館 21208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-024",
+    "code": "K1-024 K173500 [CL7004]",
+    "name": "法國當代文藝系譜學研究 現代文學碩士班課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "萬胥亭",
+    "enrollment": "6/50",
+    "locations": [
+      "21102",
+      "中文系館"
+    ],
+    "period": "[2]2~4 中文系館 21102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-025",
+    "code": "K1-025 K660300 [CL7062]",
+    "name": "五四文學專題研究 現代文學碩士班課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "蔡玫姿",
+    "enrollment": "14/11",
+    "locations": [
+      "21202",
+      "中文系館"
+    ],
+    "period": "[4]2~4 中文系館 21202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K1-301",
+    "code": "K1-301 K160500-3 [CL7030]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K1",
+    "department": "中文所 CL",
+    "teacher": "沈寶春",
+    "enrollment": "193/12",
+    "locations": [
+      "21207",
+      "中文系館"
+    ],
+    "period": "[2]A~B 中文系館 21207",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  }
+]

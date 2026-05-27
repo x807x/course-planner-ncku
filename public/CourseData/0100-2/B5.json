@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "B514520-Z",
+    "code": "B514520-Z [TWL]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "B514620-Z",
+    "code": "B514620-Z [TWL]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4 [5]2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "B514400-Z",
+    "code": "B514400-Z [TWL]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "B525000-Z1",
+    "code": "B525000-Z1 [TWL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/7請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-005",
+    "code": "B5-005 B517820 [TWL1802]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "蔣為文",
+    "enrollment": "767/8",
+    "locations": [],
+    "period": "[3]N",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "B5-006",
+    "code": "B5-006 B515200 [TWL1001]",
+    "name": "文學文本解讀",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "簡義明",
+    "enrollment": "771/4",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[2]7~9 空中大學 53101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-007",
+    "code": "B5-007 B515100 [TWL1003]",
+    "name": "台灣語言（原住民語） 台語、客語、原住民語等三選二，外國生須先修台灣語言課程 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "阿諾伊斯巴",
+    "enrollment": "76/4",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[2]3~4 空中大學 53101 [2]5~6 空中大學 53101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "B5-008",
+    "code": "B5-008 B510401 [TWL1401]",
+    "name": "文化與社會基本議題 醫學、科技與社會學程(STM)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "鍾秀梅",
+    "enrollment": "657/10",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[4]7~9 空中大學 53101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-009",
+    "code": "B5-009 B532921 [TWL2010]",
+    "name": "現代小說（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "廖淑芳",
+    "enrollment": "49/1",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[3]5~6 空中大學 53101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-010",
+    "code": "B5-010 B513701 [TWL2005]",
+    "name": "現代散文創作",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "沈芳序",
+    "enrollment": "63/2",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[1]2~3 空中大學 53101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-011",
+    "code": "B5-011 B515500 [TWL2008]",
+    "name": "台灣民間歌謠",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "劉南芳",
+    "enrollment": "32/8",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[1]6~8 空中大學 53101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B510020-Z",
+    "code": "B510020-Z [TWL]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B510340-Z",
+    "code": "B510340-Z [TWL]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/7請參考備註",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "B510040-Z",
+    "code": "B510040-Z [TWL]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B525000-Z2",
+    "code": "B525000-Z2 [TWL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-054",
+    "code": "B5-054 B520221-1 [TWL1442]",
+    "name": "台灣文學史（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "游勝冠",
+    "enrollment": "52/3",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[2]7~9 空中大學 53202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-055",
+    "code": "B5-055 B520221-2 [TWL1442]",
+    "name": "台灣文學史（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "蔣為文",
+    "enrollment": "15/35",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[2]7~9 台文系館 53201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-056",
+    "code": "B5-056 B524121 [TWL2645]",
+    "name": "第二外語（日文）（二）",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "陳諭霖",
+    "enrollment": "26/274",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[1]2~3 空中大學 53202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-057",
+    "code": "B5-057 B531521 [TWL2056]",
+    "name": "中國文學史（二）",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "蔡明諺",
+    "enrollment": "43/12",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[3]1~2 空中大學 53202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-058",
+    "code": "B5-058 B522400 [TWL2642]",
+    "name": "文學與媒體 新聞傳播學程",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "李承機",
+    "enrollment": "43/12",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[3]3~4 空中大學 53101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-059",
+    "code": "B5-059 B523301 [TWL2043]",
+    "name": "現代詩創作",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "陳瀅州",
+    "enrollment": "570/5",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[2]3~4 空中大學 53X02",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B514200-Z",
+    "code": "B514200-Z [TWL]",
+    "name": "哲學與藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "B5-061",
+    "code": "B5-061 B510900 [TWL2841]",
+    "name": "當代劇場與表演藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "陳德安",
+    "enrollment": "23/12",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[4]3~4 空中大學 53101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-062",
+    "code": "B5-062 B522100 [TWL2843]",
+    "name": "平民觀點的影像運動",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "曾吉賢",
+    "enrollment": "65/10",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[5]3~4 空中大學 53101",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-063",
+    "code": "B5-063 B525200 [TWL2050]",
+    "name": "臺灣文學與童年",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "吳玫瑛",
+    "enrollment": "57/3",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[3]5~6 空中大學 53X02",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-064",
+    "code": "B5-064 B523421 [TWL2045]",
+    "name": "現代詩（二）",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "林瑞明",
+    "enrollment": "63/2",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]7~8 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-065",
+    "code": "B5-065 B525300 [TWL2845]",
+    "name": "應用戲劇",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "呂毅新",
+    "enrollment": "14/11",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[1]6~8 空中大學 53X02",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-066",
+    "code": "B5-066 B525400 [TWL2846]",
+    "name": "台語閱讀與寫作 新聞傳播學程",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "巫義淵",
+    "enrollment": "65/5",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[5]7~8 空中大學 53202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-101",
+    "code": "B5-101 B524140 [TWL3602]",
+    "name": "第二外語（日文）（四） 需先修以下科目:《第二外語（日文）（三）/必修/2.0 學分/0 分以上》",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "陳麗君",
+    "enrollment": "24/276",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[2]7~8 空中大學 53X02",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-102",
+    "code": "B5-102 B521420 [TWL1072]",
+    "name": "文學理論與批評（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "劉乃慈",
+    "enrollment": "54/6",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[3]7~8 空中大學 53202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-103",
+    "code": "B5-103 B533020 [TWL4014]",
+    "name": "傳統漢詩文（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "吳毓琪",
+    "enrollment": "447/6",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[3]5~6 空中大學 53202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-104",
+    "code": "B5-104 B533100 [TWL3010]",
+    "name": "原住民文學",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "趙慶華",
+    "enrollment": "497/6",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[4]7~8 台文系館 53201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B525000-Z3",
+    "code": "B525000-Z3 [TWL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-106",
+    "code": "B5-106 B533201 [TWL3803]",
+    "name": "現代小說創作",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "胡蘊玉",
+    "enrollment": "26/4",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[5]3~4 台文系館 53201",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-107",
+    "code": "B5-107 B536400 [TWL3026]",
+    "name": "左翼文學：臺灣與中國",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "游勝冠",
+    "enrollment": "33/22",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[3]3~4 空中大學 53202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-108",
+    "code": "B5-108 B535100 [TWL3017]",
+    "name": "中國當代新詩選讀",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "蔡明諺",
+    "enrollment": "50/5",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[2]5~6 空中大學 53202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-109",
+    "code": "B5-109 B536500 [TWL3027]",
+    "name": "青少年小說選讀",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "吳玫瑛",
+    "enrollment": "472/3",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[1]7~9 空中大學 53202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-110",
+    "code": "B5-110 B536600 [TWL3806]",
+    "name": "臺灣古典文學史料與資料庫應用",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "吳毓琪",
+    "enrollment": "29/11",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[2]2~4 空中大學 53202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-111",
+    "code": "B5-111 B536320 [TWL3025]",
+    "name": "當代日本文化概論（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "陳諭霖",
+    "enrollment": "25/15",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[1]5~6 台文系館 53201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-112",
+    "code": "B5-112 B536700 [TWL3028]",
+    "name": "流行文化研究：理論與分析",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "楊芳枝",
+    "enrollment": "187/32",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]2~4 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B525000-Z4",
+    "code": "B525000-Z4 [TWL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-152",
+    "code": "B5-152 B541600 [TWL4401]",
+    "name": "知識分子與社會介入",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "鍾秀梅",
+    "enrollment": "317/14",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[3]3~4 台文系館 53201",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-153",
+    "code": "B5-153 B543900 [TWL4406]",
+    "name": "文化社會學 新聞傳播學程",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "李承機",
+    "enrollment": "17/23",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[4]3~4 台文系館 53201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-154",
+    "code": "B5-154 B544000 [TWL4407]",
+    "name": "網路文化與社會 新聞傳播學程  新聞學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "王右君",
+    "enrollment": "337/7",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[1]7~9 台文系館 53201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-155",
+    "code": "B5-155 B534000 [TWL3012]",
+    "name": "人文經典閱讀",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "簡義明",
+    "enrollment": "470/5",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[2]3~4 台文系館 53201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-156",
+    "code": "B5-156 B540520 [TWL4802]",
+    "name": "紀錄片基礎實務（二） 限２０人",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "曾吉賢",
+    "enrollment": "15/710",
+    "locations": [
+      "53201",
+      "台文系館"
+    ],
+    "period": "[4]9~A 台文系館 53201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B5-157",
+    "code": "B5-157 B542700 [TWL4603]",
+    "name": "新聞台語 新聞傳播學程  新聞學程",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "巫義淵",
+    "enrollment": "65/5",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[5]3~4 空中大學 53202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B543100-Z",
+    "code": "B543100-Z [TWL]",
+    "name": "補強英文 依照國際語言選項科目序號選課",
+    "grade": 4,
+    "credits": 0,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B5",
+    "department": "台文系 TWL",
+    "teacher": "",
+    "enrollment": "07/請參考備註",
+    "locations": [],
+    "period": "[1]2~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "外國語言"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "外國語言"
+      }
+    ]
+  }
+]

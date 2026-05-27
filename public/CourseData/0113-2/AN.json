@@ -1,0 +1,562 @@
+[
+  {
+    "id": "AN-003",
+    "code": "AN-003 AN10120 [CCEP0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃紀茸*",
+    "enrollment": "28/164",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[1]5 共同教室 A1305",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F810020-Z",
+    "code": "F810020-Z [DPS]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/洽不分系學程",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-005",
+    "code": "AN-005 AN42100 [CCEP4002]",
+    "name": "校外實習 業界專家參與  限定外國學生",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "謝孫源",
+    "enrollment": "1/洽不分6系學程",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-010",
+    "code": "AN-010 AN1E600 [CCEP1064]",
+    "name": "機器學習所需之數學：線性代數 英語授課 COURSERA  4/28(一)及5/26(一) 11:10-12:00實體課程務必出席，其餘時間依Coursera線上課程時間上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張怡玲",
+    "enrollment": "49/洽6不分系學程",
+    "locations": [
+      "共同教室",
+      "A1305上課時間"
+    ],
+    "period": "共同教室 A1305上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-011",
+    "code": "AN-011 AN1E500 [CCEP1063]",
+    "name": "MATLAB 程式設計導論 英語授課 COURSERA  5/5(一)及6/2(一) 11:10-12:00實體課程務必出席，其餘時間依Coursera線上課程時間上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張怡玲*",
+    "enrollment": "47/洽不分6系學程",
+    "locations": [
+      "共同教室",
+      "A1305上課時間"
+    ],
+    "period": "共同教室 A1305上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-012",
+    "code": "AN-012 AN1E400 [CCEP1062]",
+    "name": "Python 快速入門課程 英語授課 COURSERA  5/12(一)及6/9(一) 11:10-12:00實體課程務必出席，其餘時間請依Coursera線上課程時間上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張怡玲",
+    "enrollment": "52/洽不分系學程",
+    "locations": [
+      "共同教室",
+      "A1305上課時間"
+    ],
+    "period": "共同教室 A1305上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-051",
+    "code": "AN-051 AN20900 [CCEP2001]",
+    "name": "跨領域問題導向-進階專題 需先修以下科目:《跨領域問題導向-初階專題/必修/5.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學* 劉家幸 邱士峰 黃仲菁 吳易叡 葉多涵",
+    "enrollment": "10/632",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[5]9~C 共同教室 A1305",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-052",
+    "code": "AN-052 AN30111 [CCEP2090]",
+    "name": "跨領域問題導向專題（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學* 劉家幸 邱士峰 黃仲菁 吳易叡 葉多涵 張昇崑",
+    "enrollment": "46/36",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[3]A~C 共同教室 A1305",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-055",
+    "code": "AN-055 AN1E200 [CCEP2302]",
+    "name": "從新創投資觀點學創業及商業機會辨識 業界專家參與 新創領航專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "邱士峰*",
+    "enrollment": "34/額滿",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[2]5~7 共同教室 A1305",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-060",
+    "code": "AN-060 AN24500 [CCEP2706]",
+    "name": "文本跨閱與思辨方法 不分系專題方法論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "劉家幸*",
+    "enrollment": "9/11",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[5]6~8 共同教室 A1305",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-061",
+    "code": "AN-061 AN31800 [CCEP2707]",
+    "name": "人機互動設計與應用方法論 英語授課  不分系專題方法論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張昇崑*",
+    "enrollment": "618/2",
+    "locations": [
+      "A1303",
+      "共同教室"
+    ],
+    "period": "[1]7~9 共同教室 A1303",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-062",
+    "code": "AN-062 AN24600 [CCEP2708]",
+    "name": "商業模式解析與價值導向創新 不分系專題方法論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "邱士峰*",
+    "enrollment": "624/6",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[3]2~4 共同教室 A1305",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-063",
+    "code": "AN-063 AN24700 [CCEP2708]",
+    "name": "社會事件之觀察與省思方法 業界專家參與  不分系專題方法論",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "許以霖*",
+    "enrollment": "676/額滿",
+    "locations": [
+      "A1302",
+      "共同教室"
+    ],
+    "period": "[4]5~6 共同教室 A1302",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-064",
+    "code": "AN-064 AN24800 [CCEP2709]",
+    "name": "人類行為的演化方法 英語授課  不分系專題方法論",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "葉多涵*",
+    "enrollment": "30/610",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[3]5~6 共同教室 A1305",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-069",
+    "code": "AN-069 AN31700 [CCEP2519]",
+    "name": "感測器原理應用 英語授課 COURSERA",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "沈聖智",
+    "enrollment": "15/615",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-070",
+    "code": "AN-070 AN24900 [CCEP2230]",
+    "name": "Conlang如何創造語言",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "葉多涵*",
+    "enrollment": "622/8",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[4]5~6 共同教室 A1304",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-071",
+    "code": "AN-071 AN25000 [CCEP2231]",
+    "name": "跨世代產學永續專案企劃與實作 業界專家參與  密集課程；選課報名連結：https://forms.gle/MY5idAPSWzhgHNnt9",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "楊佳翰* 邱士峰",
+    "enrollment": "23/洽不分系學程",
+    "locations": [
+      "A1303上課時間",
+      "共同教室"
+    ],
+    "period": "共同教室 A1303上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-072",
+    "code": "AN-072 AN31900 [CCEP4506]",
+    "name": "心路尋光之自我探索與溝通回應實務 彈性密集課程",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學*",
+    "enrollment": "31/洽不分系學程",
+    "locations": [
+      "規劃設計大樓",
+      "5118上課時間"
+    ],
+    "period": "規劃設計大樓 5118上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-073",
+    "code": "AN-073 AN40902 [CCEP3026]",
+    "name": "照顧劇場：疾病敘事與紀錄劇場實作（二） 業界專家參與  密集課程；選課報名連結>>>https://bit.ly/caretheater113-2",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "吳易叡*",
+    "enrollment": "8/洽不分6系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-101",
+    "code": "AN-101 AN40300 [CCEP4001]",
+    "name": "跨領域問題導向-畢業專題 需先修以下科目:《跨領域問題導向-初階專題/必修/5.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 5,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學* 劉家幸 邱士峰 黃仲菁 吳易叡 葉多涵",
+    "enrollment": "19/23",
+    "locations": [
+      "A1305",
+      "共同教室"
+    ],
+    "period": "[3]D 共同教室 A1305 [4]A~D 共同教室 A1305",
+    "slots": []
+  },
+  {
+    "id": "AN-102",
+    "code": "AN-102 AN32000 [CCEP3128]",
+    "name": "永續城市發展 英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "松岡秀雄",
+    "enrollment": "8/32",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[4]6~8 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

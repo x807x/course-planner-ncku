@@ -1,0 +1,788 @@
+[
+  {
+    "id": "A718320-Z5",
+    "code": "A718320-Z5 [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請5參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-Z5",
+    "code": "A119120-Z5 [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考5備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-003",
+    "code": "C1-003 C117920 [MATH1102]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "高橋亮甫",
+    "enrollment": "50/網路選課不開放",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C1-005",
+    "code": "C1-005 C115621-1 [MATH1123]",
+    "name": "微積分（二） (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "高橋亮甫*",
+    "enrollment": "56/24",
+    "locations": [
+      "36169",
+      "理學教學大樓"
+    ],
+    "period": "[1]2~3 理學教學大樓 36169 [3]5~6 理學教學大樓 36169 [1]1 理學教學大樓 36169",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C1-007",
+    "code": "C1-007 C111221-1 [MATH2103]",
+    "name": "線性代數（二） 英語授課  星期五教室在物理系36204教室；EMI課程(英文授課比例：100%) (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "賴青瑞",
+    "enrollment": "458/32",
+    "locations": [
+      "36204",
+      "36169",
+      "理學教學大樓"
+    ],
+    "period": "[3]2 理學教學大樓 36169 [5]3~4 理學教學大樓 36204 [3]1 理學教學大樓 36169",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C1-009",
+    "code": "C1-009 C315720 [PHYS1013]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "田興龍",
+    "enrollment": "1548/42",
+    "locations": [
+      "36102",
+      "理學教學大樓"
+    ],
+    "period": "[2]3~4 理學教學大樓 36102 [4]2 理學教學大樓 36102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-010",
+    "code": "C1-010 C111400 [MATH1141]",
+    "name": "計算機概論與程式語言",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "舒宇宸",
+    "enrollment": "555/3",
+    "locations": [
+      "3172",
+      "數學系館"
+    ],
+    "period": "[3]7~8 數學系館 3172 [5]2 數學系館 3172",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C110020-Z",
+    "code": "C110020-Z [MATH]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考5備註",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C125000-Z1",
+    "code": "C125000-Z1 [MATH]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C125000-Z2",
+    "code": "C125000-Z2 [MATH]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考5備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C110040-Z",
+    "code": "C110040-Z [MATH]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-055",
+    "code": "C1-055 C121121-1 [MATH2122]",
+    "name": "高等微積分（二） (含實習)",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "方永富",
+    "enrollment": "757/13",
+    "locations": [
+      "理學教學大樓",
+      "36102"
+    ],
+    "period": "[1]5~6 理學教學大樓 36102 [3]3~4 理學教學大樓 36102 [1]N 理學教學大樓 36102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C1-057",
+    "code": "C1-057 C121320 [MATH2144]",
+    "name": "代數學（二） 星期四第1堂為實習課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "柯文峰",
+    "enrollment": "62/518",
+    "locations": [
+      "36104",
+      "理學教學大樓"
+    ],
+    "period": "[2]3~4 理學教學大樓 36104 [4]2 理學教學大樓 36104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-058",
+    "code": "C1-058 C120501 [MATH2133]",
+    "name": "微分方程導論 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "林景隆",
+    "enrollment": "94/16",
+    "locations": [
+      "A1306(資源後)",
+      "共同教室"
+    ],
+    "period": "[2]2 共同教室 A1306(資源後) [4]3~4 共同教室 A1306(資源後) [2]1 共同教室 A1306(資源後)",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C1-060",
+    "code": "C1-060 C122100 [MATH1152]",
+    "name": "數論導論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "章源慶",
+    "enrollment": "67/13",
+    "locations": [
+      "36206",
+      "理學教學大樓"
+    ],
+    "period": "[3]8 理學教學大樓 36206 [5]5~6 理學教學大樓 36206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C125000-Z5",
+    "code": "C125000-Z5 [MATH]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/5依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C125000-Z3",
+    "code": "C125000-Z3 [MATH]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/5請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-102",
+    "code": "C1-102 C133710 [MATH5400]",
+    "name": "幾何學（一）",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "劉之中",
+    "enrollment": "49/71",
+    "locations": [
+      "36202",
+      "理學教學大樓"
+    ],
+    "period": "[2]5~6 理學教學大樓 36202 [4]6 理學教學大樓 36202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-103",
+    "code": "C1-103 C144800 [MATH5201]",
+    "name": "應用分析",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "連文璟",
+    "enrollment": "25/250",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[3]8 理學教學大樓 36208 [5]5~6 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-104",
+    "code": "C1-104 C121400 [MATH3707]",
+    "name": "科學計算導論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "陳旻宏",
+    "enrollment": "35/10",
+    "locations": [
+      "3173",
+      "數學系館"
+    ],
+    "period": "[2]7~8 數學系館 3173 [5]7 數學系館 3173",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-105",
+    "code": "C1-105 C131121 [MATH3405]",
+    "name": "複變數函數論（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "陳若淳",
+    "enrollment": "36/14",
+    "locations": [
+      "數學系館",
+      "3174"
+    ],
+    "period": "[1]5~6 數學系館 3174 [3]6 數學系館 3174",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C125000-Z4",
+    "code": "C125000-Z4 [MATH]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-153",
+    "code": "C1-153 C146100 [MATH5204]",
+    "name": "傅立葉分析與應用",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "林育竹",
+    "enrollment": "556/1",
+    "locations": [
+      "3173",
+      "數學系館"
+    ],
+    "period": "[1]2~3 數學系館 3173 [3]2 數學系館 3173",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C1-156",
+    "code": "C1-156 C145500 [MATH5000]",
+    "name": "伽羅瓦理論入門",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C1",
+    "department": "數學系 MATH",
+    "teacher": "林牛",
+    "enrollment": "205/15",
+    "locations": [
+      "數學系館",
+      "3174"
+    ],
+    "period": "[2]2 數學系館 3174 [5]3~4 數學系館 3174",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

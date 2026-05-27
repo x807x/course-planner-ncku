@@ -1,0 +1,1005 @@
+[
+  {
+    "id": "D510610-Z",
+    "code": "D510610-Z [ECON]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "06/1",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "D510710-Z",
+    "code": "D510710-Z [ECON]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "06/1",
+    "locations": [],
+    "period": "[3]3~4 [5]2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "D510500-Z",
+    "code": "D510500-Z [ECON]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "60/1",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "D5-005",
+    "code": "D5-005 D510010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "徐康良",
+    "enrollment": "65/35",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D517200-Z1",
+    "code": "D517200-Z1 [ECON]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "60/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-008",
+    "code": "D5-008 D511311 [ECON1001]",
+    "name": "經濟學原理（一） 醫學、科技與社會學程(STM) (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "廖肇寧",
+    "enrollment": "6114/6",
+    "locations": [
+      "格致堂",
+      "規劃設計大樓",
+      "5107"
+    ],
+    "period": "[2]2~4 格致堂 格致堂 [3]9 規劃設計大樓 5107 [3]9 規劃設計大樓 5107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "D5-009",
+    "code": "D5-009 D511110 [ECON1003]",
+    "name": "統計學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "張升懋",
+    "enrollment": "93/62",
+    "locations": [
+      "許文龍講堂",
+      "唯農大樓"
+    ],
+    "period": "[4]2~4 唯農大樓 許文龍講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-010",
+    "code": "D5-010 D511410 [ECON1005]",
+    "name": "會計學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "張淑清",
+    "enrollment": "694/6",
+    "locations": [
+      "綜合二館",
+      "49X04"
+    ],
+    "period": "[2]6~8 綜合二館 49X04",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-011",
+    "code": "D5-011 D511210 [MATH1051]",
+    "name": "微積分（一） 心理系為「選修」 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "沈士育",
+    "enrollment": "6188/24",
+    "locations": [
+      "7302",
+      "7217",
+      "經緯廳",
+      "成功校區經緯廳",
+      "7213",
+      "唯農大樓",
+      "7311"
+    ],
+    "period": "[3]7~8 成功校區經緯廳 經緯廳 [5]5 成功校區經緯廳 經緯廳 [5]6 唯農大樓 7213 [5]6 唯農大樓 7217 [5]6 唯農大樓 7302 [5]6 唯農大樓 7311",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "D5-012",
+    "code": "D5-012 D517910 [ECON0001]",
+    "name": "服務學習（一） 系館",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "范光中",
+    "enrollment": "676/不限",
+    "locations": [],
+    "period": "[3]N",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "D510330-Z",
+    "code": "D510330-Z [ECON]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "D510030-Z",
+    "code": "D510030-Z [ECON]",
+    "name": "體育（三） 依照體育課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "0/6不限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D517200-Z2",
+    "code": "D517200-Z2 [ECON]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "0/6不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-059",
+    "code": "D5-059 D520110 [ECON]",
+    "name": "總體經濟學（一） 需先修以下科目:《經濟學原理（二）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "許永河",
+    "enrollment": "98/22",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[3]2~4 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-060",
+    "code": "D5-060 D520210 [ECON]",
+    "name": "個體經濟學（一） 限選條件為微積分(一)60分或微積分(二)60分。若無法選課者，請洽系辦!  需先修以下科目:《微積分（一）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "范光中",
+    "enrollment": "6131/5",
+    "locations": [
+      "61200",
+      "工管系館"
+    ],
+    "period": "[1]7~9 工管系館 61200",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-061",
+    "code": "D5-061 D521400 [ECON]",
+    "name": "經濟史",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "廖肇寧",
+    "enrollment": "57/68",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[5]2~4 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-063",
+    "code": "D5-063 D520400 [ECON2002]",
+    "name": "經濟數學 需先修以下科目:《微積分（一）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "劉亞明",
+    "enrollment": "563/7",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[2]2~4 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-064",
+    "code": "D5-064 D520500 [ECON]",
+    "name": "世界經濟地理",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "廖肇寧",
+    "enrollment": "49/11",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[1]1~3 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-065",
+    "code": "D5-065 D521300 [ECON2001]",
+    "name": "數理統計學 需先修以下科目:《微積分（一）/必修/3.0 學分/60 分以上》《統計學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "趙昌泰",
+    "enrollment": "45/15",
+    "locations": [
+      "27602",
+      "雲平大樓"
+    ],
+    "period": "[2]7~9 雲平大樓 27602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D517200-Z3",
+    "code": "D517200-Z3 [ECON]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-102",
+    "code": "D5-102 D530100 [ECON1011]",
+    "name": "公共財政學 防災科技管理學分學程  限大三  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "周有熙",
+    "enrollment": "79/1",
+    "locations": [
+      "許文龍講堂",
+      "唯農大樓"
+    ],
+    "period": "[2]2~4 唯農大樓 許文龍講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-104",
+    "code": "D5-104 D530310 [ECON2004]",
+    "name": "計量經濟學（一） 社會資料科學學分學程，醫學、科技與社會學程(STM) 社會計量科學專長微學程，計量財務專長微學程  星期一,第五節計中75201  需先修以下科目:《微積分（一）/必修/3.0 學分/60 分以上》《統計學（一）/必修/3.0 學分/60 分以上》《統計學（二）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "陳奕奇",
+    "enrollment": "51/額滿",
+    "locations": [
+      "雲平大樓",
+      "資訊大樓",
+      "75201",
+      "27204"
+    ],
+    "period": "[1]5 資訊大樓 75201 [3]3~4 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-105",
+    "code": "D5-105 D530400 [ECON3002]",
+    "name": "經濟發展 中文授課，與都計合開，都計系限選10人。  需先修以下科目:《個體經濟學（一）/必修/3.0 學分/60 分以上》《總體經濟學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "謝文真",
+    "enrollment": "39/21",
+    "locations": [
+      "27602",
+      "雲平大樓"
+    ],
+    "period": "[1]6~8 雲平大樓 27602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-106",
+    "code": "D5-106 D511301 [ECON3007]",
+    "name": "政治學概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "黃清賢",
+    "enrollment": "659/6",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[4]6~8 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-110",
+    "code": "D5-110 D511401 [ECON3009]",
+    "name": "法學緒論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "魏杏芳",
+    "enrollment": "59/1",
+    "locations": [
+      "雲平大樓",
+      "27204"
+    ],
+    "period": "[4]2~4 雲平大樓 27204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D517200-Z4",
+    "code": "D517200-Z4 [ECON]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-153",
+    "code": "D5-153 D531700 [ECON4006]",
+    "name": "比較經濟制度",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "范錦明",
+    "enrollment": "93/2",
+    "locations": [
+      "許文龍講堂",
+      "唯農大樓"
+    ],
+    "period": "[5]2~4 唯農大樓 許文龍講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-157",
+    "code": "D5-157 D540700 [ECON4005]",
+    "name": "勞動經濟學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "田維華",
+    "enrollment": "25/35",
+    "locations": [
+      "27602",
+      "雲平大樓"
+    ],
+    "period": "[2]2~4 雲平大樓 27602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-159",
+    "code": "D5-159 H131100 [ACC4001]",
+    "name": "政府會計 外系學生選課需經教師簽名",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "吳清在",
+    "enrollment": "27/53",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]1~3 會計系館 63210",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D5-160",
+    "code": "D5-160 D530800 [ECON]",
+    "name": "醫療經濟學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D5",
+    "department": "經濟系 ECON",
+    "teacher": "劉亞明",
+    "enrollment": "14/6",
+    "locations": [
+      "雲平大樓",
+      "5F研討室"
+    ],
+    "period": "[3]2~4 雲平大樓 5F研討室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

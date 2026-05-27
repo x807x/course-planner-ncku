@@ -1,0 +1,912 @@
+[
+  {
+    "id": "R6-001",
+    "code": "R6-001 R670120-1 [IB6094]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "張紹基",
+    "enrollment": "30/363",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[1]5~6 國企所 61401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-002",
+    "code": "R6-002 R670140-1 [IB6096]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "曾瓊慧",
+    "enrollment": "32/31",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[2]5~6 國企所 61401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-003",
+    "code": "R6-003 R652000-1 [IB6028]",
+    "name": "國際人力資源管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "史習安",
+    "enrollment": "41/62",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[3]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-004",
+    "code": "R6-004 R472800 [BA6028]",
+    "name": "行為科學專題 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "葉桂珍",
+    "enrollment": "10/額滿",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[5]2~4 企管系館 62457",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-005",
+    "code": "R6-005 R481000 [BA6040]",
+    "name": "服務行銷管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "劉宗其",
+    "enrollment": "67/額滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[5]2~4 企管系館 62335",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-006",
+    "code": "R6-006 R459800 [BA7028]",
+    "name": "網際網路行銷與電子商務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "蔡燿全",
+    "enrollment": "39/1",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[5]6~8 國企所 61401",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-007",
+    "code": "R6-007 R450900 [BA6016]",
+    "name": "企業組織行為",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "莊双喜",
+    "enrollment": "366/24",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[1]6~8 企管系館 62422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-008",
+    "code": "R6-008 R474500 [BA7055]",
+    "name": "組織發展與變革 需先修以下科目:《員工訓練與發展/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "王瑜琳",
+    "enrollment": "3/7",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[2]2~4 企管系館 62457",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-009",
+    "code": "R6-009 R454700 [BA6032]",
+    "name": "多國籍企業專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "蔡惠婷",
+    "enrollment": "6/614",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[1]2~4 國企所 61401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-010",
+    "code": "R6-010 R452400 [BA6005]",
+    "name": "企業研究方法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "吳萬益",
+    "enrollment": "79/41",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[6]6~8 企管系館 62121",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-012",
+    "code": "R6-012 R461100-1 [BA7006]",
+    "name": "國際金融與海外投資策略 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "康信鴻",
+    "enrollment": "34/66",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[3]7~9 企管系館 62121",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-013",
+    "code": "R6-013 R452500 [BA7026]",
+    "name": "行銷策略",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "蔡明田",
+    "enrollment": "561/9",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[1]2~4 企管系館 62422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-014",
+    "code": "R6-014 R680100 [IB7015]",
+    "name": "財務計量研討",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "江明憲",
+    "enrollment": "9/15",
+    "locations": [
+      "企管系館",
+      "62455"
+    ],
+    "period": "[2]2~4 企管系館 62455",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-015",
+    "code": "R6-015 R458900 [BA7007]",
+    "name": "顧客關係管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "張心馨",
+    "enrollment": "3/637",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[2]5~7 企管系館 62453",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-016",
+    "code": "R6-016 R467400 [BA7656]",
+    "name": "電子化與創新專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "張心馨",
+    "enrollment": "68/32",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]5~7 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-017",
+    "code": "R6-017 R481600-1 [BA7023]",
+    "name": "不動產投資學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "楊澤泉",
+    "enrollment": "296/31",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[4]6~8 企管系館 62422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-018",
+    "code": "R6-018 R410900 [BA7030]",
+    "name": "消費者行為 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "賴孟寬",
+    "enrollment": "11/9",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[3]5~7 企管系館 62457",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-019",
+    "code": "R6-019 R467500 [BA6026]",
+    "name": "科技商品化",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "陳淑惠",
+    "enrollment": "11/29",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-020",
+    "code": "R6-020 R467600 [BA]",
+    "name": "全球品牌策略專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "劉佳玲",
+    "enrollment": "5/655",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[2]2~4 企管系館 62422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-021",
+    "code": "R6-021 R482000 [BA7091]",
+    "name": "財務經濟專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "胡聯國",
+    "enrollment": "29/11",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[6]2~4 企管系館 62335",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-022",
+    "code": "R6-022 R670400 [IB7193]",
+    "name": "公司理財專題 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "張紹基",
+    "enrollment": "611/9",
+    "locations": [
+      "國企所",
+      "61413"
+    ],
+    "period": "[5]2~4 國企所 61413",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-051",
+    "code": "R6-051 R465400 [BA9003]",
+    "name": "組織經濟社會學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "方世杰",
+    "enrollment": "4/10",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[1]2~4 企管系館 62457",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-111",
+    "code": "R6-111 R470121-1 [BA9095]",
+    "name": "專題討論（二） 一般管理組博一、博二及博三以上合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "曾瓊慧",
+    "enrollment": "66/34",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]7~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-113",
+    "code": "R6-113 R470141-1 [BA9097]",
+    "name": "專題討論（四） 一般管理組博一、博二及博三以上合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "曾瓊慧",
+    "enrollment": "5/635",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]7~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-114",
+    "code": "R6-114 R470141-2 [BA9097]",
+    "name": "專題討論（四） 財務組博一、博二及博三以上合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "許永明",
+    "enrollment": "2/43",
+    "locations": [
+      "企管系館",
+      "62231"
+    ],
+    "period": "[1]7~8 企管系館 62231",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-115",
+    "code": "R6-115 R481700-1 [BA]",
+    "name": "專題討論 一般管理組，博一、博二及博三以上合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "曾瓊慧",
+    "enrollment": "336/7",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]7~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R6-116",
+    "code": "R6-116 R481700-2 [BA]",
+    "name": "專題討論 財務組，博一、博二及博三以上合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R6",
+    "department": "國企所 IB",
+    "teacher": "許永明",
+    "enrollment": "618/27",
+    "locations": [
+      "企管系館",
+      "62231"
+    ],
+    "period": "[1]7~8 企管系館 62231",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "id": "S4-001",
+    "code": "S4-001 S410110 [MI6001]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "張　堯* 王淑鶯*",
+    "enrollment": "24/26",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-003",
+    "code": "S4-003 S410300 [MI6221]",
+    "name": "免疫學 再生醫學科技學分學程  與微免所合班;再生醫學科技學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "張志鵬* 林以行* 謝奇璋",
+    "enrollment": "637/23",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[1]2~4 醫學院 604",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-004",
+    "code": "S4-004 S410400 [MI6005]",
+    "name": "分子生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "陳振暐* 王淑鶯* 楊孔嘉 黃溫雅 胥直利 張文粲 鄭宏祺 陳昌熙 劉校生 黃一修 彭貴春 余佳益 鄧景浩 張南山 吳佳慶 王仰高",
+    "enrollment": "24/36",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[2]2~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-010",
+    "code": "S4-010 S410130 [MI6003]",
+    "name": "專題討論（三）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "張　堯* 王淑鶯*",
+    "enrollment": "25/265",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-011",
+    "code": "S4-011 S450600 [MI7221]",
+    "name": "免疫學特論 基醫所與微免所合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "張志鵬* 王育民 楊孔嘉 蔡佩珍 徐麗君 王志堯 王崇任 王世敏 楊倍昌 林以行 張　堯",
+    "enrollment": "67/23",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]2~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-012",
+    "code": "S4-012 S451601 [MI6007E]",
+    "name": "英文論文閱讀及寫作 英語授課  基醫所與微免所合班",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "王淑鶯* 黃一修",
+    "enrollment": "7/23",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]5~6 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-013",
+    "code": "S4-013 S450700 [MI6000]",
+    "name": "專題討論 碩三以上選修",
+    "grade": 3,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "張　堯* 王淑鶯*",
+    "enrollment": "11/39",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6~7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-014",
+    "code": "S4-014 S451800 [MI6009]",
+    "name": "分子生物學資料專論 與醫學資訊所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "辛致煒* 曾大千 林威辰 王淑鶯",
+    "enrollment": "16/64",
+    "locations": [
+      "醫學院",
+      "821024"
+    ],
+    "period": "[4]7~8 醫學院 821024",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-015",
+    "code": "S4-015 S461000 [MI7224]",
+    "name": "感染症學 與基醫所合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "林以行* 黃溫雅 蔡佩珍 王世敏 張　堯 陳振暐 鄧景浩",
+    "enrollment": "2/628",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[3]2~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-019",
+    "code": "S4-019 S452500 [MI7006]",
+    "name": "研究倫理 基醫所與微免所合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "彭貴春* 羅玉枝 黃美智 徐麗君 張雅雯 劉校生 楊倍昌 王淑鶯 黃一修 陳振暐 蔡曜聲 吳尚蓉",
+    "enrollment": "276/33",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[4]6 醫學院 303D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-020",
+    "code": "S4-020 S461400 [MI7000E]",
+    "name": "T”型人才的新興傳染病學 英語授課  上課教室:國際會議廳第三講堂、醫學院第三講堂",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "彭貴春* 劉校生 簡玉雯",
+    "enrollment": "36/117",
+    "locations": [],
+    "period": "[6]1~4 [7]6~9",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "8",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "9",
+        "type": "研討"
+      }
+    ]
+  }
+]

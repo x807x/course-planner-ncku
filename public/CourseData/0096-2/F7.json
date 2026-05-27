@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "F7-001",
+    "code": "F7-001 F714920-1 [CSIE]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "林美惠",
+    "enrollment": "56/2",
+    "locations": [
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[2]4 資訊系館 4201 [5]3~4 資訊系館 4201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F710420-Z1",
+    "code": "F710420-Z1 [CSIE]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/58",
+    "locations": [],
+    "period": "[4]5~6 [1]5",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F7-004",
+    "code": "F7-004 F717701 [CSIE]",
+    "name": "憲政民主與國家發展 資訊甲乙合班，屬「核心通識－公民素養」",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "潘台雄",
+    "enrollment": "100/10",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[4]3~4 資訊系館 4263",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F7-005",
+    "code": "F7-005 F715920-1 [PHYS1063]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "閔振發",
+    "enrollment": "697/11",
+    "locations": [
+      "綜合大樓",
+      "4891",
+      "資訊系館",
+      "4201"
+    ],
+    "period": "[1]6 資訊系館 4201 [4]1~2 綜合大樓 4891",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-006",
+    "code": "F7-006 F715820-1 [PHYS1064]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "閔振發",
+    "enrollment": "56/不限",
+    "locations": [],
+    "period": "[3]5~7",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F700000-Z1",
+    "code": "F700000-Z1 [CSIE]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不7限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710121-Z1",
+    "code": "F710121-Z1 [CSIE]",
+    "name": "軍訓（二） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/7不限",
+    "locations": [],
+    "period": "[1]1~2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-009",
+    "code": "F7-009 F720100 [CSIE1004]",
+    "name": "線性代數 甲乙合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "謝璧妃",
+    "enrollment": "111/2",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[1]7~8 資訊系館 4263 [3]2 資訊系館 4263",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-010",
+    "code": "F7-010 F711120 [CSIE1002]",
+    "name": "程式設計（二） 資訊科學專長微學程  甲乙合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "張燕光",
+    "enrollment": "7122/13",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[3]8 資訊系館 4263 [4]7~8 資訊系館 4263",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-011",
+    "code": "F7-011 F720401 [CSIE1003]",
+    "name": "數位電路導論 甲乙合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "梁勝富",
+    "enrollment": "1270/4",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]2~3 資訊系館 4263 [3]9 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z1",
+    "code": "F710200-Z1 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不7限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-013",
+    "code": "F7-013 F717920-1 [CSIE0001]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "藍崑展",
+    "enrollment": "52/不限",
+    "locations": [],
+    "period": "[5]5",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F7-015",
+    "code": "F7-015 F715620-1 [MATH1062]",
+    "name": "微積分（二） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "江孟蓉",
+    "enrollment": "1711/9",
+    "locations": [
+      "4204",
+      "4201",
+      "4872",
+      "綜合大樓",
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[3]3~4 綜合大樓 4872 [5]2 綜合大樓 4872 [5]1 資訊系館 4201 [5]1 資訊系館 4202 [5]1 資訊系館 4204",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F7-016",
+    "code": "F7-016 F714920-2 [CSIE]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "楊雅琪",
+    "enrollment": "751/9",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[2]4 資訊系館 4202 [5]3~4 資訊系館 4202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F710420-Z2",
+    "code": "F710420-Z2 [CSIE]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/60",
+    "locations": [],
+    "period": "[4]5~6 [1]5",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F7-019",
+    "code": "F7-019 F715920-2 [PHYS1063]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "李玉華",
+    "enrollment": "52/8",
+    "locations": [
+      "資訊系館",
+      "4202"
+    ],
+    "period": "[1]3 資訊系館 4202 [4]1~2 資訊系館 4202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-020",
+    "code": "F7-020 F715820-2 [PHYS1064]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "李玉華",
+    "enrollment": "497/不限",
+    "locations": [],
+    "period": "[5]5~7",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F700000-Z2",
+    "code": "F700000-Z2 [CSIE]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710121-Z2",
+    "code": "F710121-Z2 [CSIE]",
+    "name": "軍訓（二） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[1]1~2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z2",
+    "code": "F710200-Z2 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-030",
+    "code": "F7-030 F717920-2 [CSIE0001]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "藍崑展",
+    "enrollment": "478/不限",
+    "locations": [],
+    "period": "[1]6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F710340-Z1",
+    "code": "F710340-Z1 [CSIE]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/670",
+    "locations": [],
+    "period": "[3]5 [3]6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z3",
+    "code": "F710200-Z3 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "70/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-053",
+    "code": "F7-053 F720600 [CSIE1008]",
+    "name": "離散數學 資訊科學專長微學程  甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "高宏宇",
+    "enrollment": "126/4",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[1]5~6 資訊系館 4263 [3]7 資訊系館 4263",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-054",
+    "code": "F7-054 F720700 [CSIE1009]",
+    "name": "程式語言 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "許靜芳",
+    "enrollment": "987/13",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]9 資訊系館 4263 [5]3~4 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-055",
+    "code": "F7-055 F720200 [CSIE2001]",
+    "name": "計算機組織 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "蕭宏章",
+    "enrollment": "1715/11",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[1]2~3 資訊系館 4263 [2]1 資訊系館 4263",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-056",
+    "code": "F7-056 F721100 [CSIE3002]",
+    "name": "機率與統計 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "盧文祥",
+    "enrollment": "1079/3",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]7~8 資訊系館 4263 [4]9 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710041-Z1",
+    "code": "F710041-Z1 [CSIE]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不7限",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7101D0-Z1",
+    "code": "F7101D0-Z1 [CSIE]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]1~2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710340-Z2",
+    "code": "F710340-Z2 [CSIE]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "70/55",
+    "locations": [],
+    "period": "[3]5 [3]6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z4",
+    "code": "F710200-Z4 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/7不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710041-Z2",
+    "code": "F710041-Z2 [CSIE]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7101D0-Z2",
+    "code": "F7101D0-Z2 [CSIE]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不7限",
+    "locations": [],
+    "period": "[3]1~2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-081",
+    "code": "F7-081 F722300 [CSIE3000]",
+    "name": "三維繪圖程式設計 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "李同益",
+    "enrollment": "81/727",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[1]7 資訊系館 4203 [4]7~8 資訊系館 4203",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-084",
+    "code": "F7-084 F722400 [CSIE3001]",
+    "name": "跨平台程式設計 甲乙合班",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "曾新穆",
+    "enrollment": "978/2",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[4]2~4 資訊系館 4203",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-085",
+    "code": "F7-085 F730500 [CSIE0090]",
+    "name": "資訊工程倫理與生涯規劃 必選 (須修過方能畢業)",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "黃崇明",
+    "enrollment": "123/79",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[5]5 資訊系館 4263",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z5",
+    "code": "F710200-Z5 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "07/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-106",
+    "code": "F7-106 F732400 [CSIE4008]",
+    "name": "編譯系統 甲乙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "朱治平",
+    "enrollment": "7117/8",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[3]3~4 資訊系館 4263 [4]2 資訊系館 4263",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-107",
+    "code": "F7-107 F732000 [CSIE4007]",
+    "name": "計算理論 甲乙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "何宗易",
+    "enrollment": "1077/7",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[3]6 資訊系館 4263 [4]5~6 資訊系館 4263",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z6",
+    "code": "F710200-Z6 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-127",
+    "code": "F7-127 F730300 [CSIE4000]",
+    "name": "訊號與系統 甲乙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "蘇文鈺",
+    "enrollment": "59/19",
+    "locations": [
+      "4203",
+      "資訊系館"
+    ],
+    "period": "[2]7~9 資訊系館 4203",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-128",
+    "code": "F7-128 F730600 [CSIE4001]",
+    "name": "多媒體系統與應用 甲乙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "吳宗憲",
+    "enrollment": "85/77",
+    "locations": [
+      "4204",
+      "資訊系館"
+    ],
+    "period": "[1]6~8 資訊系館 4204",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-129",
+    "code": "F7-129 F730400 [CSIE]",
+    "name": "FPGA系統設計",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "陳培殷",
+    "enrollment": "750/6",
+    "locations": [
+      "4285",
+      "資訊系館"
+    ],
+    "period": "[2]2~4 資訊系館 4285",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-130",
+    "code": "F7-130 F730210 [CSIE3090]",
+    "name": "資訊專題（一）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "黃崇明",
+    "enrollment": "92/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F710200-Z7",
+    "code": "F710200-Z7 [CSIE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F710200-Z8",
+    "code": "F710200-Z8 [CSIE]",
+    "name": "通識課程",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F7-160",
+    "code": "F7-160 F740400 [CSIE4009]",
+    "name": "醫學影像概論 甲乙合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "F7",
+    "department": "資訊系 CSIE",
+    "teacher": "孫永年",
+    "enrollment": "23/27",
+    "locations": [
+      "4261",
+      "資訊系館"
+    ],
+    "period": "[4]6~8 資訊系館 4261",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

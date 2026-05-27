@@ -1,0 +1,423 @@
+[
+  {
+    "id": "TA-001",
+    "code": "TA-001 TA70120 [AHS9009]",
+    "name": "獨立研究（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張瑩如 黃美智 陳清惠 王靜枝 陳靜敏 成戎珠 黃英修 張哲豪 郭立杰 郭乃文",
+    "enrollment": "15/5",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-002",
+    "code": "TA-002 TA50320 [AHS9003]",
+    "name": "健康照護專題討論（二） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳靜敏* 張瑩如 陳清惠 王靜枝 成戎珠 黃英修 張哲豪 郭立杰 郭乃文",
+    "enrollment": "15/595",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-003",
+    "code": "TA-003 TA70301 [AHS9023]",
+    "name": "健康照護的倫理探討與實踐",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "黃美智* 戴　華 陳清惠 趙可式 楊政峰 簡偉明 郭乃文",
+    "enrollment": "8/22",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[5]2~4 醫學院 208",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-004",
+    "code": "TA-004 TA73500 [AHS9025]",
+    "name": "高等臨床心理治療－以神經心理學走向之團體 教室：健照所會議室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "郭乃文*",
+    "enrollment": "3/97",
+    "locations": [],
+    "period": "[5]9~B",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-005",
+    "code": "TA-005 TA70700 [AHS9010]",
+    "name": "生物科學史與科學哲學 健照所、基醫所與微免所合班",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "楊倍昌* 陳恒安 翁裕峯 王秀雲 王淑鶯 高雅慧",
+    "enrollment": "1/23",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-006",
+    "code": "TA-006 TA50340 [AHS9005]",
+    "name": "健康照護專題討論（四）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳靜敏* 徐畢卿 黃美智 陳清惠 成戎珠 馬慧英 郭立杰 郭乃文",
+    "enrollment": "911/59",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-007",
+    "code": "TA-007 TA70140 [AHS9011]",
+    "name": "獨立研究（四）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳清惠 陳靜敏 成戎珠 馬慧英 郭乃文",
+    "enrollment": "8/12",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-008",
+    "code": "TA-008 TA80220 [AHS9038]",
+    "name": "教學實習（二）",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳清惠 陳靜敏 馬慧英 郭乃文",
+    "enrollment": "96/14",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-009",
+    "code": "TA-009 TA70520 [AHS9016]",
+    "name": "高等臨床心理實習（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "柯慧貞",
+    "enrollment": "2/98",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-010",
+    "code": "TA-010 TA81100 [AHS9039]",
+    "name": "護理領導與實務特論 教室：健照所會議室",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "徐畢卿* 張有恒",
+    "enrollment": "79/13",
+    "locations": [],
+    "period": "[5]2~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-011",
+    "code": "TA-011 U383200 [EDU7010]",
+    "name": "多層次統計分析 別所的學生修此課，需經指導老師同意",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "許清芳",
+    "enrollment": "5/940",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[4]5~7 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-012",
+    "code": "TA-012 TA72200 [AHS9019]",
+    "name": "認知與腦波 健照所與認知所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭*",
+    "enrollment": "6/28",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[2]2~4 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-013",
+    "code": "TA-013 T854900 [PH7371]",
+    "name": "人群健康觀察研究文獻評論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "王榮德",
+    "enrollment": "10/30",
+    "locations": [
+      "醫學院",
+      "204D"
+    ],
+    "period": "[4]7~8 醫學院 204D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-014",
+    "code": "TA-014 T854500 [PH7371]",
+    "name": "醫藥衛生中的生活品質與成本效果評估",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "王榮德",
+    "enrollment": "194/26",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[4]3~4 醫學院 202D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-015",
+    "code": "TA-015 TA90100 [AHS9039]",
+    "name": "專題討論 限博三以上修讀",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭 張瑩如 徐畢卿 黃美智 陳清惠 王靜枝 徐阿田 黃英修 洪菁霞 馬慧英 郭立杰 柯慧貞 王榮德",
+    "enrollment": "27/13",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  }
+]

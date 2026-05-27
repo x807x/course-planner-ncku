@@ -1,0 +1,312 @@
+[
+  {
+    "id": "LA-001",
+    "code": "LA-001 LA60300 [SAPS7003E]",
+    "name": "電漿物理 電漿學分學程 英語授課 太空科學專長微學程，太空電漿專長微學程，核融合電漿專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "劉耀澧",
+    "enrollment": "14/012",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[1]5~7 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-002",
+    "code": "LA-002 LA50100 [SAPS6091E]",
+    "name": "專題討論（一） 英語授課 業界專家參與  與碩班專題討論、碩班專題討論(三)合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "張滋芳",
+    "enrollment": "06/84",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[4]6~7 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "LA-003",
+    "code": "LA-003 LA62201 [SAPS6093E]",
+    "name": "專題討論（三） 英語授課 業界專家參與  與碩班專題討論、碩班專題討論(一)合班",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "張滋芳",
+    "enrollment": "5/805",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[4]6~7 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "LA-005",
+    "code": "LA-005 LA50800 [SAPS7032E]",
+    "name": "電漿現象之應用 電漿學分學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "張博宇",
+    "enrollment": "7/19",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[4]2~4 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-006",
+    "code": "LA-006 LA80500 [SAPS7040]",
+    "name": "連續體與流體力學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "西村泰太郎*",
+    "enrollment": "10/25",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[3]6 理學教學大樓 36208 [5]6~7 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-007",
+    "code": "LA-007 LA83000 [SAPS7012]",
+    "name": "太空科學儀器開發專題（二） 電漿學分學程 太空電漿專長微學程",
+    "grade": 1,
+    "credits": 4,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "張滋芳",
+    "enrollment": "6/20",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[5]5~8 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-008",
+    "code": "LA-008 LA61400 [SAPS7014E]",
+    "name": "電漿量測 電漿學分學程 英語授課 核融合電漿專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "河森榮一郎",
+    "enrollment": "2/204",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[5]2~4 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-009",
+    "code": "LA-009 LA70500 [SAPS7059E]",
+    "name": "核融合電漿與磁流體力學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "河森榮一郎",
+    "enrollment": "10/25",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[2]2~4 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "LA-011",
+    "code": "LA-011 LA80301 [SAPS7001]",
+    "name": "太空物理 太空電漿專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "LA",
+    "department": "電漿所 SAPS",
+    "teacher": "談永頤",
+    "enrollment": "6/200",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[2]6~8 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "AN-001",
+    "code": "AN-001 F815020 [DPS]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "吳東晟",
+    "enrollment": "46/17",
+    "locations": [
+      "92283",
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[1]1~2 電機系館 92283 [4]4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F810720-Z",
+    "code": "F810720-Z [DPS]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/63",
+    "locations": [],
+    "period": "[2]4 [5]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "AN-003",
+    "code": "AN-003 I317600 [MLSB]",
+    "name": "歷史 屬「核心通識－人類文明史」",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "蔡幸娟",
+    "enrollment": "36/624",
+    "locations": [
+      "規劃設計大樓",
+      "5117"
+    ],
+    "period": "[4]1~2 規劃設計大樓 5117",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F810020-Z",
+    "code": "F810020-Z [DPS]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/6不限",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F810120-Z",
+    "code": "F810120-Z [DPS]",
+    "name": "軍訓（二） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "60/不限",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10200-Z2",
+    "code": "AN10200-Z2 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "未定",
+    "enrollment": "0/不6限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN10200-Z1",
+    "code": "AN10200-Z1 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "未定",
+    "enrollment": "0/6不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-008",
+    "code": "AN-008 AN10120 [CCEP0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "未定",
+    "enrollment": "21/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

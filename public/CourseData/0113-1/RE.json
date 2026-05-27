@@ -1,0 +1,202 @@
+[
+  {
+    "id": "RE-001",
+    "code": "RE-001 R250610 [STAT6017]",
+    "name": "專題討論（一） 統計所與數據所碩博合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "張欣民*",
+    "enrollment": "37/470",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RE-002",
+    "code": "RE-002 R250530 [STAT6021]",
+    "name": "專題討論（三） 統計所與數據所碩博合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "張欣民*",
+    "enrollment": "25/572",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RE-003",
+    "code": "RE-003 R250500 [STAT6016]",
+    "name": "統計方法 英語授課  統計所及數據所必選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "李宜真",
+    "enrollment": "39/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[4]2~4 統計系館 62227",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RE-004",
+    "code": "RE-004 RE50200 [DS6011]",
+    "name": "資料科學 英語授課 業界專家參與  數據所學生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "鄭順林",
+    "enrollment": "19/網7路選課不開放",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[1]2~3 統計系館 62225 [3]5 統計系館 62225",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RE-005",
+    "code": "RE-005 RE50400 [DS6012]",
+    "name": "機器學習 業界專家參與 智慧醫療專長微學程  數據所學生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "許志仲",
+    "enrollment": "30/網路選課不開7放",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[3]6~8 統計系館 62225",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RE-006",
+    "code": "RE-006 M050200 [SOC6002]",
+    "name": "最佳化理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RE",
+    "department": "數據所 DS",
+    "teacher": "林家祥",
+    "enrollment": "26/14",
+    "locations": [
+      "36206",
+      "理學教學大樓"
+    ],
+    "period": "[1]6~8 理學教學大樓 36206",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

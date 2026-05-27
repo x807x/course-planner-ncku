@@ -1,0 +1,452 @@
+[
+  {
+    "id": "R0-301",
+    "code": "R0-301 R061301 [EMBA6904]",
+    "name": "專題討論 限修畢45學分以上選修  限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "王明隆",
+    "enrollment": "35/15",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[2]A 管理學院 62X01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-302",
+    "code": "R0-302 R050100 [EMBA6802]",
+    "name": "統計方法 EMBA開課，限50人選修。  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "馬瀰嘉",
+    "enrollment": "43/7",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[2]B~D 管理學院 61X02",
+    "slots": []
+  },
+  {
+    "id": "R0-304",
+    "code": "R0-304 R057100 [EMBA6844]",
+    "name": "消費者行為 EMBA與AMBA合開，限50人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "賴孟寬",
+    "enrollment": "26/24",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[4]B~C 管理學院 62X01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-305",
+    "code": "R0-305 R051301 [EMBA6815]",
+    "name": "管理資訊系統 EMBA與AMBA合開，限50人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "呂執中",
+    "enrollment": "22/28",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]B~C 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-306",
+    "code": "R0-306 R055701 [EMBA6841]",
+    "name": "談判與協商 EMBA與AMBA合開，限50人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "曾燦燈",
+    "enrollment": "52/2",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[6]5~6 管理學院 62X01",
+    "slots": [
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-307",
+    "code": "R0-307 R055601 [EMBA6839]",
+    "name": "物流管理 EMBA開課，限50人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "呂錦山",
+    "enrollment": "443/7",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[6]7~8 管理學院 62X01",
+    "slots": [
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-308",
+    "code": "R0-308 R051000 [EMBA6811]",
+    "name": "人力資源管理 台北上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "史習安",
+    "enrollment": "54/6",
+    "locations": [],
+    "period": "[6]2~4",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-309",
+    "code": "R0-309 R055401 [EMBA6836]",
+    "name": "企業倫理與法律專題 排課時間為星期六５、８節。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "蔡崇義",
+    "enrollment": "58/7",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[6]5 管理學院 61X02 [6]8 管理學院 61X02",
+    "slots": [
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-310",
+    "code": "R0-310 R061730 [EMBA6859]",
+    "name": "CEO高階實務管理（三） 限EMBA碩一學生選修。  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "王明隆",
+    "enrollment": "91/9",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[6]B 管理學院 61X02",
+    "slots": [
+      {
+        "day": 6,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-312",
+    "code": "R0-312 R055101 [EMBA6831]",
+    "name": "國際併購策略 台北上課，EMBA開課，限40人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "胡聯國",
+    "enrollment": "20/20",
+    "locations": [],
+    "period": "[5]B~C",
+    "slots": [
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-313",
+    "code": "R0-313 R054301 [EMBA6824]",
+    "name": "行銷策略規劃 台北上課，EMBA開課，限40人選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "蔡明田",
+    "enrollment": "145/25",
+    "locations": [],
+    "period": "[7]5~6",
+    "slots": [
+      {
+        "day": 7,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-314",
+    "code": "R0-314 R064000 [EMBA6872]",
+    "name": "財務會計與經營決策 EMBA與AMBA合開，限碩二以上學生選修。  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "簡金成",
+    "enrollment": "15/35",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[2]B~C 管理學院 62X01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-315",
+    "code": "R0-315 R064100 [EMBA6823]",
+    "name": "資訊科技與競爭優勢 EMBA與AMBA合開  限本系；限碩一以上選課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "徐立群",
+    "enrollment": "174/33",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[7]4 管理學院 62X01 [7]7 管理學院 62X01",
+    "slots": [
+      {
+        "day": 7,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-316",
+    "code": "R0-316 R063900 [EMBA6871]",
+    "name": "運動減壓與健康體適能管理 限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "林麗娟 鄭匡佑 周學雯 涂國誠 葉公鼎",
+    "enrollment": "324/18",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[7]2~3 管理學院 62X01",
+    "slots": [
+      {
+        "day": 7,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-317",
+    "code": "R0-317 R055900 [EMBA6842]",
+    "name": "生產與作業管理 限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "耿伯文 林清河",
+    "enrollment": "349/11",
+    "locations": [
+      "管理學院",
+      "61X02"
+    ],
+    "period": "[6]9~A 管理學院 61X02",
+    "slots": [
+      {
+        "day": 6,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R0-318",
+    "code": "R0-318 R057200 [EMBA6845]",
+    "name": "日本國際商務個案 EMBA與AMBA合開  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R0",
+    "department": "ＥＭＢＡ碩專 EMBA",
+    "teacher": "王明隆",
+    "enrollment": "47/額滿",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[6]C 管理學院 62X01",
+    "slots": [
+      {
+        "day": 6,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "RB-001",
+    "code": "RB-001 RB61900 [PEHL]",
+    "name": "休閒運動與高齡學專題研究 英語授課  勝利休閒與教育研究實驗室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "8/2",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-003",
+    "code": "RB-003 RB52600 [PEHL6212]",
+    "name": "養生運動科學特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "王苓華",
+    "enrollment": "39/16",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]5~7 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-004",
+    "code": "RB-004 RB51400 [PEHL6206]",
+    "name": "運動生物化學 中正堂運動生理實驗室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "黃滄海",
+    "enrollment": "103/額滿",
+    "locations": [],
+    "period": "[2]9~A",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-005",
+    "code": "RB-005 RB62200 [PEHL6113]",
+    "name": "運動與老化專題研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "林麗娟",
+    "enrollment": "9/16",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]1~2 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-006",
+    "code": "RB-006 RB50220 [PEHL6409]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "王苓華",
+    "enrollment": "183/7",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]3 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  }
+]

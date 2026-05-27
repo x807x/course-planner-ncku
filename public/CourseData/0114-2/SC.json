@@ -1,0 +1,407 @@
+[
+  {
+    "id": "SC-001",
+    "code": "SC-001 SC50120 [6092]",
+    "name": "專題討論（二） 英語授課 業界專家參與  EMI課程(英文授課 100%)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳秀玲* 陳容甄 陳健生 徐瑋萱 張偉翔",
+    "enrollment": "012/8",
+    "locations": [
+      "鳯杯講堂",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]7~8 生醫卓群大樓 鳯杯講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "SC-002",
+    "code": "SC-002 SC60100 [6003]",
+    "name": "食品化學 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生*",
+    "enrollment": "12/8",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[4]5~6 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-003",
+    "code": "SC-003 SC90100 [FSRM6045]",
+    "name": "高通量醫藥檢測科技 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生",
+    "enrollment": "90/11",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[1]3~4 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-005",
+    "code": "SC-005 SC63400 [FSRM6048]",
+    "name": "食用微生物特論-II 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "徐瑋萱*",
+    "enrollment": "3/107",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[3]3~4 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-006",
+    "code": "SC-006 SC63000 [FSRM6043]",
+    "name": "分子機轉與基因體毒理學（二） 英語授課  EMI課程(英文授課 100%)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳容甄* 林裕萍",
+    "enrollment": "3/47",
+    "locations": [
+      "13207",
+      "生醫卓群大樓"
+    ],
+    "period": "[3]3~4 生醫卓群大樓 13207",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-007",
+    "code": "SC-007 SC61700 [FSRM6030]",
+    "name": "食品與營養毒理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張雅雯* 林裕萍 陳容甄",
+    "enrollment": "3/027",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[2]3~4 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-008",
+    "code": "SC-008 SC61900 [FSRM6032]",
+    "name": "食品毒理評估方法（二） 上課教室:環醫所8052研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳容甄*",
+    "enrollment": "4/11",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-011",
+    "code": "SC-011 S361400 [PHSL6040]",
+    "name": "標靶器官毒理學 中英文上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張雅雯* 吳炳慶 許釗凱 蕭雅心 李俊璋 陳容甄 王仰高",
+    "enrollment": "7/43",
+    "locations": [
+      "13207",
+      "生醫卓群大樓"
+    ],
+    "period": "[2]5~6 生醫卓群大樓 13207",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-012",
+    "code": "SC-012 SC80700 [FSRM6060]",
+    "name": "食品添加物管理及評估",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張偉翔*",
+    "enrollment": "8/22",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]1~2 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-013",
+    "code": "SC-013 SC51000 [6018]",
+    "name": "食品安全衛生管理法暨國際食品安全法規",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳秀玲",
+    "enrollment": "7/13",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]3~4 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-014",
+    "code": "SC-014 SC50140 [6094]",
+    "name": "專題討論（四） 英語授課 業界專家參與  EMI課程(英文授課 100%)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳秀玲* 陳容甄 陳健生 徐瑋萱 張偉翔",
+    "enrollment": "15/73",
+    "locations": [
+      "鳯杯講堂",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]7~8 生醫卓群大樓 鳯杯講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "SC-015",
+    "code": "SC-015 SC62300 [FSRM6036]",
+    "name": "環境及食品分析技術應用",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張偉翔",
+    "enrollment": "8/202",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[2]3~4 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-017",
+    "code": "SC-017 SC63300 [FSRM6047]",
+    "name": "暴露評估與生物偵測特論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張偉翔",
+    "enrollment": "5/25",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[2]5~6 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-018",
+    "code": "SC-018 SC52100 [FSRM6067]",
+    "name": "創業入門 英語授課 COURSERA",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生",
+    "enrollment": "70/43",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

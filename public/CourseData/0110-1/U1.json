@@ -1,0 +1,772 @@
+[
+  {
+    "id": "U1-001",
+    "code": "U1-001 U156700-1 [PE6011]",
+    "name": "政治經濟學 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "124/6",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[3]2~4 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-002",
+    "code": "U1-002 U172900 [PE9011]",
+    "name": "高等政治經濟學 英語授課  1. 110學年度採英語授課。 2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "洪綾君",
+    "enrollment": "8/1",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[2]5~7 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-003",
+    "code": "U1-003 U560900 [ECON6501]",
+    "name": "應用計量方法 1.與經濟系合班，政治學系碩博班政治理論與方法領域課程。2.限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "許永河",
+    "enrollment": "1/9",
+    "locations": [
+      "八樓研討室C",
+      "社科院大樓"
+    ],
+    "period": "[2]2~4 社科院大樓 八樓研討室C",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-004",
+    "code": "U1-004 U174400 [PE7114]",
+    "name": "媒體與政治 新聞傳播學程  1. 政治理論與方法領域課程。 2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "沈智新",
+    "enrollment": "15/21",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[3]6~8 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-005",
+    "code": "U1-005 U560301 [ECON6502]",
+    "name": "健康經濟學 1.與經濟系合班，政治學系碩博班公共行政領域課程。2.限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "劉亞明",
+    "enrollment": "7/13",
+    "locations": [
+      "八樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[1]5~7 社科院大樓 八樓研討室A",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-006",
+    "code": "U1-006 U150900 [PE7216]",
+    "name": "經濟發展理論與政策 1. 與經濟學系合班，政治學系碩博班公共行政領域課程。 2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "謝文真",
+    "enrollment": "32/7",
+    "locations": [
+      "八樓研討室C",
+      "社科院大樓"
+    ],
+    "period": "[1]6~8 社科院大樓 八樓研討室C",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-007",
+    "code": "U1-007 U173800 [PE7215]",
+    "name": "救災體系 跨領域永續發展全英語學分學程(CPSD)，防災科技管理學分學程 英語授課  1. 公共行政領域英語課程。 2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "楊永年",
+    "enrollment": "14/額滿",
+    "locations": [
+      "六樓研討室B",
+      "社科院大樓"
+    ],
+    "period": "[2]2~4 社科院大樓 六樓研討室B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-008",
+    "code": "U1-008 U181700 [PE7207]",
+    "name": "比較政治經濟 1. 比較政治領域課程。 2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "丁仁方",
+    "enrollment": "8/22",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[2]2~4 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-009",
+    "code": "U1-009 U174200 [PE7316]",
+    "name": "立法行為 1. 比較政治領域課程。 2. 限學士班四年級以上同學選修。 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "黃士豪",
+    "enrollment": "3/27",
+    "locations": [
+      "社科院大樓",
+      "六樓研討室A"
+    ],
+    "period": "[4]5 社科院大樓 六樓研討室A [4]6~7 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U1-010",
+    "code": "U1-010 D444400 [PS5301]",
+    "name": "亞洲安全：理論與政策 1. 比較政治、國際關係領域大碩課程。2. 學士班：限二年級以上同學選修，碩士班：選課請洽系辦公室。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王宏仁",
+    "enrollment": "29/521",
+    "locations": [
+      "階梯教室-政治",
+      "社科院大樓"
+    ],
+    "period": "[5]5~7 社科院大樓 階梯教室-政治",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-012",
+    "code": "U1-012 U560400 [ECON6506]",
+    "name": "國際金融理論與政策 1. 與經濟學系合班，政治學系碩博士班國際關係領域課程。 3. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "蔡群立",
+    "enrollment": "26/2",
+    "locations": [
+      "八樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[3]2~4 社科院大樓 八樓研討室A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-013",
+    "code": "U1-013 U173900-1 [PE7401]",
+    "name": "亞太政經風險分析 1. 國際關係領域課程。2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "周志杰",
+    "enrollment": "9/2",
+    "locations": [
+      "六樓研討室B",
+      "社科院大樓"
+    ],
+    "period": "[2]5~7 社科院大樓 六樓研討室B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-014",
+    "code": "U1-014 U173200-1 [PE7313]",
+    "name": "東南亞政經 1. 國際關係領域專題課程。2. 限學士班四年級以上同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "9/1",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[4]2~4 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-015",
+    "code": "U1-015 D445600 [PS5401]",
+    "name": "國際關係與學術論文寫作 1. 國際關係領域大碩課程（於80203、80303 教室上課）。 2. 限二年級以同學選修。 3. 碩士班選課請洽系辦公室。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "平思寧",
+    "enrollment": "25/24",
+    "locations": [
+      "電腦教室",
+      "社科院大樓"
+    ],
+    "period": "[1]5~7 社科院大樓 電腦教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-301",
+    "code": "U1-301 U156700-2 [PE6011]",
+    "name": "政治經濟學 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "15/5",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[4]A~C 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-302",
+    "code": "U1-302 U172600 [PE7311]",
+    "name": "社會運動 政治理論與方法領域課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王金壽",
+    "enrollment": "6/1",
+    "locations": [
+      "六樓研討室B",
+      "社科院大樓"
+    ],
+    "period": "[3]A~C 社科院大樓 六樓研討室B",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-303",
+    "code": "U1-303 U183100 [PE7305]",
+    "name": "社會科學計量分析 1. 政治理論與方法領域課程。 2. 另安排於電腦教室80301上課。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "蒙志成",
+    "enrollment": "12/2額滿",
+    "locations": [
+      "六樓研討室B",
+      "社科院大樓"
+    ],
+    "period": "[2]A~C 社科院大樓 六樓研討室B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-304",
+    "code": "U1-304 U173800-2 [PE7215]",
+    "name": "救災體系 跨領域永續發展全英語學分學程(CPSD)，防災科技管理學分學程  公共行政領域課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "楊永年",
+    "enrollment": "10/2",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[1]A~C 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-305",
+    "code": "U1-305 U156400 [PE6317]",
+    "name": "亞洲安全：理論與政策 比較政治、國際關係領域課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "王宏仁",
+    "enrollment": "13/1",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[5]A~C 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-306",
+    "code": "U1-306 U155200 [PE7303]",
+    "name": "網路政治與社會 新聞傳播學程  比較政治領域課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "洪敬富",
+    "enrollment": "6/4",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[2]A~C 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-307",
+    "code": "U1-307 U173900-2 [PE7401]",
+    "name": "亞太政經風險分析 國際關係領域課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "周志杰",
+    "enrollment": "6/額滿",
+    "locations": [
+      "六樓研討室C",
+      "社科院大樓"
+    ],
+    "period": "[3]A~C 社科院大樓 六樓研討室C",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U1-308",
+    "code": "U1-308 U173200-2 [PE7313]",
+    "name": "東南亞政經 國際關係領域專題課程。  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U1",
+    "department": "政經所 PE",
+    "teacher": "宋鎮照",
+    "enrollment": "9/1",
+    "locations": [
+      "六樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[3]A~C 社科院大樓 六樓研討室A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "id": "L5-010",
+    "code": "L5-010 L550010 [LS6091]",
+    "name": "專題討論（一） 與生命所、生多所合班開課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "張虹書 陳世輝",
+    "enrollment": "27/不限",
+    "locations": [
+      "3415",
+      "牙醫系館"
+    ],
+    "period": "[4]5~6 牙醫系館 3415",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L5-014",
+    "code": "L5-014 L550030 [LS6093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "李亞夫 宋皇模",
+    "enrollment": "8/1不限",
+    "locations": [
+      "3417",
+      "牙醫系館"
+    ],
+    "period": "[4]5~6 牙醫系館 3417",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L5-019",
+    "code": "L5-019 L560100 [LS6090]",
+    "name": "專題討論 供碩三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "李亞夫 宋皇模",
+    "enrollment": "115/不限",
+    "locations": [
+      "3417",
+      "牙醫系館"
+    ],
+    "period": "[4]5~6 牙醫系館 3417",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-020",
+    "code": "L5-020 L550010-1 [LS6091]",
+    "name": "專題討論（一） 博一二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳文鑾 郭長生",
+    "enrollment": "4/不1限",
+    "locations": [
+      "牙醫系館",
+      "3418"
+    ],
+    "period": "[4]5~6 牙醫系館 3418",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L5-021",
+    "code": "L5-021 L550030-1 [LS6093]",
+    "name": "專題討論（三） 博一二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳文鑾 郭長生",
+    "enrollment": "7/不限",
+    "locations": [
+      "牙醫系館",
+      "3418"
+    ],
+    "period": "[4]5~6 牙醫系館 3418",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L5-022",
+    "code": "L5-022 L560100-1 [LS6090]",
+    "name": "專題討論 供博三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳文鑾 郭長生",
+    "enrollment": "33/1不限",
+    "locations": [
+      "牙醫系館",
+      "3418"
+    ],
+    "period": "[4]5~6 牙醫系館 3418",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-025",
+    "code": "L5-025 L552200 [LS]",
+    "name": "高等微生物學技術",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "陳世輝",
+    "enrollment": "11/19",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[4]3~4 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-027",
+    "code": "L5-027 L551000 [LS6102]",
+    "name": "神經生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "曾淑芬",
+    "enrollment": "5/15",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[4]7~9 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-029",
+    "code": "L5-029 L551700 [LS7106]",
+    "name": "生物化學特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳文鑾 洪建中 林鼎晏",
+    "enrollment": "19/11",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[2]6~8 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-030",
+    "code": "L5-030 L560800 [LS6700]",
+    "name": "分子遺傳學 生命所與生多所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳文鑾",
+    "enrollment": "141/16",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[3]2~4 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-032",
+    "code": "L5-032 L550900 [LS5705]",
+    "name": "鳥類學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "李亞夫",
+    "enrollment": "6/14",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[3]2~4 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-034",
+    "code": "L5-034 L571600 [LS7312]",
+    "name": "演化生物學特論 生命所與生多所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "蔣鎮宇",
+    "enrollment": "15/15",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[2]2~4 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-036",
+    "code": "L5-036 L582900 [LS7308]",
+    "name": "植物生物科技 英語授課  生命所．生多所合班，英文授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "李瑞花",
+    "enrollment": "4/116",
+    "locations": [
+      "3415",
+      "牙醫系館"
+    ],
+    "period": "[4]3~4 牙醫系館 3415",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-037",
+    "code": "L5-037 L583000 [LS7110]",
+    "name": "蛋白質結構",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "吳煥麟",
+    "enrollment": "8/22",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[3]5~6 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-038",
+    "code": "L5-038 L581300 [LS7520]",
+    "name": "應用族群生態學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "侯平君 吳煥麟",
+    "enrollment": "12/8",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[4]2~4 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-039",
+    "code": "L5-039 L580800 [LS7302]",
+    "name": "保育遺傳學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "蔣鎮宇",
+    "enrollment": "5/215",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[1]7~9 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-042",
+    "code": "L5-042 L572101 [LS7502]",
+    "name": "生態學經典",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "侯平君 李亞夫",
+    "enrollment": "9/11",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[3]7~9 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-046",
+    "code": "L5-046 L581601-Y [LS]",
+    "name": "蘭花生物科技學 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "陳虹樺 黃浩仁 張清俊",
+    "enrollment": "13/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "L5-048",
+    "code": "L5-048 L583200-Y [LS]",
+    "name": "植物分子發育及其在蘭花之應用與實作 暑假上課，生科中心暑期推廣課程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "黃浩仁 張清俊",
+    "enrollment": "81/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "L5-054",
+    "code": "L5-054 L580100 [LS7310]",
+    "name": "植物訊息傳遞",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "黃浩仁",
+    "enrollment": "10/10",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[1]6~8 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-056",
+    "code": "L5-056 L570300 [LS]",
+    "name": "植物解剖學專論 生命所與生多所合開",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "郭長生",
+    "enrollment": "6/14",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[3]5~6 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-058",
+    "code": "L5-058 L581200 [LS7300]",
+    "name": "基因體學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "陳虹樺",
+    "enrollment": "17/23",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[2]7~9 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-060",
+    "code": "L5-060 L580600 [LS9302]",
+    "name": "系統分類學獨立研究",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "蔣鎮宇",
+    "enrollment": "2/118",
+    "locations": [
+      "牙醫系館",
+      "3444"
+    ],
+    "period": "[2]1 牙醫系館 3444",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-061",
+    "code": "L5-061 L571300 [LS9102]",
+    "name": "營養生理學獨立研究",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "張素瓊",
+    "enrollment": "11/29",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[4]9 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-062",
+    "code": "L5-062 L583310 [LS7700]",
+    "name": "普通生物學實驗教學（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "陳虹樺 蔣鎮宇 黃浩仁 宋皇模 李瑞花 吳文鑾 郭長生",
+    "enrollment": "101/60",
+    "locations": [
+      "牙醫系館",
+      "3437"
+    ],
+    "period": "[5]3~4 牙醫系館 3437",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L5-063",
+    "code": "L5-063 L582200 [LS7706]",
+    "name": "論文寫作 暑假授課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "L5",
+    "department": "生科所 LS",
+    "teacher": "荻原哲",
+    "enrollment": "4/不限",
+    "locations": [
+      "未定",
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "未定 牙醫系館 3414",
+    "slots": []
+  }
+]

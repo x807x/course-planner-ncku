@@ -1,0 +1,661 @@
+[
+  {
+    "id": "S7-001",
+    "code": "S7-001 S750620-1 [EOH7092]",
+    "name": "專題討論（二） 碩一碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦* 郭浩然 王應然 蘇慧貞 李俊璋 劉明毅 蔡朋枝 林明彥 吳致杰",
+    "enrollment": "16/344",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]5~6 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-002",
+    "code": "S7-002 S750640-1 [EOH7094]",
+    "name": "專題討論（四） 碩一碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦* 郭浩然 王應然 蘇慧貞 李俊璋 劉明毅 蔡朋枝 林明彥 吳致杰",
+    "enrollment": "223/38",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]5~6 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-003",
+    "code": "S7-003 S762000 [EOH7095]",
+    "name": "專題討論 限碩三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦*",
+    "enrollment": "7/533",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]5 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-004",
+    "code": "S7-004 S781800 [EOH7129]",
+    "name": "暴露與風險評估",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "蔡朋枝* 林明彥",
+    "enrollment": "12/28",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[1]3~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-005",
+    "code": "S7-005 S781500 [EOH7126]",
+    "name": "作業環境監測（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "林明彥* 蔡朋枝",
+    "enrollment": "36/34",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[1]5~6 醫學院 302D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-006",
+    "code": "S7-006 S781700 [EOH7128]",
+    "name": "職業衛生與健康管理實務 環醫所8063研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "蔡朋枝* 郭浩然 林明彥",
+    "enrollment": "6/19",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-007",
+    "code": "S7-007 S755000 [EOH7110]",
+    "name": "空氣污染物特性分析",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "林明彥* 蘇慧貞 李俊璋 蔡朋枝",
+    "enrollment": "311/29",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[2]1~2 醫學院 302D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-009",
+    "code": "S7-009 S780100 [EOH7112]",
+    "name": "環境保護法規 業界專家參與  環醫所與環工所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "顏秀慧*",
+    "enrollment": "231/19",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[2]3~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-011",
+    "code": "S7-011 S755700 [EOH7206]",
+    "name": "儀器分析 環醫所8063研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦* 王應然 劉明毅",
+    "enrollment": "83/17",
+    "locations": [],
+    "period": "[3]8~9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-012",
+    "code": "S7-012 S755420 [EOH7203]",
+    "name": "實驗毒理學（二） 環醫所8052研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "王應然*",
+    "enrollment": "3/22",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-014",
+    "code": "S7-014 S757300 [EOH7212]",
+    "name": "食品安全風險評估 英語授課  環醫所8063研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦*",
+    "enrollment": "53/20",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-015",
+    "code": "S7-015 L360200 [CHEM8024]",
+    "name": "質譜學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦",
+    "enrollment": "25/35",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[1]7~9 醫學院 304D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-016",
+    "code": "S7-016 S760700 [EOH7303]",
+    "name": "實用流行病學 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然*",
+    "enrollment": "5/30",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[1]5~6 醫學院 301D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-017",
+    "code": "S7-017 S752300 [EOH7402]",
+    "name": "環境與職業醫學特論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然* 郭耀昌 吳政龍 蘇世斌 林宙晴 王應然 李俊璋 王榮德",
+    "enrollment": "4/31",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[1]7~8 醫學院 301D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-019",
+    "code": "S7-019 S756600 [EOH7315E]",
+    "name": "高等生物統計 英語授課  環醫所8063研討室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "吳致杰*",
+    "enrollment": "2/23",
+    "locations": [],
+    "period": "[3]5~7",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-021",
+    "code": "S7-021 S760920 [EOH7404]",
+    "name": "環境與職業醫學實習（二） 業界專家參與  附設醫院職業醫學門診",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然*",
+    "enrollment": "23/8",
+    "locations": [],
+    "period": "[3]2~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S7-023",
+    "code": "S7-023 S753620 [EOH6402]",
+    "name": "職業病個案診斷研究（二） 業界專家參與  職業病個案診斷研究(二)(四)合班. 職醫科8019研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然*",
+    "enrollment": "1/324",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-024",
+    "code": "S7-024 S753640 [EOH6404]",
+    "name": "職業病個案診斷研究（四） 業界專家參與  職業病個案診斷研究(二)(四)合班. 職醫科8019研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然*",
+    "enrollment": "43/21",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S7-101",
+    "code": "S7-101 S750620-2 [EOH7092]",
+    "name": "專題討論（二） 博一博二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦* 郭浩然 王應然 蘇慧貞 李俊璋 劉明毅 蔡朋枝 林明彥 吳致杰",
+    "enrollment": "5/535",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]9~A 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-102",
+    "code": "S7-102 S750640-2 [EOH7094]",
+    "name": "專題討論（四） 博一博二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦* 郭浩然 王應然 蘇慧貞 李俊璋 劉明毅 蔡朋枝 林明彥 吳致杰",
+    "enrollment": "2/58",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]9~A 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-103",
+    "code": "S7-103 S761400 [EOH7096]",
+    "name": "專題討論 限博三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "廖寶琦*",
+    "enrollment": "316/44",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]9 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S7-104",
+    "code": "S7-104 S770220 [EOH9002]",
+    "name": "教學實習（二） 擔任課程助教",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "林明彥*",
+    "enrollment": "34/6",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S7-105",
+    "code": "S7-105 S770240 [EOH9004]",
+    "name": "教學實習（四） 擔任課程助教",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "林明彥*",
+    "enrollment": "6/4",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S7-106",
+    "code": "S7-106 S770920 [EOH9010]",
+    "name": "環境與職業醫學實例討論（二） 業界專家參與  (二)(四)合班. 職醫科8019研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S7",
+    "department": "環醫所 EOH",
+    "teacher": "郭浩然*",
+    "enrollment": "32/23",
+    "locations": [],
+    "period": "[1]2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

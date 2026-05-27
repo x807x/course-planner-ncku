@@ -1,0 +1,900 @@
+[
+  {
+    "id": "S5-101",
+    "code": "S5-101 S575101 [BMS9001]",
+    "name": "生物醫學研究入門",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔡少正* 賴明德 陳昌熙 許桂森 王憶卿 湯銘哲 任卓穎 楊倍昌 林世杰",
+    "enrollment": "19/160",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[1]5~6 醫學院 602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-102",
+    "code": "S5-102 S580300 [BMS9003]",
+    "name": "高等分子生物學 學生須依學程選修「分子生物學特論」，本校碩班未修過高等分子生物學畢業生得選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "陳昌熙* 陳百昇 張文粲 黃柏憲 余建泓 楊尚訓 凌斌 陳振暐 鄭宏祺 鄧景浩 張南山",
+    "enrollment": "1/115",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-103",
+    "code": "S5-103 S550300 [BMS9026]",
+    "name": "分子生物學特論 博班學生應選修「分子生物學特論」",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "陳昌熙* 張權發 張文粲 黃柏憲 余建泓 顏賢章 王淑鶯 王仰高",
+    "enrollment": "8/21",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[2]2~4 醫學院 304D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-104",
+    "code": "S5-104 S110800 [BIMB6201]",
+    "name": "蛋白質與酵素學 基醫所與生化所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "莊偉哲* 吳權娟",
+    "enrollment": "23/27",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]3~4 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-106",
+    "code": "S5-106 T151800 [IMM7101]",
+    "name": "生物資訊 主負責:分醫所。再生學程(D生物資訊或統計方法群)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "孫孝芳* 陳淑慧 劉宗霖 王育民 曾大千 蔡少正 林世杰 張文綺",
+    "enrollment": "20/61",
+    "locations": [
+      "醫學院",
+      "醫圖電腦教室"
+    ],
+    "period": "[3]2~4 醫學院 醫圖電腦教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-107",
+    "code": "S5-107 S570700 [BMS9022]",
+    "name": "免疫學 再生醫學科技學分學程  基醫所與微免所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "凌斌* 張志鵬 謝奇璋",
+    "enrollment": "0/29",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[1]2~4 醫學院 604",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-108",
+    "code": "S5-108 T160500 [IMM7202]",
+    "name": "細胞凋亡的分子機轉",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔣輯武* 陳昌熙 姜學誠 莊季瑛 張志鵬 張南山",
+    "enrollment": "9/20",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]3~4 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-109",
+    "code": "S5-109 S573700 [BMS9101]",
+    "name": "免疫學特論 與微免所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "張志鵬* 王育民 楊孔嘉 蔡佩珍 徐麗君 王志堯 王崇任 王世敏 凌斌 陳振暐 余佳益 許育祥",
+    "enrollment": "1/613",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]2~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-110",
+    "code": "S5-110 S550410 [BMS9004]",
+    "name": "細胞生物學特論（一） 再生醫學科技學分學程  限博士班學生選修。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王憶卿* 張雋曦 姜學誠 張志鵬 江伯敏 郭余民",
+    "enrollment": "13/616",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[3]5~6 醫學院 304D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-111",
+    "code": "S5-111 S354600 [PHSL6041]",
+    "name": "神經精神藥理學 與基醫所、藥理所合班上課，本課程採中英文上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "張雅雯* 蔡景仁 陳志弘 劉彥青 宋碧姍 許桂森 簡伯武 蕭雅心 吳偉立 張惠華",
+    "enrollment": "17/67",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[4]3~4 醫學院 0724",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-113",
+    "code": "S5-113 S550600 [BMS9028]",
+    "name": "癌症轉移文獻探討",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "鄭宏祺* 曾堯麟 黃柏憲",
+    "enrollment": "66/24",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[1]7~8 醫學院 201D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-119",
+    "code": "S5-119 S570120 [BMS9096]",
+    "name": "教學實習（二） 限博三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔡少正*",
+    "enrollment": "621/19",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S5-132",
+    "code": "S5-132 S590300 [BMS9018]",
+    "name": "藥物發展實務（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "周辰熹*",
+    "enrollment": "16/13",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 304D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-158",
+    "code": "S5-158 S571010-1 [BMS9091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王淑鶯* 陳韻雯*",
+    "enrollment": "11/18",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]7 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-159",
+    "code": "S5-159 S571030-1 [BMS9093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王淑鶯* 陳韻雯*",
+    "enrollment": "8/21",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]8 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-160",
+    "code": "S5-160 S572500-1 [BMS9090]",
+    "name": "專題討論 供博三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王淑鶯* 陳韻雯*",
+    "enrollment": "27/2",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]9 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-161",
+    "code": "S5-161 S571010-2 [BMS9091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蕭雅心* 陳百昇*",
+    "enrollment": "7/622",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]7 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-162",
+    "code": "S5-162 S571030-2 [BMS9093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蕭雅心* 陳百昇*",
+    "enrollment": "11/18",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]8 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-163",
+    "code": "S5-163 S572500-2 [BMS9090]",
+    "name": "專題討論 供博三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蕭雅心* 陳百昇*",
+    "enrollment": "628/1",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]9 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S5-164",
+    "code": "S5-164 T153100 [IMM7102E]",
+    "name": "研究導論 英語授課 業界專家參與  分醫與基醫所合班，英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔣輯武* 郭保麟 張雅雯 王憲威 鄧景浩 張南山",
+    "enrollment": "11/18",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[2]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-165",
+    "code": "S5-165 S156600 [BIMB6410]",
+    "name": "癌症研究入門",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "張志鵬* 洪良宜 邱文泰 陳百昇 周楠華 賴明德 黃柏憲 呂增宏 王憶卿 張雋曦 鄭宏祺 呂佩融 張南山 陳玉玲 黃則達",
+    "enrollment": "34/26",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[3]8~9 醫學院 602",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-166",
+    "code": "S5-166 S451601 [MI6007E]",
+    "name": "英文論文閱讀及寫作 基醫所與微免所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王淑鶯* 張雋曦",
+    "enrollment": "14/161",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]5~6 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-167",
+    "code": "S5-167 S251700 [PHAR6211]",
+    "name": "生長基因及致癌基因 基醫所、藥理所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "呂增宏* 洪建中 洪良宜 徐麗君 陳炳焜 王憶卿 劉校生 呂佩融 蔣輯武",
+    "enrollment": "4/621",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[4]3~4 醫學院 0824",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-168",
+    "code": "S5-168 S571600 [BMS9009]",
+    "name": "實驗動物學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "許育祥* 傅子芳 楊尚訓 顏賢章 余俊強 蔡曜聲",
+    "enrollment": "7/12",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-169",
+    "code": "S5-169 S570140 [BMS9098]",
+    "name": "教學實習（四） 限博三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔡少正*",
+    "enrollment": "15/645",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S5-170",
+    "code": "S5-170 T350401 [MLSB6215]",
+    "name": "微生物致病機轉 醫技、分醫、基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "王貞仁* 楊孔嘉 蔡佩珍 劉清泉 林威辰 凌斌 張志鵬 陳振暐 王憲威 鄧景浩 橋本昌征",
+    "enrollment": "16/額滿",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 301D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-171",
+    "code": "S5-171 S252000 [PHAR6212]",
+    "name": "高等神經生理學 藥理、基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "姜學誠* 許桂森",
+    "enrollment": "8/4",
+    "locations": [
+      "0811",
+      "醫學院"
+    ],
+    "period": "[3]5~6 醫學院 0811",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-174",
+    "code": "S5-174 S575600 [BMS9014E]",
+    "name": "基礎醫學研究技術 基醫所與生化所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "黃柏憲* 邱文泰 賴明德 陳昌熙 楊尚訓 鄭宏祺 蔡曜聲",
+    "enrollment": "11/13",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-176",
+    "code": "S5-176 S953700 [CM7138]",
+    "name": "人類疾病動物模式 再生醫學科技學分學程 英語授課  再生學程(B實驗動物群)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "蔡坤哲* 邱元佑 歐弘毅 蘇維仁 劉嚴文 王亮超 阮俊能 吳柏廷 沈延盛 謝奇璋 江伯敏 陳芃潔 劉秉彥 許育祥",
+    "enrollment": "20/4",
+    "locations": [
+      "門診大樓",
+      "7023"
+    ],
+    "period": "[4]9~A 門診大樓 7023",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-177",
+    "code": "S5-177 S954410 [CM7136]",
+    "name": "轉譯醫學（一） 再生醫學科技學分學程，先端手術研究轉譯醫學學分學程 英語授課 業界專家參與  碩(含專)必選;全英文。5:30上課;再生學程(A臨床應用群)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "呂佩融* 洪建中 王育民 張權發 林錫璋 沈孟儒 湯銘哲 劉秉彥 修臥龍",
+    "enrollment": "43/21",
+    "locations": [
+      "門診大樓",
+      "7027"
+    ],
+    "period": "[1]9~A 門診大樓 7027",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S5-179",
+    "code": "S5-179 S590100 [BMS9032]",
+    "name": "基因體編輯技術於疾病研究之運用 英語授課  上課教室:NHRI B1第二研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S5",
+    "department": "基醫所 BMS",
+    "teacher": "林世杰*",
+    "enrollment": "65/5",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,593 @@
+[
+  {
+    "id": "K3-001",
+    "code": "K3-001 K354320 [HIS6104]",
+    "name": "高級史學英文（二） 碩士班英文、日文擇一為必修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "李鑑慧*",
+    "enrollment": "71/5",
+    "locations": [
+      "25233",
+      "歷史系館"
+    ],
+    "period": "[4]3~N 歷史系館 25233",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-003",
+    "code": "K3-003 K354420-1 [HIS6102]",
+    "name": "專業史學日文（二） 碩士班英文、日文擇一為必修。99學年度（含）以後入學博士生勿選",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "顧盼",
+    "enrollment": "11/11",
+    "locations": [
+      "25232",
+      "歷史系館"
+    ],
+    "period": "[1]2 歷史系館 25232 [4]3~4 歷史系館 25232",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-006",
+    "code": "K3-006 K354821 [HIS6006]",
+    "name": "論文寫作與實習（二） 基礎課,碩士生必修",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "陳恒安",
+    "enrollment": "10/114",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[1]7~8 歷史系館 25234",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-007",
+    "code": "K3-007 K375220 [HIS9002]",
+    "name": "史學與史學研究（二） 基礎課（含研討）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "王文霞",
+    "enrollment": "3/9",
+    "locations": [
+      "25231",
+      "歷史系館"
+    ],
+    "period": "[2]7~8 歷史系館 25231",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-017",
+    "code": "K3-017 K388200 [HIS7170]",
+    "name": "美國婦女及性別史專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "王秀雲",
+    "enrollment": "7/3",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[2]2~4 歷史系館 25234",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-018",
+    "code": "K3-018 K353220 [HIS7124]",
+    "name": "中國近代史專題研究（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "蘇梅芳",
+    "enrollment": "4/8",
+    "locations": [
+      "25231",
+      "歷史系館"
+    ],
+    "period": "[3]7~8 歷史系館 25231",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-019",
+    "code": "K3-019 K388400 [HIS7140]",
+    "name": "明清經濟與文化專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "顧盼",
+    "enrollment": "4/8",
+    "locations": [
+      "25232",
+      "歷史系館"
+    ],
+    "period": "[2]6~8 歷史系館 25232",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-020",
+    "code": "K3-020 K363720 [HIS7110]",
+    "name": "台灣文化與美學專題研究（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "蕭瓊瑞",
+    "enrollment": "10/2",
+    "locations": [
+      "25231",
+      "歷史系館"
+    ],
+    "period": "[1]3~4 歷史系館 25231",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-021",
+    "code": "K3-021 K355020 [HIS7104]",
+    "name": "現代台海兩岸關係史專題研究（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "鄭梓",
+    "enrollment": "15/1額滿",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[3]5~6 歷史系館 25234",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-028",
+    "code": "K3-028 K386100 [HIS7139]",
+    "name": "清代基督教在台灣傳教專題 開放碩士班修課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "陳梅卿",
+    "enrollment": "113/2",
+    "locations": [
+      "25233",
+      "歷史系館"
+    ],
+    "period": "[4]6~8 歷史系館 25233",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-031",
+    "code": "K3-031 K389000 [HIS7150]",
+    "name": "生育禮俗專題研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "江達智",
+    "enrollment": "9/12",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[5]3~4 歷史系館 25234",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-032",
+    "code": "K3-032 K388600 [HIS7141]",
+    "name": "西方近現代藝術與歷史專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "楊尹瑄",
+    "enrollment": "17/額滿",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[2]6~8 歷史系館 25234",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-034",
+    "code": "K3-034 K362620 [HIS7118]",
+    "name": "道教發展史專題（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "丁　煌",
+    "enrollment": "3/9",
+    "locations": [
+      "25231",
+      "歷史系館"
+    ],
+    "period": "[4]7~8 歷史系館 25231",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-037",
+    "code": "K3-037 K350800 [HIS7150]",
+    "name": "中國地方志與地方史研究 開放碩士班修課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "劉石吉",
+    "enrollment": "19/3",
+    "locations": [
+      "25233",
+      "歷史系館"
+    ],
+    "period": "[1]6~8 歷史系館 25233",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-038",
+    "code": "K3-038 K389100 [HIS7160]",
+    "name": "民國史專題研究",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "林德政",
+    "enrollment": "5/7",
+    "locations": [
+      "25231",
+      "歷史系館"
+    ],
+    "period": "[3]3~4 歷史系館 25231",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-039",
+    "code": "K3-039 K387800 [HIS7170]",
+    "name": "台灣政治文化史專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "陳文松",
+    "enrollment": "8/2",
+    "locations": [
+      "25240",
+      "歷史系館"
+    ],
+    "period": "[4]2~4 歷史系館 25240",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-040",
+    "code": "K3-040 K389200 [HIS7170]",
+    "name": "英國勞工史專題 開放碩士班修課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "王文霞",
+    "enrollment": "41/6",
+    "locations": [
+      "25234",
+      "歷史系館"
+    ],
+    "period": "[4]2~4 歷史系館 25234",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K3-055",
+    "code": "K3-055 K360201-2 [HIS7221]",
+    "name": "獨立研究 供碩三博三以上同學選課由指導教授授課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "陳恒安",
+    "enrollment": "42/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "K3-327",
+    "code": "K3-327 K360201-2 [HIS7221]",
+    "name": "獨立研究 供碩三博三以上同學選課由指導教授授課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K3",
+    "department": "歷史所 HIS",
+    "teacher": "陳恒安",
+    "enrollment": "42/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

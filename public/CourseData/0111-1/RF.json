@@ -1,0 +1,107 @@
+[
+  {
+    "id": "RF-101",
+    "code": "RF-101 RF70200 [DBA9001]",
+    "name": "數量方法分析 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RF",
+    "department": "經營博士學程 DBA",
+    "teacher": "王逸琳* 李宜真 王泰裕 林珮珺 林彣珊",
+    "enrollment": "3/額滿",
+    "locations": [
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[5]6~8 管理學院 61X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RF-102",
+    "code": "RF-102 RF70100 [DBA9000]",
+    "name": "質性研究方法 彈性密集課程，依課綱公告時間上課。  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RF",
+    "department": "經營博士學程 DBA",
+    "teacher": "曾瓊慧* 周信輝 史習安",
+    "enrollment": "3/額滿",
+    "locations": [
+      "61X01上課時間",
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[6]2~4 管理學院 61X01 [6]5~7 管理學院 61X01上課時間",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RF-103",
+    "code": "RF-103 RF70400 [DBA9003]",
+    "name": "入學研究營 業界專家參與  彈性密集課程，依課綱公告時間於暑假上課。  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RF",
+    "department": "經營博士學程 DBA",
+    "teacher": "謝中奇* 李宜真 黃宇翔 張佑宇 林正章",
+    "enrollment": "3/額滿",
+    "locations": [
+      "61X01上課時間",
+      "管理學院"
+    ],
+    "period": "[6] 管理學院 61X01上課時間",
+    "slots": []
+  }
+]

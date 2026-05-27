@@ -1,0 +1,462 @@
+[
+  {
+    "id": "T1-004",
+    "code": "T1-004 T150110 [IMM6091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "孫孝芳* 朱俊憲",
+    "enrollment": "15/35",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]8 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-009",
+    "code": "T1-009 T150130 [IMM6093E]",
+    "name": "專題討論（三） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "孫孝芳* 朱俊憲",
+    "enrollment": "13/537",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]7 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-017",
+    "code": "T1-017 T350401 [MLSB6215]",
+    "name": "微生物致病機轉 業界專家參與  醫技、分醫、基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "王貞仁* 楊孔嘉 蔡佩珍 林威辰 沈靜芬 凌斌 張志鵬 陳振暐 鄭尉弘 王憲威 鄧景浩 橋本昌征",
+    "enrollment": "253/12",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 301D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-020",
+    "code": "T1-020 T153300 [IMM6401]",
+    "name": "傳染性疾病與微生物研究導論 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "鄧景浩* 柯文謙 張定宗 張家銘 李南瑤 王世敏 王憲威 橋本昌征",
+    "enrollment": "75/38",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[4]3~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-021",
+    "code": "T1-021 T153100 [IMM7102E]",
+    "name": "研究導論 英語授課 業界專家參與  分醫與基醫所合班，英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "蔣輯武* 郭保麟 湯銘哲 吳梨華 王憲威 鄧景浩 朱俊憲",
+    "enrollment": "165/44",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[2]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-022",
+    "code": "T1-022 T154010 [IMM6191E]",
+    "name": "分子醫學特論（一） 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "王憲威* 孫孝芳 鄧景浩 橋本昌征 朱俊憲",
+    "enrollment": "10/10",
+    "locations": [
+      "T14214",
+      "統一健康大樓"
+    ],
+    "period": "[1]7~8 統一健康大樓 T14214",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-024",
+    "code": "T1-024 T151800 [IMM7101]",
+    "name": "生物資訊 主負責:分醫所。基醫所、臨醫所、再生醫學(D 生物資訊或統計方法群)、智慧生醫學分學程(核心)合班上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "孫孝芳* 劉宗霖 陳盈嵐 陳百昇 蕭雅心 林世杰 張文綺 黃兆立",
+    "enrollment": "28/542",
+    "locations": [
+      "醫學院",
+      "醫圖電腦教室"
+    ],
+    "period": "[3]2~4 醫學院 醫圖電腦教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-025",
+    "code": "T1-025 T151711 [IMM6391]",
+    "name": "遺傳學特論（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "孫孝芳* 林世杰 蔡少正 朱俊憲",
+    "enrollment": "56/9",
+    "locations": [
+      "統一健康大樓",
+      "T1B003"
+    ],
+    "period": "[5]5~6 統一健康大樓 T1B003",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-028",
+    "code": "T1-028 T161700 [IMM7105E]",
+    "name": "分子醫學跨學科研究培訓 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "王憲威*",
+    "enrollment": "2/518",
+    "locations": [
+      "T13214",
+      "統一健康大樓"
+    ],
+    "period": "[1]5 統一健康大樓 T13214",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-030",
+    "code": "T1-030 T154200-1 [IMM6030]",
+    "name": "高等分子生物學 與生化所、微免所、醫技所、基醫所、臨醫所、口醫所合班上課，前12堂為共同課程，後為PBL課程，地點303D",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "蔣輯武* 陳百昇 林韋伶 阮振維 黃柏憲 余建泓 吳權娟 凌斌 蔡智瑄 林世杰 呂佩融 鄧景浩 橋本昌征 朱俊憲 陳玉玲",
+    "enrollment": "14/220",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-031",
+    "code": "T1-031 T154300-1 [IMM6040]",
+    "name": "高等細胞生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "吳梨華* 邱文泰 張文粲 陳韻雯 蔣輯武 王憲威 鄧景浩 朱俊憲",
+    "enrollment": "145/46",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[3]5~7 醫學院 602",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-032",
+    "code": "T1-032 T154200-2 [IMM6030]",
+    "name": "高等分子生物學 英語授課  與藥理所合班上課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "橋本昌征* 張雋曦 朱俊憲",
+    "enrollment": "1/44",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[3]2~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-033",
+    "code": "T1-033 T154300-2 [IMM6040]",
+    "name": "高等細胞生物學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "吳梨華* 張純純 邱文泰 陳韻雯 孫宏羽 萬書彣 王竹安 蔣輯武 王憲威 鄧景浩 朱俊憲 王仰高",
+    "enrollment": "25/48",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[2]7~9 醫學院 208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-034",
+    "code": "T1-034 T154500 [IMM7205]",
+    "name": "細胞程序性死亡的分子機轉 分醫所、基醫所合班上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "蔣輯武* 陳昌熙 姜學誠 張志鵬 吳梨華",
+    "enrollment": "3/57",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]3~4 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-035",
+    "code": "T1-035 T161400 [IMM6402]",
+    "name": "神經免疫學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "朱俊憲*",
+    "enrollment": "4/56",
+    "locations": [
+      "13215上課時間",
+      "生醫卓群大樓"
+    ],
+    "period": "[1]5~6 生醫卓群大樓 13215上課時間",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

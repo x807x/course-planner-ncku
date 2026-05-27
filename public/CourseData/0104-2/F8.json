@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "F810020-Z",
+    "code": "F810020-Z [DPS]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備4註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F811420-Z",
+    "code": "F811420-Z [DPS]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]2 [5]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "F811320-Z",
+    "code": "F811320-Z [DPS]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "F8-004",
+    "code": "F8-004 F815720 [PHYS1013]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "周維揚",
+    "enrollment": "54/6",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[1]5 綜合大樓 48218 [3]3~4 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-005",
+    "code": "F8-005 F815820 [PHYS1014]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "梁永成",
+    "enrollment": "444/網路選課不開放",
+    "locations": [],
+    "period": "[4]5~7",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-006",
+    "code": "F8-006 C215621 [MATH1022]",
+    "name": "微積分（二） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "林育竹",
+    "enrollment": "104/146",
+    "locations": [
+      "資訊大樓",
+      "48218",
+      "49323",
+      "綜合大樓",
+      "49324",
+      "綜合二館",
+      "格致廳小講堂",
+      "48217"
+    ],
+    "period": "[1]2~3 資訊大樓 格致廳小講堂 [3]6 資訊大樓 格致廳小講堂 [3]5 綜合二館 49323 [3]5 綜合二館 49324 [3]5 綜合大樓 48217 [3]5 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-007",
+    "code": "F8-007 F817920 [DPS0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "鄭弘隆",
+    "enrollment": "447/13",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[4]1 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F825000-Z1",
+    "code": "F825000-Z1 [DPS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備4註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-009",
+    "code": "F8-009 F810800 [DPS1002]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "曾盛豪",
+    "enrollment": "48/額滿",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[4]2~4 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-010",
+    "code": "F8-010 F820210 [DPS1003]",
+    "name": "工程數學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "林俊宏",
+    "enrollment": "59/31",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[3]2 綜合大樓 48218 [5]5~6 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F811200-Z",
+    "code": "F811200-Z [DPS]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "F8-012",
+    "code": "F8-012 F811520 [CHEM1013]",
+    "name": "普通化學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "鄭弘隆",
+    "enrollment": "57/額滿",
+    "locations": [
+      "綜合大樓",
+      "48218"
+    ],
+    "period": "[1]6 綜合大樓 48218 [2]7~8 綜合大樓 48218",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-013",
+    "code": "F8-013 F811600 [DPS1015]",
+    "name": "電路學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "黃勝廣",
+    "enrollment": "13/47",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[3]8~A 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-051",
+    "code": "F8-051 F830310-A [DPS2072]",
+    "name": "光電實驗（一）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "李佳榮",
+    "enrollment": "25/2",
+    "locations": [
+      "81202",
+      "K館後棟圖書部上方"
+    ],
+    "period": "[5]5~7 K館後棟圖書部上方 81202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-052",
+    "code": "F8-052 F830310-B [DPS2072]",
+    "name": "光電實驗（一）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "徐旭政",
+    "enrollment": "246/2",
+    "locations": [
+      "81202",
+      "K館後棟圖書部上方"
+    ],
+    "period": "[4]7~9 K館後棟圖書部上方 81202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-053",
+    "code": "F8-053 F820410-A [DPS2071]",
+    "name": "電子學實驗（一） 光電系、物理系光電組合班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "賴韋志",
+    "enrollment": "304/2",
+    "locations": [
+      "81201",
+      "K館後棟圖書部上方"
+    ],
+    "period": "[4]7~9 K館後棟圖書部上方 81201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-054",
+    "code": "F8-054 F820410-B [DPS2071]",
+    "name": "電子學實驗（一） 光電系、物理系光電組合班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "賴韋志",
+    "enrollment": "30/2",
+    "locations": [
+      "81201",
+      "K館後棟圖書部上方"
+    ],
+    "period": "[5]5~7 K館後棟圖書部上方 81201",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F810340-Z",
+    "code": "F810340-Z [DPS]",
+    "name": "英文（含口語訓練）（四） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]7 [2]8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F810040-Z",
+    "code": "F810040-Z [DPS]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/請參考4備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F825000-Z2",
+    "code": "F825000-Z2 [DPS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-058",
+    "code": "F8-058 F820120 [DPS2002]",
+    "name": "電子學（二） 光電系、物理系光電組合班",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "賴韋志",
+    "enrollment": "68/32",
+    "locations": [
+      "49322",
+      "綜合二館"
+    ],
+    "period": "[2]3~4 綜合二館 49322 [4]2 綜合二館 49322",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-059",
+    "code": "F8-059 F820800 [DPS2004]",
+    "name": "工程數學（三）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "魏明達",
+    "enrollment": "546/34",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[3]3~4 綜合大樓 48217 [5]2 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-060",
+    "code": "F8-060 F820320 [DPS2006]",
+    "name": "電磁學（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "黃勝廣",
+    "enrollment": "51/439",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[1]5~6 綜合大樓 48217 [3]7 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-061",
+    "code": "F8-061 F820520 [DPS2008]",
+    "name": "光學（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "李佳榮",
+    "enrollment": "53/37",
+    "locations": [
+      "綜合大樓",
+      "48217"
+    ],
+    "period": "[1]2~3 綜合大樓 48217 [3]2 綜合大樓 48217",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F811000-Z",
+    "code": "F811000-Z [DPS]",
+    "name": "哲學與藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "",
+    "enrollment": "0/依照該類課程4科目序號選課",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "F8-108",
+    "code": "F8-108 E238600 [EE5400]",
+    "name": "數位通訊 太空科學與工程學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "張志文",
+    "enrollment": "38/32",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[2]1 電機系館 92383 [4]3~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-109",
+    "code": "F8-109 E246000 [EE5420]",
+    "name": "光纖通訊 大三大四合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "黃振發",
+    "enrollment": "645/9",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[5]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-110",
+    "code": "F8-110 E246800-2 [EE3450]",
+    "name": "訊號與系統 大二三選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "李國君",
+    "enrollment": "543/37",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[2]7~9 電機系館 92225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-111",
+    "code": "F8-111 F831200 [DPS3092]",
+    "name": "光電專題（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "張世慧",
+    "enrollment": "414/19",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[1]1 綜合大樓 48312 [3]1 綜合大樓 48312 [5]9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F8-112",
+    "code": "F8-112 F831620 [DPS3012]",
+    "name": "光電子學導論（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "徐旭政",
+    "enrollment": "594/1",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[1]8 綜合大樓 48312 [4]5~6 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-113",
+    "code": "F8-113 F831800 [DPS3004]",
+    "name": "半導體元件製作技術",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "賴韋志",
+    "enrollment": "274/33",
+    "locations": [
+      "綜合大樓",
+      "48424"
+    ],
+    "period": "[1]5~7 綜合大樓 48424",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-114",
+    "code": "F8-114 F831900 [DPS3005]",
+    "name": "光電材料物理",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "郭宗枋",
+    "enrollment": "340/30",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[2]7~9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F8-115",
+    "code": "F8-115 F821000 [DPS3009]",
+    "name": "生醫光電導論 電漿學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "F8",
+    "department": "光電系 DPS",
+    "teacher": "黃志嘉",
+    "enrollment": "27/33",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[2]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

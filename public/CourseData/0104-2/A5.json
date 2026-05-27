@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A5-001",
+    "code": "A5-001 A510110-1 [CN1001]",
+    "name": "JAVA 程式設計（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "陳明輝",
+    "enrollment": "25/20",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[1]N~6 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-002",
+    "code": "A5-002 A510110-2 [CN1001]",
+    "name": "JAVA 程式設計（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "陳明輝",
+    "enrollment": "28/517",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[4]N~6 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

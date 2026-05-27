@@ -1,0 +1,77 @@
+[
+  {
+    "id": "AA-002",
+    "code": "AA-002 C115710-2 [PHYS1011]",
+    "name": "普通物理學（一） 英語授課  英語授課；上課時間(二)18:00-19:30及(四)18:00-19:30",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "劉明豪",
+    "enrollment": "65/11",
+    "locations": [
+      "49322",
+      "綜合二館"
+    ],
+    "period": "[2]A~B 綜合二館 49322 [4]A 綜合二館 49322",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AA-004",
+    "code": "AA-004 E315911-2 [CHEM1021]",
+    "name": "普通化學（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "桂椿雄",
+    "enrollment": "21/24",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[1]2~3 化學系館 3274 [3]1~2 化學系館 3274",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

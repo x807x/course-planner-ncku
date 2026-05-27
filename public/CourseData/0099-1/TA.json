@@ -1,0 +1,368 @@
+[
+  {
+    "id": "TA-001",
+    "code": "TA-001 TA70210 [AHS9013]",
+    "name": "臨床研究設計（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張瑩如 柯乃熒 成戎珠 馬慧英 郭乃文 陳美霞 王榮德 陳彰惠",
+    "enrollment": "12/18",
+    "locations": [
+      "85101",
+      "護理系館"
+    ],
+    "period": "[2]3~4 護理系館 85101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-002",
+    "code": "TA-002 TA50310 [AHS9002]",
+    "name": "健康照護專題討論（一） 3:10~5:00PM",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭 張瑩如 顏妙芬 王靜枝 林桑伊 成戎珠 黃英修 馬慧英 陳彰惠",
+    "enrollment": "12/30",
+    "locations": [
+      "職治系館",
+      "86110"
+    ],
+    "period": "[5]7~8 職治系館 86110",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-003",
+    "code": "TA-003 TA70100 [AHS9008]",
+    "name": "獨立研究（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭 王靜枝 成戎珠 黃英修 郭立杰 郭乃文 陳彰惠",
+    "enrollment": "98/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-004",
+    "code": "TA-004 TA72200 [AHS9019]",
+    "name": "認知與腦波 健照所與認知所合班上課（力行校區社科院大樓2F）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭",
+    "enrollment": "11/194",
+    "locations": [
+      "80209",
+      "社科院大樓"
+    ],
+    "period": "[4]2~4 社科院大樓 80209",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-006",
+    "code": "TA-006 TA80910 [AHS]",
+    "name": "高等心理治療與自我分析（一） 臨床心理組",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陸汝斌",
+    "enrollment": "2/不限",
+    "locations": [],
+    "period": "[3]2~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-007",
+    "code": "TA-007 TA50400 [AHS]",
+    "name": "高等心理病理學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "郭乃文",
+    "enrollment": "109/30",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]2~4 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-008",
+    "code": "TA-008 TA80301 [AHS]",
+    "name": "護理哲理與理論發展 護理系二樓210研討室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "陳美霞 陳彰惠",
+    "enrollment": "1/919",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-010",
+    "code": "TA-010 TA70630 [AHS9008]",
+    "name": "專題討論（三） 3:10~5:00pm",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "徐畢卿 黃英修 馬慧英 陳彰惠",
+    "enrollment": "5/37",
+    "locations": [
+      "職治系館",
+      "86110"
+    ],
+    "period": "[5]7~8 職治系館 86110",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-011",
+    "code": "TA-011 TA80210 [AHS9037]",
+    "name": "教學實習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "顏妙芬",
+    "enrollment": "1/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-012",
+    "code": "TA-012 TA71830 [AHS9024]",
+    "name": "物理治療獨立研究（三） 物理治療組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "黃英修",
+    "enrollment": "2/不9限",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-013",
+    "code": "TA-013 TA71930 [AHS9028]",
+    "name": "職能治療獨立研究（三） 職能治療組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "馬慧英",
+    "enrollment": "1/不限",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-014",
+    "code": "TA-014 TA71630 [AHS9016]",
+    "name": "臨床心理獨立研究（三） 臨床心理組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "郭乃文",
+    "enrollment": "1/9不限",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-015",
+    "code": "TA-015 TA71730 [AHS9020]",
+    "name": "護理獨立研究（三） 護理組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "徐畢卿 陳彰惠",
+    "enrollment": "3/不限",
+    "locations": [],
+    "period": "[1]2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-017",
+    "code": "TA-017 TA90100 [AHS9039]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "徐畢卿 顏妙芬 陳清惠 趙可式 成戎珠 徐阿田 黃英修 馬慧英 柯慧貞 陳彰惠",
+    "enrollment": "19/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

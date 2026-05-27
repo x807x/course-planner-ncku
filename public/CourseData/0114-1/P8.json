@@ -1,0 +1,993 @@
+[
+  {
+    "id": "P8-001",
+    "code": "P8-001 P855300 [BME7100]",
+    "name": "生物力學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "周鼎贏",
+    "enrollment": "4/36",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[2]5~7 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-004",
+    "code": "P8-004 P810810 [BME7000]",
+    "name": "醫用數學（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "鄭國順",
+    "enrollment": "23/27",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[1]5~7 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-006",
+    "code": "P8-006 P855000 [BME7500]",
+    "name": "解剖學 先端手術研究轉譯醫學學分學程，醫療器材與系統學程  護理系、醫技系、藥學系、醫工系所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "陳政義* 楊岱樺 吳佳慶 許鍾瑜 王家義 王仰高 張明敏",
+    "enrollment": "32/178",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[5]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-016",
+    "code": "P8-016 P864300 [BME7690]",
+    "name": "專題討論 英語授課  0學分,僅供課程未修完而未能選課者用",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "莊漢聲",
+    "enrollment": "10/25",
+    "locations": [
+      "醫技醫工館",
+      "5757"
+    ],
+    "period": "[4]5~6 醫技醫工館 5757",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-021",
+    "code": "P8-021 P850010-3 [BME9690]",
+    "name": "專題討論（一） 英語授課  碩一(甲組)生物力學組選課用",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "蘇芳慶* 林倩如",
+    "enrollment": "27/723",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[4]5~6 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-022",
+    "code": "P8-022 P850010-4 [BME9690]",
+    "name": "專題討論（一） 英語授課  碩一(乙組)醫電組選課用",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "楊子賢* 杜翌群",
+    "enrollment": "14/26",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-024",
+    "code": "P8-024 P850030-3 [BME9690]",
+    "name": "專題討論（三） 英語授課  供碩二(甲組)生物力學組學生選課",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "蘇芳慶* 林倩如",
+    "enrollment": "19/731",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[4]5~6 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-025",
+    "code": "P8-025 P850030-4 [BME9690]",
+    "name": "專題討論（三） 英語授課  供碩二(乙組)生醫電子組學生選課",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "楊子賢* 杜翌群",
+    "enrollment": "176/24",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-033",
+    "code": "P8-033 P850010-1 [BME9690]",
+    "name": "專題討論（一） 英語授課  博一生及碩博外籍生(甲組)生物力學組選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "邱文泰* 范景翔",
+    "enrollment": "713/37",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-034",
+    "code": "P8-034 P850010-2 [BME9690]",
+    "name": "專題討論（一） 英語授課  博一生、碩博外籍生(乙組)醫電組及MDI學生選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "邱文泰* 范景翔",
+    "enrollment": "15/35",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-035",
+    "code": "P8-035 P850030-1 [BME9690]",
+    "name": "專題討論（三） 英語授課  博二生及碩博外籍生(甲組)生物力學組選課",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "邱文泰* 范景翔",
+    "enrollment": "14/36",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-036",
+    "code": "P8-036 P850030-2 [BME9690]",
+    "name": "專題討論（三） 英語授課  供博二生及碩博外籍生(乙組)醫電組及MDI學生選課",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "邱文泰* 范景翔",
+    "enrollment": "16/734",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[4]5~6 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P8-037",
+    "code": "P8-037 P855400 [BME7200]",
+    "name": "生醫材料 醫療器材與系統學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "葉明龍",
+    "enrollment": "9/711",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[4]2~4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-038",
+    "code": "P8-038 P863100 [BME7100]",
+    "name": "人體動作生物力學 醫療器材與系統學程 英語授課  健照所合開；跨領域選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "蘇芳慶* 林倩如",
+    "enrollment": "9/11",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[5]2~4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-039",
+    "code": "P8-039 P882900 [BME7203]",
+    "name": "生物微流體基礎與應用 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "莊漢聲",
+    "enrollment": "137/12",
+    "locations": [
+      "5731",
+      "醫技醫工館"
+    ],
+    "period": "[2]6~8 醫技醫工館 5731",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-041",
+    "code": "P8-041 P860600 [BME7014]",
+    "name": "醫療器材生醫統計與臨床實驗 先端手術研究轉譯醫學學分學程，醫療器材與系統學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "楊岱樺",
+    "enrollment": "41/額滿",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[2]2~4 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-046",
+    "code": "P8-046 P851400 [BME7300]",
+    "name": "生物微機電製程與應用 醫療器材與系統學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "涂庭源",
+    "enrollment": "7/13",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[4]2~4 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-051",
+    "code": "P8-051 P864800 [BME7400]",
+    "name": "醫學影像 先端手術研究轉譯醫學學分學程，醫療器材與系統學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "鄭國順",
+    "enrollment": "720/5",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[3]2~4 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-052",
+    "code": "P8-052 P882800 [BME7603]",
+    "name": "生醫磨潤 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "鄭友仁",
+    "enrollment": "9/716",
+    "locations": [
+      "5731",
+      "醫技醫工館"
+    ],
+    "period": "[4]2~4 醫技醫工館 5731",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-056",
+    "code": "P8-056 P755000 [CSIE7012]",
+    "name": "影像處理 醫療器材與系統學程，人工智慧學分學程  資工所/醫資所/AI學位學程/製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "洪昌鈺",
+    "enrollment": "83/25",
+    "locations": [
+      "65405",
+      "資訊新館"
+    ],
+    "period": "[4]6~8 資訊新館 65405",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-058",
+    "code": "P8-058 P882500 [BME7500]",
+    "name": "轉譯生醫奈米導論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "吳炳慶* 蔡宗霖 謝達斌",
+    "enrollment": "17/8",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[4]9~A 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-059",
+    "code": "P8-059 P881501 [BME7600]",
+    "name": "醫療器材創新設計（一） 醫療器材與系統學程 醫療創新專長微學程  醫工所、口醫所、工設所、臨醫所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "吳炳慶* 邱士峰 林彥呈 葉明龍 林哲偉 楊岱樺 蔡書維 馬千里 連偉志",
+    "enrollment": "56/734",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[3]6~8 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-060",
+    "code": "P8-060 P881600 [BME7006]",
+    "name": "基礎細胞生物學 英語授課  醫工所基醫所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "邱文泰*",
+    "enrollment": "714/26",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[3]2~4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-061",
+    "code": "P8-061 P883800 [BME7001]",
+    "name": "生醫數學模型與應用 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "周鼎贏",
+    "enrollment": "1/24",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[2]2~4 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-064",
+    "code": "P8-064 P853510 [BME7005]",
+    "name": "醫療器材創新設計（一） 醫療器材與系統學程 英語授課 醫療創新專長微學程  MDI必修課程/英文授課 （英語授課比例100％ ）(工設、機械;、法律系、醫學系合開) (法律系為選修研討課) / 加簽請找陳芃婷老師",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "陳芃婷* 林啓倫 鄧維光 陳家進 翁振勛 連偉志 楊佳翰 薛元毓",
+    "enrollment": "19/21",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[3]6~8 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-065",
+    "code": "P8-065 P858600 [BME7300]",
+    "name": "醫用電腦 醫療器材與系統學程 英語授課  MDI選修/英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "陳家進",
+    "enrollment": "28/22",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[2]5~7 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-067",
+    "code": "P8-067 F941700 [BME5020]",
+    "name": "生醫科技探勘與商機評估 英語授課  全英語授課。大碩合開課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "陳芃婷",
+    "enrollment": "179/16",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[3]3~4 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-077",
+    "code": "P8-077 P882300-Y [BME7603]",
+    "name": "生技醫材設計與開發 醫療器材與系統學程，生物科技學程 多元智慧精準健康產業專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "吳炳慶* 陳家進 林哲偉",
+    "enrollment": "27/洽系7辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "P8-079",
+    "code": "P8-079 P884200-Y [BME7607]",
+    "name": "人工智慧物聯網在數位精準健康的應用 生物科技學程 精準健康專長微學程，智慧醫療專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "林哲偉* 陳家進 吳炳慶",
+    "enrollment": "49/洽系7辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "P8-080",
+    "code": "P8-080 P884300 [BME7504]",
+    "name": "奈米生醫材料與生醫分析 英語授課  碩一新生優先",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "楊閎蔚",
+    "enrollment": "7/3",
+    "locations": [
+      "5731",
+      "醫技醫工館"
+    ],
+    "period": "[3]6~8 醫技醫工館 5731",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P8-081",
+    "code": "P8-081 P884410 [BME7405]",
+    "name": "生醫大數據與人工智慧應用導論（一） 英語授課  先修科目: 微積分、計算機概論、程式設計、普通生物學。本課程包含 (一)、(二)。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P8",
+    "department": "醫工所 BME",
+    "teacher": "楊子賢",
+    "enrollment": "21/72",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[5]5~6 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

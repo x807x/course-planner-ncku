@@ -1,0 +1,369 @@
+[
+  {
+    "id": "NA-001",
+    "code": "NA-001 NA50100 [OTMA]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "劉大綱",
+    "enrollment": "16/不限",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[3]5~6 水利系館 4644",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NA-018",
+    "code": "NA-018 R750900 [IM]",
+    "name": "管理決策分析 工資所資管所海洋所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "黃宇翔",
+    "enrollment": "31/318",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[2]6 工管系館 61206 [4]1~2 工管系館 61206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-019",
+    "code": "NA-019 NA70800 [OTMA6202]",
+    "name": "海岸管理學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "李兆芳",
+    "enrollment": "103/15",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[2]1~2 水利系館 4644 [4]8 水利系館 4644",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-020",
+    "code": "NA-020 NA70900 [OTMA6205]",
+    "name": "國際海洋環境政策與法規 限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "王毓正",
+    "enrollment": "135/不限",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[1]3~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-021",
+    "code": "NA-021 NA60100 [OTMA]",
+    "name": "專題討論（三）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "莊士賢",
+    "enrollment": "14/不限",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[3]7~8 系統系館 56226",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NA-022",
+    "code": "NA-022 NA51500 [OTMA9500]",
+    "name": "魚類養殖與捕魚之法律問題研究 限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "蔡志方",
+    "enrollment": "19/1",
+    "locations": [
+      "雲平大樓",
+      "七樓研討室一"
+    ],
+    "period": "[3]1~2 雲平大樓 七樓研討室一",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-023",
+    "code": "NA-023 N870100 [HOE7013]",
+    "name": "近岸水動力學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "許泰文",
+    "enrollment": "22/133",
+    "locations": [
+      "水利系館",
+      "4648"
+    ],
+    "period": "[1]2~4 水利系館 4648",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-024",
+    "code": "NA-024 NA51600 [OTMA6400]",
+    "name": "海洋資訊管理概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "莊士賢",
+    "enrollment": "11/3不限",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[3]3 水利系館 4644 [4]3~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-025",
+    "code": "NA-025 NA80700 [OTMA6301]",
+    "name": "海洋調查和探測技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "莊士賢",
+    "enrollment": "34/不限",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[4]5 水利系館 4644 [5]3~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-026",
+    "code": "NA-026 NA51700 [OTMA6302]",
+    "name": "海洋污染",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "劉大綱",
+    "enrollment": "10/不限",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[1]5~6 系統系館 56441 [3]4 系統系館 56441",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NA-027",
+    "code": "NA-027 NA51800 [OTMA6204]",
+    "name": "海洋保護區",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NA",
+    "department": "海事所 OTMA",
+    "teacher": "劉大綱",
+    "enrollment": "317/不限",
+    "locations": [
+      "56226",
+      "系統系館",
+      "4644",
+      "水利系館"
+    ],
+    "period": "[1]7 系統系館 56226 [2]3~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

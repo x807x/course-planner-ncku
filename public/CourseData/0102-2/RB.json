@@ -1,0 +1,336 @@
+[
+  {
+    "id": "RB-001",
+    "code": "RB-001 RB50800 [PEHL6408]",
+    "name": "教育統計與電腦應用 基礎專業：共同必修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "馬上鈞",
+    "enrollment": "317/38",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]1~3 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-002",
+    "code": "RB-002 RB50220 [PEHL6409]",
+    "name": "專題討論（二） 基礎專業：共同必修；碩一、碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "12/43",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]4 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-003",
+    "code": "RB-003 RB50240 [PEHL6409]",
+    "name": "專題討論（四） 基礎專業：共同必修；碩一、碩二合班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "13/42",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]4 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-004",
+    "code": "RB-004 RB52400 [PEHL6305]",
+    "name": "運動場地與休閒設施規劃與管理 中正堂會議室；休閒教育領域專業選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "馬上鈞* 黃賢哲 葉公鼎",
+    "enrollment": "8/92",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[2]2~4 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-005",
+    "code": "RB-005 RB52600 [PEHL6212]",
+    "name": "養生運動科學特論 敬業校區網球場教室；三大領域專業選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "王苓華",
+    "enrollment": "11/19",
+    "locations": [],
+    "period": "[4]2~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-006",
+    "code": "RB-006 RB61200 [PEHL6110]",
+    "name": "運動營養專題研究 體育運動領域、健康促進領域專業選修課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "黃滄海",
+    "enrollment": "10/90",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[2]5~6 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-007",
+    "code": "RB-007 RB51800 [PEHL6209E]",
+    "name": "最佳化設計 資工系；體育運動領域專業選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "835/7",
+    "locations": [
+      "4204",
+      "資訊系館"
+    ],
+    "period": "[3]2~4 資訊系館 4204",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-008",
+    "code": "RB-008 RB62400 [PEHL6318E]",
+    "name": "休閒活動與健康促進 中正堂會議室；休閒教育領域專業選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "10/20",
+    "locations": [],
+    "period": "[4]6~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-010",
+    "code": "RB-010 RB60120 [PEHL6409]",
+    "name": "碩士論文（二） 限碩三以上修，並修滿規定30學分以上修習。",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "31/54",
+    "locations": [
+      "62X02",
+      "管理學院"
+    ],
+    "period": "[5]4 管理學院 62X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RB-011",
+    "code": "RB-011 RB51300 [PEHL6104]",
+    "name": "體適能與運動處方專題研究 中正堂會議室；健康促進領域核心專業",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良*",
+    "enrollment": "37/48",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[3]5~6 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-012",
+    "code": "RB-012 RB61000 [PEHL6108]",
+    "name": "運動傷害與疾病專題研究 中正堂會議室；健康促進領域核心專業\u001f選修",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "林麗娟* 蔡一如",
+    "enrollment": "21/34",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[3]3~4 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

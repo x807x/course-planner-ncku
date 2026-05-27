@@ -1,0 +1,577 @@
+[
+  {
+    "id": "R2-001",
+    "code": "R2-001 R250620-1 [STAT6018]",
+    "name": "專題討論（二） 碩一碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "21/56",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R2-002",
+    "code": "R2-002 R260600 [STAT6016]",
+    "name": "統計諮詢",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "馬瀰嘉",
+    "enrollment": "620/5",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[3]2~4 統計系館 62333",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-010",
+    "code": "R2-010 R250120 [STAT6014]",
+    "name": "數理統計（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "詹世煌",
+    "enrollment": "620/5",
+    "locations": [
+      "統計系館",
+      "62451"
+    ],
+    "period": "[2]2~3 統計系館 62451 [5]3 統計系館 62451",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-051",
+    "code": "R2-051 R250540-1 [STAT6022]",
+    "name": "專題討論（四） 碩一碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "24/53",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R2-108",
+    "code": "R2-108 R260700 [STAT6050]",
+    "name": "專題討論 碩博三以上選修，碩博合開",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "13/64",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R2-110",
+    "code": "R2-110 R251100 [STAT6042]",
+    "name": "統計計算與模擬",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "路繼先",
+    "enrollment": "8/12",
+    "locations": [
+      "統計系館",
+      "62451"
+    ],
+    "period": "[1]5 統計系館 62451 [3]7~8 統計系館 62451",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-112",
+    "code": "R2-112 R260500 [STAT6033]",
+    "name": "廣義線性模式",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "張升懋",
+    "enrollment": "1/19",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[5]2~4 統計系館 62113",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-119",
+    "code": "R2-119 R250540-2 [STAT6022]",
+    "name": "專題討論（四） 博一二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "63/74",
+    "locations": [
+      "統計系館",
+      "62331"
+    ],
+    "period": "[4]7~8 統計系館 62331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R2-123",
+    "code": "R2-123 R252200 [STAT6039]",
+    "name": "線性模式 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "路繼先",
+    "enrollment": "8/12",
+    "locations": [
+      "統計系館",
+      "62451"
+    ],
+    "period": "[1]2~3 統計系館 62451 [3]6 統計系館 62451",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-125",
+    "code": "R2-125 R253000 [STAT6044]",
+    "name": "品質管理 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "潘浙楠",
+    "enrollment": "24/6",
+    "locations": [
+      "管理學院",
+      "62201"
+    ],
+    "period": "[1]6~8 管理學院 62201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-128",
+    "code": "R2-128 R262600 [STAT6034]",
+    "name": "財務工程與計算",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "黃銘欽",
+    "enrollment": "167/3",
+    "locations": [
+      "統計系館",
+      "62451"
+    ],
+    "period": "[4]2~4 統計系館 62451",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-129",
+    "code": "R2-129 R252500 [STAT6048]",
+    "name": "存活分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "嵇允嬋",
+    "enrollment": "10/10",
+    "locations": [
+      "管理學院",
+      "62X10"
+    ],
+    "period": "[4]2~4 管理學院 62X10",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-132",
+    "code": "R2-132 R290220 [STAT]",
+    "name": "統計專題研究:逐次設計統計方法（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "嵇允嬋",
+    "enrollment": "1/169",
+    "locations": [
+      "管理學院",
+      "62X10"
+    ],
+    "period": "[1]6~8 管理學院 62X10",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-133",
+    "code": "R2-133 R252300 [STAT6047]",
+    "name": "時間數列",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "黃銘欽",
+    "enrollment": "24/1",
+    "locations": [
+      "管理學院",
+      "62X10"
+    ],
+    "period": "[4]N 管理學院 62X10 [5]N~5 管理學院 62X10",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-134",
+    "code": "R2-134 R261800 [STAT6038]",
+    "name": "行銷研究 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "吳宗正",
+    "enrollment": "67/33",
+    "locations": [
+      "管理學院",
+      "62X10"
+    ],
+    "period": "[2]5~6 管理學院 62X10 [3]6 管理學院 62X10",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-135",
+    "code": "R2-135 R280800 [STAT]",
+    "name": "統計專題：不等變異數統計分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "陳占平",
+    "enrollment": "7/363",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[2]6~8 統計系館 62333",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R2-136",
+    "code": "R2-136 R270600 [STAT]",
+    "name": "高等多變量分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R2",
+    "department": "統計所 STAT",
+    "teacher": "溫敏杰",
+    "enrollment": "3/37",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[5]2~4 統計系館 62333",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

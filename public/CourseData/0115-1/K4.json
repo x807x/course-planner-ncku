@@ -1,0 +1,382 @@
+[
+  {
+    "id": "K4-001",
+    "code": "K4-001 K46C300 [AS6088]",
+    "name": "音樂劇研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "08/15",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[1]5~7 藝術所 5450",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-002",
+    "code": "K4-002 K46A300 [AS6068]",
+    "name": "藝術專題討論 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "胡紫雲",
+    "enrollment": "0/20",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[2]6~7 藝術所 5450",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "K4-003",
+    "code": "K4-003 K46F200 [AS6117]",
+    "name": "當代展覽策畫：理論與實務 英語授課 業界專家參與  EMI課程(英語授課比例70%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "余青勳",
+    "enrollment": "0/15",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-004",
+    "code": "K4-004 K467901 [AS6073]",
+    "name": "中西戲劇與劇場史 戲劇學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "朱芳慧",
+    "enrollment": "0/815",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]5~7 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-005",
+    "code": "K4-005 K469900 [AS6058]",
+    "name": "文物保存與數位典藏 戲劇學程 業界專家參與 數位人文專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "陳佳彬",
+    "enrollment": "80/10",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[4]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-006",
+    "code": "K4-006 K46A400 [AS6062]",
+    "name": "戲曲音樂專題研究 戲劇學程 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "馬薇茜* 劉南芳 施德玉",
+    "enrollment": "0/810",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[4]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-007",
+    "code": "K4-007 K46D300 [AS6098]",
+    "name": "劇場實務 戲劇學程 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "馬薇茜",
+    "enrollment": "80/5",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[4]5~7 藝術所 5452",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-008",
+    "code": "K4-008 K46A200 [AS6061]",
+    "name": "藝術學研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "吳奕芳* 朱芳慧 施德玉",
+    "enrollment": "0/15",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[4]5~7 藝術所 5450",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-009",
+    "code": "K4-009 K46B600 [AS6081]",
+    "name": "現當代視覺文化研究與評論 英語授課  EMI課程(英語授課比例70%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "余青勳",
+    "enrollment": "0/15",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[5]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-010",
+    "code": "K4-010 K46A500 [AS6063]",
+    "name": "中國音樂史",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "80/10",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[5]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-011",
+    "code": "K4-011 K46C600 [AS6091]",
+    "name": "東西美術交流史",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "吳奕芳",
+    "enrollment": "0/180",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[5]6~8 藝術所 5452",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

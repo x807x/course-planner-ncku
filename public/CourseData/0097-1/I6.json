@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "I614912-Z",
+    "code": "I614912-Z [PT]",
+    "name": "基礎國文 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]7~9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "核心通識"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "核心通識"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "I610311-Z",
+    "code": "I610311-Z [PT]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "02/不限",
+    "locations": [],
+    "period": "[1]5 [1]6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "核心通識"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "I617601-Z",
+    "code": "I617601-Z [PT]",
+    "name": "人類文明史 核心通識，依照人類文明史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/不2限",
+    "locations": [],
+    "period": "[1]1~2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "核心通識"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "I6-008",
+    "code": "I6-008 I615610 [MATH1081]",
+    "name": "微積分（一） 生命系物治系與職治系合班 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳重弘",
+    "enrollment": "94/26",
+    "locations": [
+      "3404",
+      "牙醫系館"
+    ],
+    "period": "[5]1~2 牙醫系館 3404 [3]1 牙醫系館 3404",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "I6-009",
+    "code": "I6-009 I615901 [PT1011]",
+    "name": "普通化學 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "林榮良 許桂芳",
+    "enrollment": "234/6",
+    "locations": [
+      "7302",
+      "唯農大樓",
+      "規劃設計大樓",
+      "5108"
+    ],
+    "period": "[1]7~8 規劃設計大樓 5108 [4]7 規劃設計大樓 5108 [4]8 規劃設計大樓 5108 [4]8 唯農大樓 7302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "I6-010",
+    "code": "I6-010 I616001 [CHEM1042]",
+    "name": "普通化學實驗 在理化大樓一樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "許拱北",
+    "enrollment": "17/不限",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-011",
+    "code": "I6-011 I511410 [MED1113]",
+    "name": "普通生物學（一） 醫學.物治.職治合班，限本系，生物系館  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "黃浩仁 宋皇模 陳世輝",
+    "enrollment": "159/221",
+    "locations": [
+      "3404",
+      "牙醫系館"
+    ],
+    "period": "[3]5~6 牙醫系館 3404",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-012",
+    "code": "I6-012 I612210 [LS1042]",
+    "name": "普通生物學實驗（一） 限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "李瑞花 郭長生",
+    "enrollment": "329/不限",
+    "locations": [],
+    "period": "[3]2~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-013",
+    "code": "I6-013 I611300 [PT2001]",
+    "name": "物理治療導論",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "成戎珠 徐阿田",
+    "enrollment": "39/不限",
+    "locations": [
+      "醫學院",
+      "0207"
+    ],
+    "period": "[1]3 醫學院 0207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-014",
+    "code": "I6-014 I610010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "洪甄憶",
+    "enrollment": "238/不限",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[2]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I625000-Z1",
+    "code": "I625000-Z1 [PT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "02/不限",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I625000-Z5",
+    "code": "I625000-Z5 [PT]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-018",
+    "code": "I6-018 I617910 [PT1013]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 黃英修",
+    "enrollment": "38/不限",
+    "locations": [],
+    "period": "[5]N",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-019",
+    "code": "I6-019 A952600-2 [GE]",
+    "name": "醫學人與公民社會 護理系物治系合班  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "柯乃熒 翁裕峯 吳挺鋒 許甘霖",
+    "enrollment": "629/165",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[4]3~4 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "公民素養"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "公民素養"
+      }
+    ]
+  },
+  {
+    "id": "I6-057",
+    "code": "I6-057 I620100 [PT2006]",
+    "name": "解剖學（含實驗） 醫療器材與系統學程  周五第一至四節，多位教師合上",
+    "grade": 2,
+    "credits": 6,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "郭余民 江謝雅芬 吳慶明 黃步敏 簡基憲 莫凡毅",
+    "enrollment": "824/150",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]5~8 醫學院 第三講堂 [2]1~4 醫學院 第三講堂 [4]1~4 醫學院 第三講堂 [5]1~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-060",
+    "code": "I6-060 I620600 [PT2008]",
+    "name": "公共衛生概論 醫學、科技與社會學程(STM)  醫技，物治，職治合班",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳國東",
+    "enrollment": "43/不限",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[4]7~8 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I610330-Z",
+    "code": "I610330-Z [PT]",
+    "name": "英文（含口語訓練）（三） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/不2限",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "I610030-Z",
+    "code": "I610030-Z [PT]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I625000-Z3",
+    "code": "I625000-Z3 [PT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "20/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-070",
+    "code": "I6-070 I621100 [PT2009]",
+    "name": "社會學 醫學、科技與社會學程(STM)  物治系與護理系合班",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "許甘霖",
+    "enrollment": "48/不限",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[2]7~8 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-071",
+    "code": "I6-071 I322401 [MLSB2101]",
+    "name": "生理學 醫療器材與系統學程  非本系生修課須經授課教師同意",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "蔡少正 黃阿敏 蔡美玲 任卓穎 陳麗玉 吳勝男",
+    "enrollment": "123/2111",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[1]3 醫學院 第四講堂 [3]3~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-072",
+    "code": "I6-072 I622101 [PT2015]",
+    "name": "生理學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "蔡少正 黃阿敏 任卓穎 陳麗玉 吳勝男",
+    "enrollment": "81/不2限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-098",
+    "code": "I6-098 I617930-1 [PT2018]",
+    "name": "服務學習（三） 限本系",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "成戎珠",
+    "enrollment": "16/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I6-099",
+    "code": "I6-099 I617930-2 [PT2018]",
+    "name": "服務學習（三） 限本系",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "楊政峰 林呈鳳",
+    "enrollment": "21/2不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I6-103",
+    "code": "I6-103 I611800 [PT2002]",
+    "name": "病理學概論 多位老師合上，醫技，物治，職治合班",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "周楠華",
+    "enrollment": "812/39",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[4]1~2 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-104",
+    "code": "I6-104 I613000 [PT2005]",
+    "name": "骨科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "周一鳴 林啓禎 林瑞模",
+    "enrollment": "67/3",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]7~8 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-105",
+    "code": "I6-105 I612000 [PT2003]",
+    "name": "小兒科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "劉清泉",
+    "enrollment": "69/165",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[4]8 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-106",
+    "code": "I6-106 I612200 [PT2004]",
+    "name": "外科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "李政昌",
+    "enrollment": "63/57",
+    "locations": [
+      "醫學院",
+      "第二講堂"
+    ],
+    "period": "[1]8~9 醫學院 第二講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-107",
+    "code": "I6-107 I630200 [PT2016]",
+    "name": "神經科學概論 醫學院，物治，職治合班",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "黃文柱",
+    "enrollment": "672/3",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]9 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-108",
+    "code": "I6-108 I631100 [PT3017]",
+    "name": "小兒科物理治療學 醫學院一樓  需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "成戎珠",
+    "enrollment": "227/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[2]5 醫學院 物治104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-109",
+    "code": "I6-109 I631200 [PT3018]",
+    "name": "小兒科物理治療學實習 需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "成戎珠",
+    "enrollment": "227/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[2]6~8 醫學院 物治104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-110",
+    "code": "I6-110 I630110 [PT3011]",
+    "name": "神經科物理治療學（一） 需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 楊政峰 黃英修",
+    "enrollment": "227/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[4]3 醫學院 物治104",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-111",
+    "code": "I6-111 I630210 [PT3012]",
+    "name": "神經科物理治療學實習（一） 需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 楊政峰 黃英修",
+    "enrollment": "229/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[1]5~7 醫學院 物治104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-113",
+    "code": "I6-113 I612700 [PT3001]",
+    "name": "操作治療學",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳文玲 徐阿田 楊艾倫",
+    "enrollment": "292/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[3]5 醫學院 物治104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-114",
+    "code": "I6-114 I612800 [PT3002]",
+    "name": "操作治療學實習",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳文玲 徐阿田 楊艾倫",
+    "enrollment": "28/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[3]6~8 醫學院 物治104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-115",
+    "code": "I6-115 I613200 [PT3003]",
+    "name": "生物力學導論 先端手術研究轉譯醫學學分學程，醫療器材與系統學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 徐阿田 楊艾倫 洪菁霞 林呈鳳",
+    "enrollment": "312/不限",
+    "locations": [
+      "醫學院",
+      "0207"
+    ],
+    "period": "[5]5~6 醫學院 0207",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-116",
+    "code": "I6-116 I630100 [PT3010]",
+    "name": "運動生理學 需先修以下科目:《生理學/必修/5.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "楊艾倫",
+    "enrollment": "29/不2限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[3]3~4 醫學院 物治104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-117",
+    "code": "I6-117 I620300 [PT3004]",
+    "name": "電療學",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 陳文玲 成戎珠 徐阿田 黃英修 楊艾倫 洪菁霞",
+    "enrollment": "28/2不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[2]3~4 醫學院 物治104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-118",
+    "code": "I6-118 I620400 [PT3005]",
+    "name": "電療學實習",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 陳文玲 成戎珠 徐阿田 黃英修 楊艾倫 洪菁霞",
+    "enrollment": "226/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[5]1~3 醫學院 物治104",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I625000-Z4",
+    "code": "I625000-Z4 [PT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "",
+    "enrollment": "0/2不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-121",
+    "code": "I6-121 I632010 [PT3023]",
+    "name": "骨科物理治療學（一） 需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳文玲 徐阿田 林呈鳳",
+    "enrollment": "227/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[1]1 醫學院 物治104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I6-122",
+    "code": "I6-122 I632110 [PT3024]",
+    "name": "骨科物理治療學實習（一） 需先修以下科目:《肌動學/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳文玲 徐阿田 林呈鳳",
+    "enrollment": "27/不限",
+    "locations": [
+      "醫學院",
+      "物治104"
+    ],
+    "period": "[1]2~4 醫學院 物治104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I6-152",
+    "code": "I6-152 I630410 [PT3030]",
+    "name": "物理治療臨床實習（一）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 楊艾倫",
+    "enrollment": "223/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I6-153",
+    "code": "I6-153 I630420 [PT3031]",
+    "name": "物理治療臨床實習（二）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "陳文玲 成戎珠 楊政峰 林呈鳳",
+    "enrollment": "23/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I6-154",
+    "code": "I6-154 I630430 [PT3032]",
+    "name": "物理治療臨床實習（三）",
+    "grade": 4,
+    "credits": 5,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "徐阿田 黃英修 洪菁霞",
+    "enrollment": "24/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I6-155",
+    "code": "I6-155 I644000 [PT3029]",
+    "name": "物理治療專題討論",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I6",
+    "department": "物治系 PT",
+    "teacher": "卓瓊鈺 陳文玲 成戎珠 楊政峰 徐阿田 黃英修 楊艾倫 洪菁霞 林呈鳳",
+    "enrollment": "227/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

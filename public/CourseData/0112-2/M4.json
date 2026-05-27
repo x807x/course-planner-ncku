@@ -1,0 +1,575 @@
+[
+  {
+    "id": "M4-001",
+    "code": "M4-001 M450120 [7492]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "李亞儒* 黃尊禧 劉瑞農 許文東 林士剛",
+    "enrollment": "18/不3限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[5]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M4-002",
+    "code": "M4-002 M450140 [7494]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "李亞儒* 黃尊禧 劉瑞農 許文東",
+    "enrollment": "233/不限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[5]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M4-003",
+    "code": "M4-003 M450400 [KMAT7403E]",
+    "name": "光電半導體與元件物理 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "李亞儒",
+    "enrollment": "18/17",
+    "locations": [
+      "36369",
+      "理學教學大樓"
+    ],
+    "period": "[4]5~7 理學教學大樓 36369",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-004",
+    "code": "M4-004 M450600 [KMAT7405E]",
+    "name": "新世代材料驅動半導體科技 英語授課 業界專家參與  默克講堂：由默克集團與本校教師共同授課，場地：自強校區啟端館1樓階梯教室",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "陳貞夙",
+    "enrollment": "74/洽系辦",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "M4-005",
+    "code": "M4-005 N381400 [CHE7068]",
+    "name": "人工光合作用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "林家裕",
+    "enrollment": "8/46",
+    "locations": [
+      "93706",
+      "化工系館"
+    ],
+    "period": "[3]6~8 化工系館 93706",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-006",
+    "code": "M4-006 L784100 [DPS7011]",
+    "name": "寬能隙半導體材料及元件 關鍵材料學位學程核心課程之一",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "許進恭",
+    "enrollment": "81/3",
+    "locations": [
+      "綜合大樓",
+      "48424"
+    ],
+    "period": "[2]2~4 綜合大樓 48424",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-007",
+    "code": "M4-007 LA50800 [SAPS7032E]",
+    "name": "電漿現象之應用 電漿學分學程 英語授課  與關鍵材料學位學程合開; 電漿所主開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "張博宇",
+    "enrollment": "11/15",
+    "locations": [
+      "綜合大樓",
+      "48111B"
+    ],
+    "period": "[2]2~4 綜合大樓 48111B",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-008",
+    "code": "M4-008 L751100 [DPS5006]",
+    "name": "量子物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "曾碩彥",
+    "enrollment": "335/15",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[1]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-009",
+    "code": "M4-009 L210120 [PHYS8224]",
+    "name": "固態物理（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "張泰榕",
+    "enrollment": "263/54",
+    "locations": [
+      "36169",
+      "理學教學大樓"
+    ],
+    "period": "[3]7 理學教學大樓 36169 [4]3~4 理學教學大樓 36169",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-010",
+    "code": "M4-010 L474000 [EARS7124]",
+    "name": "振動光譜學原理及其應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "龔慧貞",
+    "enrollment": "8/32",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[2]N~6 地科系館 3036",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-011",
+    "code": "M4-011 N566300 [MSE7023]",
+    "name": "微電子材料製作工程 英語授課  EMI課程(英文授課比例:100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "張高碩",
+    "enrollment": "37/3",
+    "locations": [
+      "4452",
+      "材料系館"
+    ],
+    "period": "[4]2~4 材料系館 4452",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-012",
+    "code": "M4-012 M350600 [PSPT7305]",
+    "name": "半導體記憶體設計、製造、封測、及應用專題 協勝發講堂",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "許文東",
+    "enrollment": "423/68",
+    "locations": [
+      "44101",
+      "材料新館"
+    ],
+    "period": "[4]4~6 材料新館 44101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-013",
+    "code": "M4-013 L786100 [DPS7017]",
+    "name": "奈米製程技術 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "吳品頡",
+    "enrollment": "463/6",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[3]2~4 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-014",
+    "code": "M4-014 N25I200 [EE8800]",
+    "name": "高熵材料專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "施權峰",
+    "enrollment": "37/23",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[2]6~8 電機系館 92B28",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-015",
+    "code": "M4-015 L788000 [DPS7033]",
+    "name": "先進微影技術 奈米先進技術與設備學分學程，奈米積體電路工程碩士班學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "林俊宏",
+    "enrollment": "173/13",
+    "locations": [
+      "綜合大樓",
+      "48422"
+    ],
+    "period": "[2]2~4 綜合大樓 48422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-016",
+    "code": "M4-016 L78A000 [DPS7049]",
+    "name": "高分子形態學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "陳蓉瑶",
+    "enrollment": "283/22",
+    "locations": [
+      "綜合大樓",
+      "48312"
+    ],
+    "period": "[2]7~9 綜合大樓 48312",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M4-017",
+    "code": "M4-017 N382500 [CHE7086]",
+    "name": "永續能源材料與元件 韌性智慧能源學分學程 英語授課  英語授課；半導體學院必選修核心課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M4",
+    "department": "關鍵材料學程 KMAT",
+    "teacher": "柯碧蓮",
+    "enrollment": "58/136",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[3]6 化工系館 93322 [5]3~4 化工系館 93322",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

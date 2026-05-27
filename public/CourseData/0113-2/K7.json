@@ -1,0 +1,304 @@
+[
+  {
+    "id": "K7-001",
+    "code": "K7-001 K762300 [Arxe6022]",
+    "name": "動物考古學 需先修以下科目:《考古學概論/選修/3.0 學分/70 分以上》《臺灣考古學/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "閻玲達",
+    "enrollment": "111/4",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[1]6~8 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-002",
+    "code": "K7-002 K760100 [Arxe6002]",
+    "name": "考古學理論方法專題",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "趙金勇*",
+    "enrollment": "12/3",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[2]2~4 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-003",
+    "code": "K7-003 K766100 [Arxe6066]",
+    "name": "地質考古學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "楊小青*",
+    "enrollment": "91/6",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[2]6~8 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-004",
+    "code": "K7-004 K763400 [Arxe6039]",
+    "name": "田野考古學（一）：調查與發掘方法",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "鍾國風*",
+    "enrollment": "11/4",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[3]2~3 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-005",
+    "code": "K7-005 K767000 [Arxe6076]",
+    "name": "遺址調查與保存實習",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "趙金勇* 鍾國風*",
+    "enrollment": "9/3",
+    "locations": [
+      "83102",
+      "考古學研究所"
+    ],
+    "period": "[3]4~N 考古學研究所 83102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-006",
+    "code": "K7-006 K763200 [Arxe6034]",
+    "name": "陶器分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "熊仲卿*",
+    "enrollment": "141/1",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[4]2~4 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-007",
+    "code": "K7-007 K761300 [Arxe6014]",
+    "name": "博物館學理論與方法 考古學與文化資產學分學程 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "郭美芳",
+    "enrollment": "71/8",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[4]6~8 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-008",
+    "code": "K7-008 K751000 [Arxe6081]",
+    "name": "考古學與博物館 考古學與文化資產學分學程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "閻玲達",
+    "enrollment": "6/9",
+    "locations": [
+      "考古學研究所",
+      "83201"
+    ],
+    "period": "[5]3~4 考古學研究所 83201",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K7-009",
+    "code": "K7-009 K767700 [Arxe6083]",
+    "name": "考古文資實習與實作（二） 考古學與文化資產學分學程",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "趙金勇* 鍾國風",
+    "enrollment": "5/15",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "K7-010",
+    "code": "K7-010 K763000 [Arxe6032]",
+    "name": "考古學專業英文 彈性密集課程，選課請洽所辦",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K7",
+    "department": "考古所 Arxe",
+    "teacher": "趙金勇* 熊仲卿",
+    "enrollment": "10/5",
+    "locations": [
+      "考古學研究所",
+      "83102上課時間"
+    ],
+    "period": "考古學研究所 83102上課時間",
+    "slots": []
+  }
+]
