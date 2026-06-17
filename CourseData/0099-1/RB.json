@@ -1,0 +1,326 @@
+[
+  {
+    "id": "RB-001",
+    "code": "RB-001 RB50100 [PEHL6409]",
+    "name": "體育健康與休閒研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "林麗娟 徐珊惠 周學雯",
+    "enrollment": "133/17",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]1~3 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-002",
+    "code": "RB-002 RB50210 [PEHL6409]",
+    "name": "專題討論（一） 碩一、碩二合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "13/17",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-003",
+    "code": "RB-003 RB50230 [PEHL6409]",
+    "name": "專題討論（三） 碩一、碩二合班",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "10/20",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-005",
+    "code": "RB-005 RB50500 [PEHL6201]",
+    "name": "運動生物力學 敬業校區網球場教室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "王苓華",
+    "enrollment": "7/13",
+    "locations": [
+      "敬業網球場"
+    ],
+    "period": "[4]2~4 敬業網球場 敬業網球場",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-006",
+    "code": "RB-006 RB50400 [PEHL6101A]",
+    "name": "運動生理學（含實驗） 中正堂運動生理實驗室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "林麗娟 黃滄海 蔡佳良",
+    "enrollment": "6/39",
+    "locations": [],
+    "period": "[3]2~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-007",
+    "code": "RB-007 RB51900 [PEHL6210A]",
+    "name": "應用數學與程式設計概論 星期三：上課地點中正堂會議室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑 邱宏達",
+    "enrollment": "37/23",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[3]9 [4]9~A 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-008",
+    "code": "RB-008 RB61501 [PEHL6218]",
+    "name": "運動器材專題研究 中正堂會議室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "邱宏達",
+    "enrollment": "13/2",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-009",
+    "code": "RB-009 RB50300 [PEHL6301]",
+    "name": "適應休閒體育專題研究 中正堂會議室",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "130/5",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-010",
+    "code": "RB-010 RB61700 [PEHL6111]",
+    "name": "運動訓練與指導專題研究 中正堂會議室",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "黃滄海 涂國誠",
+    "enrollment": "9/36",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-011",
+    "code": "RB-011 RB52000 [PEHL6302]",
+    "name": "運動休閒管理概論 中正堂會議室",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "徐珊惠 周學雯",
+    "enrollment": "53/10",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-012",
+    "code": "RB-012 RB60110 [PEHL6409]",
+    "name": "碩士論文（一） 限已修完畢業學分數",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "4/236",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  }
+]

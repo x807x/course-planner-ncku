@@ -1,0 +1,72 @@
+[
+  {
+    "id": "RZ-201",
+    "code": "RZ-201 RZ50100-Y [COM6001]",
+    "name": "精實創業進階 業界專家參與  不開放網路選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "楊朝旭",
+    "enrollment": "8/網路選課不開放",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[2]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RZ-202",
+    "code": "RZ-202 RZ50500-Y [COM6861]",
+    "name": "精實創業實踐 業界專家參與  不開放網路選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "顏盟峯",
+    "enrollment": "15/網路選課不開放",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[1]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

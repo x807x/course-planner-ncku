@@ -1,0 +1,976 @@
+[
+  {
+    "id": "F0-002",
+    "code": "F0-002 F010121 [MATH1012E]",
+    "name": "微積分（二） 英語授課 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "林敏雄",
+    "enrollment": "510/5",
+    "locations": [
+      "數學系館",
+      "3174"
+    ],
+    "period": "[3]3~4 數學系館 3174 [5]2 數學系館 3174 [5]1 數學系館 3174",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F0-003",
+    "code": "F0-003 F011900 [IBPE1182E]",
+    "name": "電腦輔助設計 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "夏育群",
+    "enrollment": "315/5",
+    "locations": [
+      "航太系館",
+      "5898"
+    ],
+    "period": "[4]2~4 航太系館 5898",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-004",
+    "code": "F0-004 F012000 [IBPE2108E]",
+    "name": "工程材料科學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "陳維新",
+    "enrollment": "314/8",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[3]5~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A718320-ZW",
+    "code": "A718320-ZW [CL1080]",
+    "name": "大學國文（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依1照該類課程科目序號選課",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-ZZ",
+    "code": "A119120-ZZ [FLC1001]",
+    "name": "外國語言（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011420-Z",
+    "code": "F011420-Z [IBPE]",
+    "name": "體育（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依1照該類課程科目序號選課",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011300-Z",
+    "code": "F011300-Z [IBPE]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011300-Z4",
+    "code": "F011300-Z4 [IBPE]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依1照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-015",
+    "code": "F0-015 F011820 [IBPE0102E]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "詹劭勳",
+    "enrollment": "24/24",
+    "locations": [
+      "航太系館",
+      "5834"
+    ],
+    "period": "[3]9 航太系館 5834",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F0-016",
+    "code": "F0-016 F012101 [IBPE1108E]",
+    "name": "動力學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "楊世銘",
+    "enrollment": "28/9",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[4]6~8 航太系館 5824",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011300-Z3",
+    "code": "F011300-Z3 [IBPE]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011440-Z",
+    "code": "F011440-Z [IBPE]",
+    "name": "體育（四）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選1課",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F011300-Z2",
+    "code": "F011300-Z2 [IBPE]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選1課",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-061",
+    "code": "F0-061 F020320 [IBPE2107E]",
+    "name": "工程數學（二） 英語授課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "陳冠邦",
+    "enrollment": "34/11",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[1]7 航太系館 5830 [4]7~8 航太系館 5830",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-062",
+    "code": "F0-062 F030300 [IBPE2110E]",
+    "name": "儀器量測與訊號處理 英語授課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "彭兆仲",
+    "enrollment": "145/3",
+    "locations": [
+      "航太系館",
+      "5898"
+    ],
+    "period": "[2]5~6 航太系館 5898 [5]8 航太系館 5898",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-063",
+    "code": "F0-063 F021000 [IBPE2111E]",
+    "name": "熱機學 英語授課 淨零燃燒專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "王偉成",
+    "enrollment": "29/21",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[1]5~6 航太系館 5829 [3]7 航太系館 5829",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-064",
+    "code": "F0-064 F030800 [IBPE2112E]",
+    "name": "燃料電池 跨域永續綠能學分學程，韌性智慧能源學分學程 英語授課  能源學程與航太系合開",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "鄭金祥",
+    "enrollment": "65/111",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[4]2~4 航太系館 5825",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-065",
+    "code": "F0-065 F020900 [IBPE2103E]",
+    "name": "材料力學 英語授課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "崔兆棠",
+    "enrollment": "381/6",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[1]8 航太系館 5830 [4]5~6 航太系館 5830",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-101",
+    "code": "F0-101 F020800 [IBPE3101E]",
+    "name": "電力系統 英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "李劍",
+    "enrollment": "132/6",
+    "locations": [
+      "5897",
+      "航太系館"
+    ],
+    "period": "[5]2~4 航太系館 5897",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-102",
+    "code": "F0-102 F030510 [IBPE3172E]",
+    "name": "能源實驗（一） 英語授課",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "王偉成* 陳維新",
+    "enrollment": "26/9",
+    "locations": [
+      "實驗室5814",
+      "航太系館"
+    ],
+    "period": "[3]3~N 航太系館 實驗室5814",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F0-106",
+    "code": "F0-106 F040110 [IBPE3191E]",
+    "name": "專題論文（一） 欲修課者請於系網下載論文登記表，並繳至系辦公室。  第一階段不受理選課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "闕志哲* 鄭金祥 陳維新 李約亨 彭兆仲 賴盈誌 吳志勇",
+    "enrollment": "11/網路1選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F0-110",
+    "code": "F0-110 F031200 [IBPE3104E]",
+    "name": "熱傳學 英語授課 淨零燃燒專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "王偉成",
+    "enrollment": "133/4",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[1]2~3 航太系館 5825 [3]2 航太系館 5825",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-113",
+    "code": "F0-113 F031712 [IBPE3691E]",
+    "name": "能源工程實作（一） 英語授課 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "王偉成",
+    "enrollment": "29/2",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[4]5~6 航太系館 5829 [3]9 航太系館 5829 [4]N 航太系館 5829 [4]7 航太系館 5829",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F0-114",
+    "code": "F0-114 P060500 [IBPE5006E]",
+    "name": "生質能源工程 英語授課 淨零燃燒專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "陳維新",
+    "enrollment": "41/9",
+    "locations": [
+      "5897",
+      "航太系館"
+    ],
+    "period": "[2]6~8 航太系館 5897",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-116",
+    "code": "F0-116 D532700 [ECON3012]",
+    "name": "經濟成長 英語授課  經濟分析工具領域，英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "伍弘歷",
+    "enrollment": "161/24",
+    "locations": [
+      "社科院大樓",
+      "80205"
+    ],
+    "period": "[1]7~9 社科院大樓 80205",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-117",
+    "code": "F0-117 F420730 [AA3011]",
+    "name": "工程數學（三） 英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "吳志勇",
+    "enrollment": "251/35",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[2]7~9 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-193",
+    "code": "F0-193 P060300 [IBPE5003E]",
+    "name": "風力發電 英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "闕志哲",
+    "enrollment": "46/額滿",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[1]5~7 航太系館 5825",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-194",
+    "code": "F0-194 P060400 [IBPE5005E]",
+    "name": "潔淨燃燒與污染防治 跨域永續綠能學分學程 英語授課 淨零燃燒專長微學程  航太系與能源工程國際碩士學程合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "陳冠邦",
+    "enrollment": "45/16",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[3]N~6 航太系館 5830",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-195",
+    "code": "F0-195 H132000 [ACC3009]",
+    "name": "財務管理 FinTech金融科技學分學程，防災科技管理學分學程 英語授課  與統計系合開，限\"未\"修過「基本財務學」課程的同學選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "黃炳勳",
+    "enrollment": "35/10",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F0-196",
+    "code": "F0-196 P050701 [IBPE5004E]",
+    "name": "能源策略與政策 跨領域永續發展全英語學分學程(CPSD) 英語授課  能源碩士學程與水利系合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F0",
+    "department": "能源學程 IBPE",
+    "teacher": "松岡秀雄",
+    "enrollment": "313/2",
+    "locations": [
+      "5821",
+      "航太系館"
+    ],
+    "period": "[3]6~8 航太系館 5821",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

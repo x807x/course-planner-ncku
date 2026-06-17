@@ -1,0 +1,411 @@
+[
+  {
+    "id": "K4-001",
+    "code": "K4-001 K467100 [AS]",
+    "name": "藝術田野工作",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "高燦榮",
+    "enrollment": "15/820",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]6~8 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-002",
+    "code": "K4-002 K457000 [AS6029]",
+    "name": "視覺藝術研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "吳奕芳",
+    "enrollment": "12/283",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[4]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-003",
+    "code": "K4-003 K457100 [AS6030]",
+    "name": "音樂學研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "3/12",
+    "locations": [],
+    "period": "[4]2~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-004",
+    "code": "K4-004 K457200 [AS6027]",
+    "name": "戲劇學研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "朱芳慧",
+    "enrollment": "7/8",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-005",
+    "code": "K4-005 K457300 [AS6031]",
+    "name": "中國繪畫理論研究法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "劉梅琴",
+    "enrollment": "5/818",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[4]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-006",
+    "code": "K4-006 K465600 [AS6020]",
+    "name": "陶瓷藝術形式與運用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "徐永旭",
+    "enrollment": "17/8額滿",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[3]6~8 藝術所 5452",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-007",
+    "code": "K4-007 K467400 [AS6034]",
+    "name": "日本浮世繪專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "劉梅琴",
+    "enrollment": "12/823",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[3]2~4 藝術所 5450",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-008",
+    "code": "K4-008 K467500 [AS6043]",
+    "name": "中西戲劇比較專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "朱芳慧",
+    "enrollment": "9/14",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[3]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-009",
+    "code": "K4-009 K467600 [AS6032]",
+    "name": "後現代藝術專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "王雅倫",
+    "enrollment": "181/24",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[2]6~8 藝術所 5450",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-010",
+    "code": "K4-010 K468200 [AS6049]",
+    "name": "台灣當代作曲家專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "簡巧珍",
+    "enrollment": "7/16",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[2]2~4 藝術所 5452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-011",
+    "code": "K4-011 K465700 [AS6017]",
+    "name": "電影音樂專題研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "楊金峯",
+    "enrollment": "23/8額滿",
+    "locations": [
+      "藝術所",
+      "5452"
+    ],
+    "period": "[2]6~8 藝術所 5452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "K4-012",
+    "code": "K4-012 K454200 [AS9999]",
+    "name": "專題討論",
+    "grade": 3,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "K4",
+    "department": "藝術所 AS",
+    "teacher": "朱芳慧",
+    "enrollment": "20/180",
+    "locations": [
+      "5450",
+      "藝術所"
+    ],
+    "period": "[5]2~3 藝術所 5450",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  }
+]

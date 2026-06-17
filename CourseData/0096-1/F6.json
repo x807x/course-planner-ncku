@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "F6-001",
+    "code": "F6-001 F615010 [GM]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "蔡玫姿",
+    "enrollment": "61/5",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[2]5~6 測量系副館 55150 [4]8 測量系副館 55150",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F611110-Z",
+    "code": "F611110-Z [GM]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "60/60",
+    "locations": [],
+    "period": "[5]3~4 [2]4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F6-003",
+    "code": "F6-003 F617600 [GM]",
+    "name": "歷史",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "曾品滄",
+    "enrollment": "58/8",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[2]7~8 測量系副館 55150",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F6-005",
+    "code": "F6-005 E415610 [MATH1021]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "方　源",
+    "enrollment": "209/額滿",
+    "locations": [
+      "化工系館",
+      "水利系館",
+      "4627",
+      "4353",
+      "華立廳",
+      "55160",
+      "4352",
+      "資源系館",
+      "測量系副館",
+      "55150",
+      "4620"
+    ],
+    "period": "[2]1~2 化工系館 華立廳 [4]2 化工系館 華立廳 [4]1 資源系館 4353 [4]1 資源系館 4352 [4]1 水利系館 4620 [4]1 水利系館 4627 [4]1 測量系副館 55150 [4]1 測量系副館 55160",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F6-006",
+    "code": "F6-006 F610710 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "許永昌",
+    "enrollment": "761/額滿",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[1]5~6 測量系副館 55150 [4]7 測量系副館 55150",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-007",
+    "code": "F6-007 F615910 [GM1022]",
+    "name": "普通物理學實驗（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "許永昌",
+    "enrollment": "33/42",
+    "locations": [
+      "理化大樓",
+      "普物實驗室"
+    ],
+    "period": "[1]1~3 理化大樓 普物實驗室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F6-010",
+    "code": "F6-010 F611310 [GM]",
+    "name": "平面測量（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "徐百輝",
+    "enrollment": "674/額滿",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[5]1~2 測量系副館 55150",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-011",
+    "code": "F6-011 F611410 [GM]",
+    "name": "平面測量實習（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "徐百輝",
+    "enrollment": "56/10",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[5]5~7 測量系副館 55150",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F6-012",
+    "code": "F6-012 F611900 [GM1050]",
+    "name": "測量及空間資訊概論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "郭重言",
+    "enrollment": "62/18",
+    "locations": [
+      "測量系館",
+      "55250"
+    ],
+    "period": "[3]7~8 測量系館 55250",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-014",
+    "code": "F6-014 F622300 [GM1200]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "曾宏正",
+    "enrollment": "55/11",
+    "locations": [
+      "測量系副館",
+      "55150"
+    ],
+    "period": "[3]6 測量系副館 55150 [4]3~4 測量系副館 55150",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-015",
+    "code": "F6-015 F617910 [GM0910]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "曾義星",
+    "enrollment": "656/不限",
+    "locations": [],
+    "period": "[2]9",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F6-016",
+    "code": "F6-016 F610010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "洪甄憶",
+    "enrollment": "657/43",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F610111-Z",
+    "code": "F610111-Z [GM]",
+    "name": "軍訓（一） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]1~2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F625000-Z1",
+    "code": "F625000-Z1 [GM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "60/60",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-051",
+    "code": "F6-051 F621500 [GM2300]",
+    "name": "地圖學概論",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "洪榮宏",
+    "enrollment": "446/16",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[2]6 測量系副館 55160 [4]7~8 測量系副館 55160",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-052",
+    "code": "F6-052 F620210 [GM]",
+    "name": "測量平差（一） 需先修以下科目:《微積分（一）/必修/3.0 學分/45 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "余致義",
+    "enrollment": "564/6",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[2]7~8 測量系副館 55160 [5]7 測量系副館 55160",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-054",
+    "code": "F6-054 F620710 [GM2110]",
+    "name": "工程數學（一） 需先修以下科目:《微積分（一）/必修/3.0 學分/45 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "余致義",
+    "enrollment": "561/9",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[3]2 測量系副館 55160 [5]3~4 測量系副館 55160",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-056",
+    "code": "F6-056 F620500 [GM2100]",
+    "name": "工程統計",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "王驥魁",
+    "enrollment": "467/13",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[2]2 測量系副館 55160 [4]3~4 測量系副館 55160",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-058",
+    "code": "F6-058 F641001 [GM]",
+    "name": "土地法及地籍法規",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "謝福來",
+    "enrollment": "38/22",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[6]1~2 測量系副館 55160",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-062",
+    "code": "F6-062 F622201 [GM2010]",
+    "name": "地理資訊科技基礎",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "郭英俊",
+    "enrollment": "462/18",
+    "locations": [
+      "55160",
+      "測量系副館"
+    ],
+    "period": "[1]2~3 測量系副館 55160 [4]6 測量系副館 55160",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F610330-Z",
+    "code": "F610330-Z [GM]",
+    "name": "英文（含口語訓練）（三） (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "06/60",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F610030-Z",
+    "code": "F610030-Z [GM]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F625000-Z2",
+    "code": "F625000-Z2 [GM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/660",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F610131-Z",
+    "code": "F610131-Z [GM]",
+    "name": "軍訓（三） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/不6限",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-067",
+    "code": "F6-067 F617930 [GM0930]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "曾義星",
+    "enrollment": "44/不限",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F625000-Z3",
+    "code": "F625000-Z3 [GM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/660",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-105",
+    "code": "F6-105 F632010 [GM3510]",
+    "name": "攝影測量（一）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "蔡展榮",
+    "enrollment": "39/21",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[1]2~3 測量系副館 55170 [5]6 測量系副館 55170",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-110",
+    "code": "F6-110 F620320 [GM3420]",
+    "name": "大地測量（二） 需先修以下科目:《工程數學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "尤瑞哲",
+    "enrollment": "638/22",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[2]3~4 測量系副館 55170 [3]5 測量系副館 55170",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-111",
+    "code": "F6-111 F620420 [GM]",
+    "name": "大地測量實習（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "尤瑞哲",
+    "enrollment": "36/24",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[3]6~8 測量系副館 55170",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F6-112",
+    "code": "F6-112 F631300 [GM]",
+    "name": "遙感探測概論",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "王驥魁",
+    "enrollment": "36/24",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[2]5~6 測量系副館 55170 [4]6 測量系副館 55170",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-114",
+    "code": "F6-114 F649100 [GM1030]",
+    "name": "測量管理",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "施永富",
+    "enrollment": "22/38",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[5]3~4 測量系副館 55170",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-117",
+    "code": "F6-117 F631700 [GM]",
+    "name": "ＧＩＳ資料模式與資料庫 需先修以下科目:《地理資訊基本原理/必修/3.0 學分/50 分以上》《地理資訊科技基礎/選修/3.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "郭英俊",
+    "enrollment": "186/42",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[1]7 測量系副館 55170 [4]3~4 測量系副館 55170",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-118",
+    "code": "F6-118 F632100 [GM2610]",
+    "name": "資料結構",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "林昭宏",
+    "enrollment": "163/47",
+    "locations": [
+      "55170",
+      "測量系副館"
+    ],
+    "period": "[2]7~8 測量系副館 55170 [4]7 測量系副館 55170",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F625000-Z4",
+    "code": "F625000-Z4 [GM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "",
+    "enrollment": "0/464",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-153",
+    "code": "F6-153 F642200 [GM4070]",
+    "name": "測量總實習 已利用暑假一個月總實習 (含實習)",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "洪榮宏 郭重言",
+    "enrollment": "42/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定 未定",
+    "slots": []
+  },
+  {
+    "id": "F6-154",
+    "code": "F6-154 F641600 [GM]",
+    "name": "都市計劃",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "紀燦輝",
+    "enrollment": "61/6額滿",
+    "locations": [
+      "規劃設計大樓",
+      "5117"
+    ],
+    "period": "[1]5~6 規劃設計大樓 5117",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-155",
+    "code": "F6-155 F630130 [GM4500]",
+    "name": "攝影測量（三） 需先修以下科目:《攝影測量（一）/必修/3.0 學分/45 分以上》《攝影測量（二）/必修/3.0 學分/45 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "饒見有",
+    "enrollment": "65/39",
+    "locations": [
+      "測量系副館",
+      "55180"
+    ],
+    "period": "[3]7~8 測量系副館 55180 [5]9 測量系副館 55180",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-156",
+    "code": "F6-156 F622100 [GM2620]",
+    "name": "計算機圖學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "林昭宏",
+    "enrollment": "9/35",
+    "locations": [
+      "測量系副館",
+      "55180"
+    ],
+    "period": "[1]2~3 測量系副館 55180 [4]6 測量系副館 55180",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-157",
+    "code": "F6-157 F631100 [GM4100]",
+    "name": "誤差理論 需先修以下科目:《測量平差（一）/必修/3.0 學分/45 分以上》《測量平差（二）/必修/3.0 學分/45 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "尤瑞哲",
+    "enrollment": "18/26",
+    "locations": [
+      "測量系副館",
+      "55180"
+    ],
+    "period": "[2]N 測量系副館 55180 [4]7~8 測量系副館 55180",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-159",
+    "code": "F6-159 F641800 [GM1700]",
+    "name": "土木工程實務",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "范仁賢",
+    "enrollment": "629/15",
+    "locations": [
+      "測量系副館",
+      "55180"
+    ],
+    "period": "[4]2~3 測量系副館 55180",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-160",
+    "code": "F6-160 F642100 [GM4400]",
+    "name": "重力測量",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "郭重言",
+    "enrollment": "34/160",
+    "locations": [
+      "測量系副館",
+      "55180"
+    ],
+    "period": "[2]3~4 測量系副館 55180 [3]2 測量系副館 55180",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F6-161",
+    "code": "F6-161 F632320 [GM4090]",
+    "name": "專題研究（二）",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F6",
+    "department": "測量系 GM",
+    "teacher": "洪榮宏 尤瑞哲 蔡展榮 江凱偉 林昭宏 曾義星",
+    "enrollment": "619/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

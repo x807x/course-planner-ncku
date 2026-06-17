@@ -1,0 +1,285 @@
+[
+  {
+    "id": "T3-001",
+    "code": "T3-001 T350120 [MLSB6117]",
+    "name": "專題討論（二） 英語授課  EMI課程(英文授課比例70%)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "楊孔嘉* 黃珍語",
+    "enrollment": "920/5",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]1~2 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-002",
+    "code": "T3-002 T350900 [MLSB6124]",
+    "name": "實驗室品管及管理 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃暉升* 陳芃婷 黃瀞瑩 林韋伶 蔡慧頻 陳怡伶 李宜珍",
+    "enrollment": "924/6",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[3]3~4 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-003",
+    "code": "T3-003 T350100 [MLSB6115]",
+    "name": "實驗診斷學 英語授課  EMI課程(英文授課比例：100%)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "傅子芳",
+    "enrollment": "918/12",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[2]1~2 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-005",
+    "code": "T3-005 T390200 [MLSB6127]",
+    "name": "人類微生物體學 上課地點在生醫卓群大樓7樓13739會議室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "阮振維",
+    "enrollment": "8/7",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-006",
+    "code": "T3-006 T350221 [MLSB6121]",
+    "name": "實驗室教學實習（二） 第一階段不受理選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃暉升",
+    "enrollment": "10/10",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-007",
+    "code": "T3-007 T350501 [MLSB6608]",
+    "name": "儀器分析 英語授課  EMI課程(英文授課比例70%)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃珍語* 許觀達 張權發 黃溫雅 王淑鶯 廖寶琦 蔡坤哲 陳芃潔 吳尚蓉",
+    "enrollment": "30/額滿",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[1]2~3 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-008",
+    "code": "T3-008 T358300 [MLSB6128]",
+    "name": "心臟技術學（含實習） 業界專家參與  醫技所與醫工所合開 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃珍語* 范景翔 蔡惟全",
+    "enrollment": "10/10",
+    "locations": [
+      "307",
+      "醫學院"
+    ],
+    "period": "[5]5 醫學院 307 [5]6~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "T3-009",
+    "code": "T3-009 T359000 [MLSB6636]",
+    "name": "行動智慧醫學檢測—ＰＯＣＴ與生成式的創客空間 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "傅子芳* 楊中平",
+    "enrollment": "10/40",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]5~6 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-010",
+    "code": "T3-010 T350241 [MLSB6123]",
+    "name": "實驗室教學實習（四） 第一階段不受理選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃暉升",
+    "enrollment": "13/7",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-021",
+    "code": "T3-021 T350140 [MLSB6119]",
+    "name": "專題討論（四） 英語授課  EMI課程(英文授課比例：100%)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃珍語* 楊孔嘉",
+    "enrollment": "12/913",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]3~4 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

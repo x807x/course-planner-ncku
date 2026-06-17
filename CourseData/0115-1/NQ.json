@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NQ-001",
+    "code": "NQ-001 NQ51700-1 [CSI7090]",
+    "name": "專題討論 「資安組」－請依所屬組別、年級選課。三年級以上請選二年級課程。",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "吳士駿",
+    "enrollment": "0/不限",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[4]5~6 電機系館 92926",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NQ-002",
+    "code": "NQ-002 NQ51700-2 [CSI7090]",
+    "name": "專題討論 「資安組」－請依所屬組別、年級選課。三年級以上請選二年級課程。",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "0/2不限",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[4]5~6 電機系館 92171",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NQ-151",
+    "code": "NQ-151 N25M400 [EE8552]",
+    "name": "人工智慧模型設計與運動科技之應用 AI 運動科技專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡家齊",
+    "enrollment": "0/821",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[3]5~7 電機系館 92225",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-202",
+    "code": "NQ-202 Q357000 [CCE8401]",
+    "name": "通信網路",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "李忠憲",
+    "enrollment": "02/63",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]5~7 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-226",
+    "code": "NQ-226 NQ50200 [CSI7901]",
+    "name": "關鍵基礎設施資訊安全實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "0/227",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-227",
+    "code": "NQ-227 NQ51400 [CSI7916]",
+    "name": "數位鑑識與事件回應",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "狄書亞",
+    "enrollment": "20/27",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-229",
+    "code": "NQ-229 NQ50400 [CSI7903]",
+    "name": "計算機網路管理與安全",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡邦維",
+    "enrollment": "0/24",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-250",
+    "code": "NQ-250 NQ50800 [CSI7905]",
+    "name": "電腦網路 碩專碩博合班，週末上課，專班優先選課(在職碩專請由序號N2-307選課)。網路選課限15人。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "0/125",
+    "locations": [
+      "電機系館",
+      "92417"
+    ],
+    "period": "[4]A~C 電機系館 92417",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

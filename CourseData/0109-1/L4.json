@@ -1,0 +1,986 @@
+[
+  {
+    "id": "L4-001",
+    "code": "L4-001 L410310-1 [EARS7001]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "龔慧貞* 楊耿明",
+    "enrollment": "623/127",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[5]5~6 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-002",
+    "code": "L4-002 L410330-1 [EARS7003]",
+    "name": "專題討論（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "江威德* 楊懷仁",
+    "enrollment": "19/131",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[5]7~8 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-101",
+    "code": "L4-101 L410310 [EARS7001]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "陳燕華* 劉正千",
+    "enrollment": "2/148",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[5]5~6 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-102",
+    "code": "L4-102 L410330 [EARS7003]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "游鎮烽* 陳佳宏",
+    "enrollment": "1/149",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[5]7~8 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-110",
+    "code": "L4-110 L487030 [EARS7028]",
+    "name": "專題討論─同位素地球化學（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "游鎮烽",
+    "enrollment": "36/7",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[3]1~2 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-111",
+    "code": "L4-111 L473830 [EARS7078]",
+    "name": "專題討論─大規模崩塌判釋與調查（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "林慶偉",
+    "enrollment": "36/7",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[4]1~2 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-112",
+    "code": "L4-112 L487430 [EARS7048]",
+    "name": "專題討論─遙感探測（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "劉正千",
+    "enrollment": "1/69",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[1]5~6 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-113",
+    "code": "L4-113 L487230 [EARS7038]",
+    "name": "專題討論─地震地體構造（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "饒瑞鈞",
+    "enrollment": "64/6",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[4]7~8 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-114",
+    "code": "L4-114 L486730 [EARS7013]",
+    "name": "專題討論─礦物學（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "江威德",
+    "enrollment": "3/7",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[1]2~3 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-115",
+    "code": "L4-115 L488230 [EARS7083]",
+    "name": "專題討論─大氣科學（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "林建宏",
+    "enrollment": "3/7",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[3]3~4 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-116",
+    "code": "L4-116 L487130 [EARS7033]",
+    "name": "專題討論─地球化學（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "楊懷仁",
+    "enrollment": "3/7",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[3]7~8 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-117",
+    "code": "L4-117 L487530 [EARS7053]",
+    "name": "專題討論─沈積盆地的地體構造（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "楊耿明",
+    "enrollment": "6/64",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[2]7~8 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-118",
+    "code": "L4-118 L486830 [EARS7018]",
+    "name": "專題討論─礦物應用（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "陳燕華",
+    "enrollment": "46/6",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[4]5~6 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-119",
+    "code": "L4-119 L486930 [EARS7023]",
+    "name": "專題討論─岩石物理及其應用（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "龔慧貞",
+    "enrollment": "65/5",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[5]3~4 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-120",
+    "code": "L4-120 L488030 [EARS7068]",
+    "name": "專題討論─地震研究（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "樂鍇．祿璞崚岸",
+    "enrollment": "4/66",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[2]5~6 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-121",
+    "code": "L4-121 L488630 [EARS7098]",
+    "name": "專題討論─工程地質（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "林冠瑋",
+    "enrollment": "4/6",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[2]5~6 地科系館 3031",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-122",
+    "code": "L4-122 L489230 [EARS7008]",
+    "name": "專題討論—地震資料處理（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "李恩瑞",
+    "enrollment": "4/6",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[4]5~6 地科系館 3017",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-123",
+    "code": "L4-123 L488530 [EARS7093]",
+    "name": "專題討論─生物地質全球變遷（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "梁碧清",
+    "enrollment": "56/5",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[4]3~4 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-124",
+    "code": "L4-124 L489930 [EARS7353]",
+    "name": "專題討論─太空天氣（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "陳佳宏",
+    "enrollment": "36/7",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[5]3~4 地科系館 3031",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-125",
+    "code": "L4-125 L488130 [EARS7073]",
+    "name": "專題討論─現代地球化學（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "劉厚均",
+    "enrollment": "60/20",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[2]5~6 地科系館 3035",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-131",
+    "code": "L4-131 L488800 [EARS7121]",
+    "name": "礦物電子顯微分析專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "江威德",
+    "enrollment": "8/162",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[1]7~9 地科系館 3036",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-136",
+    "code": "L4-136 L483000 [EARS7405]",
+    "name": "臺灣陸、海域超微體生物地層層序及實驗 (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "紀文榮",
+    "enrollment": "26/4",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[6]1~2 地科系館 3031 [6]3~6 地科系館 3031",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "L4-140",
+    "code": "L4-140 L471500 [EARS7308]",
+    "name": "觀測地震學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "李恩瑞",
+    "enrollment": "7/13",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[4]2~4 地科系館 3036",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-141",
+    "code": "L4-141 L482200 [EARS7312]",
+    "name": "盆地架構",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "楊耿明",
+    "enrollment": "8/12",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[3]7~9 地科系館 3036",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-142",
+    "code": "L4-142 L48A400 [EARS7413]",
+    "name": "石油及天然氣探勘、開發與生產",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "吳榮章",
+    "enrollment": "156/5",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[4]6~8 地科系館 3036",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-143",
+    "code": "L4-143 L48A900 [EARS7332]",
+    "name": "大氣資料同化導論 太空科學專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "陳佳宏",
+    "enrollment": "4/26",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[4]2~4 地科系館 3031",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-301",
+    "code": "L4-301 L410310-4 [EARS7001]",
+    "name": "專題討論（一） 限碩士在職專班選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "李恩瑞* 饒瑞鈞",
+    "enrollment": "4/615",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-302",
+    "code": "L4-302 L410330-4 [EARS7003]",
+    "name": "專題討論（三） 限碩士在職專班學生選修",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "林冠瑋* 樂鍇．祿璞崚岸",
+    "enrollment": "66/13",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L4-310",
+    "code": "L4-310 L456500 [EARS7801]",
+    "name": "地球科學專論 限碩士在職專班選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "蔡金郎",
+    "enrollment": "56/5",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[5]8~A 地科系館 3017",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-311",
+    "code": "L4-311 L463900 [EARS7851]",
+    "name": "地質與工程環境",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "吳銘志",
+    "enrollment": "46/6",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[5]B~C 地科系館 3017",
+    "slots": [
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L4-312",
+    "code": "L4-312 L465410 [EARS7840]",
+    "name": "能源地質與探勘（一） 限碩士在職專班選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L4",
+    "department": "地科所 EARS",
+    "teacher": "紀文榮",
+    "enrollment": "65/5",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[6]7~9 地科系館 3017",
+    "slots": [
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "id": "J0-001",
+    "code": "J0-001 J010100 [SOC1001]",
+    "name": "Python程式設計入門 新聞傳播學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "吳進義",
+    "enrollment": "46/7",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[2]2~4 統計系館 62225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-002",
+    "code": "J0-002 J020100 [SOC1002]",
+    "name": "數學與演算法 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "濱野正浩",
+    "enrollment": "712/18",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[4]6~8 統計系館 62333",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-003",
+    "code": "J0-003 J010200 [SOC1003]",
+    "name": "機率與資料導論 新聞傳播學程 計量財務專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "李國榮",
+    "enrollment": "34/6",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[3]2~4 統計系館 62117",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-101",
+    "code": "J0-101 J030100 [SOC1004]",
+    "name": "人工智慧法律與政策 社會資料科學學分學程 智慧醫療專長微學程  線上教學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "李韶曼",
+    "enrollment": "52/8",
+    "locations": [],
+    "period": "[1]5~7",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-102",
+    "code": "J0-102 J030200 [SOC2001]",
+    "name": "人工智慧運算與應用",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "林偉棻",
+    "enrollment": "33/7",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[5]5~7 統計系館 62333",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-103",
+    "code": "J0-103 J030300 [SOC2002]",
+    "name": "AI圖像識別及機器人實驗室導論 英語授課 AI 運動科技專長微學程  密集課程(9/22-1/26)實際上課共16週，詳見課程大綱",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "徐禕佑",
+    "enrollment": "21/1",
+    "locations": [
+      "統計系館",
+      "62113上課時間"
+    ],
+    "period": "[3]6~8 統計系館 62113上課時間",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "J0-104",
+    "code": "J0-104 J030400 [SOC2003]",
+    "name": "計算認知科學 AI 運動科技專長微學程  線上教學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "張亞寧",
+    "enrollment": "19/711",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M0-001",
+    "code": "M0-001 M050100 [SOC6001]",
+    "name": "隨機過程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "濱野正浩",
+    "enrollment": "84/16",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[2]5~7 統計系館 62119",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M0-002",
+    "code": "M0-002 N257800 [EE6025]",
+    "name": "電子材料工程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "J0",
+    "department": "敏求學院課程 SOC",
+    "teacher": "李文熙* 王超鴻",
+    "enrollment": "5/30",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92277",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

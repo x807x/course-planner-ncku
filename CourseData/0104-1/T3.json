@@ -1,0 +1,333 @@
+[
+  {
+    "id": "T3-001",
+    "code": "T3-001 T350110 [MLSB6116]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "徐麗君",
+    "enrollment": "20/2",
+    "locations": [
+      "5776",
+      "醫技醫工館"
+    ],
+    "period": "[5]2 醫技醫工館 5776",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-002",
+    "code": "T3-002 T350130 [MLSB6118]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "王貞仁",
+    "enrollment": "18/4",
+    "locations": [
+      "5776",
+      "醫技醫工館"
+    ],
+    "period": "[5]3~4 醫技醫工館 5776",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-003",
+    "code": "T3-003 T350211 [MLSB6120]",
+    "name": "實驗室教學實習（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "楊孔嘉",
+    "enrollment": "4/198",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-004",
+    "code": "T3-004 T350231 [MLSB6122]",
+    "name": "實驗室教學實習（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "楊孔嘉",
+    "enrollment": "4/18",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-005",
+    "code": "T3-005 T350401 [MLSB6215]",
+    "name": "微生物致病機轉 醫技、分醫、基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "王貞仁* 楊孔嘉 吳俊忠 蔡佩珍 胥直利 顏經洲 劉清泉 林威辰 劉校生 張志鵬 黃一修 王憲威 鄧景浩",
+    "enrollment": "17/18",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 301D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-006",
+    "code": "T3-006 T352400 [MLSB6311]",
+    "name": "高等分子生物學 醫技所與分醫所合班，第四講堂與303D上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "黃溫雅* 楊孔嘉",
+    "enrollment": "916/24",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-008",
+    "code": "T3-008 T354400 [MLSB6313]",
+    "name": "醣生物學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "10/12",
+    "locations": [
+      "醫技醫工館",
+      "5777"
+    ],
+    "period": "[4]3~4 醫技醫工館 5777",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-009",
+    "code": "T3-009 T352200 [MLSB6125]",
+    "name": "實驗診斷學概論",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "傅子芳",
+    "enrollment": "5/17",
+    "locations": [
+      "5776",
+      "醫技醫工館"
+    ],
+    "period": "[4]1~2 醫技醫工館 5776",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T3-010",
+    "code": "T3-010 T360400 [MLSB6126]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "3/19",
+    "locations": [
+      "5776",
+      "醫技醫工館"
+    ],
+    "period": "[5]2 醫技醫工館 5776",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "T3-011",
+    "code": "T3-011 T380200-Y [MLSB6613]",
+    "name": "生醫關鍵技術之開發與應用 醫療器材與系統學程 業界專家參與  暑假上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "24/296",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-012",
+    "code": "T3-012 T380300-Y [MLSB6614]",
+    "name": "人體研究計畫與醫療器材相關法規暨倫理規範 業界專家參與  暑假上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "35/915",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-016",
+    "code": "T3-016 T357300-Y [MLSB6616]",
+    "name": "創業思維與啟航（一）-創業發展 暑假上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "26/294",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-017",
+    "code": "T3-017 T357400-Y [MLSB6615]",
+    "name": "創業思維與啟航（二）-創業基礎 暑假上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "28/22",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T3-018",
+    "code": "T3-018 T360600-Y [MLSB6617]",
+    "name": "創業思維與啟航（三）-創業分享 暑假上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T3",
+    "department": "醫技所 MLSB",
+    "teacher": "張權發",
+    "enrollment": "25/25",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

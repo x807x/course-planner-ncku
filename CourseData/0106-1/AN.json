@@ -1,0 +1,172 @@
+[
+  {
+    "id": "AN-003",
+    "code": "AN-003 A215500-42 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃滄海",
+    "enrollment": "566/44",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-006",
+    "code": "AN-006 AN10110 [CCEP0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "賴明德",
+    "enrollment": "12/洽不分系學程",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-051",
+    "code": "AN-051 AN20110 [CCEP2090]",
+    "name": "跨領域問題導向專題（一） C-HUB 教室",
+    "grade": 2,
+    "credits": 6,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "賴明德* 王育民* 陳恒安 舒宇宸 李旺龍 賴啟銘 蘇文鈺",
+    "enrollment": "56/5",
+    "locations": [],
+    "period": "[6]2~7 [7]2~7",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-052",
+    "code": "AN-052 AN11000 [CCEP1000]",
+    "name": "國際企業概論 9/19,9/26,課程於10/5,10/12星期(四)6~8節補課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "林玟廷",
+    "enrollment": "56/15",
+    "locations": [
+      "國企所",
+      "61434"
+    ],
+    "period": "[2]5~7 國企所 61434",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

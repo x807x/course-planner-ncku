@@ -1,0 +1,72 @@
+[
+  {
+    "id": "VP-002",
+    "code": "VP-002 L762500-A [DPS6073]",
+    "name": "光電實驗 第一階段不受理選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "呂佳諭",
+    "enrollment": "21/1",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[2]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "VP-003",
+    "code": "VP-003 L762500-B [DPS6073]",
+    "name": "光電實驗 第一階段不受理選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "VP",
+    "department": "光電科技產碩 DPS",
+    "teacher": "張世慧",
+    "enrollment": "22/0額滿",
+    "locations": [
+      "綜合二館",
+      "49209"
+    ],
+    "period": "[3]5~7 綜合二館 49209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  }
+]

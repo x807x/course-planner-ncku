@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "C3-001",
+    "code": "C3-001 C315020 [CHEM]",
+    "name": "國文（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "王翠玲",
+    "enrollment": "512/23",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[2]4 化學系館 3275 [5]3~4 化學系館 3275",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "C310720-Z",
+    "code": "C310720-Z [CHEM]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "0/74",
+    "locations": [],
+    "period": "[4]5~6 [1]5",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "C3-003",
+    "code": "C3-003 C317600 [CHEM]",
+    "name": "歷史",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "楊子政",
+    "enrollment": "53/21",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[2]7~8 化學系館 3275",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "C3-004",
+    "code": "C3-004 C315620 [MATH1012]",
+    "name": "微積分（二） 日夜合開  限本系 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "陳慧如",
+    "enrollment": "67/7",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[1]7 化學系館 3275 [4]1~2 化學系館 3275 [1]8 化學系館 3275",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C3-005",
+    "code": "C3-005 C315720 [PHYS1013]",
+    "name": "普通物理學（二） 日夜合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蘇漢宗",
+    "enrollment": "266/8",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[2]3 化學系館 3275 [3]1~2 化學系館 3275",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-006",
+    "code": "C3-006 C315820 [PHYS1014]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蔡錦俊 張書銓",
+    "enrollment": "55/不限",
+    "locations": [],
+    "period": "[1]1~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-007",
+    "code": "C3-007 C315920-1 [CHEM1012]",
+    "name": "普通化學（二） A組 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林弘萍",
+    "enrollment": "260/14",
+    "locations": [
+      "3275",
+      "化學系館",
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[2]1~2 成功校區經緯廳 經緯廳 [5]1 成功校區經緯廳 經緯廳 [5]2 化學系館 3275",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C3-009",
+    "code": "C3-009 C316020-1 [CHEM1014]",
+    "name": "普通化學實驗（二） Ａ組理化大樓一樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蔡惠蓮",
+    "enrollment": "30/218",
+    "locations": [
+      "理化大樓",
+      "35121"
+    ],
+    "period": "[5]5~7 理化大樓 35121",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-010",
+    "code": "C3-010 C316020-2 [CHEM1014]",
+    "name": "普通化學實驗（二） Ｂ組理化大樓一樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃守仁",
+    "enrollment": "27/21",
+    "locations": [
+      "理化大樓",
+      "35122"
+    ],
+    "period": "[5]5~7 理化大樓 35122",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C310020-Z",
+    "code": "C310020-Z [CHEM]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "02/不限",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-013",
+    "code": "C3-013 C310120 [CHEM]",
+    "name": "軍訓（二） 本系選本班　如欲選他系請至教官室辦理",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "王淑釵",
+    "enrollment": "53/52",
+    "locations": [
+      "軍訓館",
+      "6022"
+    ],
+    "period": "[4]3~4 軍訓館 6022",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C325000-Z1",
+    "code": "C325000-Z1 [CHEM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "0/724",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-015",
+    "code": "C3-015 C321500 [CHEM2101]",
+    "name": "化學數學 日夜合開",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蘇世剛",
+    "enrollment": "85/額滿",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[1]6 化學系館 3267 [3]5~6 化學系館 3267",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-016",
+    "code": "C3-016 C317920 [CHEM0002]",
+    "name": "服務學習（二） 限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蔡惠蓮",
+    "enrollment": "53/2不限",
+    "locations": [],
+    "period": "[2]N",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C310340-Z",
+    "code": "C310340-Z [CHEM]",
+    "name": "英文（含口語訓練）（四） 依照英文選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "20/74",
+    "locations": [],
+    "period": "[1]7 [1]8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "C3-053",
+    "code": "C3-053 C321120 [CHEM2201]",
+    "name": "有機化學（二） 格致廳講堂上課日夜合班  限2年級以上選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃福永",
+    "enrollment": "2107/37",
+    "locations": [],
+    "period": "[4]3~4 [5]4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-054",
+    "code": "C3-054 C321220-1A [CHEM2271]",
+    "name": "有機化學實驗（二） 有機實驗室",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃福永",
+    "enrollment": "22/額滿",
+    "locations": [
+      "化學系館",
+      "有機實驗室"
+    ],
+    "period": "[3]6~8 化學系館 有機實驗室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-055",
+    "code": "C3-055 C321220-1B [CHEM2271]",
+    "name": "有機化學實驗（二） 有機實驗室",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃福永",
+    "enrollment": "222/額滿",
+    "locations": [
+      "化學系館",
+      "有機實驗室"
+    ],
+    "period": "[4]6~8 化學系館 有機實驗室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-056",
+    "code": "C3-056 C321220-1C [CHEM2271]",
+    "name": "有機化學實驗（二） 有機實驗室",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "吳耀庭",
+    "enrollment": "20/2",
+    "locations": [
+      "化學系館",
+      "有機實驗室"
+    ],
+    "period": "[5]6~8 化學系館 有機實驗室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-057",
+    "code": "C3-057 C331520 [CHEM2205]",
+    "name": "物理化學（二） 格致廳講堂上課 日夜合班  限2年級以上選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林弘萍",
+    "enrollment": "92/52",
+    "locations": [],
+    "period": "[4]1~2 [5]3",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3101D0-Z",
+    "code": "C3101D0-Z [CHEM]",
+    "name": "軍訓（四） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "20/不限",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C310040-Z",
+    "code": "C310040-Z [CHEM]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "20/不限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C325000-Z2",
+    "code": "C325000-Z2 [CHEM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "0/74",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-066",
+    "code": "C3-066 C320220 [CHEM2203]",
+    "name": "有機化學技術（二）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "吳耀庭",
+    "enrollment": "272/9",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[4]5 化學系館 3267",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-067",
+    "code": "C3-067 C337600 [CHEM3321]",
+    "name": "電化學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "陳曾化",
+    "enrollment": "61/123",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[2]1~2 化學系館 3267 [5]5 化學系館 3267",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-068",
+    "code": "C3-068 C331300 [CHEM3319]",
+    "name": "群論與應用 日夜合開",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蔡惠蓮",
+    "enrollment": "44/37",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[1]2~3 化學系館 3267 [2]4 化學系館 3267",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-102",
+    "code": "C3-102 C331720 [CHEM2303]",
+    "name": "無機化學（二） 格致廳講堂上課  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "許拱北",
+    "enrollment": "74/720",
+    "locations": [
+      "格致堂"
+    ],
+    "period": "[3]3~4 格致堂 格致堂 [5]1 格致堂 格致堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-103",
+    "code": "C3-103 C347010-1 [CHEM1311]",
+    "name": "書報討論（一） Ａ組  限本系",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "吳耀庭",
+    "enrollment": "342/6",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[3]5 化學系館 3274",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-104",
+    "code": "C3-104 C347010-2 [CHEM1311]",
+    "name": "書報討論（一） Ｂ組  限本系",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林榮良",
+    "enrollment": "236/4",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[1]5 化學系館 3274",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C325000-Z3",
+    "code": "C325000-Z3 [CHEM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "0/53",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-106",
+    "code": "C3-106 C331620-1A [CHEM2273]",
+    "name": "物理化學實驗（二） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "施良垣",
+    "enrollment": "21/3",
+    "locations": [
+      "化學系館",
+      "綜合實驗室一"
+    ],
+    "period": "[1]6~8 化學系館 綜合實驗室一",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-107",
+    "code": "C3-107 C331620-1B [CHEM2273]",
+    "name": "物理化學實驗（二） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "葉晨聖",
+    "enrollment": "217/7",
+    "locations": [],
+    "period": "[5]6~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-108",
+    "code": "C3-108 C331620-1C [CHEM2273]",
+    "name": "物理化學實驗（二） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "葉晨聖 施良垣",
+    "enrollment": "23/1",
+    "locations": [
+      "化學系館",
+      "綜合實驗室一"
+    ],
+    "period": "[4]5~7 化學系館 綜合實驗室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-111",
+    "code": "C3-111 C326320 [CHEM2301]",
+    "name": "分析化學（二） 在格致廳講堂上課  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "桂椿雄",
+    "enrollment": "86/58",
+    "locations": [],
+    "period": "[3]1~2 [5]2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-113",
+    "code": "C3-113 C340020-1 [CHEM1313]",
+    "name": "專題研究（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "152/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C3-119",
+    "code": "C3-119 C326410-1A [CHEM2370]",
+    "name": "分析化學實驗（一） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "陳淑慧",
+    "enrollment": "24/額滿",
+    "locations": [
+      "化學系館",
+      "綜合實驗室二"
+    ],
+    "period": "[5]6~8 化學系館 綜合實驗室二",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-120",
+    "code": "C3-120 C326410-1B [CHEM2370]",
+    "name": "分析化學實驗（一） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "桂椿雄",
+    "enrollment": "232/1",
+    "locations": [
+      "化學系館",
+      "綜合實驗室二"
+    ],
+    "period": "[4]5~7 化學系館 綜合實驗室二",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-121",
+    "code": "C3-121 C326410-1C [CHEM2370]",
+    "name": "分析化學實驗（一） 綜合實驗室",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "陳淑慧 桂椿雄",
+    "enrollment": "218/6",
+    "locations": [
+      "化學系館",
+      "綜合實驗室二"
+    ],
+    "period": "[1]6~8 化學系館 綜合實驗室二",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C3-122",
+    "code": "C3-122 C341720 [CHEM3302]",
+    "name": "生物化學（二） 化三化四合班及日夜合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃福永",
+    "enrollment": "14/39",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[1]2~3 化學系館 3274 [5]5 化學系館 3274",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-123",
+    "code": "C3-123 C331200 [CHEM3303]",
+    "name": "生物科技概論 化三化四合班及日夜合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蕭世裕",
+    "enrollment": "30/251",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[2]3 化學系館 3267 [3]7~8 化學系館 3267",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-125",
+    "code": "C3-125 C337800 [CHEM3314]",
+    "name": "高分子化學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "施良垣",
+    "enrollment": "312/22",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[4]3~4 化學系館 3274 [5]4 化學系館 3274",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-127",
+    "code": "C3-127 C331530 [CHEM3311]",
+    "name": "物理化學（三） 化三化四合班及日夜合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林弘萍",
+    "enrollment": "62/129",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[2]7~8 化學系館 3267 [4]8 化學系館 3267",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-128",
+    "code": "C3-128 C330400 [CHEM3313]",
+    "name": "表面科學概論 化三化四合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林榮良",
+    "enrollment": "321/22",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[4]1~2 化學系館 3274 [5]3 化學系館 3274",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-134",
+    "code": "C3-134 C341900 [CHEM]",
+    "name": "有機反應 化三化四合班及 日夜合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "葉茂榮",
+    "enrollment": "44/30",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[5]6~8 化學系館 3275",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C325000-Z4",
+    "code": "C325000-Z4 [CHEM]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "0/329",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-154",
+    "code": "C3-154 C340020-2 [CHEM1313]",
+    "name": "專題研究（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "",
+    "enrollment": "5/不2限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C3-155",
+    "code": "C3-155 C341720 [CHEM3302]",
+    "name": "生物化學（二） 化三化四合班及日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "黃福永",
+    "enrollment": "14/239",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[1]2~3 化學系館 3274 [5]5 化學系館 3274",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-156",
+    "code": "C3-156 C331530 [CHEM3311]",
+    "name": "物理化學（三） 化三化四合班及日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林弘萍",
+    "enrollment": "62/19",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[2]7~8 化學系館 3267 [4]8 化學系館 3267",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-157",
+    "code": "C3-157 C330400 [CHEM3313]",
+    "name": "表面科學概論 化三化四合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "林榮良",
+    "enrollment": "31/222",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[4]1~2 化學系館 3274 [5]3 化學系館 3274",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-158",
+    "code": "C3-158 C341900 [CHEM]",
+    "name": "有機反應 化三化四合班及 日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "葉茂榮",
+    "enrollment": "244/30",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[5]6~8 化學系館 3275",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-159",
+    "code": "C3-159 C331200 [CHEM3303]",
+    "name": "生物科技概論 化三化四合班及日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "蕭世裕",
+    "enrollment": "30/51",
+    "locations": [
+      "化學系館",
+      "3267"
+    ],
+    "period": "[2]3 化學系館 3267 [3]7~8 化學系館 3267",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-160",
+    "code": "C3-160 C341100 [CHEM]",
+    "name": "熱分析化學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "陳曾化",
+    "enrollment": "14/39",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[1]7~8 化學系館 3274 [2]4 化學系館 3274",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-161",
+    "code": "C3-161 C340800 [CHEM3318]",
+    "name": "量子化學特論 日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "王小萍",
+    "enrollment": "261/20",
+    "locations": [
+      "3275",
+      "化學系館"
+    ],
+    "period": "[2]1~2 化學系館 3275 [3]6 化學系館 3275",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C3-162",
+    "code": "C3-162 C340100 [CHEM3323]",
+    "name": "層析法特論 日夜合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C3",
+    "department": "化學系 CHEM",
+    "teacher": "桂椿雄",
+    "enrollment": "11/42",
+    "locations": [
+      "化學系館",
+      "3274"
+    ],
+    "period": "[2]7~8 化學系館 3274 [4]8 化學系館 3274",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

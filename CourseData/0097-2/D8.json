@@ -1,0 +1,316 @@
+[
+  {
+    "id": "D810311-Z",
+    "code": "D810311-Z [PSY]",
+    "name": "基礎國文 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]7~9",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "核心通識"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "核心通識"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "D810221-Z",
+    "code": "D810221-Z [PSY]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "0/5不限",
+    "locations": [],
+    "period": "[2]5 [2]6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "核心通識"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "D810500-Z",
+    "code": "D810500-Z [PSY]",
+    "name": "公民素養 核心通識，依照公民素養選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "D810120-Z",
+    "code": "D810120-Z [PSY]",
+    "name": "體育（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D8-005",
+    "code": "D8-005 D810620 [PSY0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "陳振宇",
+    "enrollment": "48/不限",
+    "locations": [
+      "雲平大樓",
+      "6F視聽教室"
+    ],
+    "period": "[4]1 雲平大樓 6F視聽教室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "D811200-Z1",
+    "code": "D811200-Z1 [PSY]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "D8-011",
+    "code": "D8-011 D810920 [PSY1102]",
+    "name": "心理學概論（二） 醫學、科技與社會學程(STM)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "龔俊嘉",
+    "enrollment": "86/14",
+    "locations": [
+      "規劃設計大樓",
+      "5108"
+    ],
+    "period": "[3]2 規劃設計大樓 5108 [5]3~4 規劃設計大樓 5108",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D8-012",
+    "code": "D8-012 D811100 [PSY]",
+    "name": "研究方法",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "蕭富仁",
+    "enrollment": "755/5",
+    "locations": [
+      "規劃設計大樓",
+      "5108"
+    ],
+    "period": "[2]7~9 規劃設計大樓 5108",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D8-013",
+    "code": "D8-013 D820800 [PSY2201]",
+    "name": "設計心理學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "陳振宇",
+    "enrollment": "91/150",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]2~4 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D8-015",
+    "code": "D8-015 D811400 [PSY1201]",
+    "name": "普通生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "蕭富仁 洪良宜",
+    "enrollment": "59/3",
+    "locations": [
+      "規劃設計大樓",
+      "5117"
+    ],
+    "period": "[3]5~7 規劃設計大樓 5117",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "D811200-Z2",
+    "code": "D811200-Z2 [PSY]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "D8",
+    "department": "心理系 PSY",
+    "teacher": "",
+    "enrollment": "50/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "id": "T4-001",
+    "code": "T4-001 T450110 [IOM6091]",
+    "name": "專題討論（一） 牙醫系館34101教室上課。",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳尚蓉* 丁羣展 陳畊仲 吳昱學 陳永崇 張儷卿 李澤民 謝達斌 莊淑芬 黃則達",
+    "enrollment": "12/528",
+    "locations": [
+      "34101",
+      "牙醫系館"
+    ],
+    "period": "[5]7~8 牙醫系館 34101",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "T4-002",
+    "code": "T4-002 T451410 [IOM6211E]",
+    "name": "臨床牙醫學（一） 臨床組必選。上課地點以口醫部公告為主。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "陳永崇* 丁羣展 邱威智 陳畊仲 吳昱學 陳孟延 袁國 許修銘 謝達斌 莊淑芬 黃則達 張禎容",
+    "enrollment": "1/4",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-003",
+    "code": "T4-003 T450410 [IOM6221]",
+    "name": "臨床病例討論（一） 次專科各自帶開上課 ，臨床組選修。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "丁羣展* 邱威智 陳畊仲 吳昱學 陳孟延 陳永崇 袁國 劉佳觀 謝達斌 莊淑芬 黃則達 張禎容",
+    "enrollment": "1/4",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T4-004",
+    "code": "T4-004 T450510 [IOM6231]",
+    "name": "臨床文獻討論（一） 次專科各自帶開上課 ，臨床組選修。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "陳永崇* 丁羣展 邱威智 陳畊仲 吳昱學 陳孟延 李澤民 袁國 劉佳觀 謝達斌 莊淑芬 黃則達 張禎容",
+    "enrollment": "1/4",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T4-031",
+    "code": "T4-031 T450130 [IOM6093]",
+    "name": "專題討論（三） 牙醫系館34101教室上課。",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳尚蓉* 丁羣展 陳畊仲 吳昱學 陳永崇 張儷卿 李澤民 謝達斌 莊淑芬 黃則達",
+    "enrollment": "11/59",
+    "locations": [
+      "34101",
+      "牙醫系館"
+    ],
+    "period": "[5]7~8 牙醫系館 34101",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "T4-033",
+    "code": "T4-033 T450430 [IOM6223]",
+    "name": "臨床病例討論（三） 次專科各自帶開上課 ，臨床組選修。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "丁羣展* 邱威智 陳畊仲 吳昱學 陳孟延 陳永崇 袁國 劉佳觀 謝達斌 莊淑芬 黃則達 張禎容",
+    "enrollment": "21/4",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T4-034",
+    "code": "T4-034 T450530 [IOM6233]",
+    "name": "臨床文獻討論（三） 次專科各自帶開上課 ，臨床組選修。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "陳永崇* 丁羣展 邱威智 陳畊仲 吳昱學 陳孟延 李澤民 袁國 劉佳觀 謝達斌 莊淑芬 黃則達 張禎容",
+    "enrollment": "1/4",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T4-041",
+    "code": "T4-041 T451200 [IOM6001]",
+    "name": "口腔生物 業界專家參與  牙醫系館34102教室上課。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳炳慶 阮振維 丁羣展 吳昱學 陳永崇 李澤民 陳玉玲 劉佳觀 莊淑芬 王東堯 吳尚蓉 黃則達",
+    "enrollment": "12/13",
+    "locations": [
+      "34102",
+      "牙醫系館"
+    ],
+    "period": "[1]6~7 牙醫系館 34102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-042",
+    "code": "T4-042 T453300 [IOM6021]",
+    "name": "生物統計學入門 醫療器材與系統學程  臨床組必修，醫學院整合課程。生理所、臨藥所、公衛所、臨醫所、物治所、職治所、食安所、老年所及口醫所合開。",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "王亮懿",
+    "enrollment": "52/20",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]3~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-045",
+    "code": "T4-045 P881501 [BME7600]",
+    "name": "醫療器材創新設計（一） 醫療器材與系統學程 醫療創新專長微學程  醫工所、口醫所、工設所、臨醫所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳炳慶* 林彥呈 葉明龍 林哲偉 楊岱樺 蔡書維 楊宜青 連偉志",
+    "enrollment": "41/9",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[3]6~8 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-046",
+    "code": "T4-046 T453900 [IOM6132]",
+    "name": "蛋白質結構與影像分析 電漿學分學程  牙醫系館34102教室上課。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳尚蓉",
+    "enrollment": "212/4",
+    "locations": [
+      "34102",
+      "牙醫系館"
+    ],
+    "period": "[4]5~6 牙醫系館 34102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-047",
+    "code": "T4-047 T460200 [IOM6301]",
+    "name": "生醫材料概論 醫療器材與系統學程  牙醫系館34102教室上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "李澤民",
+    "enrollment": "5/20",
+    "locations": [
+      "34102",
+      "牙醫系館"
+    ],
+    "period": "[2]5~7 牙醫系館 34102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-051",
+    "code": "T4-051 T461300 [IOM5110]",
+    "name": "學術論文寫作技巧 牙醫系館34101教室上課。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳尚蓉",
+    "enrollment": "34/236",
+    "locations": [
+      "34101",
+      "牙醫系館"
+    ],
+    "period": "[5]2 牙醫系館 34101",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-062",
+    "code": "T4-062 T450100 [IOM6095]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "黃則達*",
+    "enrollment": "1/網2路選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "T4-081",
+    "code": "T4-081 T450901 [IOM6790]",
+    "name": "分子生物學 第四講堂與牙醫系館34102教室上課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳尚蓉* 陳百昇 黃柏憲 余建泓 吳權娟 凌斌 蔡智瑄 林世杰 呂佩融 鄧景浩",
+    "enrollment": "28/17",
+    "locations": [
+      "34102",
+      "牙醫系館"
+    ],
+    "period": "[2]2~4 牙醫系館 34102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T4-082",
+    "code": "T4-082 P882500 [BME7500]",
+    "name": "轉譯生醫奈米導論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T4",
+    "department": "口醫所 IOM",
+    "teacher": "吳炳慶* 蔡宗霖 謝達斌",
+    "enrollment": "11/網路選課不開放",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[4]9~A 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  }
+]

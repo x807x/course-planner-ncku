@@ -1,0 +1,462 @@
+[
+  {
+    "id": "RB-001",
+    "code": "RB-001 RB50100 [PEHL6409]",
+    "name": "體育健康與休閒研究法 基礎專業：共同必修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯* 蔡佳良",
+    "enrollment": "15/40",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]1~3 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-002",
+    "code": "RB-002 RB50210 [PEHL6409]",
+    "name": "專題討論（一） 基礎專業：共同必修（ 碩一、碩二合班）  限1年級以上選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "14/41",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-003",
+    "code": "RB-003 RB50230 [PEHL6409]",
+    "name": "專題討論（三） 基礎專業：共同必修（ 碩一、碩二合班）  限2年級以上選課",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良",
+    "enrollment": "11/344",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-004",
+    "code": "RB-004 RB61400 [PEHL6217E]",
+    "name": "人體動作電腦模擬 英語授課  運動科技產業(專業選修)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "6/324",
+    "locations": [
+      "成大綜合體育館",
+      "體育館會議室"
+    ],
+    "period": "[2]3~N 成大綜合體育館 體育館會議室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-005",
+    "code": "RB-005 RB53000 [PEHL6213]",
+    "name": "運動鞋之生物力學專題研究 運動科技產業(專業選修)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "邱宏達",
+    "enrollment": "311/19",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[3]7~8 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-006",
+    "code": "RB-006 RB52100 [PEHL6303E]",
+    "name": "休閒行為專題研究 休閒管理領域(核心)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "13/17",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[1]6~8 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-007",
+    "code": "RB-007 RB55710 [PEHL6321]",
+    "name": "運動賽事轉播與科技（一） 業界專家參與  三大領域共同選修。預計規劃8月下旬開始上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "黃滄海* 連震杰 朱威達 周學雯",
+    "enrollment": "12/額滿",
+    "locations": [
+      "中正堂視聽室上課時間",
+      "中正堂"
+    ],
+    "period": "[3]9~B 中正堂 中正堂視聽室上課時間",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-301",
+    "code": "RB-301 RB53310 [PEHL6803]",
+    "name": "專題討論（一） 共同必修（ 碩專一、二合班）  限碩專選修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "18/26",
+    "locations": [
+      "成大綜合體育館",
+      "體育館視廳室"
+    ],
+    "period": "[6]1 成大綜合體育館 體育館視廳室",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-302",
+    "code": "RB-302 RB53330 [PEHL6805]",
+    "name": "專題討論（三） 共同必修（ 碩專一、二合班）  限碩專選修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "17/27",
+    "locations": [
+      "成大綜合體育館",
+      "體育館視廳室"
+    ],
+    "period": "[6]1 成大綜合體育館 體育館視廳室",
+    "slots": [
+      {
+        "day": 6,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-303",
+    "code": "RB-303 RB53200 [PEHL6801]",
+    "name": "運動科學與休閒管理研究法 共同必修課程  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯* 蔡佳良",
+    "enrollment": "332/8",
+    "locations": [
+      "成大綜合體育館",
+      "體育館視廳室"
+    ],
+    "period": "[6]2~4 成大綜合體育館 體育館視廳室",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-304",
+    "code": "RB-304 RB62710 [PEHL6807]",
+    "name": "碩士論文（一） 必修課程；限碩專選修  限2年級以上選課；限碩專選修",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "馬上鈞",
+    "enrollment": "143/86",
+    "locations": [
+      "中正堂視聽室",
+      "中正堂"
+    ],
+    "period": "[7]A~B 中正堂 中正堂視聽室",
+    "slots": [
+      {
+        "day": 7,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-305",
+    "code": "RB-305 RB56200 [PEHL6820]",
+    "name": "運動休閒管理實務 專業選修(9/16上課教室會調整)  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "周學雯",
+    "enrollment": "318/22",
+    "locations": [
+      "62X17",
+      "管理學院"
+    ],
+    "period": "[6]5~7 管理學院 62X17",
+    "slots": [
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-306",
+    "code": "RB-306 RB56310 [PEHL6821]",
+    "name": "管理講座（一） 業界專家參與  限碩專選修",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "馬上鈞",
+    "enrollment": "31/9",
+    "locations": [
+      "62X17",
+      "管理學院"
+    ],
+    "period": "[7]1~2 管理學院 62X17",
+    "slots": [
+      {
+        "day": 7,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RB-307",
+    "code": "RB-307 RB55900 [PEHL6220]",
+    "name": "程式設計與產業應用 專業選修課程  限碩專選修",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "鄭匡佑",
+    "enrollment": "9/31",
+    "locations": [
+      "62X17",
+      "管理學院"
+    ],
+    "period": "[7]3~4 管理學院 62X17",
+    "slots": [
+      {
+        "day": 7,
+        "period": "3",
+        "type": "科際整合"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "科際整合"
+      }
+    ]
+  },
+  {
+    "id": "RB-308",
+    "code": "RB-308 RB54000 [PEHL6815]",
+    "name": "體適能與運動處方專題研究 專業選修  限碩專選修",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RB",
+    "department": "體健所 PEHL",
+    "teacher": "蔡佳良* 林欣仕 彭怡千",
+    "enrollment": "16/24",
+    "locations": [
+      "62X17",
+      "管理學院"
+    ],
+    "period": "[7]5~6 管理學院 62X17",
+    "slots": [
+      {
+        "day": 7,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

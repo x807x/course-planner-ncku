@@ -1,0 +1,3049 @@
+[
+  {
+    "id": "E311510-Z1",
+    "code": "E311510-Z1 [CHE]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-ZM",
+    "code": "A119110-ZM [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-004",
+    "code": "E3-004 E316200-1 [CHE1002]",
+    "name": "計算機概論 每生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "邱繼正* 黃世宏",
+    "enrollment": "44/10",
+    "locations": [
+      "93452",
+      "化工系館"
+    ],
+    "period": "[2]8~9 化工系館 93452 [5]5 化工系館 93452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z1",
+    "code": "E325000-Z1 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-008",
+    "code": "E3-008 E315710-1 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "田興龍",
+    "enrollment": "854/3",
+    "locations": [
+      "化工系館",
+      "柏林講堂"
+    ],
+    "period": "[2]2 化工系館 柏林講堂 [5]3~4 化工系館 柏林講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-009",
+    "code": "E3-009 E315810-1 [PHYS1022]",
+    "name": "普通物理學實驗（一） 在理化大樓二樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "田興龍",
+    "enrollment": "447/7",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-010",
+    "code": "E3-010 E315911 [CHEM1021]",
+    "name": "普通化學（一） 甲乙丙合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "施良垣* 許鏵芬 李介仁",
+    "enrollment": "169/41",
+    "locations": [
+      "資訊大樓",
+      "格致廳大講堂"
+    ],
+    "period": "[1]2~3 資訊大樓 格致廳大講堂 [3]1~2 資訊大樓 格致廳大講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-011",
+    "code": "E3-011 E316010-1 [CHEM1022]",
+    "name": "普通化學實驗（一） 在理化大樓一樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林峻毅",
+    "enrollment": "44/44",
+    "locations": [
+      "理化大樓",
+      "35122"
+    ],
+    "period": "[1]5~7 理化大樓 35122",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-013",
+    "code": "E3-013 A215500-21 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "洪甄憶",
+    "enrollment": "44/56",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-015",
+    "code": "E3-015 E316200-2 [CHE1002]",
+    "name": "計算機概論 每生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "邱繼正* 黃世宏",
+    "enrollment": "43/11",
+    "locations": [
+      "93452",
+      "化工系館"
+    ],
+    "period": "[2]1 化工系館 93452 [4]3~4 化工系館 93452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E311510-Z2",
+    "code": "E311510-Z2 [CHE]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-ZN",
+    "code": "A119110-ZN [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z2",
+    "code": "E325000-Z2 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-023",
+    "code": "E3-023 E315810-2 [PHYS1022]",
+    "name": "普通物理學實驗（一） 在理化大樓二樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "周忠憲",
+    "enrollment": "45/9",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-025",
+    "code": "E3-025 E316010-2 [CHEM1022]",
+    "name": "普通化學實驗（一） 在理化大樓一樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "邱顯泰",
+    "enrollment": "49/5",
+    "locations": [
+      "理化大樓",
+      "35121"
+    ],
+    "period": "[1]5~7 理化大樓 35121",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-027",
+    "code": "E3-027 A215500-22 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "高華君",
+    "enrollment": "44/56",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-029",
+    "code": "E3-029 E316200-3 [CHE1002]",
+    "name": "計算機概論 每生必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "邱繼正* 黃世宏",
+    "enrollment": "50/4",
+    "locations": [
+      "93452",
+      "化工系館"
+    ],
+    "period": "[2]2 化工系館 93452 [5]3~4 化工系館 93452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E311510-Z3",
+    "code": "E311510-Z3 [CHE]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-ZO",
+    "code": "A119110-ZO [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z3",
+    "code": "E325000-Z3 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考4備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-035",
+    "code": "E3-035 E515710-1 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "蘇漢宗",
+    "enrollment": "128/39",
+    "locations": [
+      "化工系館",
+      "華立廳"
+    ],
+    "period": "[2]1 化工系館 華立廳 [4]3~4 化工系館 華立廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-037",
+    "code": "E3-037 E315810-3 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳泉宏",
+    "enrollment": "446/8",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-039",
+    "code": "E3-039 E316010-3 [CHEM1022]",
+    "name": "普通化學實驗（一） 在理化大樓一樓上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "孫亦文",
+    "enrollment": "46/8",
+    "locations": [
+      "理化大樓",
+      "35102"
+    ],
+    "period": "[5]5~7 理化大樓 35102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-041",
+    "code": "E3-041 A215500-23 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林欣仕",
+    "enrollment": "464/54",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-043",
+    "code": "E3-043 E317910-1 [CHE0001]",
+    "name": "服務學習（一） 請洽系館一樓93125室陳助教",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "王紀",
+    "enrollment": "43/417",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-044",
+    "code": "E3-044 E317910-2 [CHE0001]",
+    "name": "服務學習（一） 請洽系館一樓93125室陳助教",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳東煌",
+    "enrollment": "43/17",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-045",
+    "code": "E3-045 E317910-3 [CHE0001]",
+    "name": "服務學習（一） 請洽系館一樓93125室陳助教",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "楊明長",
+    "enrollment": "47/13",
+    "locations": [],
+    "period": "[3]9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-046",
+    "code": "E3-046 E315611-1 [MATH1021]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林敏雄",
+    "enrollment": "496/24",
+    "locations": [
+      "93316",
+      "化工系館",
+      "93156",
+      "柏林講堂",
+      "93223"
+    ],
+    "period": "[2]3~4 化工系館 柏林講堂 [4]2 化工系館 柏林講堂 [4]1 化工系館 93223 [4]1 化工系館 93156 [4]1 化工系館 93316",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-048",
+    "code": "E3-048 E315611-2 [MATH1021]",
+    "name": "微積分（一） 化工丙、機械丙合班 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "賴青瑞",
+    "enrollment": "102/18",
+    "locations": [
+      "化工系館",
+      "93356",
+      "A1301",
+      "93422",
+      "A1307(資源後)",
+      "共同教室",
+      "93252"
+    ],
+    "period": "[2]3~4 共同教室 A1307(資源後) [4]2 共同教室 A1307(資源後) [4]1 化工系館 93252 [4]1 化工系館 93422 [4]1 化工系館 93356 [4]1 共同教室 A1301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-049",
+    "code": "E3-049 E342400 [CHE0004]",
+    "name": "化工概論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "龔仲偉* 許蘇文",
+    "enrollment": "1442/21",
+    "locations": [
+      "化工系館",
+      "柏林講堂"
+    ],
+    "period": "[3]3~4 化工系館 柏林講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-051",
+    "code": "E3-051 E330310-1 [CHE2006]",
+    "name": "物理化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳東煌",
+    "enrollment": "76/額滿",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[2]1 化工系館 93322 [4]3~4 化工系館 93322",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-052",
+    "code": "E3-052 E320610-1 [CHE2010]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林家裕",
+    "enrollment": "41/429",
+    "locations": [
+      "化工系館",
+      "93256"
+    ],
+    "period": "[2]2 化工系館 93256 [5]3~4 化工系館 93256",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-055",
+    "code": "E3-055 E321010-1 [CHE2071]",
+    "name": "有機化學實驗（一）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "郭炳林",
+    "enrollment": "45/41",
+    "locations": [
+      "93326",
+      "化工系館"
+    ],
+    "period": "[4]5~7 化工系館 93326",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-057",
+    "code": "E3-057 E320710-1 [CHE2012]",
+    "name": "有機化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "郭炳林",
+    "enrollment": "74/42",
+    "locations": [
+      "化工系館",
+      "93256"
+    ],
+    "period": "[2]3~4 化工系館 93256 [4]2 化工系館 93256",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z4",
+    "code": "E325000-Z4 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E310030-Z1",
+    "code": "E310030-Z1 [CHE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-064",
+    "code": "E3-064 E330310-2 [CHE2006]",
+    "name": "物理化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "許蘇文",
+    "enrollment": "334/37",
+    "locations": [
+      "化工系館",
+      "93352"
+    ],
+    "period": "[2]3~4 化工系館 93352 [4]2 化工系館 93352",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-065",
+    "code": "E3-065 E321010-2 [CHE2071]",
+    "name": "有機化學實驗（一）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "侯聖澍",
+    "enrollment": "448/額滿",
+    "locations": [
+      "93326",
+      "化工系館"
+    ],
+    "period": "[2]5~7 化工系館 93326",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-066",
+    "code": "E3-066 E320710-2 [CHE2012]",
+    "name": "有機化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "侯聖澍",
+    "enrollment": "55/15",
+    "locations": [
+      "93406",
+      "化工系館"
+    ],
+    "period": "[2]1 化工系館 93406 [4]3~4 化工系館 93406",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-067",
+    "code": "E3-067 E320610-2 [CHE2010]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "張珏庭",
+    "enrollment": "445/25",
+    "locations": [
+      "化工系館",
+      "93352"
+    ],
+    "period": "[1]2~3 化工系館 93352 [3]2 化工系館 93352",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E310030-Z2",
+    "code": "E310030-Z2 [CHE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參4考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z5",
+    "code": "E325000-Z5 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-ZD",
+    "code": "E325000-ZD [CHE]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-071",
+    "code": "E3-071 E330310-3 [CHE2006]",
+    "name": "物理化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "溫添進",
+    "enrollment": "37/343",
+    "locations": [
+      "93356",
+      "化工系館"
+    ],
+    "period": "[1]2~3 化工系館 93356 [3]2 化工系館 93356",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-074",
+    "code": "E3-074 E320610-3 [CHE2010]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "莊怡哲",
+    "enrollment": "67/43",
+    "locations": [
+      "93356",
+      "化工系館"
+    ],
+    "period": "[1]1 化工系館 93356 [3]3~4 化工系館 93356",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-075",
+    "code": "E3-075 E321010-3 [CHE2071]",
+    "name": "有機化學實驗（一）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳炳宏",
+    "enrollment": "442/4",
+    "locations": [
+      "93326",
+      "化工系館"
+    ],
+    "period": "[1]5~7 化工系館 93326",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-076",
+    "code": "E3-076 E320710-3 [CHE2012]",
+    "name": "有機化學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "劉瑞祥",
+    "enrollment": "61/9",
+    "locations": [
+      "93356",
+      "化工系館"
+    ],
+    "period": "[2]3~4 化工系館 93356 [4]2 化工系館 93356",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z6",
+    "code": "E325000-Z6 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參4考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E310030-Z3",
+    "code": "E310030-Z3 [CHE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-084",
+    "code": "E3-084 E317930-1 [CHE0003]",
+    "name": "服務學習（三） 請洽系館一樓 93125室陳助教",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林家裕",
+    "enrollment": "46/14",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E3-085",
+    "code": "E3-085 E317930-2 [CHE0003]",
+    "name": "服務學習（三） 請洽系館一樓 93125室陳助教",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "張鑑祥",
+    "enrollment": "44/16",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E3-086",
+    "code": "E3-086 E317930-3 [CHE0003]",
+    "name": "服務學習（三） 請洽系館一樓 93125室陳助教",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "游聲盛",
+    "enrollment": "349/21",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E3-087",
+    "code": "E3-087 E321600 [CHE2009]",
+    "name": "電子及電工學 每生必選",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "郭致宏",
+    "enrollment": "138/23",
+    "locations": [
+      "化工系館",
+      "柏林講堂"
+    ],
+    "period": "[3]7~9 化工系館 柏林講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-110",
+    "code": "E3-110 E326120-1 [CHE3001]",
+    "name": "單元操作（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "莊怡哲* 張鑑祥 楊毓民",
+    "enrollment": "51/2",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[1]2~3 化工系館 93422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-113",
+    "code": "E3-113 E330420-1 [CHE3073]",
+    "name": "物理化學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳東煌",
+    "enrollment": "444/8",
+    "locations": [
+      "93426",
+      "化工系館"
+    ],
+    "period": "[4]5~7 化工系館 93426",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-116",
+    "code": "E3-116 E335500-1 [CHE3004]",
+    "name": "程序控制 程序系統工程專長微學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "羅介聰",
+    "enrollment": "56/2",
+    "locations": [
+      "化工系館",
+      "93352"
+    ],
+    "period": "[2]1~2 化工系館 93352",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-117",
+    "code": "E3-117 E333200-1 [CHE3007]",
+    "name": "儀器分析與分析化學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳雲",
+    "enrollment": "54/41",
+    "locations": [
+      "93420",
+      "化工系館"
+    ],
+    "period": "[2]3~4 化工系館 93420 [3]3 化工系館 93420",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-118",
+    "code": "E3-118 E340100-1 [CHE3005]",
+    "name": "化工熱力學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳炳宏",
+    "enrollment": "53/4",
+    "locations": [
+      "93356",
+      "化工系館"
+    ],
+    "period": "[1]8 化工系館 93356 [3]7~8 化工系館 93356",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-119",
+    "code": "E3-119 E326120-2 [CHE3001]",
+    "name": "單元操作（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "莊怡哲* 張鑑祥 楊毓民",
+    "enrollment": "28/26",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[2]1~2 化工系館 93422",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-120",
+    "code": "E3-120 E340100-2 [CHE3005]",
+    "name": "化工熱力學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "許梅娟",
+    "enrollment": "459/4",
+    "locations": [
+      "93420",
+      "化工系館"
+    ],
+    "period": "[1]2~3 化工系館 93420 [3]2 化工系館 93420",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-121",
+    "code": "E3-121 E333200-2 [CHE3007]",
+    "name": "儀器分析與分析化學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "吳逸謨",
+    "enrollment": "345/19",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[4]3~4 化工系館 93422 [5]3 化工系館 93422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-122",
+    "code": "E3-122 E330420-2 [CHE3073]",
+    "name": "物理化學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "游聲盛",
+    "enrollment": "42/140",
+    "locations": [
+      "93426",
+      "化工系館"
+    ],
+    "period": "[2]5~7 化工系館 93426",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-123",
+    "code": "E3-123 E335500-2 [CHE3004]",
+    "name": "程序控制 程序系統工程專長微學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "吳煒",
+    "enrollment": "38/16",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[3]3~4 化工系館 93422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-128",
+    "code": "E3-128 E340100-3 [CHE3005]",
+    "name": "化工熱力學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "魏憲鴻",
+    "enrollment": "404/14",
+    "locations": [
+      "93356",
+      "化工系館"
+    ],
+    "period": "[2]1 化工系館 93356 [4]3~4 化工系館 93356",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-129",
+    "code": "E3-129 E326120-3 [CHE3001]",
+    "name": "單元操作（二）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "莊怡哲* 張鑑祥 楊毓民",
+    "enrollment": "73/額滿",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[1]7~8 化工系館 93456",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-130",
+    "code": "E3-130 E333200-3 [CHE3007]",
+    "name": "儀器分析與分析化學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "吳季珍",
+    "enrollment": "714/5",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[2]2 化工系館 93456 [5]3~4 化工系館 93456",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-131",
+    "code": "E3-131 E330420-3 [CHE3073]",
+    "name": "物理化學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "溫添進",
+    "enrollment": "46/6",
+    "locations": [
+      "93426",
+      "化工系館"
+    ],
+    "period": "[3]5~7 化工系館 93426",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-132",
+    "code": "E3-132 E335500-3 [CHE3004]",
+    "name": "程序控制 程序系統工程專長微學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "黃世宏",
+    "enrollment": "463/1",
+    "locations": [
+      "化工系館",
+      "93252"
+    ],
+    "period": "[2]3~4 化工系館 93252",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z7",
+    "code": "E325000-Z7 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z8",
+    "code": "E325000-Z8 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請4參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-Z9",
+    "code": "E325000-Z9 [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-145",
+    "code": "E3-145 E302510 [CHE3330]",
+    "name": "校外實習（一） 暑假期間自行接洽實習單位，申請核准後實施，申請表格請至系網頁下載。",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "張鑑祥",
+    "enrollment": "2/18",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E3-146",
+    "code": "E3-146 E345000 [CHE5305]",
+    "name": "燃料電池應用技術 韌性智慧能源學分學程  工學院綠色科技、能源科技次專長，教育部綠色科技人才培育先導型計畫",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "楊明長* 陳建富 郭炳林 方冠榮 賴維祥",
+    "enrollment": "41/143",
+    "locations": [
+      "化工系館",
+      "93352"
+    ],
+    "period": "[5]7~9 化工系館 93352",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-148",
+    "code": "E3-148 E332700 [CHE3306]",
+    "name": "材料科學 英語授課 複合材料性質與應用專長微學程  英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "柯碧蓮* 許蘇文",
+    "enrollment": "334/21",
+    "locations": [
+      "93422",
+      "化工系館"
+    ],
+    "period": "[4]7~9 化工系館 93422",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-149",
+    "code": "E3-149 E330800 [CHE3303]",
+    "name": "石油煉製技術 需先修以下科目:《普通化學（一）/必修/3.0 學分/60 分以上》《普通化學（二）/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "洪正宗",
+    "enrollment": "55/13",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[5]7~9 化工系館 93322",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-150",
+    "code": "E3-150 E340910 [CHE3311]",
+    "name": "論文（一） 每生必選，9/9、9/16、9/23、9/30、10/7週一上午第四節請至柏林講堂上課。",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "張鑑祥* 楊明長 吳逸謨 許梅娟 林睿哲 陳東煌 鄧熙聖 王紀 吳季珍 張嘉修 李玉郎 陳炳宏 侯聖澍 魏憲鴻 莊怡哲 鍾賢龍 郭炳林 陳雲 羅介聰 詹正雄 陳美瑾 林建功 吳文中 吳煒 林家裕 邱繼正 吳意珣 林裕川 柯碧蓮 龔仲偉 游聲盛 許蘇文 陳志勇 楊毓民 劉瑞祥 溫添進 黃世宏 張珏庭",
+    "enrollment": "1334/17",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E3-157",
+    "code": "E3-157 E330300 [CHE5001]",
+    "name": "化學工業程序",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林建功* 陳志勇",
+    "enrollment": "148/413",
+    "locations": [
+      "化工系館",
+      "柏林講堂"
+    ],
+    "period": "[5]5~7 化工系館 柏林講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-161",
+    "code": "E3-161 E345300-1 [CHE5002]",
+    "name": "程序設計 程序系統工程專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "龔仲偉* 吳煒 張珏庭",
+    "enrollment": "51/3",
+    "locations": [
+      "93420",
+      "化工系館"
+    ],
+    "period": "[2]2 化工系館 93420 [5]3~4 化工系館 93420",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-162",
+    "code": "E3-162 E341100-1 [CHE5071]",
+    "name": "化工程序實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林建功* 陳志勇",
+    "enrollment": "421/9",
+    "locations": [
+      "93226",
+      "化工系館"
+    ],
+    "period": "[2]3~8 化工系館 93226",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-163",
+    "code": "E3-163 E345100-1 [CHE5072]",
+    "name": "單元操作實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "王紀",
+    "enrollment": "22/48",
+    "locations": [
+      "93127",
+      "化工系館"
+    ],
+    "period": "[2]3~8 化工系館 93127",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-166",
+    "code": "E3-166 E345300-2 [CHE5002]",
+    "name": "程序設計 程序系統工程專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "龔仲偉* 吳煒 張珏庭",
+    "enrollment": "41/13",
+    "locations": [
+      "93420",
+      "化工系館"
+    ],
+    "period": "[2]1 化工系館 93420 [4]3~4 化工系館 93420",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-167",
+    "code": "E3-167 E341100-2 [CHE5071]",
+    "name": "化工程序實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林建功",
+    "enrollment": "24/6",
+    "locations": [
+      "93226",
+      "化工系館"
+    ],
+    "period": "[3]3~8 化工系館 93226",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-168",
+    "code": "E3-168 E345100-2 [CHE5072]",
+    "name": "單元操作實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "許梅娟* 鄧熙聖",
+    "enrollment": "425/5",
+    "locations": [
+      "93127",
+      "化工系館"
+    ],
+    "period": "[3]3~8 化工系館 93127",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-171",
+    "code": "E3-171 E345300-3 [CHE5002]",
+    "name": "程序設計 程序系統工程專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "龔仲偉* 吳煒 張珏庭",
+    "enrollment": "45/9",
+    "locations": [
+      "93420",
+      "化工系館"
+    ],
+    "period": "[2]7~8 化工系館 93420 [4]1 化工系館 93420",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-172",
+    "code": "E3-172 E341100-3 [CHE5071]",
+    "name": "化工程序實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林建功* 張鑑祥",
+    "enrollment": "24/6",
+    "locations": [
+      "93226",
+      "化工系館"
+    ],
+    "period": "[4]3~8 化工系館 93226",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-173",
+    "code": "E3-173 E345100-3 [CHE5072]",
+    "name": "單元操作實驗",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "林睿哲",
+    "enrollment": "23/7",
+    "locations": [
+      "93127",
+      "化工系館"
+    ],
+    "period": "[4]3~8 化工系館 93127",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E3-188",
+    "code": "E3-188 E336200 [CHE3310]",
+    "name": "界面化學 化工三四合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "李玉郎* 張鑑祥 楊毓民",
+    "enrollment": "21/433",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[3]1~2 化工系館 93456 [4]2 化工系館 93456",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-190",
+    "code": "E3-190 E348600 [CHE3336]",
+    "name": "藥物傳遞系統與劑型 醫療器材與系統學程 生物醫學材料專長微學程  化工三四合開  第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "陳美瑾",
+    "enrollment": "344/2",
+    "locations": [
+      "93706",
+      "化工系館"
+    ],
+    "period": "[1]2~3 化工系館 93706 [3]2 化工系館 93706",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-ZA",
+    "code": "E325000-ZA [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "40/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-ZB",
+    "code": "E325000-ZB [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E325000-ZC",
+    "code": "E325000-ZC [CHE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-194",
+    "code": "E3-194 E332800 [CHE3307]",
+    "name": "高分子化學 韌性智慧能源學分學程  化工三四合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "侯聖澍",
+    "enrollment": "27/117",
+    "locations": [
+      "93322",
+      "化工系館"
+    ],
+    "period": "[1]5~7 化工系館 93322",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E3-195",
+    "code": "E3-195 E340930 [CHE3313]",
+    "name": "論文（三） 請至系教務網頁下載指導教授同意書並於開學後補棄選前繳至93556室",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E3",
+    "department": "化工系 CHE",
+    "teacher": "張鑑祥* 許梅娟 陳東煌 黃耀輝 莊怡哲 羅介聰 陳美瑾 溫添進",
+    "enrollment": "147/33",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

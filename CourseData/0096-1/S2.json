@@ -1,0 +1,299 @@
+[
+  {
+    "id": "S2-001",
+    "code": "S2-001 S211100 [PHAR]",
+    "name": "神經化學特論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "鄭瑞棠",
+    "enrollment": "70/23",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[5]3~4 醫學院 0824",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-003",
+    "code": "S2-003 S210210 [PHAR6191]",
+    "name": "藥理學專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "王憶卿",
+    "enrollment": "22/38",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[1]7 醫學院 602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-004",
+    "code": "S2-004 S210600 [PHAR]",
+    "name": "藥理學實驗 三樓實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "許桂森",
+    "enrollment": "220/不限",
+    "locations": [],
+    "period": "[5]5~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S2-006",
+    "code": "S2-006 S210402 [PHAR6101]",
+    "name": "分子生物學 醫療器材與系統學程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "王憶卿",
+    "enrollment": "209/21",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[3]3~4 醫學院 208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-007",
+    "code": "S2-007 S250110 [PHAR6224]",
+    "name": "生命科學書報討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "王育民",
+    "enrollment": "13/17",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[2]5 醫學院 0824",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-013",
+    "code": "S2-013 S210230 [PHAR6193]",
+    "name": "藥理學專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "王憶卿",
+    "enrollment": "22/38",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[1]8 醫學院 602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-014",
+    "code": "S2-014 S252000 [PHAR6212]",
+    "name": "高等神經生理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "許桂森",
+    "enrollment": "2/10",
+    "locations": [
+      "0811",
+      "醫學院"
+    ],
+    "period": "[3]5~6 醫學院 0811",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-016",
+    "code": "S2-016 S251001 [PHAR6102]",
+    "name": "分子藥理學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "許桂森",
+    "enrollment": "23/7",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[2]6~8 醫學院 0824",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-017",
+    "code": "S2-017 S260400 [PHAR]",
+    "name": "中醫藥概論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "鄭瑞棠",
+    "enrollment": "020/10",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[2]3~4 醫學院 0824",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S2-018",
+    "code": "S2-018 S251700 [PHAR6211]",
+    "name": "生長基因及致癌基因",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S2",
+    "department": "藥理所 PHAR",
+    "teacher": "呂增宏",
+    "enrollment": "120/18",
+    "locations": [
+      "醫學院",
+      "0824"
+    ],
+    "period": "[4]3~4 醫學院 0824",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

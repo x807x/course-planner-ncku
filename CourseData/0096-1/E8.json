@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "E8-001",
+    "code": "E8-001 E815010 [HOE]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃淑汝",
+    "enrollment": "55/20",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[1]1~2 水利系館 4620 [4]4 水利系館 4620",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E810710-Z",
+    "code": "E810710-Z [HOE]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/75",
+    "locations": [],
+    "period": "[2]5~6 [1]3",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E8-003",
+    "code": "E8-003 E817910 [HOE0009]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "許泰文",
+    "enrollment": "859/16",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[1]N 水利系館 4620",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-004",
+    "code": "E8-004 F417701 [AA]",
+    "name": "憲政民主與國家發展",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃清賢",
+    "enrollment": "116/4",
+    "locations": [
+      "綜合大樓",
+      "4872"
+    ],
+    "period": "[1]7~8 綜合大樓 4872",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E8-005",
+    "code": "E8-005 E810010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "蔡佳良",
+    "enrollment": "57/43",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[5]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-006",
+    "code": "E8-006 E815710 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "許永昌",
+    "enrollment": "778/額滿",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[4]3 水利系館 4620 [5]3~4 水利系館 4620",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-007",
+    "code": "E8-007 E815810 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓2F物理實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "向克強",
+    "enrollment": "61/184",
+    "locations": [],
+    "period": "[4]5~7",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-008",
+    "code": "E8-008 E415610 [MATH1021]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "方　源",
+    "enrollment": "209/額滿",
+    "locations": [
+      "化工系館",
+      "水利系館",
+      "4627",
+      "4353",
+      "華立廳",
+      "55160",
+      "4352",
+      "資源系館",
+      "測量系副館",
+      "55150",
+      "4620"
+    ],
+    "period": "[2]1~2 化工系館 華立廳 [4]2 化工系館 華立廳 [4]1 資源系館 4353 [4]1 資源系館 4352 [4]1 水利系館 4620 [4]1 水利系館 4627 [4]1 測量系副館 55150 [4]1 測量系副館 55160",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "E8-009",
+    "code": "E8-009 E811500-1 [HOE1001]",
+    "name": "工程圖學 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃錦旗",
+    "enrollment": "62/813",
+    "locations": [
+      "水利系館",
+      "4620"
+    ],
+    "period": "[2]7 水利系館 4620 [2]8~9 水利系館 4620",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E810111-Z",
+    "code": "E810111-Z [HOE]",
+    "name": "軍訓（一） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]1~2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E810200-Z1",
+    "code": "E810200-Z1 [HOE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/75",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-013",
+    "code": "E8-013 E813700 [HOE1002]",
+    "name": "水利工程概論",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "許泰文",
+    "enrollment": "69/11",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[5]5 水利系館 4620",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-014",
+    "code": "E8-014 E811100 [HOE2319]",
+    "name": "環境及景觀設計",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "紀燦輝",
+    "enrollment": "123/8額滿",
+    "locations": [
+      "4671",
+      "水利系館"
+    ],
+    "period": "[3]7~8 水利系館 4671",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-015",
+    "code": "E8-015 E817400 [HOE1004]",
+    "name": "計算機概論 計算機中心上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "呂珍謀",
+    "enrollment": "686/額滿",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[4]8~9 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E810330-Z",
+    "code": "E810330-Z [HOE]",
+    "name": "英文（含口語訓練）（三） 依照英文課程科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/75",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E810030-Z",
+    "code": "E810030-Z [HOE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-053",
+    "code": "E8-053 E820310 [HOE2001]",
+    "name": "工程數學（一） 需先修以下科目:《微積分（二）/必修/3.0 學分/45 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "蕭士俊",
+    "enrollment": "878/額滿",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[2]1 水利系館 4622 [4]3~4 水利系館 4622",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-054",
+    "code": "E8-054 E820910 [HOE2004]",
+    "name": "測量學（含實習）（一） 需先修以下科目:《微積分（二）/必修/3.0 學分/45 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "曾宏正",
+    "enrollment": "68/7",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[2]5 水利系館 4622 [2]6~8 水利系館 4622",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-055",
+    "code": "E8-055 E827110 [HOE2008]",
+    "name": "流體力學（一） 需先修以下科目:《普通物理學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "羅偉誠",
+    "enrollment": "65/180",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[1]2~3 水利系館 4622 [2]2 水利系館 4622",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-056",
+    "code": "E8-056 E826300 [HOE]",
+    "name": "材料力學 需先修以下科目:《應用力學/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "李兆芳",
+    "enrollment": "75/8額滿",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[4]2 水利系館 4622 [5]3~4 水利系館 4622",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-057",
+    "code": "E8-057 E827400 [HOE2011]",
+    "name": "工程地質學",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "王建力",
+    "enrollment": "578/18",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[2]3~4 水利系館 4620",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E810200-Z2",
+    "code": "E810200-Z2 [HOE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/75",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-059",
+    "code": "E8-059 E817930 [HOE0011]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "許泰文",
+    "enrollment": "858/17",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[3]N 水利系館 4622",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-062",
+    "code": "E8-062 E846200 [HOE2026]",
+    "name": "地球物理學概論",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "孫鎮球",
+    "enrollment": "57/3",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[4]7~8 水利系館 4625",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8101C0-Z",
+    "code": "E8101C0-Z [HOE]",
+    "name": "軍訓（三） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/不8限",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-102",
+    "code": "E8-102 E830201 [HOE]",
+    "name": "工程材料學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "陳　鍵",
+    "enrollment": "53/7",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[2]5~6 水利系館 4625 [3]5 水利系館 4625",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-103",
+    "code": "E8-103 E830601-1 [HOE2072]",
+    "name": "流體力學實驗 需先修以下科目:《流體力學（一）/必修/3.0 學分/60 分以上》 (含實習)",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃進坤 唐啟釗",
+    "enrollment": "15/280",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[4]2 水利系館 4625 [4]3~4 水利系館 4625",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-104",
+    "code": "E8-104 E830601-2 [HOE2072]",
+    "name": "流體力學實驗 需先修以下科目:《流體力學（一）/必修/3.0 學分/60 分以上》 (含實習)",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃進坤 唐啟釗",
+    "enrollment": "35/額滿",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[5]6 水利系館 4625 [5]7~8 水利系館 4625",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-105",
+    "code": "E8-105 E820621 [HOE]",
+    "name": "結構學（二） 需先修以下科目:《結構學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "楊春生",
+    "enrollment": "820/55",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[2]3~4 水利系館 4622 [3]2 水利系館 4622",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-106",
+    "code": "E8-106 E820221 [HOE]",
+    "name": "水資源工程（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "周乃昉",
+    "enrollment": "583/22",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[1]9 水利系館 4622 [3]9 水利系館 4622 [4]9 水利系館 4622",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-107",
+    "code": "E8-107 E835800 [HOE2021]",
+    "name": "明渠水力學 需先修以下科目:《流體力學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃進坤",
+    "enrollment": "584/21",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[4]7~8 水利系館 4622 [5]5 水利系館 4622",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-108",
+    "code": "E8-108 E830300-1 [HOE]",
+    "name": "工程材料學試驗 土木系材料實驗室上課",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "陳　鍵",
+    "enrollment": "32/3",
+    "locations": [],
+    "period": "[2]7~9",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-109",
+    "code": "E8-109 E830300-2 [HOE]",
+    "name": "工程材料學試驗 土木系材料實驗室上課",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "陳　鍵",
+    "enrollment": "25/810",
+    "locations": [],
+    "period": "[3]6~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E8-110",
+    "code": "E8-110 E827201 [HOE]",
+    "name": "波浪力學 需先修以下科目:《流體力學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "林西川",
+    "enrollment": "52/23",
+    "locations": [
+      "4620",
+      "水利系館"
+    ],
+    "period": "[5]1~2 水利系館 4620",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-112",
+    "code": "E8-112 E831230 [HOE2014]",
+    "name": "工程數學（三） 進水三與日水三合班  需先修以下科目:《微積分（二）/必修/3.0 學分/45 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "蕭士俊",
+    "enrollment": "24/36",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[2]2 水利系館 4625 [5]3~4 水利系館 4625",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-114",
+    "code": "E8-114 E840100 [HOE3012]",
+    "name": "中等水文學 需先修以下科目:《水文學/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "游保杉",
+    "enrollment": "35/25",
+    "locations": [
+      "4625",
+      "水利系館"
+    ],
+    "period": "[1]7~8 水利系館 4625 [3]1 水利系館 4625",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E810200-Z3",
+    "code": "E810200-Z3 [HOE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "80/60",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E810200-Z4",
+    "code": "E810200-Z4 [HOE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "",
+    "enrollment": "0/60",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-152",
+    "code": "E8-152 E840401 [HOE3014]",
+    "name": "基礎工程 進水五與日水四合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "吳建宏",
+    "enrollment": "26/834",
+    "locations": [
+      "4627",
+      "水利系館"
+    ],
+    "period": "[2]7~8 水利系館 4627 [4]3 水利系館 4627",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-153",
+    "code": "E8-153 3840700 []",
+    "name": "海洋物理學 進水五與日水四合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "曾以帆",
+    "enrollment": "528/8",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[1]C 水利系館 4622 [2]C~D 水利系館 4622",
+    "slots": [
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-154",
+    "code": "E8-154 3850300 []",
+    "name": "水文分析設計 進水五與日水四合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "王毓麒",
+    "enrollment": "284/36",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[1]A~B 水利系館 4622 [5]A 水利系館 4622",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-155",
+    "code": "E8-155 3840301 []",
+    "name": "河工沖刷及保護 進水五與日水四合班",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "黃進坤",
+    "enrollment": "41/不限",
+    "locations": [
+      "4622",
+      "水利系館"
+    ],
+    "period": "[4]A~B 水利系館 4622",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E8-159",
+    "code": "E8-159 E842500 [HOE]",
+    "name": "計算機圖學 進水五與日水四合班",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E8",
+    "department": "水利系 HOE",
+    "teacher": "林西川",
+    "enrollment": "15/845",
+    "locations": [
+      "4627",
+      "水利系館"
+    ],
+    "period": "[2]3~4 水利系館 4627",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "AA-003",
+    "code": "AA-003 E315921-2 [CHEM1023]",
+    "name": "普通化學（二） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "劉詠熙",
+    "enrollment": "13/132",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[1]2~3 理學教學大樓 36106 [3]1~2 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AA-004",
+    "code": "AA-004 C115720-2 [PHYS1013]",
+    "name": "普通物理學（二） 英語授課  英語授課；",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "許祖斌",
+    "enrollment": "28/112",
+    "locations": [
+      "36373",
+      "理學教學大樓"
+    ],
+    "period": "[2]1 理學教學大樓 36373 [4]3~4 理學教學大樓 36373",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

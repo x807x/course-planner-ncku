@@ -1,0 +1,574 @@
+[
+  {
+    "id": "M1-001",
+    "code": "M1-001 M150110 [7191]",
+    "name": "專題討論（一） 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "范銘彥",
+    "enrollment": "25/不4限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M1-002",
+    "code": "M1-002 M150130 [7193]",
+    "name": "專題討論（三） 業界專家參與",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "范銘彥",
+    "enrollment": "15/不4限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "M1-003",
+    "code": "M1-003 MZ50100 [7001]",
+    "name": "永續能源導論 韌性智慧能源學分學程  此課程為院必選修核心課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "林士剛",
+    "enrollment": "103/42",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[3]6~8 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-004",
+    "code": "M1-004 MZ50200 [7002]",
+    "name": "人工智慧導論與實作 此課程為院必選修核心課程，AI核心課程須至少完成3學分",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "傅志雄",
+    "enrollment": "754/4",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[2]A~C 電機系館 92277",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-005",
+    "code": "M1-005 MZ50300 [7003]",
+    "name": "大數據分析與雲端運算 英語授課  此課程為院必選修核心課程，AI核心課程須至少完成3學分",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "王宏鍇",
+    "enrollment": "46/54",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[2]2~4 照坤精密儀器大樓 95405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-006",
+    "code": "M1-006 M150200 [7101E]",
+    "name": "數位積體電路設計概論（Ｉ） 英語授課 遠距課程  依彈性密集授課登打時間為主；非同步線上課程/晶片學程學生不列入畢業學分",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "郭致宏",
+    "enrollment": "47/不限",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "M1-007",
+    "code": "M1-007 M250300 [7202E]",
+    "name": "半導體科技與供應鏈導論 英語授課  本課程為國際暑期學校執行課程，參加暑期學校需另支付活動報名費新臺幣2,500元(支應行政、交通、參訪及誤餐等)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "江孟學",
+    "enrollment": "19/洽系辦",
+    "locations": [
+      "靄雲廳上課時間",
+      "電機系館"
+    ],
+    "period": "電機系館 靄雲廳上課時間",
+    "slots": []
+  },
+  {
+    "id": "M1-008",
+    "code": "M1-008 N269700 [EE7631]",
+    "name": "超大型積體電路測試",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "李昆忠",
+    "enrollment": "41/29",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92171",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-009",
+    "code": "M1-009 N25J400 [EE5701]",
+    "name": "醫療系統設計與安全概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "李順裕",
+    "enrollment": "134/57",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-010",
+    "code": "M1-010 N25K200 [EE7616]",
+    "name": "奈米積體電路實體設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "林家民",
+    "enrollment": "412/58",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 92283 [4]2 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-011",
+    "code": "M1-011 Q161800 [IME7101]",
+    "name": "半導體記憶體元件與設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "盧達生* 王超鴻",
+    "enrollment": "133/43",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[1]6~8 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-013",
+    "code": "M1-013 N25K500 [EE8659]",
+    "name": "數位通訊之積體電路設計專論 限選30人",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "謝明得",
+    "enrollment": "33/37",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92371",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-014",
+    "code": "M1-014 N25K100 [EE7614]",
+    "name": "正規驗證之理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "陳盈如",
+    "enrollment": "33/37",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92177",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-015",
+    "code": "M1-015 N278900 [EE8742]",
+    "name": "電子電路IC設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "魏嘉玲",
+    "enrollment": "43/27",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 92383 [2]8 電機系館 92383",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-016",
+    "code": "M1-016 N26H300 [EE7930]",
+    "name": "獵能電子設計導論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "黃尊禧",
+    "enrollment": "49/61",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-017",
+    "code": "M1-017 N27B100 [EE7509]",
+    "name": "人工智慧模型設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "蔡家齊",
+    "enrollment": "55/15",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-018",
+    "code": "M1-018 Q356400 [CCE5403]",
+    "name": "鎖相迴路設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "鄭光偉",
+    "enrollment": "594/18",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92283",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M1-019",
+    "code": "M1-019 N26J000 [EE7704]",
+    "name": "微機電元件設計與製程導論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M1",
+    "department": "晶片學程 PICD",
+    "teacher": "黃致憲",
+    "enrollment": "11/549",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92271",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

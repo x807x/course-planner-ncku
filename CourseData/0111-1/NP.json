@@ -1,0 +1,363 @@
+[
+  {
+    "id": "NP-001",
+    "code": "NP-001 NN60100 [7001]",
+    "name": "半導體先進製程概論 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "王超鴻",
+    "enrollment": "96/4",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[5]2~4 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-002",
+    "code": "NP-002 NN60200 [7002]",
+    "name": "半導體記憶體電路與系統 業界專家參與  教室為電機系館4F-92473教室。因實驗人數限制，主開系所學生優先選課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "張順志",
+    "enrollment": "27/84",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-003",
+    "code": "NP-003 Q161800 [IME7101]",
+    "name": "半導體記憶體元件與設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "盧達生* 王超鴻",
+    "enrollment": "140/36",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[1]6~8 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-004",
+    "code": "NP-004 P970900 [IMIS7215]",
+    "name": "工業4.1:零缺陷的智慧製造 英語授課 智慧醫療專長微學程  製造所、資訊所、智慧製造學位學程、半導體學院、敏求學院合班，英語授課。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "鄭芳田",
+    "enrollment": "19/81",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95405"
+    ],
+    "period": "[4]B~D 照坤精密儀器大樓 95405",
+    "slots": []
+  },
+  {
+    "id": "NP-005",
+    "code": "NP-005 M050200 [SOC6002]",
+    "name": "最佳化理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "林家祥",
+    "enrollment": "29/11",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[1]6~8 統計系館 62333",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-006",
+    "code": "NP-006 M060300 [SOC6005]",
+    "name": "影像處理與機器人視覺",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "吳進義",
+    "enrollment": "16/14",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[4]2~4 統計系館 62333",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-007",
+    "code": "NP-007 N27A700 [EE7510]",
+    "name": "機器學習",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "詹寶珠",
+    "enrollment": "438/27",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92383",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-008",
+    "code": "NP-008 R250500 [STAT6016]",
+    "name": "統計方法 英語授課  統計所及數據所必選修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "李宜真",
+    "enrollment": "42/3",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[3]2~4 統計系館 62113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-009",
+    "code": "NP-009 P764600 [CSIE7111]",
+    "name": "資料探勘 人工智慧學分學程  資工所/醫資所/多媒體學位學程/AI學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "高宏宇",
+    "enrollment": "79/41",
+    "locations": [
+      "65405",
+      "資訊新館"
+    ],
+    "period": "[2]2~4 資訊新館 65405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-010",
+    "code": "NP-010 M060200 [SOC6004]",
+    "name": "演化計算 與電機所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "詹寶珠",
+    "enrollment": "48/6",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[2]2~4 統計系館 62333",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NP-011",
+    "code": "NP-011 NP70110 [ICID7090]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "敏求智慧運算學院",
+    "departmentCode": "NP",
+    "department": "運算工程博士學程 ICID",
+    "teacher": "李順裕* 朱威達",
+    "enrollment": "1/額滿",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[5]5~6 統計系館 62227",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

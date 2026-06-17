@@ -1,0 +1,495 @@
+[
+  {
+    "id": "P0-001",
+    "code": "P0-001 P070110 [IBPE7001E]",
+    "name": "專題討論（一） 英語授課  僅供碩一及博一必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "吳志勇* 詹劭勳 李約亨",
+    "enrollment": "0/120",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-002",
+    "code": "P0-002 P070130 [IBPE7003E]",
+    "name": "專題討論（三） 英語授課  僅供碩二及博二必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "吳志勇* 詹劭勳 李約亨",
+    "enrollment": "0/1120",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-003",
+    "code": "P0-003 P070150 [IBPE7005E]",
+    "name": "專題討論 英語授課  僅供碩三及博三以上必修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "吳志勇* 詹劭勳 李約亨",
+    "enrollment": "0/120",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-004",
+    "code": "P0-004 P45A100 [AA7413]",
+    "name": "高等流體力學 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "葉思沂",
+    "enrollment": "0/515",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[3]5~7 航太系館 5830",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-005",
+    "code": "P0-005 N853300 [HOE7008]",
+    "name": "河溪復育 跨領域永續發展全英語學分學程(CPSD) 英語授課  全英文授課，水利所與自災學程合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "王筱雯",
+    "enrollment": "0/310",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[4]2~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-009",
+    "code": "P0-009 P060600 [IBPE5007E]",
+    "name": "太陽能 英語授課  能源學程大碩合開EMI課程，限大三以上選修 (英文授課比例100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "張克勤",
+    "enrollment": "0/136",
+    "locations": [
+      "5827",
+      "航太系館"
+    ],
+    "period": "[1]2~3 航太系館 5827 [3]2 航太系館 5827",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-010",
+    "code": "P0-010 NA51900 [OTMA6207]",
+    "name": "海洋事務概論 英語授課  海事所與自災學程合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "陳璋玲",
+    "enrollment": "0/40",
+    "locations": [
+      "4650",
+      "水利系館"
+    ],
+    "period": "[1]2~4 水利系館 4650",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-011",
+    "code": "P0-011 L354620 [CHEM5008]",
+    "name": "固體材料的分析方法（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "劉詠熙*",
+    "enrollment": "0/810",
+    "locations": [
+      "36202",
+      "理學教學大樓"
+    ],
+    "period": "[1]6~7 理學教學大樓 36202 [3]5 理學教學大樓 36202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-012",
+    "code": "P0-012 P450110-B [AA7012E]",
+    "name": "高等工程數學（一） 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "闕志哲",
+    "enrollment": "0/120",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[1]4 航太系館 繼昌講堂 [2]3~4 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-014",
+    "code": "P0-014 P082110 [IBPE7026E]",
+    "name": "燃燒理論（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "王偉成",
+    "enrollment": "0/36",
+    "locations": [
+      "5828",
+      "航太系館"
+    ],
+    "period": "[2]7~9 航太系館 5828",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-015",
+    "code": "P0-015 W161000 [MSS6019E]",
+    "name": "淨零城市、韌性能系統與循環經濟商業藍圖 英語授課  EMI課程 (英文授課比例: 100%)彈性密集課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "沈同生* 張簡樂仁",
+    "enrollment": "0/120",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "P0-016",
+    "code": "P0-016 E444500 [RE5212]",
+    "name": "環境地球化學 英語授課  大碩合開，大學生將來欲抵免研究所學分，或研究生請選N4序號課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "陳卉君",
+    "enrollment": "0/55",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[5]6~8 資源系館 4354",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-017",
+    "code": "P0-017 N855100 [HOE6033]",
+    "name": "海域水動力學 英語授課  碩士生四選二必修課，可為本系博士生選修學分；EMI課程(英文授課比例：100%)；上課地點: 系館2樓電腦教室",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "陳佳琳* 吳昀達",
+    "enrollment": "0/30",
+    "locations": [
+      "4644",
+      "水利系館"
+    ],
+    "period": "[1]2~4 水利系館 4644",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-018",
+    "code": "P0-018 NC60101 [iNHM6501E]",
+    "name": "防災概論 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "蔡文柄* 柯永彥 林冠中 陳憲宗 張駿暉 曾志民 蔡在宗 哈里森約翰",
+    "enrollment": "0/214",
+    "locations": [
+      "水利系館",
+      "4648"
+    ],
+    "period": "[5]6~8 水利系館 4648",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-020",
+    "code": "P0-020 W160500 [MSS6014E]",
+    "name": "永續研究的社會科學方法 英語授課  EMI課程 (英文授課比例: 100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "王盈凱",
+    "enrollment": "0/20",
+    "locations": [
+      "理化大樓",
+      "創意互動教室"
+    ],
+    "period": "[4]6~8 理化大樓 創意互動教室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

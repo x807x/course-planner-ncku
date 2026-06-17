@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "C411510-Z",
+    "code": "C411510-Z [EARS]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "60/63",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "C411610-Z",
+    "code": "C411610-Z [EARS]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]5~6 [4]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "C411400-Z",
+    "code": "C411400-Z [EARS]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "C425000-Z1",
+    "code": "C425000-Z1 [EARS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-005",
+    "code": "C4-005 C411110 [EARS1001]",
+    "name": "地球科學概論（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "686/14",
+    "locations": [
+      "49X06",
+      "綜合二館"
+    ],
+    "period": "[1]2~3 綜合二館 49X06",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-006",
+    "code": "C4-006 C411210 [EARS1051]",
+    "name": "地球科學概論實習（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "64/16",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[3]2~4 地科系館 3017",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-007",
+    "code": "C4-007 C415710 [PHYS1011]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "陳宜君",
+    "enrollment": "62/8",
+    "locations": [
+      "格致堂"
+    ],
+    "period": "[2]3~4 格致堂 格致堂 [4]2 格致堂 格致堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-008",
+    "code": "C4-008 C415810 [PHYS1012]",
+    "name": "普通物理學實驗（一） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "周忠憲",
+    "enrollment": "56/不限",
+    "locations": [],
+    "period": "[5]5~7",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-009",
+    "code": "C4-009 C215910 [PHYS1015]",
+    "name": "普通化學（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "林弘萍 黃志遠 蘇世剛",
+    "enrollment": "1846/21",
+    "locations": [
+      "3275",
+      "化學系館",
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[2]1~2 成功校區經緯廳 經緯廳 [5]3 成功校區經緯廳 經緯廳 [5]4 成功校區經緯廳 經緯廳 [5]4 化學系館 3275 [5]4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C4-011",
+    "code": "C4-011 C416010 [CHEM1012]",
+    "name": "普通化學實驗（一） 理化大樓一樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "蘇世剛",
+    "enrollment": "663/9",
+    "locations": [
+      "理化大樓",
+      "35122"
+    ],
+    "period": "[4]5~7 理化大樓 35122",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-012",
+    "code": "C4-012 C215610 [MATH1011]",
+    "name": "微積分（一） 與物理系合班 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "陳公豪",
+    "enrollment": "1286/22",
+    "locations": [
+      "資訊大樓",
+      "49323",
+      "綜合大樓",
+      "49324",
+      "綜合二館",
+      "格致廳小講堂"
+    ],
+    "period": "[3]5~6 資訊大樓 格致廳小講堂 [5]2 資訊大樓 格致廳小講堂 [5]1 綜合二館 49323 [5]1 綜合二館 49324 [5]1 綜合大樓 [5]1 綜合大樓",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C4-013",
+    "code": "C4-013 C410010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "高華君",
+    "enrollment": "56/644",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[2]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-014",
+    "code": "C4-014 C417910 [EARS0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "吳銘志",
+    "enrollment": "56/67",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[4]8 地科系館 3035",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C410330-Z",
+    "code": "C410330-Z [EARS]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "C425000-Z2",
+    "code": "C425000-Z2 [EARS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C410200-Z",
+    "code": "C410200-Z [EARS]",
+    "name": "哲學與藝術 核心通識，依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "C410030-Z",
+    "code": "C410030-Z [EARS]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-055",
+    "code": "C4-055 C421111 [EARS1003]",
+    "name": "礦物學 (含實習)",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "江威德",
+    "enrollment": "41/22",
+    "locations": [
+      "3035",
+      "3017",
+      "地科系館"
+    ],
+    "period": "[2]3~4 地科系館 3035 [4]2 地科系館 3035 [4]7~9 地科系館 3017",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-056",
+    "code": "C4-056 C431511 [EARS1006]",
+    "name": "構造地質學 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊耿明",
+    "enrollment": "41/22",
+    "locations": [
+      "3035",
+      "3031",
+      "地科系館"
+    ],
+    "period": "[1]5~6 地科系館 3035 [2]7~9 地科系館 3031",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-060",
+    "code": "C4-060 C420300 [EARS2204]",
+    "name": "工程力學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "王榮泰",
+    "enrollment": "629/34",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[1]1~3 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-061",
+    "code": "C4-061 C420500 [EARS2205]",
+    "name": "衛星遙測概論 太空科學與工程學分學程  與地科系合開",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "劉正千",
+    "enrollment": "66/112",
+    "locations": [
+      "格致廳小講堂",
+      "資訊大樓"
+    ],
+    "period": "[2]1 資訊大樓 格致廳小講堂 [4]3~4 資訊大樓 格致廳小講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-062",
+    "code": "C4-062 C420110 [EARS2202]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "林建宏",
+    "enrollment": "15/27",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[2]2 地科系館 研討室一 [5]3~4 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C425000-Z3",
+    "code": "C425000-Z3 [EARS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-102",
+    "code": "C4-102 C431110 [EARS]",
+    "name": "岩石學（一）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊懷仁 龔慧貞",
+    "enrollment": "42/21",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[4]3~4 地科系館 3035",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-103",
+    "code": "C4-103 C431210 [EARS]",
+    "name": "岩石學實習（一）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊懷仁",
+    "enrollment": "35/45",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[1]7~9 地科系館 3017",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-104",
+    "code": "C4-104 C431510 [EARS]",
+    "name": "構造地質學（一）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊耿明",
+    "enrollment": "36/27",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[3]5~6 地科系館 3035",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-105",
+    "code": "C4-105 C431610 [EARS]",
+    "name": "構造地質學實習（一）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊耿明",
+    "enrollment": "362/8",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[4]7~9 地科系館 3031",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-106",
+    "code": "C4-106 C431900 [EARS1007]",
+    "name": "野外地質學",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "吳銘志",
+    "enrollment": "37/3",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[2]1~2 地科系館 3031",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-107",
+    "code": "C4-107 C431300 [EARS]",
+    "name": "地史學",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "48/32",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[5]1~2 地科系館 3017",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-108",
+    "code": "C4-108 C431400 [EARS1055]",
+    "name": "地史學實習",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "48/632",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[3]7~9 地科系館 3017",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-109",
+    "code": "C4-109 C421112 [EARS]",
+    "name": "礦物學（一） 限97學年度入學礦物學(一)尚未修習通過者選修",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "江威德",
+    "enrollment": "176/23",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[1]5~6 地科系館 3031",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-110",
+    "code": "C4-110 C447200 [EARS2402]",
+    "name": "環境地質學 地科三、都計三合班　於地科系館研討室",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "簡錦樹",
+    "enrollment": "40/20",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[2]7~9 地科系館 3035",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-111",
+    "code": "C4-111 C447400 [EARS2009]",
+    "name": "基礎固態地球",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "龔慧貞",
+    "enrollment": "8/32",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[5]3~4 地科系館 3031",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-112",
+    "code": "C4-112 C443800 [EARS2007]",
+    "name": "工業礦物學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "陳燕華",
+    "enrollment": "41/639",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[2]3~4 地科系館 3017 [4]2 地科系館 3017",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-113",
+    "code": "C4-113 C435700 [EARS1009]",
+    "name": "海洋學 海道測量與實務專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "游鎮烽",
+    "enrollment": "630/33",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[1]2~3 地科系館 3035 [3]2 地科系館 3035",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-114",
+    "code": "C4-114 C434000 [EARS2209]",
+    "name": "全球地震活動導論",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "饒瑞鈞",
+    "enrollment": "638/3",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[3]3~4 地科系館 3036",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C410051-Z5",
+    "code": "C410051-Z5 [EARS]",
+    "name": "體育（五）",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目6序號選課",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C425000-Z4",
+    "code": "C425000-Z4 [EARS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參6考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C448900-Z",
+    "code": "C448900-Z [EARS]",
+    "name": "補強英文 依照國際語言選項科目序號選課",
+    "grade": 4,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "0/請參考備6註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "外國語言"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "C4-153",
+    "code": "C4-153 C441110 [EARS]",
+    "name": "礦床學（一）",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊懷仁",
+    "enrollment": "39/24",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[5]3~4 地科系館 3035",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-154",
+    "code": "C4-154 C441210 [EARS]",
+    "name": "礦床學實習（一）",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "楊懷仁",
+    "enrollment": "367/43",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[2]7~9 地科系館 3017",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C4-155",
+    "code": "C4-155 C446300 [EARS]",
+    "name": "臺灣地質專論",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "黃奇瑜",
+    "enrollment": "54/69",
+    "locations": [
+      "3035",
+      "地科系館"
+    ],
+    "period": "[4]5~6 地科系館 3035",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-160",
+    "code": "C4-160 C441910 [EARS3091]",
+    "name": "論文（一）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "游鎮烽",
+    "enrollment": "4/76",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[1]1 地科系館 3017",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-161",
+    "code": "C4-161 C441800 [EARS3093]",
+    "name": "書報討論",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "吳銘志",
+    "enrollment": "14/626",
+    "locations": [
+      "3036",
+      "地科系館"
+    ],
+    "period": "[1]2~3 地科系館 3036",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-162",
+    "code": "C4-162 C431500 [EARS2404]",
+    "name": "地質工程概論",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "吳銘志",
+    "enrollment": "614/26",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[3]7~9 地科系館 3031",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-163",
+    "code": "C4-163 C440400 [EARS2305]",
+    "name": "板塊地質學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "25/620",
+    "locations": [
+      "3017",
+      "地科系館"
+    ],
+    "period": "[1]N 地科系館 3017 [3]N 地科系館 3017 [4]N 地科系館 3017",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-164",
+    "code": "C4-164 C432600 [EARS2103]",
+    "name": "地球的碳循環與環境變遷",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "羅尚德",
+    "enrollment": "24/16",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[3]5~6 地科系館 研討室一 [5]1 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C4-165",
+    "code": "C4-165 C449310 [EARS2215]",
+    "name": "太空天氣（一） 電漿學分學程，太空科學與工程學分學程 太空科學專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "林建宏",
+    "enrollment": "32/8",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[3]N~6 地科系館 3031",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C410071-Z7",
+    "code": "C410071-Z7 [EARS]",
+    "name": "體育（七）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "",
+    "enrollment": "60/依照該類課程科目序號選課",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C4-170",
+    "code": "C4-170 C449400 [EARS3081]",
+    "name": "野外地質調查：板塊地質學 於假日實施",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "C4",
+    "department": "地科系 EARS",
+    "teacher": "袁彼得",
+    "enrollment": "263/17",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

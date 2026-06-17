@@ -1,0 +1,140 @@
+[
+  {
+    "id": "V6-001",
+    "code": "V6-001 V650100 [MPPE6901]",
+    "name": "應用電路學 限本專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "林瑞禮",
+    "enrollment": "19/不限",
+    "locations": [
+      "未定",
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "未定 電機系館 繁城講堂",
+    "slots": []
+  },
+  {
+    "id": "V6-002",
+    "code": "V6-002 V650200 [MPPE6907]",
+    "name": "應用電路學分析與模擬 暑假上課  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "林瑞禮",
+    "enrollment": "19/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "V6-003",
+    "code": "V6-003 V650300 [MPPE6902]",
+    "name": "電力電子與電源轉換器設計 限本專班學生選修  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "梁從主",
+    "enrollment": "19/66",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[2]A~C 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "V6-004",
+    "code": "V6-004 V650400 [MPPE6908]",
+    "name": "電力電子與電源轉換器實習 限本專班學生選修  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "陳建富",
+    "enrollment": "196/6",
+    "locations": [
+      "電機系館",
+      "92X25"
+    ],
+    "period": "[6]2~4 電機系館 92X25",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "V6-005",
+    "code": "V6-005 V650510 [MPPE6909]",
+    "name": "論文研討（一） 限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "V6",
+    "department": "電力產碩 MPPE",
+    "teacher": "梁從主 陳建富",
+    "enrollment": "196/6",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]B~C 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  }
+]

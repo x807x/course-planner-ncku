@@ -1,0 +1,137 @@
+[
+  {
+    "id": "A5-001",
+    "code": "A5-001 A511700 [CN]",
+    "name": "網頁動畫設計 資訊大樓",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "楊家琛",
+    "enrollment": "40/5",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[4]3~4 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-002",
+    "code": "A5-002 A520200 [CN1018]",
+    "name": "程式語言 資訊大樓",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "張迺華",
+    "enrollment": "32/153",
+    "locations": [
+      "資訊大樓",
+      "75201"
+    ],
+    "period": "[2]9 資訊大樓 75201 [4]5~6 資訊大樓 75201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-003",
+    "code": "A5-003 A520300 [CN1019]",
+    "name": "影像處理 資訊大樓",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "楊家琛",
+    "enrollment": "39/6",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[3]7~9 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-004",
+    "code": "A5-004 A510310 [CN1004]",
+    "name": "３Ｄ電腦動畫（一） 資訊大樓",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "楊家琛",
+    "enrollment": "25/520",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[1]N 資訊大樓 75309 [3]3~4 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

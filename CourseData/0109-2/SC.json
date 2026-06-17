@@ -1,0 +1,558 @@
+[
+  {
+    "id": "SC-001",
+    "code": "SC-001 SC50120 [6092]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生* 陳秀玲 陳容甄 徐瑋萱 張偉翔 黃佰璋",
+    "enrollment": "12/13",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]7~8 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "SC-002",
+    "code": "SC-002 SC60100 [6003]",
+    "name": "食品化學 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生*",
+    "enrollment": "14/06",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[4]5~6 醫學院 201D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-003",
+    "code": "SC-003 SC80400 [FSRM6057]",
+    "name": "微生物－人體交互作用 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生* 許觀達",
+    "enrollment": "4/100",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[5]5~7 醫學院 302D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-004",
+    "code": "SC-004 SC51000 [6018]",
+    "name": "食品安全衛生管理法暨國際食品安全法規",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳秀玲* 許登科",
+    "enrollment": "5/14",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[4]3~4 醫學院 202D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-005",
+    "code": "SC-005 SC61500 [FSRM6028]",
+    "name": "進階風險評估 限修過本所健康風險評估者修習，僅收6名學生。  需先修以下科目:《健康風險評估/必修/2.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳秀玲*",
+    "enrollment": "06/額滿",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]8~9 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-007",
+    "code": "SC-007 SC61700 [FSRM6030]",
+    "name": "食品與營養毒理學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳容甄* 張雅雯",
+    "enrollment": "3/11",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-008",
+    "code": "SC-008 SC61900 [FSRM6032]",
+    "name": "食品毒理評估方法（二） 上課教室:環醫所8063研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳容甄*",
+    "enrollment": "3/5",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-010",
+    "code": "SC-010 L360200 [CHEM8024]",
+    "name": "質譜學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "廖寶琦",
+    "enrollment": "19/401",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[1]7~9 醫學院 304D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-011",
+    "code": "SC-011 S361400 [PHSL6040]",
+    "name": "標靶器官毒理學 中英文上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張雅雯* 吳炳慶 許釗凱 蕭雅心 王應然 李俊璋 陳容甄 王仰高",
+    "enrollment": "13/46",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[1]5~6 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-012",
+    "code": "SC-012 SC80300 [FSRM6056]",
+    "name": "食品與腸道健康-文獻評析（2） 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "徐瑋萱*",
+    "enrollment": "03/17",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[3]3~4 醫學院 302D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-013",
+    "code": "SC-013 SC62900 [FSRM6042]",
+    "name": "食品微生物與安全",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "徐瑋萱*",
+    "enrollment": "4/15",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[3]5~6 醫學院 302D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-014",
+    "code": "SC-014 SC50140 [6094]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生* 陳秀玲 李宥萱 陳容甄 徐瑋萱 張偉翔",
+    "enrollment": "16/9",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]7~8 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "SC-015",
+    "code": "SC-015 SC62300 [FSRM6036]",
+    "name": "環境及食品分析技術應用",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張偉翔*",
+    "enrollment": "5/09",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[2]3~4 醫學院 201D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-016",
+    "code": "SC-016 SC80700 [FSRM6060]",
+    "name": "食品添加物管理及評估",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "張偉翔*",
+    "enrollment": "5/09",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[2]5~6 醫學院 201D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-017",
+    "code": "SC-017 S780700 [EOH7213]",
+    "name": "進階毒理學 環醫所8063研討室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "王應然*",
+    "enrollment": "6/109",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-018",
+    "code": "SC-018 SC90200 [FSRM6095]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳健生*",
+    "enrollment": "03/7",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "SC-019",
+    "code": "SC-019 SC80600 [FSRM6059]",
+    "name": "進階食品安全資料統合分析及應用",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "黃佰璋*",
+    "enrollment": "3/11",
+    "locations": [
+      "醫學院",
+      "201D"
+    ],
+    "period": "[2]1~2 醫學院 201D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-020",
+    "code": "SC-020 SC80500 [FSRM6058]",
+    "name": "進階資料視覺化在風險溝通之應用",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "黃佰璋*",
+    "enrollment": "3/17",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[3]1~2 醫學院 302D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "SC-021",
+    "code": "SC-021 SC63000 [FSRM6043]",
+    "name": "分子機轉與基因體毒理學（二） 英語授課  門診8樓8063室",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "SC",
+    "department": "食安所 FSRM",
+    "teacher": "陳容甄*",
+    "enrollment": "3/5",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

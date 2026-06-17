@@ -1,0 +1,1217 @@
+[
+  {
+    "id": "F213210-Z",
+    "code": "F213210-Z [UP]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "06/不限",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "F213310-Z",
+    "code": "F213310-Z [UP]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]3~4 [2]3~4 [4]2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "F213000-Z",
+    "code": "F213000-Z [UP]",
+    "name": "歷史 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "60/不限",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "F2-004",
+    "code": "F2-004 F212000 [MATH1071]",
+    "name": "微積分 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "許瑞麟",
+    "enrollment": "114/8",
+    "locations": [
+      "7215",
+      "唯農大樓",
+      "50102",
+      "7217",
+      "7213",
+      "都計系館"
+    ],
+    "period": "[1]2~3 都計系館 50102 [3]1 都計系館 50102 [3]2 唯農大樓 7213 [3]2 唯農大樓 7215 [3]2 唯農大樓 7217",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F2-005",
+    "code": "F2-005 F212300 [UP1002]",
+    "name": "經濟學 授課內容以本系專業為主。",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "石豐宇",
+    "enrollment": "67/15",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[3]7~9 都計系館 50204",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-006",
+    "code": "F2-006 F222100 [UP1003]",
+    "name": "統計學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "蘇南誠",
+    "enrollment": "768/4",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[5]5~7 都計系館 50204",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-007",
+    "code": "F2-007 F210010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "謝孟志",
+    "enrollment": "659/41",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[4]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F225000-Z1",
+    "code": "F225000-Z1 [UP]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "06/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-009",
+    "code": "F2-009 F217910 [UP0011]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "趙子元",
+    "enrollment": "61/14",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[4]1 都計系館 50204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-010",
+    "code": "F2-010 F233300 [UP1011]",
+    "name": "都市環境概論",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "張學聖",
+    "enrollment": "75/65",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[5]1~2 都計系館 50204",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-011",
+    "code": "F2-011 F212400 [UP1301]",
+    "name": "設計概論 美學與藝術跨域學分學程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "曾憲嫻",
+    "enrollment": "75/3",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[1]5~6 都計系館 50204",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-012",
+    "code": "F2-012 F211200 [UP1302]",
+    "name": "圖學 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "蔡振芳",
+    "enrollment": "64/3",
+    "locations": [
+      "50303",
+      "都計系館"
+    ],
+    "period": "[2]5 都計系館 50303 [2]6~8 都計系館 50303",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-013",
+    "code": "F2-013 F211800 [UP1401]",
+    "name": "建築概論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "孫全文",
+    "enrollment": "43/額滿",
+    "locations": [
+      "5101",
+      "建築系館"
+    ],
+    "period": "[4]3~4 建築系館 5101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F210330-Z",
+    "code": "F210330-Z [UP]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[1]2 [1]3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F225000-Z2",
+    "code": "F225000-Z2 [UP]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "0/6不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F210030-Z",
+    "code": "F210030-Z [UP]",
+    "name": "體育（三） 依照體育課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-054",
+    "code": "F2-054 F212700 [UP1372]",
+    "name": "基本設計（二） (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "吳綱立 曾憲嫻 張瑪龍",
+    "enrollment": "466/9",
+    "locations": [
+      "都計系館",
+      "50221"
+    ],
+    "period": "[2]5~6 都計系館 50221 [2]7~9 都計系館 50221",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-055",
+    "code": "F2-055 F220800 [UP]",
+    "name": "都市發展史 都計二、都計三合班",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "孔憲法",
+    "enrollment": "108/4",
+    "locations": [
+      "50102",
+      "都計系館"
+    ],
+    "period": "[1]5~6 都計系館 50102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-056",
+    "code": "F2-056 F222700 [UP2101]",
+    "name": "規劃分析方法",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "謝俊民",
+    "enrollment": "66/69",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[2]2~4 都計系館 50204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-057",
+    "code": "F2-057 F226200 [UP2601]",
+    "name": "都市交通計劃",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "石豐宇",
+    "enrollment": "66/69",
+    "locations": [
+      "都計系館",
+      "50204"
+    ],
+    "period": "[4]2~4 都計系館 50204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-058",
+    "code": "F2-058 E737600 [ARCH3017]",
+    "name": "敷地計劃 與建築系合班",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "賴光邦",
+    "enrollment": "57/663",
+    "locations": [
+      "50102",
+      "都計系館"
+    ],
+    "period": "[5]7~8 都計系館 50102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-059",
+    "code": "F2-059 F237400 [UP2751]",
+    "name": "電腦繪圖",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "魏國強",
+    "enrollment": "39/11",
+    "locations": [
+      "都計系館",
+      "50215"
+    ],
+    "period": "[3]5~7 都計系館 50215",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-060",
+    "code": "F2-060 F216800 [UP2401]",
+    "name": "建築計劃",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "郭美芳",
+    "enrollment": "50/2",
+    "locations": [
+      "都計系館",
+      "50221"
+    ],
+    "period": "[4]7~8 都計系館 50221",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-061",
+    "code": "F2-061 F217930 [UP0013]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "吳綱立",
+    "enrollment": "34/461",
+    "locations": [
+      "都計系館",
+      "50202"
+    ],
+    "period": "[4]1 都計系館 50202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F225000-Z3",
+    "code": "F225000-Z3 [UP]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "06/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-102",
+    "code": "F2-102 F211030 [UP3071]",
+    "name": "都市規劃與設計實習（三） 防災科技管理學分學程 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "張學聖 葉光毅 孔憲法",
+    "enrollment": "52/6",
+    "locations": [
+      "50305",
+      "都計系館"
+    ],
+    "period": "[3]3~4 都計系館 50305 [3]6~8 都計系館 50305",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-103",
+    "code": "F2-103 F231210 [UP]",
+    "name": "都市設計（一）",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "吳綱立",
+    "enrollment": "54/4",
+    "locations": [
+      "都計系館",
+      "50202"
+    ],
+    "period": "[5]1~2 都計系館 50202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-104",
+    "code": "F2-104 F242000 [UP3002]",
+    "name": "都市財政學 須修過「經濟學」",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "鄒克萬",
+    "enrollment": "49/9",
+    "locations": [
+      "都計系館",
+      "50202"
+    ],
+    "period": "[1]7~8 都計系館 50202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-105",
+    "code": "F2-105 F221400 [UP]",
+    "name": "測量學 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "施永富",
+    "enrollment": "649/9",
+    "locations": [
+      "都計系館",
+      "50202"
+    ],
+    "period": "[2]3~4 都計系館 50202 [2]5~7 都計系館 50202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-106",
+    "code": "F2-106 F230200 [UP2701]",
+    "name": "地理資訊系統概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "林漢良",
+    "enrollment": "40/10",
+    "locations": [
+      "都計系館",
+      "50215"
+    ],
+    "period": "[4]2~4 都計系館 50215",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-107",
+    "code": "F2-107 C447200 [EARS2402]",
+    "name": "環境地質學 地科三、都計三合班　於地科系館研討室",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "簡錦樹",
+    "enrollment": "360/12",
+    "locations": [
+      "研討室一",
+      "地科系館"
+    ],
+    "period": "[4]7~9 地科系館 研討室一",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-108",
+    "code": "F2-108 F232300 [UP3202]",
+    "name": "社區規劃與地方行銷",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "吳綱立",
+    "enrollment": "466/4",
+    "locations": [
+      "都計系館",
+      "50202"
+    ],
+    "period": "[5]5~7 都計系館 50202",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F225000-Z4",
+    "code": "F225000-Z4 [UP]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-152",
+    "code": "F2-152 F241800 [UP4071]",
+    "name": "都市規劃與設計實習（五） (含實習)",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "趙子元 陳秉立 林漢良",
+    "enrollment": "462/3",
+    "locations": [
+      "都計系館",
+      "50219"
+    ],
+    "period": "[3]3~4 都計系館 50219 [3]6~8 都計系館 50219",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F2-153",
+    "code": "F2-153 F241310 [UP4091]",
+    "name": "論文（一）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "鄒克萬",
+    "enrollment": "5/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F2-155",
+    "code": "F2-155 F340900 [ID3229]",
+    "name": "藝術行銷與管理 流行用品設計學程",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "陸定邦",
+    "enrollment": "66/6",
+    "locations": [
+      "工設系館",
+      "5259"
+    ],
+    "period": "[2]7~8 工設系館 5259",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F2-156",
+    "code": "F2-156 D530400 [ECON3002]",
+    "name": "經濟發展 中文授課，與都計合開，都計系限選10人。",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F2",
+    "department": "都計系 UP",
+    "teacher": "謝文真",
+    "enrollment": "39/261",
+    "locations": [
+      "27602",
+      "雲平大樓"
+    ],
+    "period": "[1]6~8 雲平大樓 27602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

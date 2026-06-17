@@ -1,0 +1,160 @@
+[
+  {
+    "id": "F815012-Z",
+    "code": "F815012-Z [DPS]",
+    "name": "基礎國文 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "06/56",
+    "locations": [],
+    "period": "[3]7~9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "核心通識"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "核心通識"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "F810721-Z",
+    "code": "F810721-Z [DPS]",
+    "name": "英文（含口語訓練）（二） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/656",
+    "locations": [],
+    "period": "[1]1 [1]2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "核心通識"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "核心通識"
+      }
+    ]
+  },
+  {
+    "id": "AN10500-Z",
+    "code": "AN10500-Z [PBD]",
+    "name": "人類文明史 核心通識，依照人類文明史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F810020-Z",
+    "code": "F810020-Z [DPS]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/56",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10200-Z1",
+    "code": "AN10200-Z1 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-008",
+    "code": "AN-008 AN10120 [CCEP0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "湯銘哲",
+    "enrollment": "23/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

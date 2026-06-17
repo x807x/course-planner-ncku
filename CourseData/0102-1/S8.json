@@ -1,0 +1,422 @@
+[
+  {
+    "id": "S8-001",
+    "code": "S8-001 S860900 [BM6029]",
+    "name": "研究設計",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "11/209",
+    "locations": [
+      "醫學院",
+      "205D"
+    ],
+    "period": "[5]2~4 醫學院 205D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-002",
+    "code": "S8-002 S860410 [BM6090]",
+    "name": "專題討論（一） 業界專家參與  隔週上",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 陸汝斌 郭乃文 黃惠玲",
+    "enrollment": "11/49",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-003",
+    "code": "S8-003 S850410 [BM6094]",
+    "name": "專題研究（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 柯慧貞 郭乃文 黃惠玲",
+    "enrollment": "11/29",
+    "locations": [],
+    "period": "[1]0 [2]0",
+    "slots": []
+  },
+  {
+    "id": "S8-004",
+    "code": "S8-004 S860430 [BM6092]",
+    "name": "專題討論（三） 業界專家參與  隔週上",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 陸汝斌 郭乃文 黃惠玲",
+    "enrollment": "130/47",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-005",
+    "code": "S8-005 S850430 [BM6096]",
+    "name": "專題研究（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 林君昱 蘇五洲 張峰銘 柯慧貞 郭乃文 黃惠玲",
+    "enrollment": "130/27",
+    "locations": [],
+    "period": "[1]0 [2]0",
+    "slots": []
+  },
+  {
+    "id": "S8-006",
+    "code": "S8-006 S850101 [BM6031]",
+    "name": "行為與醫學 隔週上",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 郭乃文 黃惠玲",
+    "enrollment": "16/024",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[3]5~6 醫學院 302D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-007",
+    "code": "S8-007 S861800 [BM6032]",
+    "name": "神經心理衡鑑 需先修以下科目:《臨床神經心理學/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "郭乃文",
+    "enrollment": "10/30",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[1]6~8 醫學院 202D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-008",
+    "code": "S8-008 S860310 [BM6102]",
+    "name": "臨床心理實習（一） 業界專家參與  在醫院或學校等實習單位全天實習",
+    "grade": 1,
+    "credits": 8,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "黃惠玲* 郭乃文",
+    "enrollment": "13/027",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S8-009",
+    "code": "S8-009 S852100 [BM6012]",
+    "name": "行為與心理衡鑑",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "駱重鳴",
+    "enrollment": "14/406",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[3]A~C 醫學院 604",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-010",
+    "code": "S8-010 S863100 [BM6094]",
+    "name": "專題討論 供碩三以上尚缺論文學分學生選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍* 楊延光",
+    "enrollment": "10/39",
+    "locations": [],
+    "period": "[1]0 [2]0",
+    "slots": []
+  },
+  {
+    "id": "S8-011",
+    "code": "S8-011 S853410 [BM6290]",
+    "name": "物質濫用專題（一） 所研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "1/039",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-012",
+    "code": "S8-012 S853430 [BM6292]",
+    "name": "物質濫用專題（三） 所研討室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "游一龍",
+    "enrollment": "1/39",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S8-013",
+    "code": "S8-013 S864000 [BM6033]",
+    "name": "憂鬱自殺及成癮",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "柯慧貞",
+    "enrollment": "16/204",
+    "locations": [
+      "醫學院",
+      "204D"
+    ],
+    "period": "[5]7~9 醫學院 204D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-014",
+    "code": "S8-014 S853001 [BM6001]",
+    "name": "復健心理學 業界專家參與  需先修以下科目:《臨床神經心理學/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "郭乃文",
+    "enrollment": "10/30",
+    "locations": [
+      "醫學院",
+      "205D"
+    ],
+    "period": "[2]2~4 醫學院 205D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S8-015",
+    "code": "S8-015 S857600 [BM6020]",
+    "name": "發展心理病理學 業界專家參與  限本所臨床心理學組學生",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S8",
+    "department": "行醫所 BM",
+    "teacher": "黃惠玲",
+    "enrollment": "010/50",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[4]5~7 醫學院 303D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

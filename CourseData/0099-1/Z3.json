@@ -1,0 +1,438 @@
+[
+  {
+    "id": "Z3-001",
+    "code": "Z3-001 Z350111 [TPS6896]",
+    "name": "書報討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺 蔡文杰 李瑞花",
+    "enrollment": "5/3",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[4]5 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-002",
+    "code": "Z3-002 Z350131 [TPS6898]",
+    "name": "書報討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺 蔡文杰 李瑞花",
+    "enrollment": "7/1",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[4]6 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-003",
+    "code": "Z3-003 Z350200 [TPS6894]",
+    "name": "高等植物生理學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "陳虹樺 黃浩仁 張清俊 張文綺 蔡文杰 李瑞花",
+    "enrollment": "6/29",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[1]6~8 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-004",
+    "code": "Z3-004 L581200 [LS7300]",
+    "name": "基因體學 生命所.生多所.熱植所合併授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "陳虹樺",
+    "enrollment": "8/42",
+    "locations": [
+      "3425",
+      "牙醫系館"
+    ],
+    "period": "[3]7~9 牙醫系館 3425",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-007",
+    "code": "Z3-007 L671000 [BIOT7411]",
+    "name": "植物生物化學 生科所與熱植所合併授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張清俊",
+    "enrollment": "8/272",
+    "locations": [
+      "資訊大樓",
+      "75802"
+    ],
+    "period": "[3]2~4 資訊大樓 75802",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-008",
+    "code": "Z3-008 L580100 [LS7310]",
+    "name": "植物訊息傳遞 生命所與熱植所合併授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "黃浩仁",
+    "enrollment": "2/728",
+    "locations": [
+      "牙醫系館",
+      "3414"
+    ],
+    "period": "[1]7~9 牙醫系館 3414",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-018",
+    "code": "Z3-018 Z352200 [TPS6812]",
+    "name": "植物二次代謝體學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔡文杰",
+    "enrollment": "3/32",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[2]2~4 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-019",
+    "code": "Z3-019 Z352310 [TPS6995]",
+    "name": "植物科學講座（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺 蔡文杰 李瑞花",
+    "enrollment": "87/27",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[2]7 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Z3-022",
+    "code": "Z3-022 Z260701 [BIOI7101]",
+    "name": "高等分子生物學 生科所與熱植所合開;生科院核心課程，生物科技所碩一必選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "宋皇模 張清俊 林翰佑 王涵青 曾大千 王育民 陳炳焜",
+    "enrollment": "571/129",
+    "locations": [
+      "3404",
+      "牙醫系館"
+    ],
+    "period": "[4]2~4 牙醫系館 3404",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Z3-023",
+    "code": "Z3-023 Z381000-Y [TPS]",
+    "name": "蘭花生理與生物科技 暑期開課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "陳虹樺 黃浩仁",
+    "enrollment": "4/26",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-024",
+    "code": "Z3-024 Z381100-Y [TPS]",
+    "name": "植物生物資訊與系統生物學 暑期開課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "蔣鎮宇 宋皇模 張文綺",
+    "enrollment": "5/25",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-025",
+    "code": "Z3-025 Z381200-Y [TPS]",
+    "name": "前瞻農業產官學講座 暑期開課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張清俊",
+    "enrollment": "75/25",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-026",
+    "code": "Z3-026 Z381300-Y [TPS]",
+    "name": "蘭花功能基因體實習 暑期開課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "黃浩仁 張清俊",
+    "enrollment": "2/28",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-027",
+    "code": "Z3-027 Z381400-Y [TPS]",
+    "name": "生質能源開發與應用 暑期開課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "黃浩仁 方素瓊",
+    "enrollment": "2/28",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-028",
+    "code": "Z3-028 Z381500-Y [TPS]",
+    "name": "台灣植物生技產業現場 暑期開課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "黃浩仁 李瑞花",
+    "enrollment": "72/28",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-029",
+    "code": "Z3-029 Z381600-Y [TPS]",
+    "name": "植物生技產業園區實習 暑期開課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "李瑞花",
+    "enrollment": "1/279",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "Z3-030",
+    "code": "Z3-030 Z390100 [TPS6895]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "Z3",
+    "department": "熱植所 TPS",
+    "teacher": "張文綺 蔡文杰 李瑞花",
+    "enrollment": "3/額滿",
+    "locations": [
+      "照坤精密儀器大樓",
+      "95A09"
+    ],
+    "period": "[4]6 照坤精密儀器大樓 95A09",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  }
+]

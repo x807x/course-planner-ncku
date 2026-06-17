@@ -1,0 +1,458 @@
+[
+  {
+    "id": "S3-001",
+    "code": "S3-001 S310110 [PHSL6091]",
+    "name": "專題討論（一） 英語授課 業界專家參與  中英文教學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳偉立* 吳孟興 許釗凱 湯銘哲 楊尚訓 顏賢章 陳珮君 張雅雯 游一龍 孫宏羽 林世杰 王竹安 蔡曜聲 王家義",
+    "enrollment": "14/46",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]6 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-002",
+    "code": "S3-002 S310130 [PHSL6093]",
+    "name": "專題討論（三） 英語授課  中英文教學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳偉立* 吳孟興 許釗凱 湯銘哲 楊尚訓 顏賢章 陳珮君 張雅雯 游一龍 孫宏羽 林世杰 王竹安 蔡曜聲 王家義",
+    "enrollment": "213/47",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]7 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-003",
+    "code": "S3-003 S360200 [PHSL6099]",
+    "name": "專題討論 英語授課  僅供碩三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳偉立*",
+    "enrollment": "5/55",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]7 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-004",
+    "code": "S3-004 S310100-A [PHSL6001]",
+    "name": "高等生理學 醫療器材與系統學程 英語授課 (含實習)",
+    "grade": 1,
+    "credits": 6,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "孫宏羽* 湯銘哲 楊尚訓 陳珮君 張雅雯 吳偉立 林世杰 王竹安",
+    "enrollment": "14/210",
+    "locations": [
+      "0301",
+      "醫學院",
+      "0724"
+    ],
+    "period": "[1]1 醫學院 0724 [2]1~2 醫學院 0724 [4]1~2 醫學院 0724 [1]2~4 醫學院 0301",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S3-005",
+    "code": "S3-005 S361500 [PHSL6001]",
+    "name": "教學實習",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "楊尚訓*",
+    "enrollment": "226/34",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]5 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S3-006",
+    "code": "S3-006 S351600-A [PHSL6002]",
+    "name": "研究方法導論 中英文教學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "楊尚訓* 湯銘哲 張雅雯 游一龍",
+    "enrollment": "7/5",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[5]3~4 醫學院 0711",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-007",
+    "code": "S3-007 S351600-B [PHSL6002]",
+    "name": "研究方法導論 中英文教學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "楊尚訓* 湯銘哲 張雅雯 游一龍",
+    "enrollment": "7/217",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[5]3~4 醫學院 0724",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-008",
+    "code": "S3-008 T851401 [PH7301]",
+    "name": "生物統計學 醫療器材與系統學程  生理所、臨藥所、公衛所、臨醫所、物治所、職治所、食安所、老年所及口醫所合開。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "王亮懿*",
+    "enrollment": "60/90",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]3~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-010",
+    "code": "S3-010 S311300 [PHSL6005]",
+    "name": "神經科學 中英文教學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "陳珮君* 楊尚訓 張雅雯 游一龍 吳偉立 朱俊憲",
+    "enrollment": "29/15",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[2]5~6 醫學院 0724",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-014",
+    "code": "S3-014 S361010 [PHSL6029]",
+    "name": "細胞及分子生理學書報討論（一） 英語授課  本課程採英文上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "湯銘哲* 邱文泰 王仰高",
+    "enrollment": "5/219",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[3]1 醫學院 0724",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-017",
+    "code": "S3-017 S354600 [PHSL6041]",
+    "name": "神經精神藥理學 生理所、藥理所、基醫所及臨藥所合班上課，本課程採中英文上課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "張雅雯* 黃欽威 陳志弘 陳高欽 宋碧姍 許桂森 簡伯武 蕭雅心 吳偉立 張惠華",
+    "enrollment": "220/10",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[4]3~4 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-020",
+    "code": "S3-020 S360500 [PHSL6015]",
+    "name": "生物資訊學 再生醫學科技學分學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "林世杰*",
+    "enrollment": "19/1",
+    "locations": [
+      "醫學院",
+      "醫圖電腦教室"
+    ],
+    "period": "[3]2~4 醫學院 醫圖電腦教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-025",
+    "code": "S3-025 S355100 [PHSL7010]",
+    "name": "醫學研究之產學價創 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "孫宏羽* 張雅雯*",
+    "enrollment": "127/13",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[3]5~6 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-028",
+    "code": "S3-028 S355210 [PHSL6027]",
+    "name": "表觀遺傳學（一） 英語授課  本課程採英文上課，上課教室暫時移至國衛院第二會議室。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "王竹安*",
+    "enrollment": "62/18",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[5]5~6 醫學院 0724",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-029",
+    "code": "S3-029 S354820 [PHSL6044]",
+    "name": "以問題為導向學習神經系統和諧（二） 藥理所與生理所合班",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "張雅雯* 陳炳焜",
+    "enrollment": "92/15",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[2]9 醫學院 0724",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

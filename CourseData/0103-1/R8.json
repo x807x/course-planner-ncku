@@ -1,0 +1,738 @@
+[
+  {
+    "id": "R8-004",
+    "code": "R8-004 R112400 [ACC6028]",
+    "name": "金融市場與制度 會計所與財金所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王明隆",
+    "enrollment": "90/14",
+    "locations": [
+      "63211",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63211",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-005",
+    "code": "R8-005 R850100 [FIN6001]",
+    "name": "總體經濟學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "林軒竹",
+    "enrollment": "45/25",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-006",
+    "code": "R8-006 R856200 [FIN6028]",
+    "name": "策略性投資與價值創造 財金所與會計所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王明隆",
+    "enrollment": "69/1",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[2]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-008",
+    "code": "R8-008 R858400 [FIN6054]",
+    "name": "時間序列研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王澤世",
+    "enrollment": "279/30",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[3]6~8 會計系館 63102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-009",
+    "code": "R8-009 R860800 [FIN6038E]",
+    "name": "衍生性金融商品 FinTech金融科技學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "劉裕宏",
+    "enrollment": "22/8",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-012",
+    "code": "R8-012 R851400 [FIN6008]",
+    "name": "投資學理論 FinTech金融科技學分學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃炳勳",
+    "enrollment": "28/29",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[4]6~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-013",
+    "code": "R8-013 R850200 [FIN6002]",
+    "name": "計量經濟學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黎明淵",
+    "enrollment": "24/91",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63404",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-014",
+    "code": "R8-014 R850110-1 [FIN7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王明隆",
+    "enrollment": "26/4",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[5]6~7 會計系館 63415",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-015",
+    "code": "R8-015 R850130-1 [FIN7091]",
+    "name": "專題討論（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "林軒竹",
+    "enrollment": "23/27",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[5]6~7 會計系館 63209",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-100",
+    "code": "R8-100 R850100 [FIN6001]",
+    "name": "總體經濟學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "林軒竹",
+    "enrollment": "45/25",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-101",
+    "code": "R8-101 R870200 [FIN7001]",
+    "name": "投資理論 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃炳勳",
+    "enrollment": "6/14",
+    "locations": [
+      "63406",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63406",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-102",
+    "code": "R8-102 R170310 [ACC7006]",
+    "name": "計量經濟學（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黎明淵",
+    "enrollment": "97/18",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63404",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-107",
+    "code": "R8-107 R850110-2 [FIN7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "2/18",
+    "locations": [
+      "63406",
+      "會計系館"
+    ],
+    "period": "[5]6~7 會計系館 63406",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-109",
+    "code": "R8-109 R850150-2 [FIN7091]",
+    "name": "專題討論（五）",
+    "grade": 3,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "90/20",
+    "locations": [
+      "63406",
+      "會計系館"
+    ],
+    "period": "[5]6~7 會計系館 63406",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-110",
+    "code": "R8-110 R850170 [FIN7091]",
+    "name": "專題討論（七）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "3/17",
+    "locations": [
+      "63406",
+      "會計系館"
+    ],
+    "period": "[5]6~7 會計系館 63406",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-303",
+    "code": "R8-303 R856200-2 [FIN6028]",
+    "name": "策略性投資與價值創造 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王明隆",
+    "enrollment": "46/24",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[6]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-304",
+    "code": "R8-304 R851100 [FIN6038E]",
+    "name": "衍生性金融商品 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "劉裕宏",
+    "enrollment": "67/3",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]B~D 會計系館 63210",
+    "slots": []
+  },
+  {
+    "id": "R8-305",
+    "code": "R8-305 R860200 [FIN6035]",
+    "name": "固定收益型證券 FinTech金融科技學分學程  限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "王澤世",
+    "enrollment": "65/5",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[4]B~D 會計系館 63210",
+    "slots": []
+  },
+  {
+    "id": "R8-307",
+    "code": "R8-307 R851501 [FIN6009E]",
+    "name": "高級財務會計學 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "郭啟賢",
+    "enrollment": "39/31",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]B~D 會計系館 63210",
+    "slots": []
+  },
+  {
+    "id": "R8-308",
+    "code": "R8-308 R851602 [FIN6010]",
+    "name": "會計及財務研究方法 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黎明淵",
+    "enrollment": "439/27",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[5]B~D 會計系館 63210",
+    "slots": []
+  },
+  {
+    "id": "R8-309",
+    "code": "R8-309 R853400 [FIN6020]",
+    "name": "會計理論與實務 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "周庭楷",
+    "enrollment": "279/43",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[6]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R8-310",
+    "code": "R8-310 R850110-3 [FIN7091]",
+    "name": "專題討論（一） 限碩專選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "159/55",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[7]3~4 會計系館 63102",
+    "slots": [
+      {
+        "day": 7,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-311",
+    "code": "R8-311 R850130-2 [FIN7091]",
+    "name": "專題討論（三） 限碩專選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "0/70",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[7]3~4 會計系館 63102",
+    "slots": [
+      {
+        "day": 7,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R8-312",
+    "code": "R8-312 R850150-3 [FIN7091]",
+    "name": "專題討論（五） 限碩專選修",
+    "grade": 3,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R8",
+    "department": "財金所 FIN",
+    "teacher": "黃華瑋",
+    "enrollment": "96/64",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[7]3~4 會計系館 63102",
+    "slots": [
+      {
+        "day": 7,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "U7-001",
+    "code": "U7-001 U751900 [CS]",
+    "name": "睡眠與腦波",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "78/5",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[2]2~4 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U7-002",
+    "code": "U7-002 U751800 [CS7204]",
+    "name": "行為神經科學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "6/7",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[1]2~4 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U7-003",
+    "code": "U7-003 U752100 [CS]",
+    "name": "工程心理學專論 英語授課  英語授課  限本系；需先修以下科目:《人因工程簡介/選修/3.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "廖敏如",
+    "enrollment": "2/11",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[1]6~8 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-004",
+    "code": "U7-004 U751100 [CS]",
+    "name": "類神經網路 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "楊立行",
+    "enrollment": "2/10",
+    "locations": [
+      "27322",
+      "雲平大樓"
+    ],
+    "period": "[4]3~N 雲平大樓 27322",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U7-005",
+    "code": "U7-005 U752000 [CS]",
+    "name": "設計特論 英語授課  英語授課，認知所與創意所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "廖敏如",
+    "enrollment": "11/72",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[2]6~8 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-006",
+    "code": "U7-006 U751300 [CS]",
+    "name": "類別學習 英語授課  英語授課  限本系；需先修以下科目:《認知科學研究法（含實習）/必修/4.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "楊立行",
+    "enrollment": "2/10",
+    "locations": [
+      "27322",
+      "雲平大樓"
+    ],
+    "period": "[4]8~A 雲平大樓 27322",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-007",
+    "code": "U7-007 U750300 [CS]",
+    "name": "統計推論與資料分析（含實習） 英語授課  英語授課 (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "許清芳",
+    "enrollment": "12/額滿",
+    "locations": [
+      "27322",
+      "雲平大樓"
+    ],
+    "period": "[3]6~8 雲平大樓 27322 [4]6~7 雲平大樓 27322",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "U7-008",
+    "code": "U7-008 U750410 [CS]",
+    "name": "認知科學議題研討（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "許清芳",
+    "enrollment": "11/72",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[5]5 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-009",
+    "code": "U7-009 U751710 [CS]",
+    "name": "論文寫作與報告技巧（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "11/2",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[5]6 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-010",
+    "code": "U7-010 U752200 [CS7291]",
+    "name": "語言文化與認知 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "陳振宇",
+    "enrollment": "3/170",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[5]2~4 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-011",
+    "code": "U7-011 U760200 [CS]",
+    "name": "注意力 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "曾加蕙",
+    "enrollment": "8/5",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[3]9~B 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-012",
+    "code": "U7-012 U750500 [CS]",
+    "name": "知覺心理學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "曾加蕙",
+    "enrollment": "73/不限",
+    "locations": [
+      "27322",
+      "雲平大樓"
+    ],
+    "period": "[3]1 雲平大樓 27322 [3]N~5 雲平大樓 27322",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  }
+]

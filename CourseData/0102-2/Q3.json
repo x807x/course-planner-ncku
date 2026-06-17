@@ -1,0 +1,786 @@
+[
+  {
+    "id": "Q3-001",
+    "code": "Q3-001 Q351420-31 [CCE7092]",
+    "name": "專題討論（二） 電腦與網路組 (甲組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "陳敬",
+    "enrollment": "55/不限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-002",
+    "code": "Q3-002 Q351420-32 [CCE7092]",
+    "name": "專題討論（二） 通訊與網路組 (乙丙丁組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "郭文光* 劉光浩",
+    "enrollment": "53/不限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-006",
+    "code": "Q3-006 Q353500 [CCE8414]",
+    "name": "錯誤控制編碼 (先修科目:通訊理論)  需先修以下科目:《通訊理論/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "蘇賜麟",
+    "enrollment": "100/20",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-012",
+    "code": "Q3-012 Q353800 [CCE9431]",
+    "name": "排隊理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "李忠憲",
+    "enrollment": "31/2",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-013",
+    "code": "Q3-013 Q353600 [CCE8444]",
+    "name": "適應性信號處理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "張名先",
+    "enrollment": "800/15",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]2~4 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-014",
+    "code": "Q3-014 Q353900 [CCE7523]",
+    "name": "多媒體網際網路應用專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "陳立祥",
+    "enrollment": "12/18",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[4]B~D 電機系館 92523",
+    "slots": []
+  },
+  {
+    "id": "Q3-021",
+    "code": "Q3-021 Q354000 [CCE6551E]",
+    "name": "網路系統設計與分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "林輝堂",
+    "enrollment": "23/7",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92523",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-022",
+    "code": "Q3-022 N26F500 [EE8612]",
+    "name": "PLL/DLL設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "鄭光偉",
+    "enrollment": "33/37",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92277",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-024",
+    "code": "Q3-024 Q351440-31 [CCE7094]",
+    "name": "專題討論（四） 電腦與網路組 (甲組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "戴顯權",
+    "enrollment": "66/不限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-025",
+    "code": "Q3-025 Q351440-32 [CCE7094]",
+    "name": "專題討論（四） 通訊與網路組 (乙丙丁組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "張志文* 黃振發",
+    "enrollment": "503/不限",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]5~6 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-026",
+    "code": "Q3-026 Q351420-33 [CCE7092]",
+    "name": "專題討論（二） 電腦與網路組 (甲組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "蘇淑茵",
+    "enrollment": "5/不限",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[2]9~A 電機系館 92523",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-027",
+    "code": "Q3-027 Q351420-34 [CCE7092]",
+    "name": "專題討論（二） 通訊與網路組 (乙丙丁組)",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "蘇賜麟* 張名先",
+    "enrollment": "90/不限",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[3]9~A 電機系館 92926",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-028",
+    "code": "Q3-028 Q354800 [CCE8433]",
+    "name": "多媒體通訊",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "郭致宏",
+    "enrollment": "39/31",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92271",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-029",
+    "code": "Q3-029 Q360500 [CCE6435]",
+    "name": "通訊網路專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "李忠憲",
+    "enrollment": "5/65",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[1]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-034",
+    "code": "Q3-034 Q351440-33 [CCE7094]",
+    "name": "專題討論（四） 電腦與網路組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "陳中和* 謝錫堃",
+    "enrollment": "42/不限",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]9~A 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-035",
+    "code": "Q3-035 Q351440-34 [CCE7094]",
+    "name": "專題討論（四） 通訊與網路組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "鄭光偉* 莊惠如",
+    "enrollment": "35/0不限",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[2]9~A 電機系館 92926",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q3-037",
+    "code": "Q3-037 Q360300 [CCE6422]",
+    "name": "通信電子學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "黃振發",
+    "enrollment": "8/62",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-038",
+    "code": "Q3-038 Q352500 [CCE8425]",
+    "name": "射頻微波通訊電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "莊惠如",
+    "enrollment": "9/201",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-040",
+    "code": "Q3-040 Q355200 [CCE9533]",
+    "name": "高等計算機演算理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "戴顯權",
+    "enrollment": "037/1",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-041",
+    "code": "Q3-041 Q311100 [CCE6512]",
+    "name": "偵測與評估理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "賴癸江",
+    "enrollment": "18/12",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-043",
+    "code": "Q3-043 Q350900 [CCE7415]",
+    "name": "矩陣理論與計算",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "陳進興",
+    "enrollment": "35/額0滿",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-046",
+    "code": "Q3-046 Q354400 [CCE7421]",
+    "name": "通信相關信號處理演算法專論 (先修科目:偵測與評估理論/適應性信號處理 /合作式通訊與網路 /選修/3.0學分/  需先修以下科目:《偵測與評估理論/選修/3.0 學分/70 分以上》《合作式通訊與網路/選修/3.0 學分/70 分以上》《通訊理論/選修/3.0 學分/70 分以上》《適應性信號處理/選修/3.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "賴癸江",
+    "enrollment": "3/67",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-047",
+    "code": "Q3-047 Q360800 [CCE8433]",
+    "name": "計算機網路之隨機分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "蘇淑茵",
+    "enrollment": "24/6",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q3-049",
+    "code": "Q3-049 Q370100 [CCE8440]",
+    "name": "資料探勘與社群網路分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q3",
+    "department": "電通所 CCE",
+    "teacher": "黃仁暐",
+    "enrollment": "410/1",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "T1-001",
+    "code": "T1-001 T150400 [IMM6010]",
+    "name": "分子生物學 微免生化合班，教室:第四講堂,303D",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "蔣輯武 張南山",
+    "enrollment": "17/217",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-003",
+    "code": "T1-003 T152200 [IMM6020]",
+    "name": "細胞生物學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "吳梨華",
+    "enrollment": "30/30",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[3]5~7 醫學院 602",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-004",
+    "code": "T1-004 T150110 [IMM6091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "張玲 陳立宗",
+    "enrollment": "17/33",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]8~9 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-009",
+    "code": "T1-009 T150130 [IMM6093E]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "張玲 陳立宗",
+    "enrollment": "10/40",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]8~9 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-010",
+    "code": "T1-010 T150500 [IMM6095]",
+    "name": "專題討論 供碩三以上研究生選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "張玲 陳立宗",
+    "enrollment": "7/543",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]8~9 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-017",
+    "code": "T1-017 T350401 [MLSB6215]",
+    "name": "微生物致病機轉 醫技、分醫、基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "吳俊忠 王貞仁 王憲威 鄧景浩",
+    "enrollment": "17/3",
+    "locations": [
+      "醫技醫工館",
+      "5796"
+    ],
+    "period": "[1]3~4 醫技醫工館 5796",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-020",
+    "code": "T1-020 T153300 [IMM6401]",
+    "name": "傳染性疾病與微生物研究導論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "王憲威 鄧景浩",
+    "enrollment": "7/43",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[4]3~4 醫學院 208",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-021",
+    "code": "T1-021 T153100 [IMM7102E]",
+    "name": "研究導論 英語授課  統一健康大樓B1第 2會議室，分醫與基醫所合班，英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "蔣輯武 張玲",
+    "enrollment": "58/7",
+    "locations": [
+      "統一健康大樓",
+      "T1B003"
+    ],
+    "period": "[2]5~6 統一健康大樓 T1B003",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-022",
+    "code": "T1-022 T154010 [IMM6191E]",
+    "name": "分子醫學特論（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "王憲威 鄧景浩 張玲",
+    "enrollment": "7/13",
+    "locations": [
+      "T14214",
+      "統一健康大樓"
+    ],
+    "period": "[2]9~A 統一健康大樓 T14214",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T1-023",
+    "code": "T1-023 T161100 [IMM6201]",
+    "name": "老化研究特論 分醫,生化,基醫合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T1",
+    "department": "分醫所 IMM",
+    "teacher": "陳昌熙 蔣輯武",
+    "enrollment": "520/40",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[5]3~4 醫學院 303D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

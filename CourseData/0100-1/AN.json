@@ -1,0 +1,190 @@
+[
+  {
+    "id": "AN10810-Z",
+    "code": "AN10810-Z [CCEP]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/洽不分系6學程",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "基礎國文"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "AN10910-Z",
+    "code": "AN10910-Z [CCEP]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "60/洽不分系學程",
+    "locations": [],
+    "period": "[1]5~6 [4]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "AN-003",
+    "code": "AN-003 F810010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "洪甄憶",
+    "enrollment": "57/43",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10700-Z",
+    "code": "AN10700-Z [PBD]",
+    "name": "歷史 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/洽不分系學程",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "AN-006",
+    "code": "AN-006 AN10110 [CCEP0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃吉川",
+    "enrollment": "236/洽不分系學程",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN10200-Z1",
+    "code": "AN10200-Z1 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/洽不分系學程",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN10200-Z2",
+    "code": "AN10200-Z2 [CCEP]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "",
+    "enrollment": "0/洽不分系學程",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

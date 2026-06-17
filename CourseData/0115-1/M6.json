@@ -1,0 +1,161 @@
+[
+  {
+    "id": "M6-301",
+    "code": "M6-301 M650100 [TSMM7801]",
+    "name": "數位轉型 業界專家參與 遠距課程  遠距授課、外系選修請洽專班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "",
+    "enrollment": "0/50",
+    "locations": [],
+    "period": "[4]B~D",
+    "slots": []
+  },
+  {
+    "id": "M6-302",
+    "code": "M6-302 M651800 [TSMM7828]",
+    "name": "ＡＩ賦能企業轉型 外系選修請洽專班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "徐立群",
+    "enrollment": "0/050",
+    "locations": [
+      "智慧階梯教室",
+      "啟端館"
+    ],
+    "period": "[5]B~D 啟端館 智慧階梯教室",
+    "slots": []
+  },
+  {
+    "id": "M6-303",
+    "code": "M6-303 M650200 [TSMM7802]",
+    "name": "半導體講座 英語授課 業界專家參與  外系選修請洽專班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "李文熙",
+    "enrollment": "0/95",
+    "locations": [
+      "智慧階梯教室",
+      "啟端館"
+    ],
+    "period": "[6]6~8 啟端館 智慧階梯教室",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M6-304",
+    "code": "M6-304 M651700 [TSMM7827]",
+    "name": "ＡＩ時代的智慧決策與變革管理 業界專家參與  外系選修請洽專班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "蘇炎坤",
+    "enrollment": "0/500",
+    "locations": [
+      "智慧階梯教室",
+      "啟端館"
+    ],
+    "period": "[6]2~4 啟端館 智慧階梯教室",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "M6-305",
+    "code": "M6-305 M650330 [TSMM7893]",
+    "name": "專題討論（三） 英語授課  限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "李文熙",
+    "enrollment": "0/50",
+    "locations": [],
+    "period": "[6]A~B",
+    "slots": [
+      {
+        "day": 6,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "M6-306",
+    "code": "M6-306 M650310 [TSMM7891]",
+    "name": "專題討論（一） 英語授課  限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "智慧半導體及永續製造學院",
+    "departmentCode": "M6",
+    "department": "半導體高階管理 TSMM",
+    "teacher": "李文熙",
+    "enrollment": "0/050",
+    "locations": [],
+    "period": "[6]A~B",
+    "slots": [
+      {
+        "day": 6,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 6,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  }
+]

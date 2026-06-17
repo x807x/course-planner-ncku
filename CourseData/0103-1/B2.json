@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "B212310-Z",
+    "code": "B212310-Z [FLL]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "B212100-Z",
+    "code": "B212100-Z [FLL]",
+    "name": "歷史 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備6註",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "B2-003",
+    "code": "B2-003 B2104A0 [FLL1101E]",
+    "name": "英文（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳慧琴",
+    "enrollment": "526/28",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[1]5~6 修齊大樓 26425 [3]1 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-004",
+    "code": "B2-004 B217910 [FLL1091]",
+    "name": "服務學習（一） 外文系館",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "閔慧慈",
+    "enrollment": "63/17",
+    "locations": [],
+    "period": "[4]N",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "B2-005",
+    "code": "B2-005 B211110 [FLL3201E]",
+    "name": "西洋文學概論（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "游素玲",
+    "enrollment": "78/網路選課不6開放",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[3]3~4 修齊大樓 26425 [5]2 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-006",
+    "code": "B2-006 B211510 [FLL3301]",
+    "name": "語言學概論（一） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "李惠琦",
+    "enrollment": "88/網路選課不6開放",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[2]1 修齊大樓 26425 [4]3~4 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-007",
+    "code": "B2-007 B210610-1 [FLL1105E]",
+    "name": "英語口語訓練（一）（上） 英語授課  Ａ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "高實玫",
+    "enrollment": "186/網路選課不開放",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[2]2 修齊大樓 26405 [5]3~4 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-008",
+    "code": "B2-008 B210610-2 [FLL1105E]",
+    "name": "英語口語訓練（一）（上） 英語授課  Ｂ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳昭芳",
+    "enrollment": "186/網路選課不開放",
+    "locations": [
+      "26403",
+      "修齊大樓"
+    ],
+    "period": "[2]2 修齊大樓 26403 [5]3~4 修齊大樓 26403",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-009",
+    "code": "B2-009 B210610-3 [FLL1105E]",
+    "name": "英語口語訓練（一）（上） 英語授課  Ｃ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "廖培真",
+    "enrollment": "19/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26421"
+    ],
+    "period": "[2]2 修齊大樓 26421 [5]3~4 修齊大樓 26421",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-010",
+    "code": "B2-010 B210610-4 [FLL1105E]",
+    "name": "英語口語訓練（一）（上） 英語授課  Ｄ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "游素玲",
+    "enrollment": "17/網路選課不開放",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[2]2 修齊大樓 26401 [5]3~4 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-011",
+    "code": "B2-011 B211810-1 [FLL1103E]",
+    "name": "英文作文（一） 英語授課  Ａ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "王穎",
+    "enrollment": "17/網6路選課不開放",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[2]3~4 修齊大樓 26401 [5]1 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-012",
+    "code": "B2-012 B211810-2 [FLL1103E]",
+    "name": "英文作文（一） 英語授課  Ｂ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "賴俊雄",
+    "enrollment": "20/網路選課不開放",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[2]3~4 修齊大樓 26406 [5]1 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-013",
+    "code": "B2-013 B211810-3 [FLL1103E]",
+    "name": "英文作文（一） 英語授課  Ｃ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "廖培真",
+    "enrollment": "16/網路選課6不開放",
+    "locations": [
+      "修齊大樓",
+      "26421"
+    ],
+    "period": "[2]3~4 修齊大樓 26421 [5]1 修齊大樓 26421",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-014",
+    "code": "B2-014 B211810-4 [FLL1103E]",
+    "name": "英文作文（一） 英語授課  Ｄ組，限本系  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳世威",
+    "enrollment": "621/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26423"
+    ],
+    "period": "[2]3~4 修齊大樓 26423 [5]1 修齊大樓 26423",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B225000-Z1",
+    "code": "B225000-Z1 [FLL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-022",
+    "code": "B2-022 A215500-3 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "周學雯",
+    "enrollment": "661/39",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-051",
+    "code": "B2-051 B220110-1 [FLL2105E]",
+    "name": "英語口語訓練（二）（上） 英語授課  Ａ組，限本系  限本系；需先修以下科目:《英語口語訓練（一）（上）/必修/2.0 學分/60 分以上》《英語口語訓練（一）（下）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "閔慧慈",
+    "enrollment": "18/6網路選課不開放",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[1]5~6 修齊大樓 26401 [3]7 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-052",
+    "code": "B2-052 B220110-2 [FLL2105E]",
+    "name": "英語口語訓練（二）（上） 英語授課  Ｂ組，限本系  限本系；需先修以下科目:《英語口語訓練（一）（上）/必修/2.0 學分/60 分以上》《英語口語訓練（一）（下）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "王穎",
+    "enrollment": "17/網路選課不開放",
+    "locations": [
+      "26403",
+      "修齊大樓"
+    ],
+    "period": "[1]5~6 修齊大樓 26403 [3]7 修齊大樓 26403",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-053",
+    "code": "B2-053 B220110-3 [FLL2105E]",
+    "name": "英語口語訓練（二）（上） 英語授課  Ｃ組，限本系  限本系；需先修以下科目:《英語口語訓練（一）（上）/必修/2.0 學分/60 分以上》《英語口語訓練（一）（下）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳安純",
+    "enrollment": "18/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26421"
+    ],
+    "period": "[1]N~6 修齊大樓 26421",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-054",
+    "code": "B2-054 B220110-4 [FLL2105E]",
+    "name": "英語口語訓練（二）（上） 英語授課  Ｄ組，限本系，外籍教師  限本系；需先修以下科目:《英語口語訓練（一）（上）/必修/2.0 學分/60 分以上》《英語口語訓練（一）（下）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "宋威廉",
+    "enrollment": "18/網6路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[5]7~9 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-055",
+    "code": "B2-055 B211830-1 [FLL2103E]",
+    "name": "英文作文（三） 英語授課  Ａ組，限本系  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林明澤",
+    "enrollment": "18/網路選課不開放",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[2]3~4 修齊大樓 26405 [4]2 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-056",
+    "code": "B2-056 B211830-2 [FLL2103E]",
+    "name": "英文作文（三） 英語授課  Ｂ組，限本系  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳昭芳",
+    "enrollment": "18/網路選課不開放",
+    "locations": [
+      "26403",
+      "修齊大樓"
+    ],
+    "period": "[2]3~4 修齊大樓 26403 [4]2 修齊大樓 26403",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-057",
+    "code": "B2-057 B211830-3 [FLL2103E]",
+    "name": "英文作文（三） 英語授課  Ｃ組，限本系，第二學期由鄒文莉老師授課  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "楊哲銘",
+    "enrollment": "69/9",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[2]3~4 修齊大樓 26408 [4]2 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-058",
+    "code": "B2-058 B211830-4 [FLL2103E]",
+    "name": "英文作文（三） 英語授課  Ｄ組，限本系  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "劉繼仁",
+    "enrollment": "16/6網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[2]3~4 修齊大樓 26404 [4]2 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-059",
+    "code": "B2-059 B220710 [FLL2111]",
+    "name": "日文（一） 日文組必修，需同時選修日語會話",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "黃淑妙",
+    "enrollment": "45/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[1]2~3 修齊大樓 26408 [3]2 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-060",
+    "code": "B2-060 B220410 [FLL2113]",
+    "name": "日語會話（一） 日文組必修，需同時選修日語會話",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "黃淑妙",
+    "enrollment": "43/網6路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[3]5~6 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-061",
+    "code": "B2-061 B220910 [FLL2121]",
+    "name": "法文（一） 法文組必修，需同時選修法語會話",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林蜀媛",
+    "enrollment": "44/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[4]7~9 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-062",
+    "code": "B2-062 B232810 [FLL2123]",
+    "name": "法語會話（一） 法文組必修，需同時選修法文",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林蜀媛",
+    "enrollment": "18/22",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[2]1~2 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-063",
+    "code": "B2-063 B220810 [FLL2131]",
+    "name": "德文（一） 德文組必修，需同時選修德語會話",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳仁德",
+    "enrollment": "19/621",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[1]1~3 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-064",
+    "code": "B2-064 B232910 [FLL2133]",
+    "name": "德語會話（一） 德文組必修，需同時選修德文",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "張淑慧",
+    "enrollment": "28/12",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[3]5~6 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-065",
+    "code": "B2-065 B223110 [FLL2141]",
+    "name": "西班牙文（一） 西文組必修，需同時選修西班牙語會話",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "盧慧娟",
+    "enrollment": "38/2",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[1]2~3 修齊大樓 26406 [3]2 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-066",
+    "code": "B2-066 B221010 [FLL2143]",
+    "name": "西班牙語會話（一） 西文組必修，需同時選修西班牙文",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "盧慧娟",
+    "enrollment": "40/6網路選課不開放",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[3]5~6 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-067",
+    "code": "B2-067 B222710 [FLL2151]",
+    "name": "俄文（一） 俄文組必修，需同時選修俄語會話",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "馬約羅夫",
+    "enrollment": "614/1",
+    "locations": [
+      "修齊大樓",
+      "26412"
+    ],
+    "period": "[1]2~3 修齊大樓 26412 [3]2 修齊大樓 26412",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-068",
+    "code": "B2-068 B222910 [FLL2153]",
+    "name": "俄語會話（一） 俄文組必修，需同時選修俄文",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "馬約羅夫",
+    "enrollment": "15/1",
+    "locations": [
+      "修齊大樓",
+      "26412"
+    ],
+    "period": "[3]5~6 修齊大樓 26412",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-069",
+    "code": "B2-069 B222811 [FLL3211E]",
+    "name": "英國文學（一） 英語授課  英國文學四選二必選，外籍教師",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "石苓",
+    "enrollment": "72/9",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[3]8 修齊大樓 26425 [5]5~6 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-070",
+    "code": "B2-070 B223700 [FLL3312]",
+    "name": "語音學 【語言學】六選三必選，星期五第4節上課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "羅勤正",
+    "enrollment": "658/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26402"
+    ],
+    "period": "[4]3~4 修齊大樓 26402",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-071",
+    "code": "B2-071 B223900 [FLL3314]",
+    "name": "心理語言學 【語言學】必選六選三",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳麗美",
+    "enrollment": "46/64",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[1]7~9 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B210030-Z",
+    "code": "B210030-Z [FLL]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B225000-Z2",
+    "code": "B225000-Z2 [FLL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B211000-Z",
+    "code": "B211000-Z [FLL]",
+    "name": "哲學與藝術 核心通識，依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "B2-101",
+    "code": "B2-101 B211850-1 [FLL3103E]",
+    "name": "英文作文（五） 英語授課  Ａ組，限本系，外籍教師  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（三）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》《英文作文（四）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "石苓",
+    "enrollment": "168/網路選課不開放",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[2]1 修齊大樓 26401 [4]3~4 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-102",
+    "code": "B2-102 B211850-2 [FLL3103E]",
+    "name": "英文作文（五） 英語授課  Ｂ組，限本系  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（三）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》《英文作文（四）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "蔡美慧",
+    "enrollment": "15/3",
+    "locations": [
+      "26403",
+      "修齊大樓"
+    ],
+    "period": "[2]1 修齊大樓 26403 [4]3~4 修齊大樓 26403",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-103",
+    "code": "B2-103 B211850-3 [FLL3103E]",
+    "name": "英文作文（五） 英語授課  Ｃ組，限本系，外籍教師  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（三）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》《英文作文（四）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "金傑夫",
+    "enrollment": "168/網路選課不開放",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[2]1 修齊大樓 26405 [4]3~4 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-104",
+    "code": "B2-104 B211850-4 [FLL3103E]",
+    "name": "英文作文（五） Ｄ組，限本系  限本系；需先修以下科目:《英文作文（一）/必修/2.0 學分/60 分以上》《英文作文（三）/必修/2.0 學分/60 分以上》《英文作文（二）/必修/2.0 學分/60 分以上》《英文作文（四）/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "謝菁玉",
+    "enrollment": "19/網路6選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26421"
+    ],
+    "period": "[2]1 修齊大樓 26421 [4]3~4 修齊大樓 26421",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-105",
+    "code": "B2-105 B236210-1 [FLL3101]",
+    "name": "中英翻譯與習作（一） Ａ組  第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳安純",
+    "enrollment": "46/網路選課不開放",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[3]3~4 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-106",
+    "code": "B2-106 B236210-2 [FLL3101]",
+    "name": "中英翻譯與習作（一） Ｂ組  第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳裕隆",
+    "enrollment": "38/網路選6課不開放",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[3]3~4 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-107",
+    "code": "B2-107 B220730 [FLL3111]",
+    "name": "日文（三） 日文組必修，需同時選修日語會話",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "黃淑妙",
+    "enrollment": "30/網路選6課不開放",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[1]5~6 修齊大樓 26408 [3]7 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-108",
+    "code": "B2-108 B220430 [FLL3113]",
+    "name": "日語會話（三） 日文組必修，需同時選修日文",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "張巧螓",
+    "enrollment": "35/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[5]3~4 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-109",
+    "code": "B2-109 B220930 [FLL3121]",
+    "name": "法文（三） 法文組必修，需同時選修法語會話",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林蜀媛",
+    "enrollment": "30/10",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[1]5~6 修齊大樓 26404 [5]N 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-110",
+    "code": "B2-110 B232830 [FLL3123]",
+    "name": "法語會話（三） 法文組必修，需同時選修法文",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林蜀媛",
+    "enrollment": "27/13",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[5]3~4 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-111",
+    "code": "B2-111 B220830 [FLL3131]",
+    "name": "德文（三） 德文組必修，需同時選修德語會話",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳仁德",
+    "enrollment": "5/35",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[5]6~8 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-112",
+    "code": "B2-112 B230930 [FLL3133]",
+    "name": "德語會話（三） 德文組必修，需同時選修德文",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳仁德",
+    "enrollment": "67/33",
+    "locations": [
+      "26405",
+      "修齊大樓"
+    ],
+    "period": "[5]1~2 修齊大樓 26405",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-113",
+    "code": "B2-113 B223130 [FLL3141]",
+    "name": "西班牙文（三） 西文組必修，需同時選修日語會話",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "盧慧娟",
+    "enrollment": "29/11",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[1]5~6 修齊大樓 26406 [3]7 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-114",
+    "code": "B2-114 B220630 [FLL3143]",
+    "name": "西班牙語會話（三） 西文組必修，需同時選修西班牙語會話",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "白芳怡",
+    "enrollment": "29/11",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[5]3~4 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-120",
+    "code": "B2-120 B222831 [FLL3213E]",
+    "name": "英國文學（三） 英語授課  【文學】英國文學四選二必選，第二學期由廖培真老師授課，星期四第5節上課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林明澤",
+    "enrollment": "24/36",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[3]5~6 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-121",
+    "code": "B2-121 B221311 [FLL3215E]",
+    "name": "美國文學（一） 英語授課  【文學】美國文學二選一必選，第二學期由金傑夫老師授課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "游素玲",
+    "enrollment": "56/4",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[1]2~3 修齊大樓 26425 [3]2 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-122",
+    "code": "B2-122 B235800 [FLL3316]",
+    "name": "社會語言學導讀：宏觀篇 英語授課  【語言學】六選三必選，第三階段僅能透過老師加選。  第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "蔡美慧",
+    "enrollment": "526/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26402"
+    ],
+    "period": "[2]7~9 修齊大樓 26402",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-123",
+    "code": "B2-123 B237300 [FLL3320]",
+    "name": "世界英語方言",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "羅勤正",
+    "enrollment": "47/網路選課不開放",
+    "locations": [
+      "26406",
+      "修齊大樓"
+    ],
+    "period": "[5]5~7 修齊大樓 26406",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-124",
+    "code": "B2-124 B237100 [FLL3111E]",
+    "name": "英語辯論 英語授課  外籍教師，請先閱讀課程說明。Please read the course description.  第一階段不受理選課",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "宋威廉",
+    "enrollment": "625/7",
+    "locations": [
+      "修齊大樓",
+      "26423"
+    ],
+    "period": "[2]7~8 修齊大樓 26423",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-125",
+    "code": "B2-125 B236300 [FLL3221]",
+    "name": "新英文文學 英語授課  提醒：修教育學程者視需要搭配文學作品導讀取得必備學分。",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "張淑麗",
+    "enrollment": "28/612",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[1]2~3 修齊大樓 26401 [3]2 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-126",
+    "code": "B2-126 B235000 [FLL3110E]",
+    "name": "文化研究：文化創意產業導論 戲劇學程  星期二N節上課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "楊哲銘",
+    "enrollment": "38/22",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[2]5~6 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B225000-Z3",
+    "code": "B225000-Z3 [FLL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "06/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-161",
+    "code": "B2-161 B232710 [FLL3701E]",
+    "name": "新聞英文（一） 新聞傳播學程 英語授課  新聞學程",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳安純",
+    "enrollment": "674/網路選課不開放",
+    "locations": [
+      "修齊大樓",
+      "26402"
+    ],
+    "period": "[4]7~8 修齊大樓 26402",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B225000-Z4",
+    "code": "B225000-Z4 [FLL]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "",
+    "enrollment": "0/請參6考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-165",
+    "code": "B2-165 B249010-1 [FLL4401]",
+    "name": "應用第二外語暨戲劇表演（一） 日文組，第二學期由林盈萱老師授課，進階第二外語選修、搭配外語畢業公演",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "黃淑妙",
+    "enrollment": "614/16",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[2]5~6 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-166",
+    "code": "B2-166 B249010-2 [FLL4401]",
+    "name": "應用第二外語暨戲劇表演（一） 法文組，進階第二外語選修、搭配外語畢業公演",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "林蜀媛",
+    "enrollment": "11/19",
+    "locations": [
+      "修齊大樓",
+      "26404"
+    ],
+    "period": "[4]5~6 修齊大樓 26404",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-167",
+    "code": "B2-167 B249010-3 [FLL4401]",
+    "name": "應用第二外語暨戲劇表演（一） 西文組，進階第二外語選修、搭配外語畢業公演",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "盧慧娟* 白芳怡",
+    "enrollment": "13/17",
+    "locations": [
+      "26403",
+      "修齊大樓",
+      "未定"
+    ],
+    "period": "未定 修齊大樓 26403",
+    "slots": []
+  },
+  {
+    "id": "B2-168",
+    "code": "B2-168 B249010-4 [FLL4401]",
+    "name": "應用第二外語暨戲劇表演（一） 俄文組，外籍教師，進階第二外語選修、搭配外語畢業公演",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "馬約羅夫",
+    "enrollment": "6/9",
+    "locations": [
+      "修齊大樓",
+      "26412"
+    ],
+    "period": "[3]3~4 修齊大樓 26412",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-169",
+    "code": "B2-169 B220510 [FLL3223]",
+    "name": "文學理論與詮釋（一） 英語授課",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "賴俊雄",
+    "enrollment": "25/15",
+    "locations": [
+      "修齊大樓",
+      "26402"
+    ],
+    "period": "[3]5~6 修齊大樓 26402",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-170",
+    "code": "B2-170 B245700 [FLL3411]",
+    "name": "應用英文 英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳慧琴",
+    "enrollment": "566/4",
+    "locations": [
+      "26425",
+      "修齊大樓"
+    ],
+    "period": "[2]2~4 修齊大樓 26425",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "B2-171",
+    "code": "B2-171 B244600 [FLL3222E]",
+    "name": "短篇小說 英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "文學院",
+    "departmentCode": "B2",
+    "department": "外文系 FLL",
+    "teacher": "陳昭芳",
+    "enrollment": "41/69",
+    "locations": [
+      "修齊大樓",
+      "26408"
+    ],
+    "period": "[1]7~9 修齊大樓 26408",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

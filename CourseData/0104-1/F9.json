@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "F911610-Z",
+    "code": "F911610-Z [BME1001]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "F910111-Z",
+    "code": "F910111-Z [BME]",
+    "name": "英文（含口語訓練）（一） 核心通識，依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F911400-Z",
+    "code": "F911400-Z [BME1002]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請4參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "F9-005",
+    "code": "F9-005 A215500-43 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "王苓華",
+    "enrollment": "32/68",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[1]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-006",
+    "code": "F9-006 F610611 [MATH1021]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "吳恭儉",
+    "enrollment": "108/14",
+    "locations": [
+      "5756",
+      "醫技醫工館",
+      "數學系館",
+      "經緯廳",
+      "成功校區經緯廳",
+      "3175",
+      "55180",
+      "測量系副館",
+      "5730"
+    ],
+    "period": "[2]5~6 成功校區經緯廳 經緯廳 [5]3 成功校區經緯廳 經緯廳 [5]4 測量系副館 55180 [5]4 醫技醫工館 5730 [5]4 數學系館 3175 [5]4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-007",
+    "code": "F9-007 I311301 [CHEM1041]",
+    "name": "普通化學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "許拱北* 邱顯泰 周鶴軒",
+    "enrollment": "163/547",
+    "locations": [
+      "化工系館",
+      "華立廳"
+    ],
+    "period": "[2]7~8 化工系館 華立廳 [5]5~6 化工系館 華立廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F910200-Z",
+    "code": "F910200-Z [BME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考4備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-017",
+    "code": "F9-017 F911510 [PHYS1021]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "陳寬任",
+    "enrollment": "41/10",
+    "locations": [
+      "唯農大樓",
+      "7213"
+    ],
+    "period": "[1]2~3 唯農大樓 7213 [3]2 唯農大樓 7213",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-018",
+    "code": "F9-018 F912100 [BME1601]",
+    "name": "醫學工程導論 醫療器材與系統學程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍* 陳家進 陳天送 張憲彰 張志涵 胡晉嘉 鄭國順 蘇芳慶 莊漢聲 邱文泰 林宙晴 黃執中 方佑華 李澤民 吳佳慶",
+    "enrollment": "34/10",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[2]3~4 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-019",
+    "code": "F9-019 F910900 [BME1401]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "方佑華",
+    "enrollment": "35/65",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[4]2~4 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-020",
+    "code": "F9-020 F911210 [BME0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "方佑華* 陳家進",
+    "enrollment": "334/10",
+    "locations": [
+      "醫技醫工館",
+      "5730"
+    ],
+    "period": "[4]9 醫技醫工館 5730",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-021",
+    "code": "F9-021 F912210 [BME1671]",
+    "name": "醫學工程實驗（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "胡晉嘉* 陳家進 陳天送 張憲彰 張志涵 葉明龍 鄭國順 蘇芳慶 莊漢聲 邱文泰 黃執中 方佑華",
+    "enrollment": "38/10",
+    "locations": [
+      "5748",
+      "醫技醫工館"
+    ],
+    "period": "[4]7~9 醫技醫工館 5748",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F911000-Z",
+    "code": "F911000-Z [BME]",
+    "name": "哲學與藝術 核心通識，依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "F910331-Z",
+    "code": "F910331-Z [BME]",
+    "name": "英文（含口語訓練）（三） 核心通識，依Ａ１外國語言選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F910200-Z2",
+    "code": "F910200-Z2 [BME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F910430-Z",
+    "code": "F910430-Z [BME1002]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "40/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-055",
+    "code": "F9-055 F920110 [BME2001]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "胡晉嘉",
+    "enrollment": "34/16",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[2]2~3 醫技醫工館 5725 [4]2 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-056",
+    "code": "F9-056 F920900 [BME2301]",
+    "name": "電路學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "黃執中",
+    "enrollment": "35/415",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[1]2~3 醫技醫工館 5725 [2]5 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-057",
+    "code": "F9-057 F921100 [BME2101]",
+    "name": "工程力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "莊漢聲",
+    "enrollment": "304/20",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[2]4 醫技醫工館 5725 [4]3~4 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-058",
+    "code": "F9-058 F920700 [BME2501]",
+    "name": "解剖學 先端手術研究轉譯醫學學分學程，醫療器材與系統學程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "吳佳慶* 江謝雅芬 吳慶明 許鍾瑜 王家義 王仰高",
+    "enrollment": "59/額滿",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[5]2~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-059",
+    "code": "F9-059 F920800 [BME2571]",
+    "name": "解剖學實驗 醫療器材與系統學程",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "吳佳慶* 陳天送 張志涵 蘇芳慶 郭立杰 郭余民 黃步敏",
+    "enrollment": "33/17",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[3]5~6 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-060",
+    "code": "F9-060 F921000 [BME2371]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "黃執中* 陳家進",
+    "enrollment": "33/42",
+    "locations": [
+      "醫技醫工館",
+      "5757"
+    ],
+    "period": "[5]5~7 醫技醫工館 5757",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-101",
+    "code": "F9-101 F930210 [BME3691]",
+    "name": "專題研究（一）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍* 林睿哲 李旺龍 王士豪 楊士德 張憲彰 張志涵 胡晉嘉 鄭國順 蘇芳慶 莊漢聲 黃執中 方佑華",
+    "enrollment": "247/13",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[5]N 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F9-102",
+    "code": "F9-102 F930310 [BME3691]",
+    "name": "科技論文導讀（一）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍",
+    "enrollment": "429/11",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[5]1 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-103",
+    "code": "F9-103 F930500 [BME3701]",
+    "name": "醫療器材專利與法規 醫療器材與系統學程 生物醫學材料專長微學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "郭榮富",
+    "enrollment": "28/12",
+    "locations": [
+      "醫技醫工館",
+      "5725"
+    ],
+    "period": "[3]1~2 醫技醫工館 5725",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-104",
+    "code": "F9-104 F921320 [BME3302]",
+    "name": "電子學（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "方佑華",
+    "enrollment": "124/28",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[3]8 醫技醫工館 5756 [5]5~6 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-105",
+    "code": "F9-105 F921420 [BME3372]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "鄭國順",
+    "enrollment": "142/23",
+    "locations": [
+      "醫技醫工館",
+      "5757"
+    ],
+    "period": "[4]7~9 醫技醫工館 5757",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-106",
+    "code": "F9-106 F930600 [BME3401]",
+    "name": "訊號與系統",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "陳家進",
+    "enrollment": "17/23",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[2]1 醫技醫工館 5756 [4]3~4 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-110",
+    "code": "F9-110 E133900 [ME3120]",
+    "name": "生物力學導論 醫療器材與系統學程  機械系與醫工系合開  限3年級以上選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "朱銘祥",
+    "enrollment": "340/35",
+    "locations": [
+      "機械系館",
+      "91204"
+    ],
+    "period": "[4]6~8 機械系館 91204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-111",
+    "code": "F9-111 F930800 [BME4201]",
+    "name": "生醫材料導論 醫療器材與系統學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "張憲彰",
+    "enrollment": "5/415",
+    "locations": [
+      "5723",
+      "醫技醫工館"
+    ],
+    "period": "[3]5~7 醫技醫工館 5723",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-112",
+    "code": "F9-112 F930900 [BME3271]",
+    "name": "生醫材料與力學實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍* 胡晉嘉",
+    "enrollment": "16/19",
+    "locations": [
+      "5748",
+      "醫技醫工館"
+    ],
+    "period": "[1]N~6 醫技醫工館 5748",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F9-113",
+    "code": "F9-113 F525900 [EV2108]",
+    "name": "有機化學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "林達昌",
+    "enrollment": "58/47",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[2]3~4 環工系館 47114 [4]2 環工系館 47114",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-114",
+    "code": "F9-114 F931000 [BME3001]",
+    "name": "熱力學 醫工系與工科系合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "劉中堅",
+    "enrollment": "410/25",
+    "locations": [
+      "41X01",
+      "工科系館"
+    ],
+    "period": "[2]7~8 工科系館 41X01 [5]7 工科系館 41X01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F910200-Z3",
+    "code": "F910200-Z3 [BME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-116",
+    "code": "F9-116 F920500 [BME2501]",
+    "name": "臨床醫療概論 先端手術研究轉譯醫學學分學程，醫療器材與系統學程",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍* 邱南津 趙曉秋 林啓禎 吳俊良 李政翰 王玠能 鄭雅敏 蘇維仁 阮俊能 戴世煌",
+    "enrollment": "31/19",
+    "locations": [
+      "5734",
+      "醫技醫工館"
+    ],
+    "period": "[5]8~9 醫技醫工館 5734",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-151",
+    "code": "F9-151 E244500 [EE5570]",
+    "name": "嵌入式系統 電三四與醫工系合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "陳敬",
+    "enrollment": "25/額滿",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92185",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-152",
+    "code": "F9-152 F940800 [BME3101]",
+    "name": "自動控制 工科系與醫工系合班",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "何明字",
+    "enrollment": "18/647",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[1]5~6 工科系館 41107 [3]7 工科系館 41107",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-154",
+    "code": "F9-154 F941310 [BME3691]",
+    "name": "專題討論（一）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍",
+    "enrollment": "43/37",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[5]2 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F9-155",
+    "code": "F9-155 F941210 [BME4693]",
+    "name": "專題研究（三）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "葉明龍* 林睿哲 李旺龍 王士豪 楊士德 張憲彰 張志涵 胡晉嘉 鄭國順 蘇芳慶 莊漢聲 黃執中 方佑華",
+    "enrollment": "15/25",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[4]N 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F9-161",
+    "code": "F9-161 F940500 [BME3501]",
+    "name": "分子生物學 醫療器材與系統學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F9",
+    "department": "醫工系 BME",
+    "teacher": "吳炳慶",
+    "enrollment": "10/240",
+    "locations": [
+      "5756",
+      "醫技醫工館"
+    ],
+    "period": "[1]1~3 醫技醫工館 5756",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  }
+]

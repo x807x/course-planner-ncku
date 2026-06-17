@@ -1,0 +1,107 @@
+[
+  {
+    "id": "A5-001",
+    "code": "A5-001 A512000 [CN1002]",
+    "name": "Python程式設計與資料庫實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "陳明皇",
+    "enrollment": "22/513",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[2]6~8 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-002",
+    "code": "A5-002 A512100 [CN1003]",
+    "name": "工業通訊與網路安全",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "陳明皇*",
+    "enrollment": "95/26",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[4]6~8 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-003",
+    "code": "A5-003 A520400 [CN1004]",
+    "name": "網路安全實務與社會實踐 限2年級以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "李南逸",
+    "enrollment": "38/152",
+    "locations": [
+      "資訊大樓",
+      "75201"
+    ],
+    "period": "[4]6~8 資訊大樓 75201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

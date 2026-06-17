@@ -1,0 +1,367 @@
+[
+  {
+    "id": "P1-001",
+    "code": "P1-001 P110110-1 [SYS7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "",
+    "enrollment": "0/50",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[5]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-002",
+    "code": "P1-002 P110130-1 [SYS7093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "",
+    "enrollment": "0/50",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[5]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-005",
+    "code": "P1-005 P160900 [SYS5011]",
+    "name": "有限元素法 英語授課  EMI課程(英文授課比例100%)；分組專業選修科目，請參考系網各年級之修課規定",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "戴名駿",
+    "enrollment": "0/355",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[3]6~8 系統系館 56441",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-018",
+    "code": "P1-018 P150300 [SYS7101]",
+    "name": "水中聲學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳柏賢",
+    "enrollment": "0/355",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[2]6~8 系統系館 56441",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-101",
+    "code": "P1-101 P110110-2 [SYS7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "",
+    "enrollment": "0/10",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[5]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-102",
+    "code": "P1-102 P110130-2 [SYS7093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "",
+    "enrollment": "50/10",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[5]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-104",
+    "code": "P1-104 P171500 [SYS7007]",
+    "name": "專業寫作與表達",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李建興",
+    "enrollment": "0/535",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[4]2~4 系統系館 56441",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-127",
+    "code": "P1-127 P181100 [SYS7107]",
+    "name": "高等影像分析與應用 英語授課  EMI課程(英文授課比例100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "江佩如",
+    "enrollment": "0/35",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[2]2~4 系統系館 56224",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-137",
+    "code": "P1-137 P110200 [SYS7501]",
+    "name": "船用流體動力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳炳承",
+    "enrollment": "50/35",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[3]2~4 系統系館 56441",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-139",
+    "code": "P1-139 P112900 [SYS7502]",
+    "name": "計算流體力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "黃正弘",
+    "enrollment": "0/355",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[4]6~8 系統系館 56441",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-154",
+    "code": "P1-154 P180900 [SYS7011]",
+    "name": "船艦設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "戴名駿",
+    "enrollment": "0/35",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[5]5~7 系統系館 56441",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  }
+]

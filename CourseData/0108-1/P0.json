@@ -1,0 +1,372 @@
+[
+  {
+    "id": "P0-001",
+    "code": "P0-001 P453310 [AA7114]",
+    "name": "燃燒理論（一） 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "趙怡欽",
+    "enrollment": "513/額滿",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[2]7~9 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-002",
+    "code": "P0-002 P450110-B [AA7012E]",
+    "name": "高等工程數學（一） 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "闕志哲",
+    "enrollment": "25/15",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[1]4 航太系館 5829 [2]3~4 航太系館 5829",
+    "slots": [
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-003",
+    "code": "P0-003 P453200 [AA7112]",
+    "name": "高等熱力學 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "鄭金祥",
+    "enrollment": "441/6",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[3]6 航太系館 5829 [4]5~6 航太系館 5829",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-004",
+    "code": "P0-004 P45A100 [AA7413]",
+    "name": "高等流體力學 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "葉思沂",
+    "enrollment": "32/8",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[3]N~5 航太系館 5830 [4]4 航太系館 5830",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-006",
+    "code": "P0-006 N564800 [MSE7021]",
+    "name": "固態離子元件 韌性智慧能源學分學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "方冠榮",
+    "enrollment": "8/132",
+    "locations": [
+      "4452",
+      "材料系館"
+    ],
+    "period": "[3]7 材料系館 4452 [5]3~4 材料系館 4452",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-008",
+    "code": "P0-008 P070110 [IBPE7001E]",
+    "name": "專題討論（一） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "詹劭勳* 呂宗行 鄭金祥 葉思沂 李劍 賴盈誌",
+    "enrollment": "113/97",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-009",
+    "code": "P0-009 P070130 [IBPE7003E]",
+    "name": "專題討論（三） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "詹劭勳* 呂宗行 鄭金祥 葉思沂 李劍 賴盈誌",
+    "enrollment": "12/198",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-010",
+    "code": "P0-010 P070150 [IBPE7005E]",
+    "name": "專題討論 英語授課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "詹劭勳* 呂宗行 鄭金祥 葉思沂 李劍 賴盈誌",
+    "enrollment": "4/106",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[5]6~7 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P0-011",
+    "code": "P0-011 P455500 [AA7212]",
+    "name": "結構有限單元法 英語授課  航太所與能源碩博學位學程合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "楊文彬",
+    "enrollment": "15/15",
+    "locations": [
+      "5827",
+      "航太系館"
+    ],
+    "period": "[3]3 航太系館 5827 [5]3~4 航太系館 5827",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-012",
+    "code": "P0-012 P454300 [AA7132]",
+    "name": "熱傳導學 英語授課 風能發電專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "張克勤",
+    "enrollment": "7/123",
+    "locations": [
+      "5828",
+      "航太系館"
+    ],
+    "period": "[1]4 航太系館 5828 [3]3~4 航太系館 5828",
+    "slots": [
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P0-013",
+    "code": "P0-013 N984600 [ES7422]",
+    "name": "風能工程 英語授課 風能發電專長微學程  工科所與能源碩博學位學程合班  限4年級以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P0",
+    "department": "能源碩博學程 IBPE",
+    "teacher": "吳毓庭",
+    "enrollment": "301/10",
+    "locations": [
+      "41122",
+      "工科系館"
+    ],
+    "period": "[1]2~4 工科系館 41122",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

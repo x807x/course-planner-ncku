@@ -1,0 +1,650 @@
+[
+  {
+    "id": "I910120-Z",
+    "code": "I910120-Z [DEN1001]",
+    "name": "基礎國文（二） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A119120-Zv",
+    "code": "A119120-Zv [FLC1001]",
+    "name": "外國語言（二） 依A1外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I910300-Z1",
+    "code": "I910300-Z1 [DEN1004]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I910300-Z2",
+    "code": "I910300-Z2 [DEN1004]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/7請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I910300-Z3",
+    "code": "I910300-Z3 [DEN1004]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I9-006",
+    "code": "I9-006 I615700 [PHYS1041]",
+    "name": "普通物理學 醫技、物治、牙醫合開",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "周忠憲",
+    "enrollment": "67/374",
+    "locations": [
+      "36173",
+      "理學教學大樓"
+    ],
+    "period": "[2]2 理學教學大樓 36173 [3]3~4 理學教學大樓 36173",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I911400-Z",
+    "code": "I911400-Z [DEN1003]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I9-009",
+    "code": "I9-009 I911600 [DEN1216]",
+    "name": "有機化學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "陳毓宏*",
+    "enrollment": "30/額滿",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[2]7~9 醫學院 203D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I9-010",
+    "code": "I9-010 I911700 [DEN1869]",
+    "name": "口腔學概論 業界專家參與",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "黃振勳* 吳昱學* 丁羣展 陳畊仲 袁國 許修銘 莊淑芬 黃則達 張禎容 陳永崇",
+    "enrollment": "40/10",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[3]2 醫學院 304D",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I9-011",
+    "code": "I9-011 I911800 [DEN2202]",
+    "name": "生物化學（含實驗）（二） 與醫學系二年級合班 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "賴明德* 歐弘毅 張文粲 謝嘉興 黃柏憲 余建泓 陳芃潔 劉秉彥",
+    "enrollment": "28/206",
+    "locations": [
+      "醫學院",
+      "醫技醫工館",
+      "第三講堂",
+      "5761"
+    ],
+    "period": "[2]3~4 醫學院 第三講堂 [5]3~4 醫學院 第三講堂 [3]5~8 醫技醫工館 5761",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I9-012",
+    "code": "I9-012 I911900 [DEN1203]",
+    "name": "生物學（二）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "蔣輯武* 邱文泰 陳炳焜 陳芃潔 王仰高",
+    "enrollment": "728/92",
+    "locations": [
+      "醫學院",
+      "第二講堂"
+    ],
+    "period": "[5]5~6 醫學院 第二講堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I9-015",
+    "code": "I9-015 I912200 [DEN2862]",
+    "name": "專題研究（二） 進入各實驗室實習",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "吳尚蓉* 陳一菁 鄭國順 李澤民 陳玉玲 謝達斌 莊淑芬 黃則達 陳永崇",
+    "enrollment": "4/16",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I9-016",
+    "code": "I9-016 I911500 [DEN1002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "丁羣展*",
+    "enrollment": "27/2",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I9-051",
+    "code": "I9-051 I531600 [MED3209]",
+    "name": "微生物學（含實驗） 限醫學系及牙醫學系二年級學生選修 (含實習)",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "陳振暐* 陳舜華* 劉清泉 王德華 楊燿榮 何宗憲 王世敏 陳柏齡 沈靜芬 余俊強 王淑鶯 萬書彣 鄧景浩",
+    "enrollment": "114/1",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]5~6 醫學院 第三講堂 [3]1 醫學院 第三講堂 [3]2~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I9-052",
+    "code": "I9-052 I531100 [MED3208]",
+    "name": "生理學（含實驗） 限醫學系及牙醫學系二年級學生選修 (含實習)",
+    "grade": 2,
+    "credits": 6,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "湯銘哲* 黃阿敏 蔡美玲 吳勝男 楊尚訓 顏賢章 游一龍",
+    "enrollment": "112/額滿",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[2]1~2 醫學院 第一講堂 [3]5 醫學院 第一講堂 [4]3~4 醫學院 第一講堂 [3]6~8 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I9-053",
+    "code": "I9-053 I532800 [MED3206]",
+    "name": "神經解剖學（含實驗） 限牙醫學系二年級學生選修 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "李榮順* 黃涵薇 孫苑庭 莊明宗 黃致遠 郭余民 黃步敏 吳佳慶 許鍾瑜",
+    "enrollment": "1717/2",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[1]1 醫學院 第四講堂 [1]2~3 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I910300-Z4",
+    "code": "I910300-Z4 [DEN1004]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請7參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I910300-Z5",
+    "code": "I910300-Z5 [DEN1004]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請7參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I9-056",
+    "code": "I9-056 I921500 [DEN2867]",
+    "name": "專題研究（四）",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "吳尚蓉* 莊淑芬 黃則達",
+    "enrollment": "76/14",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I920900-Z2",
+    "code": "I920900-Z2 [DEN1003]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I9-058",
+    "code": "I9-058 I921000 [DEN2867]",
+    "name": "牙體形態學 業界專家參與  上課教室:牙醫系一樓34101室",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "丁羣展* 陳畊仲 許修銘 沈領昌",
+    "enrollment": "26/1",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I9-059",
+    "code": "I9-059 I921100 [DEN2874]",
+    "name": "牙體形態學實驗 上課教室:牙醫系2樓34206室",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I9",
+    "department": "牙醫系 DEN",
+    "teacher": "丁羣展*",
+    "enrollment": "26/1",
+    "locations": [],
+    "period": "[2]5~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

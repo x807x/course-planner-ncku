@@ -1,0 +1,3455 @@
+[
+  {
+    "id": "A718320-ZF",
+    "code": "A718320-ZF [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課  第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-ZG",
+    "code": "A119120-ZG [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z1",
+    "code": "E100000-Z1 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考0備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110020-Z1",
+    "code": "E110020-Z1 [ME]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-006",
+    "code": "E1-006 E117920-1 [ME0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "王逸君",
+    "enrollment": "680/2",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-007",
+    "code": "E1-007 E115621-1 [MATH1022]",
+    "name": "微積分（二） 大班合班上課 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "陳若淳",
+    "enrollment": "117/5",
+    "locations": [
+      "A1304",
+      "A1306(資源後)",
+      "A1305",
+      "共同教室",
+      "A1303"
+    ],
+    "period": "[2]3~4 共同教室 A1306(資源後) [4]2 共同教室 A1306(資源後) [4]1 共同教室 A1303 [4]1 共同教室 A1304 [4]1 共同教室 A1305 [4]1 共同教室 A1306(資源後)",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-008",
+    "code": "E1-008 E115720-1 [PHYS1023]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "張景皓",
+    "enrollment": "68/1",
+    "locations": [
+      "機械系館",
+      "91303"
+    ],
+    "period": "[1]8 機械系館 91303 [4]5~6 機械系館 91303",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-009",
+    "code": "E1-009 E115820-1 [PHYS1024]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "張景皓",
+    "enrollment": "89/網路選課不開放",
+    "locations": [],
+    "period": "[1]5~7",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-010",
+    "code": "E1-010 E110620-1 [ME1401]",
+    "name": "工程圖學（二） 英語授課  英語授課  需先修以下科目:《工程圖學（一）/必修/1.0 學分/50 分以上》 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "洪嘉宏",
+    "enrollment": "054/11",
+    "locations": [
+      "91206",
+      "機械系館"
+    ],
+    "period": "[5]5 機械系館 91206 [5]6~8 機械系館 91206",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-011",
+    "code": "E1-011 E113000-1 [ME1100]",
+    "name": "計算機概論 英語授課  英語授課 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "張家源",
+    "enrollment": "608/4",
+    "locations": [
+      "機械系館",
+      "91602"
+    ],
+    "period": "[1]2~3 機械系館 91602 [3]2~4 機械系館 91602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-012",
+    "code": "E1-012 E116120-1 [ME1301]",
+    "name": "應用力學（二） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "洪嘉宏",
+    "enrollment": "60/012",
+    "locations": [
+      "機械系館",
+      "91303"
+    ],
+    "period": "[2]2 機械系館 91303 [5]3~4 機械系館 91303",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A718320-ZG",
+    "code": "A718320-ZG [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備0註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-ZH",
+    "code": "A119120-ZH [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z2",
+    "code": "E100000-Z2 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "00/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110020-Z2",
+    "code": "E110020-Z2 [ME]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參0考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-021",
+    "code": "E1-021 E117920-2 [ME0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "屈子正",
+    "enrollment": "60/10",
+    "locations": [],
+    "period": "[3]9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-022",
+    "code": "E1-022 E115720-2 [PHYS1023]",
+    "name": "普通物理學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "管培辰",
+    "enrollment": "118/額滿",
+    "locations": [
+      "36169",
+      "理學教學大樓"
+    ],
+    "period": "[1]8 理學教學大樓 36169 [4]5~6 理學教學大樓 36169",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-023",
+    "code": "E1-023 E115820-2 [PHYS1024]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "管培辰",
+    "enrollment": "93/網路選課不開放",
+    "locations": [],
+    "period": "[1]5~7",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-024",
+    "code": "E1-024 E110620-2 [ME1401]",
+    "name": "工程圖學（二） 需先修以下科目:《工程圖學（一）/必修/1.0 學分/50 分以上》 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳博雄",
+    "enrollment": "63/10",
+    "locations": [
+      "91203",
+      "機械系館",
+      "91602"
+    ],
+    "period": "[5]7 機械系館 91203 [5]8 機械系館 91203 [5]9~A 機械系館 91602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-025",
+    "code": "E1-025 E113000-2 [ME1100]",
+    "name": "計算機概論 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "方晶晶",
+    "enrollment": "59/02",
+    "locations": [
+      "機械系館",
+      "91602",
+      "91305"
+    ],
+    "period": "[1]2~3 機械系館 91305 [2]5~7 機械系館 91602",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-026",
+    "code": "E1-026 E116120-2 [ME1301]",
+    "name": "應用力學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "朱銘祥",
+    "enrollment": "71/2",
+    "locations": [
+      "機械系館",
+      "91305"
+    ],
+    "period": "[2]2 機械系館 91305 [5]3~4 機械系館 91305",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-030",
+    "code": "E1-030 E315621-2 [MATH1022]",
+    "name": "微積分（二） 化工丙、機械丙合班分組研討 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林育竹",
+    "enrollment": "1016/11",
+    "locations": [
+      "化工系館",
+      "93356",
+      "A1307(資源後)",
+      "共同教室",
+      "93252",
+      "93223"
+    ],
+    "period": "[2]3~4 共同教室 A1307(資源後) [4]2 共同教室 A1307(資源後) [4]1 化工系館 93252 [4]1 化工系館 93223 [4]1 化工系館 93356 [4]1 共同教室 A1307(資源後)",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "A718320-ZH",
+    "code": "A718320-ZH [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請0參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-ZI",
+    "code": "A119120-ZI [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z3",
+    "code": "E100000-Z3 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備0註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110020-Z3",
+    "code": "E110020-Z3 [ME]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-036",
+    "code": "E1-036 E117920-3 [ME0002]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "屈子正",
+    "enrollment": "61/09",
+    "locations": [],
+    "period": "[5]9",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-039",
+    "code": "E1-039 E110620-3 [ME1401]",
+    "name": "工程圖學（二） 需先修以下科目:《工程圖學（一）/必修/1.0 學分/50 分以上》 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林昌進",
+    "enrollment": "066/6",
+    "locations": [
+      "機械系館",
+      "91305"
+    ],
+    "period": "[2]6 機械系館 91305 [2]7~9 機械系館 91305",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-040",
+    "code": "E1-040 E113000-3 [ME1100]",
+    "name": "計算機概論 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "張晉愷",
+    "enrollment": "63/2",
+    "locations": [
+      "機械系館",
+      "91602"
+    ],
+    "period": "[5]3~4 機械系館 91602 [3]7~9 機械系館 91602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-041",
+    "code": "E1-041 E116120-3 [ME1301]",
+    "name": "應用力學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "陳鐵城",
+    "enrollment": "69/03",
+    "locations": [
+      "機械系館",
+      "91302"
+    ],
+    "period": "[1]2~3 機械系館 91302 [3]2 機械系館 91302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-045",
+    "code": "E1-045 E111900 [ME2151]",
+    "name": "從創意到創新 英語授課  密集授課，111年5月11日至5月27日星期三、星期五18:10~21:00，每週6小時，共3週，此課程將由普渡大學的Prof. Joyce，限普渡生修課。",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "鍾俊輝",
+    "enrollment": "25/洽系0辦",
+    "locations": [
+      "機械系館",
+      "91305上課時間",
+      "91305"
+    ],
+    "period": "[3]A~C 機械系館 91305 [5]A~C 機械系館 91305上課時間",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z4",
+    "code": "E100000-Z4 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110040-Z4",
+    "code": "E110040-Z4 [ME]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請0參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-054",
+    "code": "E1-054 E112120-1 [ME2101]",
+    "name": "工程數學（二） 英語授課  英語授課  需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "楊世宏",
+    "enrollment": "43/202",
+    "locations": [
+      "91206",
+      "機械系館"
+    ],
+    "period": "[2]2 機械系館 91206 [5]3~4 機械系館 91206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-055",
+    "code": "E1-055 E120100-1 [ME2600]",
+    "name": "電工學 英語授課  英語授課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "劉彥辰",
+    "enrollment": "046/19",
+    "locations": [
+      "機械系館",
+      "91205"
+    ],
+    "period": "[1]2~3 機械系館 91205",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-056",
+    "code": "E1-056 E120200-1 [ME2500]",
+    "name": "機械製造 需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林震銘",
+    "enrollment": "33/22",
+    "locations": [
+      "91206",
+      "機械系館"
+    ],
+    "period": "[2]6 機械系館 91206 [3]6~7 機械系館 91206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-057",
+    "code": "E1-057 E121220-1 [ME2200]",
+    "name": "熱力學（二） 英語授課 淨零燃燒專長微學程  英語授課  需先修以下科目:《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳明勳",
+    "enrollment": "44/201",
+    "locations": [
+      "91207",
+      "機械系館"
+    ],
+    "period": "[2]3~4 機械系館 91207 [4]2 機械系館 91207",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-058",
+    "code": "E1-058 E123020-1 [ME2402]",
+    "name": "機動學（二） 需先修以下科目:《機動學（一）/必修/2.0 學分/50 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林啓倫",
+    "enrollment": "26/309",
+    "locations": [
+      "機械系館",
+      "91204",
+      "91308"
+    ],
+    "period": "[3]3~4 機械系館 91308 [2]9 機械系館 91204",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-059",
+    "code": "E1-059 E124120-1A [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "何清政",
+    "enrollment": "19/1",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[1]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-060",
+    "code": "E1-060 E124120-1B [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林昌進",
+    "enrollment": "15/5",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[1]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-061",
+    "code": "E1-061 E134110-1A [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "屈子正",
+    "enrollment": "205/5",
+    "locations": [
+      "機械系館",
+      "91605"
+    ],
+    "period": "[5]6~8 機械系館 91605",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-062",
+    "code": "E1-062 E134110-1B [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "施士塵",
+    "enrollment": "20/10",
+    "locations": [
+      "機械系館",
+      "91Y04"
+    ],
+    "period": "[5]6~8 機械系館 91Y04",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZD",
+    "code": "E100000-ZD [ME]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選0課",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZE",
+    "code": "E100000-ZE [ME]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/依0照該類課程科目序號選課",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z5",
+    "code": "E100000-Z5 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備0註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110040-Z5",
+    "code": "E110040-Z5 [ME]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備0註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-069",
+    "code": "E1-069 E112120-2 [ME2101]",
+    "name": "工程數學（二） 需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "王逸君",
+    "enrollment": "61/011",
+    "locations": [
+      "機械系館",
+      "91305"
+    ],
+    "period": "[2]3~4 機械系館 91305 [4]2 機械系館 91305",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-070",
+    "code": "E1-070 E120100-2 [ME2600]",
+    "name": "電工學",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "施士塵",
+    "enrollment": "701/1",
+    "locations": [
+      "91203",
+      "機械系館"
+    ],
+    "period": "[3]7~8 機械系館 91203",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-071",
+    "code": "E1-071 E120200-2 [ME2500]",
+    "name": "機械製造 業界專家參與  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "施士塵",
+    "enrollment": "630/2",
+    "locations": [
+      "91207",
+      "機械系館"
+    ],
+    "period": "[1]5~6 機械系館 91207 [3]6 機械系館 91207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-072",
+    "code": "E1-072 E121220-2 [ME2200]",
+    "name": "熱力學（二） 淨零燃燒專長微學程  需先修以下科目:《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "溫昌達",
+    "enrollment": "530/12",
+    "locations": [
+      "機械系館",
+      "91204"
+    ],
+    "period": "[2]2 機械系館 91204 [5]3~4 機械系館 91204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-073",
+    "code": "E1-073 E123020-2 [ME2402]",
+    "name": "機動學（二） 需先修以下科目:《機動學（一）/必修/2.0 學分/50 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "藍兆杰",
+    "enrollment": "63/9",
+    "locations": [
+      "91203",
+      "91207",
+      "機械系館"
+    ],
+    "period": "[1]7~8 機械系館 91203 [2]9 機械系館 91207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-074",
+    "code": "E1-074 E124120-2A [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "何清政",
+    "enrollment": "027/額滿",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[4]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-075",
+    "code": "E1-075 E124120-2B [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "劉建聖",
+    "enrollment": "205/額滿",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[4]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-076",
+    "code": "E1-076 E134110-2A [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "羅裕龍",
+    "enrollment": "31/0額滿",
+    "locations": [
+      "機械系館",
+      "91605"
+    ],
+    "period": "[1]1~3 機械系館 91605",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-077",
+    "code": "E1-077 E134110-2B [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "蘇演良",
+    "enrollment": "21/9",
+    "locations": [
+      "機械系館",
+      "91Y04"
+    ],
+    "period": "[1]1~3 機械系館 91Y04",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z6",
+    "code": "E100000-Z6 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/0請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E110040-Z6",
+    "code": "E110040-Z6 [ME]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請0參考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-084",
+    "code": "E1-084 E112120-3 [ME2101]",
+    "name": "工程數學（二） 需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "何青原",
+    "enrollment": "037/35",
+    "locations": [
+      "機械系館",
+      "91302"
+    ],
+    "period": "[2]2 機械系館 91302 [5]3~4 機械系館 91302",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-085",
+    "code": "E1-085 E120100-3 [ME2600]",
+    "name": "電工學",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "田思齊",
+    "enrollment": "050/10",
+    "locations": [
+      "91203",
+      "機械系館"
+    ],
+    "period": "[1]2~3 機械系館 91203",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-086",
+    "code": "E1-086 E120200-3 [ME2500]",
+    "name": "機械製造 需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "王俊志",
+    "enrollment": "38/17",
+    "locations": [
+      "機械系館",
+      "91302"
+    ],
+    "period": "[1]7 機械系館 91302 [4]7~8 機械系館 91302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-087",
+    "code": "E1-087 E121220-3 [ME2200]",
+    "name": "熱力學（二） 淨零燃燒專長微學程  需先修以下科目:《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林大惠",
+    "enrollment": "71/1",
+    "locations": [
+      "機械系館",
+      "91302"
+    ],
+    "period": "[2]3~4 機械系館 91302 [4]2 機械系館 91302",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-088",
+    "code": "E1-088 E123020-3 [ME2402]",
+    "name": "機動學（二） 需先修以下科目:《機動學（一）/必修/2.0 學分/50 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "藍兆杰",
+    "enrollment": "67/5",
+    "locations": [
+      "機械系館",
+      "91205",
+      "91302"
+    ],
+    "period": "[4]5~6 機械系館 91302 [2]9 機械系館 91205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-089",
+    "code": "E1-089 E124120-3A [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "鍾俊輝",
+    "enrollment": "207/額滿",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[2]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-090",
+    "code": "E1-090 E124120-3B [ME2571]",
+    "name": "工場實習（二） 需先修以下科目:《工場實習（一）/必修/1.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "黃聖杰",
+    "enrollment": "204/1",
+    "locations": [
+      "機械系館",
+      "91X08"
+    ],
+    "period": "[2]6~8 機械系館 91X08",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-091",
+    "code": "E1-091 E134110-3A [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "李永春",
+    "enrollment": "028/2",
+    "locations": [
+      "機械系館",
+      "91605"
+    ],
+    "period": "[3]6~8 機械系館 91605",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-092",
+    "code": "E1-092 E134110-3B [ME2170]",
+    "name": "機械工程實驗（一） 材料:91Y04固力:91605  需先修以下科目:《機械材料/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "蘇演良",
+    "enrollment": "120/18",
+    "locations": [
+      "機械系館",
+      "91Y04"
+    ],
+    "period": "[3]6~8 機械系館 91Y04",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-095",
+    "code": "E1-095 E222400 [EE2450]",
+    "name": "傅立葉轉換在類比與數位通訊的應用 英語授課  密集授課，111年5月16日至111年6月4日晚間上課，每週6小時，共3週，此課程將由普渡大學的Prof. Chih-Chun Wang講授，僅開放普渡生修課",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "賴癸江",
+    "enrollment": "19/11",
+    "locations": [
+      "92425",
+      "未定",
+      "電機系館"
+    ],
+    "period": "未定 電機系館 92425",
+    "slots": []
+  },
+  {
+    "id": "E1-096",
+    "code": "E1-096 E120500 [ME2102]",
+    "name": "程式設計 需先修以下科目:《計算機概論/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "方晶晶",
+    "enrollment": "53/19",
+    "locations": [
+      "機械系館",
+      "91305"
+    ],
+    "period": "[2]1 機械系館 91305 [4]3~4 機械系館 91305",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-097",
+    "code": "E1-097 E121520-1 [ME2301]",
+    "name": "材料力學（二） 第一階段不受理選課(第二階段開放選課)  需先修以下科目:《材料力學（一）/必修/3.0 學分/50 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "褚晴暉",
+    "enrollment": "50/20",
+    "locations": [
+      "機械系館",
+      "91302"
+    ],
+    "period": "[2]1 機械系館 91302 [4]3~4 機械系館 91302",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZF",
+    "code": "E100000-ZF [ME]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z7",
+    "code": "E100000-Z7 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-102",
+    "code": "E1-102 E133700-1 [ME3173]",
+    "name": "機械專題實作 91307 教室(振樺創新自造基地)。建議修過本系工廠實習(一)、(二) (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "劉至行",
+    "enrollment": "420/12",
+    "locations": [
+      "機械系館",
+      "91205",
+      "91307"
+    ],
+    "period": "[1]5 機械系館 91205 [4]1~4 機械系館 91307",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-103",
+    "code": "E1-103 E134130-1A [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "溫昌達",
+    "enrollment": "24/額滿",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[3]6~8 機械系館 91X02",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-104",
+    "code": "E1-104 E134130-1B [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳明勳",
+    "enrollment": "5/019",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[4]6~8 機械系館 91X02",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-105",
+    "code": "E1-105 E136800-1 [ME3201]",
+    "name": "熱傳學 英語授課  英語授課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "曾建洲",
+    "enrollment": "53/12",
+    "locations": [
+      "機械系館",
+      "91205"
+    ],
+    "period": "[2]2 機械系館 91205 [5]3~4 機械系館 91205",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z8",
+    "code": "E100000-Z8 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-112",
+    "code": "E1-112 E133700-2 [ME3173]",
+    "name": "機械專題實作 91307 教室(振樺創新自造基地)。建議修過本系工廠實習(一)、(二) (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "黃才烱",
+    "enrollment": "45/5",
+    "locations": [
+      "91206",
+      "機械系館",
+      "91307"
+    ],
+    "period": "[1]5 機械系館 91206 [2]1~4 機械系館 91307",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-113",
+    "code": "E1-113 E134130-2A [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳明勳",
+    "enrollment": "24/額0滿",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[2]7~9 機械系館 91X02",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-114",
+    "code": "E1-114 E134130-2B [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "溫昌達",
+    "enrollment": "22/2",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[4]2~4 機械系館 91X02",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-115",
+    "code": "E1-115 E136800-2 [ME3201]",
+    "name": "熱傳學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "黃聖杰",
+    "enrollment": "57/8",
+    "locations": [
+      "91207",
+      "機械系館"
+    ],
+    "period": "[1]2~3 機械系館 91207 [3]2 機械系館 91207",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-Z9",
+    "code": "E100000-Z9 [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-122",
+    "code": "E1-122 E133700-3 [ME3173]",
+    "name": "機械專題實作 91307 教室(振樺創新自造基地)。建議修過本系工廠實習(一)和(二) (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "鍾俊輝",
+    "enrollment": "57/額0滿",
+    "locations": [
+      "機械系館",
+      "91307",
+      "91302"
+    ],
+    "period": "[1]5 機械系館 91302 [3]1~4 機械系館 91307",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-123",
+    "code": "E1-123 E134130-3A [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳明勳",
+    "enrollment": "24/額0滿",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[1]7~9 機械系館 91X02",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-124",
+    "code": "E1-124 E134130-3B [ME3270]",
+    "name": "機械工程實驗（三） 實習91X02 講解教室另定  需先修以下科目:《流體力學/必修/4.0 學分/50 分以上》《熱力學（一）/必修/2.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "溫昌達",
+    "enrollment": "025/額滿",
+    "locations": [
+      "機械系館",
+      "91X02"
+    ],
+    "period": "[5]7~9 機械系館 91X02",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-125",
+    "code": "E1-125 E136800-3 [ME3201]",
+    "name": "熱傳學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "何清政",
+    "enrollment": "37/35",
+    "locations": [
+      "91203",
+      "機械系館"
+    ],
+    "period": "[2]2 機械系館 91203 [5]3~4 機械系館 91203",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-133",
+    "code": "E1-133 E126400 [ME3300]",
+    "name": "機械振動學 太空科學與工程學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "陳國聲",
+    "enrollment": "026/39",
+    "locations": [
+      "機械系館",
+      "91204"
+    ],
+    "period": "[2]5~6 機械系館 91204 [5]8 機械系館 91204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-135",
+    "code": "E1-135 E130800 [ME3103]",
+    "name": "有限元素法概論 太空科學與工程學分學程  電腦課教室在91602",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "陳重德",
+    "enrollment": "52/20",
+    "locations": [
+      "91203",
+      "機械系館"
+    ],
+    "period": "[4]6~8 機械系館 91203",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-136",
+    "code": "E1-136 E122000 [ME3100]",
+    "name": "鋼鐵材料 第一階段不受理選課，第二階段開放選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "李驊登",
+    "enrollment": "29/101",
+    "locations": [
+      "象賢講堂91101",
+      "機械系館"
+    ],
+    "period": "[3]2~4 機械系館 象賢講堂91101",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-137",
+    "code": "E1-137 E134000 [ME3121]",
+    "name": "工程德文 第一階段不受理選課、第二階段開放選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "李驊登",
+    "enrollment": "490/24",
+    "locations": [
+      "象賢講堂91101",
+      "機械系館"
+    ],
+    "period": "[2]6~8 機械系館 象賢講堂91101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-138",
+    "code": "E1-138 E134400 [ME3129]",
+    "name": "人工智慧深度學習概論與應用 業界專家參與  限3年級以上選課；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林啓倫* 江維鈞",
+    "enrollment": "40/8",
+    "locations": [
+      "91202",
+      "機械系館"
+    ],
+    "period": "[1]6~8 機械系館 91202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-140",
+    "code": "E1-140 E142900 [ME3113]",
+    "name": "伺服控制 第8節用91601電腦教室  需先修以下科目:《材料力學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "蔡明祺",
+    "enrollment": "84/6",
+    "locations": [
+      "三星講堂91105",
+      "機械系館"
+    ],
+    "period": "[4]7~9 機械系館 三星講堂91105",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZA",
+    "code": "E100000-ZA [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZB",
+    "code": "E100000-ZB [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E100000-ZC",
+    "code": "E100000-ZC [ME]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "",
+    "enrollment": "00/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-160",
+    "code": "E1-160 E140600 [ME4102]",
+    "name": "汽車學 第一階段不受理選課，第二階段開放選課  第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "梁燕輝",
+    "enrollment": "400/額滿",
+    "locations": [
+      "機械系館",
+      "91205"
+    ],
+    "period": "[5]6~8 機械系館 91205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-170",
+    "code": "E1-170 N164000 [ME5118]",
+    "name": "微機電系統磨潤研究 大碩合開(博士班學生可修)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "林仁輝",
+    "enrollment": "24/016",
+    "locations": [
+      "機械系館",
+      "91103"
+    ],
+    "period": "[2]2~4 機械系館 91103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-171",
+    "code": "E1-171 N15B700 [ME5121]",
+    "name": "張量分析及工程應用 大碩合開",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "王逸君",
+    "enrollment": "14/51",
+    "locations": [
+      "機械系館",
+      "91308"
+    ],
+    "period": "[1]6~7 機械系館 91308 [4]6 機械系館 91308",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-172",
+    "code": "E1-172 N162000 [ME5301]",
+    "name": "實驗應力分析 (含實習)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "陳元方",
+    "enrollment": "4/14",
+    "locations": [
+      "機械系館",
+      "91804"
+    ],
+    "period": "[4]5~6 機械系館 91804 [4]7 機械系館 91804 [5]4 機械系館 91804 [5]5 機械系館 91804",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E1-173",
+    "code": "E1-173 N169700 [ME5128]",
+    "name": "電磁學導論 限4年級以上選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "張晉愷",
+    "enrollment": "34/16",
+    "locations": [
+      "91203",
+      "機械系館"
+    ],
+    "period": "[3]4 機械系館 91203 [4]3~4 機械系館 91203",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-174",
+    "code": "E1-174 N16A100 [ME5131]",
+    "name": "機械系統運動模擬與分析 第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "吳式欽",
+    "enrollment": "47/18",
+    "locations": [
+      "91206",
+      "機械系館"
+    ],
+    "period": "[1]2~3 機械系館 91206 [4]2 機械系館 91206",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-176",
+    "code": "E1-176 N168200 [ME5109]",
+    "name": "機器視覺 限4年級以上選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "蔡明俊",
+    "enrollment": "9/301",
+    "locations": [
+      "機械系館",
+      "91102"
+    ],
+    "period": "[5]6~8 機械系館 91102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-177",
+    "code": "E1-177 N169600 [ME5125]",
+    "name": "物聯網與大數據於智慧製造應用",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "鍾俊輝",
+    "enrollment": "56/34",
+    "locations": [
+      "象賢講堂91101",
+      "機械系館"
+    ],
+    "period": "[4]6~8 機械系館 象賢講堂91101",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E1-200",
+    "code": "E1-200 E144220 [ME4191]",
+    "name": "論文（二） 請自行找教授簽\"指導教授確認單\"(系網下載)，於當學期第三階段選課前繳至系辦。",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E1",
+    "department": "機械系 ME",
+    "teacher": "劉建聖* 陳國聲 劉彥辰 方晶晶",
+    "enrollment": "09/41",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

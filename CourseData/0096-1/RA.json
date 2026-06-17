@@ -1,0 +1,708 @@
+[
+  {
+    "id": "RA-001",
+    "code": "RA-001 RA62000 [IMBA7313E]",
+    "name": "生產與作業管理 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "林清河",
+    "enrollment": "306/42",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[1]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-101",
+    "code": "RA-101 RA70310 [IMBA9091E]",
+    "name": "專題討論（一） 英語授課  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "吳萬益",
+    "enrollment": "25/47",
+    "locations": [
+      "管理學院",
+      "62201"
+    ],
+    "period": "[2]N~5 管理學院 62201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "RA-102",
+    "code": "RA-102 RA70700 [IMBA7400E]",
+    "name": "企業決策方法 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "潘浙楠",
+    "enrollment": "57/15",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[2]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-103",
+    "code": "RA-103 RA51600 [IMBA7101E]",
+    "name": "消費者行為與行銷策略 英語授課  限本系；限博一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "吳萬益",
+    "enrollment": "7/65",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[4]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-301",
+    "code": "RA-301 RA60500 [IMBA7401E]",
+    "name": "企業研究方法 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "吳萬益",
+    "enrollment": "656/7",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[7]2~4 管理學院 62401",
+    "slots": [
+      {
+        "day": 7,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-302",
+    "code": "RA-302 RA60700-1 [IMBA7109E]",
+    "name": "行銷管理 英語授課  IIMBA與AMBA合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "吳萬益 賴孟寬",
+    "enrollment": "59/613",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[6]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-303",
+    "code": "RA-303 RA50100-1 [IMBA7200E]",
+    "name": "財務管理 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "張紹基",
+    "enrollment": "643/額滿",
+    "locations": [
+      "管理學院",
+      "62201"
+    ],
+    "period": "[4]A~C 管理學院 62201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-305",
+    "code": "RA-305 RA70700 [IMBA7400E]",
+    "name": "企業決策方法 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "潘浙楠",
+    "enrollment": "57/15",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[2]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-306",
+    "code": "RA-306 RA62200 [IMBA7314E]",
+    "name": "管理資訊系統 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "陳正忠",
+    "enrollment": "52/260",
+    "locations": [
+      "63401",
+      "會計系館"
+    ],
+    "period": "[3]A~C 會計系館 63401",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-307",
+    "code": "RA-307 RA62600 [IMBA6503E]",
+    "name": "多國籍企業運作與管理 英語授課  AMBA與IMBA合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "沈英銓",
+    "enrollment": "806/額滿",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[5]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-310",
+    "code": "RA-310 RA50200 [IMBA6690E]",
+    "name": "企業經營專討 英語授課  修畢30學分以上，英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "林清河 陳正忠",
+    "enrollment": "72/額滿",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[6]A~D 管理學院 62401",
+    "slots": []
+  },
+  {
+    "id": "RA-317",
+    "code": "RA-317 RA50400 [IMBA7502E]",
+    "name": "專題討論 英語授課  限修畢四十五學分以上選修  限本系",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "潘浙楠",
+    "enrollment": "24/48",
+    "locations": [],
+    "period": "[6]A~C",
+    "slots": [
+      {
+        "day": 6,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-321",
+    "code": "RA-321 RA60700-2 [IMBA7109E]",
+    "name": "行銷管理 英語授課  台北上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "邱冠燿",
+    "enrollment": "4/626",
+    "locations": [],
+    "period": "[3]A~C",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-322",
+    "code": "RA-322 RA61300-2 [IMBA6101E]",
+    "name": "組織行為 英語授課  台北上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "吳萬益 徐木蘭",
+    "enrollment": "116/19",
+    "locations": [],
+    "period": "[2]A~C",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-323",
+    "code": "RA-323 RA50100-2 [IMBA7200E]",
+    "name": "財務管理 英語授課  台北上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "張紹基",
+    "enrollment": "23/67",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-324",
+    "code": "RA-324 RA51200 [IMBA7505E]",
+    "name": "服務與人力資源 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "王慕容",
+    "enrollment": "28/612",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[6]2~4 管理學院 62X01",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-325",
+    "code": "RA-325 RA51500 [IMBA]",
+    "name": "國際行銷專題 英語授課  台北上課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "王義特",
+    "enrollment": "126/18",
+    "locations": [],
+    "period": "[4]A~C",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-326",
+    "code": "RA-326 RA62400 [IMBA7402E]",
+    "name": "質性研究方法 英語授課  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "尼克利",
+    "enrollment": "54/618",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[7]A~C 管理學院 62401",
+    "slots": [
+      {
+        "day": 7,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RA-327",
+    "code": "RA-327 RA61100-Y [IMBA7701E]",
+    "name": "統計方法 英語授課  暑假上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "64/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-328",
+    "code": "RA-328 RA61000-Y [IMBA7700E]",
+    "name": "管理會計 英語授課  暑假上課，地點台南",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "73/不6限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-329",
+    "code": "RA-329 RA61100-Y1 [IMBA7701E]",
+    "name": "統計方法 英語授課  暑假上課，地點台北",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "9/不6限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-330",
+    "code": "RA-330 RA51600-Y [IMBA7101E]",
+    "name": "消費者行為與行銷策略 英語授課  暑假上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "44/不6限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-331",
+    "code": "RA-331 RA61200-Y [IMBA7702E]",
+    "name": "管理經濟 英語授課  暑假上課，地點台北",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "69/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-332",
+    "code": "RA-332 RA61200-Y1 [IMBA7702E]",
+    "name": "管理經濟 英語授課  暑假上課，地點台南",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "62/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RA-333",
+    "code": "RA-333 RA61000-Y1 [IMBA7700E]",
+    "name": "管理會計 英語授課  暑假上課，地點台北",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RA",
+    "department": "國經所 IMBA",
+    "teacher": "",
+    "enrollment": "614/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

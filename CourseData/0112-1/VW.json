@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "VW-003",
+    "code": "VW-003 N25F800 [EE5841]",
+    "name": "機器學習與生物資訊學 人工智慧學分學程  大四碩士合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "張天豪",
+    "enrollment": "25/15",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-004",
+    "code": "VW-004 N25J600 [EE8801]",
+    "name": "電子陶瓷",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "李文熙",
+    "enrollment": "22/848",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-006",
+    "code": "VW-006 Q170400 [IME7132]",
+    "name": "半導體雷射概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "李文熙* 林蔚",
+    "enrollment": "9/861",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-007",
+    "code": "VW-007 N26F600 [EE8013]",
+    "name": "晶體結構與材料分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "施權峰",
+    "enrollment": "16/14",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[5]5~7 電機系館 92B28",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-008",
+    "code": "VW-008 N263900 [EE7213]",
+    "name": "高等模糊控制",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "李祖聖",
+    "enrollment": "18/582",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-009",
+    "code": "VW-009 N26G300 [EE8712]",
+    "name": "系統生物學概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "吳謂勝",
+    "enrollment": "9/21",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[1]5~7 電機系館 92820",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-010",
+    "code": "VW-010 N26H400 [EE7940]",
+    "name": "計算系統生物學程式語言",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "吳謂勝",
+    "enrollment": "12/188",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[5]5~7 電機系館 92820",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-011",
+    "code": "VW-011 N278700 [EE8242]",
+    "name": "類神經網路簡介",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "王振興",
+    "enrollment": "91/8",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[3]2~4 電機系館 92331",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-012",
+    "code": "VW-012 N25J000 [EE7202]",
+    "name": "多變數控制",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "蔡聖鴻",
+    "enrollment": "15/15",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[2]6~8 電機系館 92820",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-013",
+    "code": "VW-013 N274900 [EE8225]",
+    "name": "視覺伺服系統",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "鄭銘揚",
+    "enrollment": "19/11",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[4]2~4 電機系館 92820",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-014",
+    "code": "VW-014 N277900 [EE8235]",
+    "name": "運動控制系統導論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "鄭銘揚",
+    "enrollment": "38/3",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92277",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-015",
+    "code": "VW-015 N27A300 [EE7298]",
+    "name": "人工智慧於數位訊號分析之應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "江維鈞",
+    "enrollment": "71/9",
+    "locations": [
+      "92425",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92425",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-016",
+    "code": "VW-016 N26C000 [EE8322]",
+    "name": "風力發電系統專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "王醴",
+    "enrollment": "7/23",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[4]6~8 電機系館 92720",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-017",
+    "code": "VW-017 N25J800 [EE8314]",
+    "name": "電機械固態控制 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "謝旻甫",
+    "enrollment": "27/23",
+    "locations": [
+      "電機系館",
+      "92417"
+    ],
+    "period": "[4]7~9 電機系館 92417",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-018",
+    "code": "VW-018 N25J900 [EE8332]",
+    "name": "保護電驛 碩專碩博合班，週末上課，專班優先選課。限選30人。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "蕭純育",
+    "enrollment": "49/21",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[6]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-019",
+    "code": "VW-019 N26D000 [EE8341]",
+    "name": "彈性交流輸電系統 碩專碩博合班，週末上課，專班優先選課。限選30人。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "張忠良",
+    "enrollment": "486/24",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[6]6~8 電機系館 92185",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-020",
+    "code": "VW-020 N26H300 [EE7930]",
+    "name": "獵能電子設計導論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "黃尊禧",
+    "enrollment": "98/61",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-021",
+    "code": "VW-021 N25K100 [EE7614]",
+    "name": "正規驗證之理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "陳盈如",
+    "enrollment": "33/37",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92177",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-022",
+    "code": "VW-022 N25K200 [EE7616]",
+    "name": "奈米積體電路實體設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "林家民",
+    "enrollment": "128/58",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 92283 [4]2 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-026",
+    "code": "VW-026 N276700 [EE8733]",
+    "name": "非破壞性檢測 碩專碩博合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "戴政祺",
+    "enrollment": "870/7",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[3]B~D 電機系館 92277",
+    "slots": []
+  },
+  {
+    "id": "VW-027",
+    "code": "VW-027 N278900 [EE8742]",
+    "name": "電子電路IC設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "魏嘉玲",
+    "enrollment": "43/27",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 92383 [2]8 電機系館 92383",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-028",
+    "code": "VW-028 N278900 [EE8742]",
+    "name": "電子電路IC設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "魏嘉玲",
+    "enrollment": "438/27",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 92383 [2]8 電機系館 92383",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-029",
+    "code": "VW-029 N25I600 [EE8559]",
+    "name": "高等計算機演算理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "戴顯權",
+    "enrollment": "22/11",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-030",
+    "code": "VW-030 N27A700 [EE7510]",
+    "name": "機器學習",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "詹寶珠",
+    "enrollment": "39/31",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92185",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-031",
+    "code": "VW-031 N264800 [EE7541]",
+    "name": "網際網路架構",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "謝錫堃",
+    "enrollment": "43/27",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-032",
+    "code": "VW-032 N25K800 [EE7502]",
+    "name": "模擬與統計計算",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "蘇淑茵",
+    "enrollment": "384/36",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 92185",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-033",
+    "code": "VW-033 N27A500 [EE8536]",
+    "name": "高等軟體工程 先修：軟體工程專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "焦惠津",
+    "enrollment": "10/280",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[1]2~4 電機系館 92523",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-034",
+    "code": "VW-034 N27B100 [EE7509]",
+    "name": "人工智慧模型設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "蔡家齊",
+    "enrollment": "55/15",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-035",
+    "code": "VW-035 Q356400 [CCE5403]",
+    "name": "鎖相迴路設計與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "鄭光偉",
+    "enrollment": "59/188",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92283",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-039",
+    "code": "VW-039 N26D000 [EE8341]",
+    "name": "彈性交流輸電系統 碩專碩博合班，週末上課，專班優先選課。限選30人。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "張忠良",
+    "enrollment": "46/824",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[6]6~8 電機系館 92185",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-041",
+    "code": "VW-041 Q154600 [IME7119]",
+    "name": "高速元件 限研究生選課  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "劉文超",
+    "enrollment": "827/3",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[4]2~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-042",
+    "code": "VW-042 Q154700 [IME7120]",
+    "name": "半導體元件物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "王水進",
+    "enrollment": "882/17",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[3]6~8 電機系館 92225",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-043",
+    "code": "VW-043 Q154000 [IME7119]",
+    "name": "半導體光學 限選15人",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "蔡宗祐",
+    "enrollment": "6/89",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-044",
+    "code": "VW-044 Q161800 [IME7101]",
+    "name": "半導體記憶體元件與設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "盧達生* 王超鴻",
+    "enrollment": "1833/43",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[1]6~8 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-045",
+    "code": "VW-045 Q153700 [IME7114]",
+    "name": "積體光學 英語授課 半導體專長微學程  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "莊文魁",
+    "enrollment": "184/16",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-046",
+    "code": "VW-046 Q154400 [IME7118]",
+    "name": "ＵＬＳＩ元件物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "陳志方",
+    "enrollment": "78/1",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[3]4 電機系館 92371 [4]3~4 電機系館 92371",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-047",
+    "code": "VW-047 Q750500 [NICE8110]",
+    "name": "半導體感測器實務技術 業界專家參與  因參訪人數限制，限選30人",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "曾永華",
+    "enrollment": "30/5",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-049",
+    "code": "VW-049 Q154800 [IME8156]",
+    "name": "微波半導體元件與積體電路專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "王永和* 張全生",
+    "enrollment": "26/4",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[5]1~3 電機系館 92C01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VW-050",
+    "code": "VW-050 Q170400 [IME7132]",
+    "name": "半導體雷射概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VW",
+    "department": "光電材料產碩",
+    "teacher": "李文熙* 林蔚",
+    "enrollment": "9/681",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

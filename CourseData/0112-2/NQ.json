@@ -1,0 +1,207 @@
+[
+  {
+    "id": "NQ-001",
+    "code": "NQ-001 NQ50120 [CSI7092]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "12/不限",
+    "locations": [
+      "92377",
+      "電機系館"
+    ],
+    "period": "[4]5~6 電機系館 92377",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NQ-201",
+    "code": "NQ-201 NQ50400 [CSI7903]",
+    "name": "計算機網路管理與安全",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡邦維",
+    "enrollment": "282/2",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92523",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-202",
+    "code": "NQ-202 NQ50600 [CSI7902]",
+    "name": "資訊網路與安全",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "29/6",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-203",
+    "code": "NQ-203 N268900 [EE7424]",
+    "name": "密碼學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "李南逸",
+    "enrollment": "47/23",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[1]6~8 電機系館 92171",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-261",
+    "code": "NQ-261 NQ50500 [CSI8901]",
+    "name": "軟體定義網路與安全專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "蔡邦維",
+    "enrollment": "5/25",
+    "locations": [
+      "92523",
+      "電機系館"
+    ],
+    "period": "[4]2~4 電機系館 92523",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NQ-262",
+    "code": "NQ-262 NQ50700 [CSI8902]",
+    "name": "網宇實體系統安全專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "NQ",
+    "department": "資安碩士學程 CSI",
+    "teacher": "劉奕賢",
+    "enrollment": "11/19",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

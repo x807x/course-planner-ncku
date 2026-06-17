@@ -1,0 +1,947 @@
+[
+  {
+    "id": "C6-001",
+    "code": "C6-001 C610720 [BBS1007]",
+    "name": "普通生物學（二） 英語授課  EMI課程(英文授課比例：100%)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "呂曉沛* 林鼎晏 盧福翊 王之彥",
+    "enrollment": "66/53",
+    "locations": [
+      "89716",
+      "生科院大樓"
+    ],
+    "period": "[1]5~6 生科院大樓 89716 [4]5~6 生科院大樓 89716",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-002",
+    "code": "C6-002 C610820 [BBS1008]",
+    "name": "普通生物學實驗（二） 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "呂曉沛* 林鼎晏 盧福翊 王之彥",
+    "enrollment": "555/額滿",
+    "locations": [
+      "生科院大樓",
+      "89615"
+    ],
+    "period": "[3]5~7 生科院大樓 89615",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C6-007",
+    "code": "C6-007 C611800 [BBS1009]",
+    "name": "生物科技概論 醫療器材與系統學程 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "羅玉枝* 洪健睿 陳逸民 林士鳴",
+    "enrollment": "665/額滿",
+    "locations": [
+      "89716",
+      "生科院大樓"
+    ],
+    "period": "[1]7~8 生科院大樓 89716",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A718320-ZA",
+    "code": "A718320-ZA [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/請參考5備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-ZB",
+    "code": "A119120-ZB [FLC1001]",
+    "name": "外國語言（二） 核心通識，依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "05/請參考備註",
+    "locations": [],
+    "period": "[4]3~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C610200-Z",
+    "code": "C610200-Z [BBS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C610520-Z",
+    "code": "C610520-Z [OPE]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/請5參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-052",
+    "code": "C6-052 C620120 [BBS2004]",
+    "name": "生物化學（二） 醫療器材與系統學程 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "張清俊* 陳逸民 羅玉枝 林士鳴",
+    "enrollment": "62/1",
+    "locations": [
+      "生科院大樓",
+      "89816"
+    ],
+    "period": "[3]7~8 生科院大樓 89816",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-053",
+    "code": "C6-053 C620320 [BBS2006]",
+    "name": "生物技術核心實驗（二） 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "林士鳴* 陳逸民 王涵青 林裕萍",
+    "enrollment": "51/1",
+    "locations": [
+      "生科院大樓",
+      "89515"
+    ],
+    "period": "[5]2~4 生科院大樓 89515",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C6-054",
+    "code": "C6-054 C620400 [BBS2005]",
+    "name": "細胞生物學 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "許觀達* 張純純 洪建中 林鼎晏 洪良宜 郭瑋君",
+    "enrollment": "57/額滿",
+    "locations": [
+      "生科院大樓",
+      "89816"
+    ],
+    "period": "[3]2 生科院大樓 89816 [4]7~8 生科院大樓 89816",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-055",
+    "code": "C6-055 C621000 [BBS2018]",
+    "name": "農業及海洋生技與產業概論 業界專家參與",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "林士鳴* 陳宗嶽 張清俊 洪健睿 陳逸民 王涵青 盧福翊 郭瑋君 呂曉沛 黃尹則",
+    "enrollment": "56/1",
+    "locations": [
+      "生科院大樓",
+      "89816"
+    ],
+    "period": "[2]5~6 生科院大樓 89816",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-056",
+    "code": "C6-056 C621100 [BBS2016]",
+    "name": "基因體學與生物資料分析（一） 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "劉宗霖*",
+    "enrollment": "295/4",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[1]7~8 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-057",
+    "code": "C6-057 C621600 [BBS2023E]",
+    "name": "生物資訊學方法 英語授課 COURSERA  Coursera課程，英語授課",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "劉宗霖",
+    "enrollment": "529/11",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C6-058",
+    "code": "C6-058 C621200 [BBS2020]",
+    "name": "遺傳工程技術",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "洪建中* 張純純 劉宗霖 盧福翊 郭瑋君 鄭文義",
+    "enrollment": "47/9",
+    "locations": [
+      "生科院大樓",
+      "89816"
+    ],
+    "period": "[3]3~4 生科院大樓 89816",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C610200-Z2",
+    "code": "C610200-Z2 [BBS]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C610200-Z3",
+    "code": "C610200-Z3 [BBS]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/依照該5類課程科目序號選課",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C610540-Z",
+    "code": "C610540-Z [OPE]",
+    "name": "體育（四）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "",
+    "enrollment": "0/依照該類5課程科目序號選課",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-065",
+    "code": "C6-065 C621700 [BBS2024E]",
+    "name": "了解大腦：日常生活中的神經生理學 英語授課 COURSERA  Coursera課程，英語授課",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "許觀達",
+    "enrollment": "33/13",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C6-101",
+    "code": "C6-101 C640100 [BBS4001]",
+    "name": "科技論文討論及簡報 英語授課  EMI課程(英語授課比例：100%)",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "許觀達* 盧福翊*",
+    "enrollment": "551/5",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[3]5~6 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-102",
+    "code": "C6-102 C630200 [BBS3002]",
+    "name": "生技產業經營管理學 英語授課 業界專家參與  EMI課程(英語授課比例：100%)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "陳宗嶽*",
+    "enrollment": "655/額滿",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[4]2~4 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-103",
+    "code": "C6-103 C630420 [BBS3004]",
+    "name": "實驗室實習（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "盧福翊* 林鼎晏* 陳宗嶽 張清俊 張純純 劉宗霖 洪建中 王育民 洪良宜 林士鳴 郭瑋君 呂曉沛 王之彥 林裕萍",
+    "enrollment": "528/28",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[2]N 生科院大樓 89916 [3]N 生科院大樓 89916 [4]N 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C6-104",
+    "code": "C6-104 C631300 [BBS3019]",
+    "name": "癌症生物學概論",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "林鼎晏",
+    "enrollment": "495/7",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[5]3~4 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-106",
+    "code": "C6-106 C631400 [BBS3025]",
+    "name": "水生生物微生物及免疫學",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "洪健睿* 呂曉沛",
+    "enrollment": "17/39",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[3]7~8 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-107",
+    "code": "C6-107 C630601 [BBS3010]",
+    "name": "微生物及免疫學",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "洪建中* 許觀達",
+    "enrollment": "34/22",
+    "locations": [
+      "生科院大樓",
+      "89816"
+    ],
+    "period": "[5]5~6 生科院大樓 89816",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-108",
+    "code": "C6-108 C633500 [BBS3032E]",
+    "name": "植物環境認知與生理概論 英語授課 COURSERA  Coursera課程，英文授課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "郭瑋君",
+    "enrollment": "36/10",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C6-113",
+    "code": "C6-113 C641500 [BBS5039]",
+    "name": "生物分析化學之產業應用 大碩合開課程。",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "林士鳴",
+    "enrollment": "11/455",
+    "locations": [
+      "89916",
+      "生科院大樓"
+    ],
+    "period": "[3]3~4 生科院大樓 89916",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-114",
+    "code": "C6-114 C634200 [BBS3036E]",
+    "name": "園藝作物栽培與實作 英語授課 業界專家參與  EMI課程(英語授課比例：100%)",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "郭瑋君* 陳逸民",
+    "enrollment": "185/2",
+    "locations": [
+      "生科院大樓",
+      "89615"
+    ],
+    "period": "[4]7~8 生科院大樓 89615",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-151",
+    "code": "C6-151 C640220 [BBS4018]",
+    "name": "生技專業執行與實務（二） 英語授課 業界專家參與  限本系生。EMI課程(英語授課比例：100%)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "劉宗霖* 陳逸民* 羅玉枝 林士鳴",
+    "enrollment": "157/13",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C6-152",
+    "code": "C6-152 C641800 [BBS4003E]",
+    "name": "離子在生物體內的作用 英語授課  EMI課程(英文授課比例：100%)",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "林裕萍* 郭瑋君",
+    "enrollment": "23/1",
+    "locations": [
+      "89A16",
+      "生科院大樓"
+    ],
+    "period": "[2]5~6 生科院大樓 89A16",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-154",
+    "code": "C6-154 C640501 [BBS5032]",
+    "name": "植物基因轉殖理論與實作 大碩合開",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "張清俊",
+    "enrollment": "2/2",
+    "locations": [
+      "89716",
+      "生科院大樓"
+    ],
+    "period": "[4]7~8 生科院大樓 89716",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-156",
+    "code": "C6-156 L650700 [BBS5037E]",
+    "name": "生物科技課程教學實習 英語授課  大碩合開、限參與普通生物學實驗及生物技術核心實驗教學助教，EMI課程(英文授課比例:100%)",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "呂曉沛* 林士鳴* 陳逸民 王涵青 林鼎晏 盧福翊 王之彥 林裕萍",
+    "enrollment": "1/網路5選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C6-157",
+    "code": "C6-157 L681801 [BIOT5042]",
+    "name": "蛋白質純化與分析 英語授課  大碩合開課程，EMI課程(英文授課比例:100%)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "陳逸民*",
+    "enrollment": "40/額滿",
+    "locations": [
+      "89716",
+      "生科院大樓"
+    ],
+    "period": "[2]7~9 生科院大樓 89716",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C6-160",
+    "code": "C6-160 L655900 [BBS5043]",
+    "name": "分子免疫學 大碩合開課程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C6",
+    "department": "生技系 BBS",
+    "teacher": "洪健睿*",
+    "enrollment": "8/58",
+    "locations": [
+      "89716",
+      "生科院大樓"
+    ],
+    "period": "[5]6~8 生科院大樓 89716",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "F314120-Z",
+    "code": "F314120-Z [ID]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "F314220-Z",
+    "code": "F314220-Z [ID]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "03/請參考備註",
+    "locations": [],
+    "period": "[2]3~4 [4]2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "F314000-Z",
+    "code": "F314000-Z [ID]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]3~4",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "F310020-Z",
+    "code": "F310020-Z [ID]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]7~8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z1",
+    "code": "F325000-Z1 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-010",
+    "code": "F3-010 F317920 [ID0112]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳亞麟",
+    "enrollment": "49/網路選課不開放",
+    "locations": [],
+    "period": "[5]N",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-011",
+    "code": "F3-011 F313500-A [ID1121]",
+    "name": "表現技法 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳劭農",
+    "enrollment": "322/8",
+    "locations": [
+      "53302",
+      "空中大學"
+    ],
+    "period": "[4]3 空中大學 53302 [4]4~N 空中大學 53302",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-012",
+    "code": "F3-012 F313500-B [ID1121]",
+    "name": "表現技法 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "何俊亨",
+    "enrollment": "34/3",
+    "locations": [
+      "53302",
+      "空中大學"
+    ],
+    "period": "[3]3 空中大學 53302 [3]4~N 空中大學 53302",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-014",
+    "code": "F3-014 F313000-A [ID1123]",
+    "name": "基本設計（二） 英語授課  *原為英語授課異動為中文授課*搭配業師黃苾芬老師上課  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "莊惠棋",
+    "enrollment": "213/1",
+    "locations": [
+      "53302",
+      "空中大學"
+    ],
+    "period": "[1]5~A 空中大學 53302",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-015",
+    "code": "F3-015 F313000-B [ID1123]",
+    "name": "基本設計（二） 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳劭農",
+    "enrollment": "19/額滿",
+    "locations": [
+      "53302",
+      "空中大學"
+    ],
+    "period": "[5]5~A 空中大學 53302",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-016",
+    "code": "F3-016 F313000-C [ID1123]",
+    "name": "基本設計（二） 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳璽任",
+    "enrollment": "23/額滿",
+    "locations": [
+      "53313",
+      "空中大學"
+    ],
+    "period": "[5]5~A 空中大學 53313",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-017",
+    "code": "F3-017 F322800 [ID1122]",
+    "name": "計算機概論 上課教室為C-HUB一樓電腦教室5102  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳建旭",
+    "enrollment": "360/額滿",
+    "locations": [
+      "5102",
+      "建築系館"
+    ],
+    "period": "[3]7~9 建築系館 5102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-018",
+    "code": "F3-018 F313600 [ID1124]",
+    "name": "色彩學 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "周君瑞",
+    "enrollment": "53/31",
+    "locations": [
+      "53302",
+      "空中大學"
+    ],
+    "period": "[2]5~6 空中大學 53302",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-019",
+    "code": "F3-019 F313300 [PHYS1011]",
+    "name": "普通物理學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "唐富欽",
+    "enrollment": "62/324",
+    "locations": [
+      "空中大學",
+      "53101"
+    ],
+    "period": "[1]2~3 空中大學 53101 [3]2 空中大學 53101",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-020",
+    "code": "F3-020 F323800-A [ID1125]",
+    "name": "專題模型製作 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "魏仲君",
+    "enrollment": "32/3額滿",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[3]3~4 空中大學 53X02",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-021",
+    "code": "F3-021 F323800-B [ID1125]",
+    "name": "專題模型製作 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "魏仲君",
+    "enrollment": "31/額滿",
+    "locations": [
+      "53X02",
+      "空中大學"
+    ],
+    "period": "[4]3~4 空中大學 53X02",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310340-Z",
+    "code": "F310340-Z [ID]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]2 [1]3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F310040-Z",
+    "code": "F310040-Z [ID]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z2",
+    "code": "F325000-Z2 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "30/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-055",
+    "code": "F3-055 F320620-A [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  需先修以下科目:《圖學/必修/2.0 學分/60 分以上》《設計方法/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "洪郁修",
+    "enrollment": "23/額滿",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[3]5~A 空中大學 53306",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-056",
+    "code": "F3-056 F320620-B [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  需先修以下科目:《圖學/必修/2.0 學分/60 分以上》《設計方法/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "謝孟達",
+    "enrollment": "17/1",
+    "locations": [
+      "空中大學",
+      "53309"
+    ],
+    "period": "[1]5~A 空中大學 53309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-057",
+    "code": "F3-057 F320620-C [ID2121]",
+    "name": "產品設計（二） 醫療器材與系統學程  需先修以下科目:《圖學/必修/2.0 學分/60 分以上》《設計方法/必修/3.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳亞麟",
+    "enrollment": "22/額滿",
+    "locations": [
+      "空中大學",
+      "53309"
+    ],
+    "period": "[3]5~8 空中大學 53309 [3]9~A 空中大學 53309",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-059",
+    "code": "F3-059 F323500 [ID2122]",
+    "name": "人類因素學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳建旭* 洪郁修",
+    "enrollment": "632/3",
+    "locations": [
+      "5107",
+      "規劃設計大樓"
+    ],
+    "period": "[2]2~4 規劃設計大樓 5107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-060",
+    "code": "F3-060 F323300-A [ID2123]",
+    "name": "電腦輔助設計與製造 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "羅逸文",
+    "enrollment": "363/1",
+    "locations": [
+      "53311",
+      "空中大學"
+    ],
+    "period": "[5]2~4 空中大學 53311",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-061",
+    "code": "F3-061 F323300-B [ID2123]",
+    "name": "電腦輔助設計與製造 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "羅逸文",
+    "enrollment": "323/額滿",
+    "locations": [
+      "53311",
+      "空中大學"
+    ],
+    "period": "[5]5~7 空中大學 53311",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-062",
+    "code": "F3-062 F312600 [ID2222]",
+    "name": "機械設計原理 需先修以下科目:《基本設計（一）/必修/3.0 學分/60 分以上》《基本設計（二）/必修/3.0 學分/60 分以上》《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "魏仲君",
+    "enrollment": "439/額滿",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[4]7~9 空中大學 53306",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-063",
+    "code": "F3-063 F324400 [ID3229]",
+    "name": "設計史",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳璽任",
+    "enrollment": "636/額滿",
+    "locations": [
+      "唯農大樓",
+      "7311"
+    ],
+    "period": "[2]7~8 唯農大樓 7311",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F310061-Z",
+    "code": "F310061-Z [ID]",
+    "name": "體育（六） 依照體育選項科目序號選課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備3註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F3-102",
+    "code": "F3-102 F330121-A [ID3121]",
+    "name": "工業設計（二） 業界專家參與  需先修以下科目:《材料與製造程序/必修/3.0 學分/60 分以上》《機構學/必修/3.0 學分/60 分以上》《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "238/額滿",
+    "locations": [
+      "53313",
+      "空中大學"
+    ],
+    "period": "[3]5~A 空中大學 53313",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-103",
+    "code": "F3-103 F330121-B [ID3121]",
+    "name": "工業設計（二） 需先修以下科目:《材料與製造程序/必修/3.0 學分/60 分以上》《機構學/必修/3.0 學分/60 分以上》《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "蕭世文",
+    "enrollment": "12/6",
+    "locations": [
+      "53304",
+      "空中大學"
+    ],
+    "period": "[3]5~A 空中大學 53304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-104",
+    "code": "F3-104 F330121-C [ID3121]",
+    "name": "工業設計（二） 需先修以下科目:《材料與製造程序/必修/3.0 學分/60 分以上》《機構學/必修/3.0 學分/60 分以上》《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳亞麟",
+    "enrollment": "19/3額滿",
+    "locations": [
+      "53304",
+      "空中大學"
+    ],
+    "period": "[5]5~A 空中大學 53304",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-105",
+    "code": "F3-105 F333400 [ID3221]",
+    "name": "商業編排設計 1.納入「創意設計學程」2.「創意設計學程」學生請至創意設計教學資源中心加簽  需先修以下科目:《產品設計（一）/必修/3.0 學分/60 分以上》《產品設計（二）/必修/3.0 學分/60 分以上》《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "莊惠棋",
+    "enrollment": "46/4",
+    "locations": [
+      "53311",
+      "空中大學"
+    ],
+    "period": "[2]2~4 空中大學 53311",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-106",
+    "code": "F3-106 F332800 [ID3222]",
+    "name": "電腦輔助圖形設計 需先修以下科目:《產品設計（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "謝孟達",
+    "enrollment": "138/12",
+    "locations": [
+      "5102",
+      "建築系館"
+    ],
+    "period": "[5]2~4 建築系館 5102",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-107",
+    "code": "F3-107 F337700 [ID3228]",
+    "name": "設計溝通 需先修以下科目:《產品設計（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳亞麟",
+    "enrollment": "22/4",
+    "locations": [
+      "工設系館",
+      "5205A"
+    ],
+    "period": "[4]7~9 工設系館 5205A",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-108",
+    "code": "F3-108 F330700 [ID3223]",
+    "name": "設計與教育 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "38/額3滿",
+    "locations": [
+      "53313",
+      "空中大學"
+    ],
+    "period": "[4]2~4 空中大學 53313",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-109",
+    "code": "F3-109 F333000 [ID3224]",
+    "name": "設計實務 需先修以下科目:《產品設計（一）/必修/3.0 學分/60 分以上》《產品設計（二）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陳中聖",
+    "enrollment": "11/19",
+    "locations": [
+      "53313",
+      "空中大學"
+    ],
+    "period": "[2]7~9 空中大學 53313",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z3",
+    "code": "F325000-Z3 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-112",
+    "code": "F3-112 F335600 [ID3225]",
+    "name": "流行商品展銷與策略 1.納入「創意設計學程」2.「創意設計學程」學生請至創意設計教學資源中心加簽  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "35/31",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[3]3~4 空中大學 53306",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F325000-Z4",
+    "code": "F325000-Z4 [ID]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3-158",
+    "code": "F3-158 F346500 [ID4221]",
+    "name": "展示設計 需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "曾劍峰",
+    "enrollment": "28/32",
+    "locations": [
+      "53313",
+      "空中大學"
+    ],
+    "period": "[4]7~9 空中大學 53313",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F3100H1-Z",
+    "code": "F3100H1-Z [ID]",
+    "name": "體育（八） 依照體育選項科目序號選課",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "",
+    "enrollment": "0/請3參考備註",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "F3-160",
+    "code": "F3-160 F340421-A [ID4121]",
+    "name": "專題設計（二） 業界專家參與  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "陸定邦",
+    "enrollment": "10/10",
+    "locations": [
+      "空中大學",
+      "53306"
+    ],
+    "period": "[5]5~A 空中大學 53306",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-161",
+    "code": "F3-161 F340421-B [ID4121]",
+    "name": "專題設計（二） 業界專家參與  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "吳豐光",
+    "enrollment": "14/6",
+    "locations": [
+      "53307",
+      "空中大學"
+    ],
+    "period": "[5]5~A 空中大學 53307",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-162",
+    "code": "F3-162 F340421-C [ID4121]",
+    "name": "專題設計（二） 業界專家參與  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "洪郁修",
+    "enrollment": "133/7",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[5]5~A 空中大學 53308",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F3-163",
+    "code": "F3-163 F340421-D [ID4121]",
+    "name": "專題設計（二） 業界專家參與  需先修以下科目:《設計概論/必修/2.0 學分/60 分以上》；第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "F3",
+    "department": "工設系 ID",
+    "teacher": "何俊亨",
+    "enrollment": "12/38",
+    "locations": [
+      "空中大學",
+      "53211"
+    ],
+    "period": "[5]5~A 空中大學 53211",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  }
+]

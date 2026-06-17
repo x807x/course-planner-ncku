@@ -1,0 +1,227 @@
+[
+  {
+    "id": "U8-002",
+    "code": "U8-002 U771300 [CS6004]",
+    "name": "實驗設計 英語授課  甲組必選(英文授課)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "楊政達",
+    "enrollment": "316/19",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[4]2~4 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-003",
+    "code": "U8-003 U870310 [PIMS7002]",
+    "name": "專題討論（一） 英語授課  博一必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "龔俊嘉",
+    "enrollment": "0/34",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[5]5 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U8-004",
+    "code": "U8-004 U870330 [PIMS7004]",
+    "name": "專題討論（三） 英語授課  博二必修",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "龔俊嘉",
+    "enrollment": "43/30",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[5]6 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U8-005",
+    "code": "U8-005 U752500 [CS7205]",
+    "name": "臉孔與物體辨識綜論 研究群：心智科學(Mind Sciences)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "龔俊嘉",
+    "enrollment": "33/32",
+    "locations": [
+      "80209",
+      "社科院大樓"
+    ],
+    "period": "[1]6~8 社科院大樓 80209",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-006",
+    "code": "U8-006 U780400 [CS7220]",
+    "name": "心理學數理方法 英語授課  研究群：心智計算模型與應用(Computation Modeling and Applications)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "楊政達",
+    "enrollment": "4/31",
+    "locations": [
+      "80209",
+      "社科院大樓"
+    ],
+    "period": "[2]N~6 社科院大樓 80209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-007",
+    "code": "U8-007 U790210 [CS7029]",
+    "name": "情緒與記憶專題研究（一） 英語授課  歡迎大學部選修，但每周需參與實驗至少三小時。研究群：心智科學(Mind Sciences)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "陳德祐",
+    "enrollment": "5/330",
+    "locations": [
+      "社科院大樓",
+      "80201"
+    ],
+    "period": "[2]9~B 社科院大樓 80201",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-008",
+    "code": "U8-008 P76H000 [CSIE7218]",
+    "name": "AR/VR 與體感互動系統開發 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "陳培殷* 楊政達",
+    "enrollment": "15/345",
+    "locations": [
+      "65104",
+      "資訊新館"
+    ],
+    "period": "[5]9~B 資訊新館 65104",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  }
+]

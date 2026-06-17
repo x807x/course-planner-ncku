@@ -1,0 +1,4080 @@
+[
+  {
+    "id": "E211120-Z1",
+    "code": "E211120-Z1 [EE120]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備2註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E211320-Z1",
+    "code": "E211320-Z1 [EE]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請2參考備註",
+    "locations": [],
+    "period": "[2]2 [5]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "E211000-Z1",
+    "code": "E211000-Z1 [EE70]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z1",
+    "code": "E200000-Z1 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-005",
+    "code": "E2-005 E215621-1 [MATH1062]",
+    "name": "微積分（二） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "洪英志",
+    "enrollment": "44/26",
+    "locations": [
+      "92171",
+      "92271",
+      "電機系館",
+      "92277"
+    ],
+    "period": "[3]3~4 電機系館 92171 [5]2 電機系館 92171 [5]1 電機系館 92271 [5]1 電機系館 92277",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-006",
+    "code": "E2-006 E215720-1 [PHYS1072]",
+    "name": "普通物理學（二） (甲乙丙合班)繁城講堂  需先修以下科目:《普通物理學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃榮俊",
+    "enrollment": "148/12",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]5~6 電機系館 繁城講堂 [4]1 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-007",
+    "code": "E2-007 E215820-1 [PHYS1082]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃榮俊",
+    "enrollment": "47/額滿",
+    "locations": [],
+    "period": "[1]1~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-008",
+    "code": "E2-008 E216620-1 [EE1520]",
+    "name": "計算機概論（二） 需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃仁暐",
+    "enrollment": "86/14",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]1 電機系館 繁城講堂 [4]3~4 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-009",
+    "code": "E2-009 E216401-1 [EE1500]",
+    "name": "邏輯系統 本系必選  需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "林輝堂",
+    "enrollment": "245/25",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[3]5~6 電機系館 92171 [5]8 電機系館 92171",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-010",
+    "code": "E2-010 E223400-1 [EE2200]",
+    "name": "線性代數",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "王振興",
+    "enrollment": "56/214",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[2]7~8 電機系館 92171 [5]7 電機系館 92171",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210020-Z",
+    "code": "E210020-Z [EE41]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備2註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-013",
+    "code": "E2-013 E217920-1 [EE0102]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張志文",
+    "enrollment": "49/21",
+    "locations": [],
+    "period": "[3]9",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E211120-Z2",
+    "code": "E211120-Z2 [EE120]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E211320-Z2",
+    "code": "E211320-Z2 [EE]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考2備註",
+    "locations": [],
+    "period": "[2]2 [5]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "E211000-Z2",
+    "code": "E211000-Z2 [EE70]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z2",
+    "code": "E200000-Z2 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "20/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-019",
+    "code": "E2-019 E215621-2 [MATH1062]",
+    "name": "微積分（二） 電一乙丙合班 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "粘珠鳳",
+    "enrollment": "104/46",
+    "locations": [
+      "電機系館",
+      "92171",
+      "迅慧講堂",
+      "92177",
+      "92185"
+    ],
+    "period": "[3]3~4 電機系館 迅慧講堂 [5]2 電機系館 迅慧講堂 [5]1 電機系館 92171 [5]1 電機系館 92177 [5]1 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-020",
+    "code": "E2-020 E215720-1 [PHYS1072]",
+    "name": "普通物理學（二） (甲乙丙合班)繁城講堂  需先修以下科目:《普通物理學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃榮俊",
+    "enrollment": "1482/12",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]5~6 電機系館 繁城講堂 [4]1 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-021",
+    "code": "E2-021 E215820-2 [PHYS1082]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張烈錚",
+    "enrollment": "49/網路選課不開放",
+    "locations": [],
+    "period": "[1]1~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-023",
+    "code": "E2-023 E216401-2 [EE1500]",
+    "name": "邏輯系統 本系必選  需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "周哲民",
+    "enrollment": "221/49",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[3]1 電機系館 92177 [5]5~6 電機系館 92177",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-024",
+    "code": "E2-024 E223400-2 [EE2200]",
+    "name": "線性代數",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "林家民",
+    "enrollment": "629/4",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[2]7~8 電機系館 92177 [5]7 電機系館 92177",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210020-Z2",
+    "code": "E210020-Z2 [EE41]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-027",
+    "code": "E2-027 E217920-2 [EE0102]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "郭泰豪",
+    "enrollment": "45/25",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E211120-Z3",
+    "code": "E211120-Z3 [EE120]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請2參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E211320-Z3",
+    "code": "E211320-Z3 [EE]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請2參考備註",
+    "locations": [],
+    "period": "[2]2 [5]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "E211000-Z3",
+    "code": "E211000-Z3 [EE70]",
+    "name": "公民 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z3",
+    "code": "E200000-Z3 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備2註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-034",
+    "code": "E2-034 E215720-1 [PHYS1072]",
+    "name": "普通物理學（二） (甲乙丙合班)繁城講堂  需先修以下科目:《普通物理學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃榮俊",
+    "enrollment": "1482/12",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]5~6 電機系館 繁城講堂 [4]1 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-035",
+    "code": "E2-035 E215820-3 [PHYS1082]",
+    "name": "普通物理學實驗（二） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳岳男",
+    "enrollment": "442/額滿",
+    "locations": [],
+    "period": "[1]1~3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-036",
+    "code": "E2-036 E216620-3 [EE1520]",
+    "name": "計算機概論（二） 需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "賴源泰",
+    "enrollment": "281/1",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[2]7~8 電機系館 92185 [5]7 電機系館 92185",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-037",
+    "code": "E2-037 E216401-3 [EE1500]",
+    "name": "邏輯系統 本系必選  需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳中和",
+    "enrollment": "70/2",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[3]1 電機系館 92185 [5]5~6 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-038",
+    "code": "E2-038 E223400-3 [EE2200]",
+    "name": "線性代數",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張名先",
+    "enrollment": "57/13",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[1]6 電機系館 92185 [3]7~8 電機系館 92185",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210020-Z3",
+    "code": "E210020-Z3 [EE41]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-041",
+    "code": "E2-041 E217920-3 [EE0102]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳中和",
+    "enrollment": "47/223",
+    "locations": [],
+    "period": "[5]9",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-043",
+    "code": "E2-043 E211200-1A [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "林輝堂",
+    "enrollment": "28/2",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[5]N~6 電機系館 92433",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-044",
+    "code": "E2-044 E211200-1B [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "林輝堂",
+    "enrollment": "252/5",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[4]7~9 電機系館 92433",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-045",
+    "code": "E2-045 E211200-2A [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "周哲民",
+    "enrollment": "9/21",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[3]7~9 電機系館 92433",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-046",
+    "code": "E2-046 E211200-2B [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "周哲民",
+    "enrollment": "29/1",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[1]N~6 電機系館 92433",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-047",
+    "code": "E2-047 E211200-3A [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳中和",
+    "enrollment": "24/6",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[4]2~4 電機系館 92433",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-048",
+    "code": "E2-048 E211200-3B [EE1200]",
+    "name": "邏輯系統實習 本系必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳中和",
+    "enrollment": "29/1",
+    "locations": [
+      "電機系館",
+      "92433"
+    ],
+    "period": "[3]N~6 電機系館 92433",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-051",
+    "code": "E2-051 E235500 [EE2160]",
+    "name": "量子物理學 奈米積體電路工程碩士班學分學程 半導體專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "高國興",
+    "enrollment": "19/51",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92277",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210340-Z1",
+    "code": "E210340-Z1 [EE]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]2 [1]3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E210200-Z1",
+    "code": "E210200-Z1 [EE]",
+    "name": "哲學與藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z4",
+    "code": "E200000-Z4 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-056",
+    "code": "E2-056 E220620-1 [EE2062]",
+    "name": "工程數學（二） 需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "鄭銘揚",
+    "enrollment": "242/28",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 92271 [4]2 電機系館 92271",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-057",
+    "code": "E2-057 E221120-1 [EE2320]",
+    "name": "電路學（二） 需先修以下科目:《電路學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "朱聖緣",
+    "enrollment": "712/1",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[3]3~4 電機系館 92271 [5]2 電機系館 92271",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-058",
+    "code": "E2-058 E227020-1 [EE2120]",
+    "name": "電子學（二） 半導體專長微學程  電二學生必修  需先修以下科目:《電子學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "邱瀝毅",
+    "enrollment": "60/10",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[2]1 電機系館 92271 [4]3~4 電機系館 92271",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-059",
+    "code": "E2-059 E228000-1 [EE3330]",
+    "name": "電機概論 跨域永續綠能學分學程  甲丙合班  需先修以下科目:《普通物理學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "楊宏澤",
+    "enrollment": "80/額滿",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]2 電機系館 繁城講堂 [5]3~4 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-060",
+    "code": "E2-060 E226200-1A [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "朱聖緣",
+    "enrollment": "33/1",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[1]N~6 電機系館 92331",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-061",
+    "code": "E2-061 E226200-1B [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "朱聖緣",
+    "enrollment": "33/額滿",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[2]7~9 電機系館 92331",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E210040-Z1",
+    "code": "E210040-Z1 [EE43]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請2參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210200-Z2",
+    "code": "E210200-Z2 [EE]",
+    "name": "哲學與藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z5",
+    "code": "E200000-Z5 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考2備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-066",
+    "code": "E2-066 E220620-2 [EE2062]",
+    "name": "工程數學（二） 需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張志文",
+    "enrollment": "59/211",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 92277 [4]2 電機系館 92277",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-067",
+    "code": "E2-067 E221120-4 [EE2320]",
+    "name": "電路學（二） 需先修以下科目:《電路學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "王醴",
+    "enrollment": "217/53",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[2]2 電機系館 92277 [5]3~4 電機系館 92277",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-068",
+    "code": "E2-068 E227020-2 [EE2120]",
+    "name": "電子學（二） 半導體專長微學程  需先修以下科目:《電子學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李順裕",
+    "enrollment": "52/58",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[2]1 電機系館 92225 [4]3~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-069",
+    "code": "E2-069 E228000-2 [EE3330]",
+    "name": "電機概論 跨域永續綠能學分學程  需先修以下科目:《普通物理學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "梁從主",
+    "enrollment": "22/48",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[3]3~4 電機系館 92277 [5]2 電機系館 92277",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-070",
+    "code": "E2-070 E226200-2A [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "王醴",
+    "enrollment": "5/25",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[3]7~9 電機系館 92331",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-071",
+    "code": "E2-071 E226200-2B [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "王醴",
+    "enrollment": "127/13",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[5]5~7 電機系館 92331",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E210040-Z2",
+    "code": "E210040-Z2 [EE43]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請2參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210340-Z2",
+    "code": "E210340-Z2 [EE]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/2請參考備註",
+    "locations": [],
+    "period": "[1]2 [1]3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E2-076",
+    "code": "E2-076 E220620-3 [EE2062]",
+    "name": "工程數學（二） 英語授課  英文授課  需先修以下科目:《工程數學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉光浩",
+    "enrollment": "64/6",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]3~4 電機系館 92283 [4]2 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-077",
+    "code": "E2-077 E221120-3 [EE2320]",
+    "name": "電路學（二） 需先修以下科目:《電路學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉濱達",
+    "enrollment": "72/額滿",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[3]3~4 電機系館 92283 [5]2 電機系館 92283",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-078",
+    "code": "E2-078 E227020-3 [EE2120]",
+    "name": "電子學（二） 英語授課 半導體專長微學程  英文授課  需先修以下科目:《電子學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "江孟學",
+    "enrollment": "57/213",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]1 電機系館 92283 [4]3~4 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-079",
+    "code": "E2-079 E228000-3 [EE3330]",
+    "name": "電機概論 跨域永續綠能學分學程  甲丙合班  需先修以下科目:《普通物理學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "楊宏澤",
+    "enrollment": "259/額滿",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]2 電機系館 繁城講堂 [5]3~4 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-080",
+    "code": "E2-080 E226200-3A [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉濱達",
+    "enrollment": "22/8",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[4]7~9 電機系館 92331",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-081",
+    "code": "E2-081 E226200-3B [EE2301]",
+    "name": "電路學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉濱達",
+    "enrollment": "321/2",
+    "locations": [
+      "電機系館",
+      "92331"
+    ],
+    "period": "[1]7~9 電機系館 92331",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E210040-Z3",
+    "code": "E210040-Z3 [EE43]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "20/請參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210200-Z3",
+    "code": "E210200-Z3 [EE]",
+    "name": "哲學與藝術",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/依照該類課程2科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "哲學與藝術"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "哲學與藝術"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z6",
+    "code": "E200000-Z6 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參2考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E210340-Z3",
+    "code": "E210340-Z3 [EE]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備2註",
+    "locations": [],
+    "period": "[1]2 [1]3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "E2-087",
+    "code": "E2-087 E231601-1 [EE2510]",
+    "name": "資料結構緒論 本系必選  需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳敬",
+    "enrollment": "33/237",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92271",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-088",
+    "code": "E2-088 E231601-2 [EE2510]",
+    "name": "資料結構緒論",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "戴顯權",
+    "enrollment": "920/21",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92277",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-089",
+    "code": "E2-089 E231601-3 [EE2510]",
+    "name": "資料結構緒論 英語授課  本系必選 英文授課  需先修以下科目:《計算機概論（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "詹寶珠",
+    "enrollment": "20/50",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[2]7~8 電機系館 92283 [4]1 電機系館 92283",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-090",
+    "code": "E2-090 E226500-1 [EE2150]",
+    "name": "數位電子學 需先修以下科目:《電子學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉文超",
+    "enrollment": "10/825",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[1]1 電機系館 92225 [3]1~2 電機系館 92225",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-091",
+    "code": "E2-091 E232000-1 [EE5600]",
+    "name": "超大型積體電路電腦輔助設計概論 大二三選修",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "邱瀝毅* 雷曉方",
+    "enrollment": "721/4",
+    "locations": [
+      "92271",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92271",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-092",
+    "code": "E2-092 E246800-1 [EE3450]",
+    "name": "訊號與系統",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "郭文光",
+    "enrollment": "78/6",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[5]6~8 電機系館 92225",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-093",
+    "code": "E2-093 E246800-2 [EE3450]",
+    "name": "訊號與系統 英語授課  英語授課",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李國君",
+    "enrollment": "27/43",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[2]7~9 電機系館 92225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-094",
+    "code": "E2-094 E242700 [EE5650]",
+    "name": "ＶＬＳＩ系統設計",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李昆忠",
+    "enrollment": "21/274",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]7~9 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-095",
+    "code": "E2-095 E222100-1 [EE4930]",
+    "name": "計畫管理專題",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳志方",
+    "enrollment": "291/9",
+    "locations": [
+      "迅慧講堂",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 迅慧講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "E2-096",
+    "code": "E2-096 E222100-2 [EE4930]",
+    "name": "計畫管理專題",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "蘇賜麟",
+    "enrollment": "642/6",
+    "locations": [
+      "92377",
+      "電機系館"
+    ],
+    "period": "[1]5~6 電機系館 92377",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "E2-097",
+    "code": "E2-097 E222100-3 [EE4930]",
+    "name": "計畫管理專題",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張順志",
+    "enrollment": "270/額滿",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]5~6 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "E2-098",
+    "code": "E2-098 E234100 [EE3405]",
+    "name": "社群網站設計 歡迎大二三四選修",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張天豪",
+    "enrollment": "19/521",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-101",
+    "code": "E2-101 E234700 [EE5320]",
+    "name": "創業與創新課程 業界專家參與  大三大四合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "謝明得* 卜令楷",
+    "enrollment": "63/額滿",
+    "locations": [
+      "92283",
+      "電機系館"
+    ],
+    "period": "[5]6~8 電機系館 92283",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-102",
+    "code": "E2-102 E232200 [EE5150]",
+    "name": "光電與半導體概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "彭洞清",
+    "enrollment": "1125/45",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[4]7~9 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-103",
+    "code": "E2-103 E233500 [EE3350]",
+    "name": "光學導論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "莊文魁",
+    "enrollment": "6/24",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-106",
+    "code": "E2-106 E234400 [EE3440]",
+    "name": "通訊積體電路設計 大三四選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "鄭光偉",
+    "enrollment": "6/264",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-107",
+    "code": "E2-107 E246200 [EE5670]",
+    "name": "ＶＬＳＩ電路設計 大三大四合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張順志",
+    "enrollment": "60/50",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[1]1~3 電機系館 92185",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-108",
+    "code": "E2-108 E238600 [EE5400]",
+    "name": "數位通訊 太空科學與工程學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張志文",
+    "enrollment": "19/51",
+    "locations": [
+      "92377",
+      "電機系館"
+    ],
+    "period": "[1]2~3 電機系館 92377 [3]2 電機系館 92377",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-109",
+    "code": "E2-109 E243000 [EE4660]",
+    "name": "應用導向ＶＬＳＩ晶片設計 大三四選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "謝明得",
+    "enrollment": "18/52",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92171",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-110",
+    "code": "E2-110 E232501 [EE2860]",
+    "name": "電子材料概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李文熙",
+    "enrollment": "26/244",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-112",
+    "code": "E2-112 E231120-1 [EE3440]",
+    "name": "電磁學（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃尊禧",
+    "enrollment": "69/2",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]3~4 電機系館 繁城講堂 [4]2 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-113",
+    "code": "E2-113 E235700-1A [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "莊智清",
+    "enrollment": "229/1",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[2]N~6 電機系館 92325",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-114",
+    "code": "E2-114 E235700-1B [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "莊智清",
+    "enrollment": "9/21",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[5]5~7 電機系館 92325",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-115",
+    "code": "E2-115 E232120-1A [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張守進",
+    "enrollment": "21/9",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[3]1~3 電機系館 92231",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-116",
+    "code": "E2-116 E232120-1B [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "邱瀝毅",
+    "enrollment": "242/6",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92231",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z7",
+    "code": "E200000-Z7 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備2註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-118",
+    "code": "E2-118 E234600 [EE5470]",
+    "name": "軟體無線電導論與實作 大三大四合班  需先修以下科目:《訊號與系統/選修/3.0 學分/50 分以上》 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉光浩",
+    "enrollment": "18/12",
+    "locations": [
+      "92219",
+      "92177",
+      "電機系館"
+    ],
+    "period": "[3]5~6 電機系館 92177 [3]7~8 電機系館 92219",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-119",
+    "code": "E2-119 E244300 [EE4380]",
+    "name": "電力系統導論 跨域永續綠能學分學程  大三四選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張簡樂仁",
+    "enrollment": "18/212",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[1]2~3 電機系館 92720 [3]2 電機系館 92720",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-120",
+    "code": "E2-120 E231120-2 [EE3440]",
+    "name": "電磁學（二）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李炳鈞",
+    "enrollment": "28/42",
+    "locations": [
+      "92377",
+      "電機系館"
+    ],
+    "period": "[3]4 電機系館 92377 [4]3~4 電機系館 92377",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-121",
+    "code": "E2-121 E235700-2A [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "鄭銘揚",
+    "enrollment": "312/額滿",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[3]N~6 電機系館 92325",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-122",
+    "code": "E2-122 E235700-2B [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "鄭銘揚",
+    "enrollment": "14/16",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[1]1~3 電機系館 92325",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-123",
+    "code": "E2-123 E232120-2A [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "劉文超",
+    "enrollment": "219/11",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[5]5~7 電機系館 92231",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-124",
+    "code": "E2-124 E232120-2B [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李順裕",
+    "enrollment": "30/額滿",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[2]N~6 電機系館 92231",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z8",
+    "code": "E200000-Z8 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "20/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-128",
+    "code": "E2-128 E231120-3 [EE3440]",
+    "name": "電磁學（二） 甲丙合班",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃尊禧",
+    "enrollment": "720/1",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]3~4 電機系館 繁城講堂 [4]2 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-129",
+    "code": "E2-129 E235700-3A [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李嘉猷",
+    "enrollment": "31/額滿",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92325",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-130",
+    "code": "E2-130 E235700-3B [EE3210]",
+    "name": "控制工程實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李嘉猷",
+    "enrollment": "27/23",
+    "locations": [
+      "92325",
+      "電機系館"
+    ],
+    "period": "[3]1~3 電機系館 92325",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-131",
+    "code": "E2-131 E232120-3A [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "曾永華",
+    "enrollment": "30/額滿",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[3]N~6 電機系館 92231",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-132",
+    "code": "E2-132 E232120-3B [EE2140]",
+    "name": "電子學實驗（二）",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "曾永華",
+    "enrollment": "16/14",
+    "locations": [
+      "92231",
+      "電機系館"
+    ],
+    "period": "[5]1~3 電機系館 92231",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E200000-Z9",
+    "code": "E200000-Z9 [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參2考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-134",
+    "code": "E2-134 E246000 [EE5420]",
+    "name": "光纖通訊",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "黃振發",
+    "enrollment": "105/2額滿",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[5]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-136",
+    "code": "E2-136 E233900 [EE3390]",
+    "name": "太陽能光伏電子系統理論與應用 因實驗器材數量限20人",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "楊宏澤",
+    "enrollment": "128/52",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92177",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-137",
+    "code": "E2-137 E233000 [EE4330]",
+    "name": "電機機械",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳建富",
+    "enrollment": "14/56",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 92177",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-139",
+    "code": "E2-139 E246400 [EE5530]",
+    "name": "計算機演算法 大三四選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "李昆忠",
+    "enrollment": "23/47",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92383",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-142",
+    "code": "E2-142 E230110 [EE3110]",
+    "name": "半導體專題（一） 電子所",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "莊文魁",
+    "enrollment": "11/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-144",
+    "code": "E2-144 E230310 [EE3210]",
+    "name": "自動控制專題（一） 控制組",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "王振興",
+    "enrollment": "10/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-145",
+    "code": "E2-145 E230410 [EE3310]",
+    "name": "電力技術專題（一） 電力組",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "張簡樂仁",
+    "enrollment": "12/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-146",
+    "code": "E2-146 E230510 [EE3510]",
+    "name": "電腦與網路專題（一） 電腦與網路組",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "謝錫堃* 劉光浩",
+    "enrollment": "30/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-148",
+    "code": "E2-148 E230710 [EE3610]",
+    "name": "ＶＬＳＩ／ＣＡＤ專題（一） VLSI/CAD組",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "賴源泰",
+    "enrollment": "26/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-149",
+    "code": "E2-149 E230810 [EE3710]",
+    "name": "儀器系統專題（一） 儀器系統組",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "林志隆",
+    "enrollment": "19/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E2-150",
+    "code": "E2-150 E243900 [EE5310]",
+    "name": "電源轉換器設計 韌性智慧能源學分學程，跨域永續綠能學分學程  大三四選修",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "梁從主",
+    "enrollment": "22/8",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92720",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E2-152",
+    "code": "E2-152 E230900 [EE3660]",
+    "name": "單晶片系統設計與應用 大三四選修 (含實習)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "戴政祺",
+    "enrollment": "29/41",
+    "locations": [
+      "92325",
+      "92377",
+      "電機系館"
+    ],
+    "period": "[5]1~2 電機系館 92377 [5]3~N 電機系館 92325",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E2-153",
+    "code": "E2-153 E230600 [EE5721]",
+    "name": "多媒體網際網路應用 大三四選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "陳立祥",
+    "enrollment": "16/54",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]7~9 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E200000-ZA",
+    "code": "E200000-ZA [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "20/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E200000-ZB",
+    "code": "E200000-ZB [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E200000-ZC",
+    "code": "E200000-ZC [EE10]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "E2",
+    "department": "電機系 EE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "id": "R7-001",
+    "code": "R7-001 R750121-1 [IM6192]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "王惠嘉 王維聰",
+    "enrollment": "25/204",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[4]5 工管系館 61206",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R7-002",
+    "code": "R7-002 R750141 [IM9194]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "黃宇翔 翁慈宗 王逸琳",
+    "enrollment": "27/08",
+    "locations": [
+      "61204",
+      "工管系館"
+    ],
+    "period": "[4]7~8 工管系館 61204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R7-003",
+    "code": "R7-003 R353600 [IIM7017]",
+    "name": "資訊管理專論 需電腦上機，工管所、資管所及專班合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "呂執中",
+    "enrollment": "39/17",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[4]B~D 工管系館 61208",
+    "slots": []
+  },
+  {
+    "id": "R7-007",
+    "code": "R7-007 R361200 [IIM7043]",
+    "name": "人力資源管理 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "李再長",
+    "enrollment": "9/47",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[3]2~4 工管系館 61208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-008",
+    "code": "R7-008 R365200 [IIM7048]",
+    "name": "隨機模式 工管所資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "張秀雲",
+    "enrollment": "19/30",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[4]4 工管系館 61206 [5]3~4 工管系館 61206",
+    "slots": [
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-025",
+    "code": "R7-025 R381000 [IIM7062]",
+    "name": "機器學習 FinTech金融科技學分學程  工管所資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "翁慈宗",
+    "enrollment": "13/101",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[1]5~6 工管系館 61206 [3]5 工管系館 61206",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-027",
+    "code": "R7-027 R353700 [IIM7018]",
+    "name": "智慧型決策支援系統 工管資管所合班，限本系  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "李昇暾",
+    "enrollment": "12/012",
+    "locations": [
+      "61202",
+      "工管系館"
+    ],
+    "period": "[3]6~8 工管系館 61202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-056",
+    "code": "R7-056 R352900 [IIM7010]",
+    "name": "不確定模式與管理 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "陳梁軒",
+    "enrollment": "105/41",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[1]3 工管系館 61208 [4]2~3 工管系館 61208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-057",
+    "code": "R7-057 R751100 [IM7112]",
+    "name": "類神經計算與控制方法 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "吳植森",
+    "enrollment": "27/8",
+    "locations": [
+      "61204",
+      "61206",
+      "工管系館"
+    ],
+    "period": "[4]3 工管系館 61206 [5]3~4 工管系館 61204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-059",
+    "code": "R7-059 R381100 [IIM7063]",
+    "name": "網路最佳化管理 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "王逸琳",
+    "enrollment": "10/46",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[2]2~4 工管系館 61208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-060",
+    "code": "R7-060 R750121-2 [IM6192]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "李昇暾",
+    "enrollment": "5/030",
+    "locations": [
+      "61204",
+      "工管系館"
+    ],
+    "period": "[4]5 工管系館 61204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R7-061",
+    "code": "R7-061 R363200 [IIM7045]",
+    "name": "策略管理 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "林清河",
+    "enrollment": "09/47",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[1]6~8 工管系館 61208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-062",
+    "code": "R7-062 R770140 [IM]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "李昇暾",
+    "enrollment": "2/303",
+    "locations": [
+      "61204",
+      "工管系館"
+    ],
+    "period": "[4]5~6 工管系館 61204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R7-063",
+    "code": "R7-063 R750300 [IM7109]",
+    "name": "系統式思考與學習 工管所與資管所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "王維聰",
+    "enrollment": "150/41",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[4]4 工管系館 61208 [5]3~4 工管系館 61208",
+    "slots": [
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-064",
+    "code": "R7-064 R364300 [IIM]",
+    "name": "供應鏈管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "林清河",
+    "enrollment": "61/17",
+    "locations": [
+      "61102",
+      "工管系館"
+    ],
+    "period": "[3]2~4 工管系館 61102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-065",
+    "code": "R7-065 R356900 [IIM7023]",
+    "name": "行銷策略",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "張信雄",
+    "enrollment": "550/1",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[2]B~D 工管系館 61208",
+    "slots": []
+  },
+  {
+    "id": "R7-066",
+    "code": "R7-066 R356400 [IIM7022]",
+    "name": "高等資料庫管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "王惠嘉",
+    "enrollment": "38/2",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[2]2~4 工管系館 61206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-067",
+    "code": "R7-067 R354600-1 [IIM7017E]",
+    "name": "多變量分析與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "黃宇翔",
+    "enrollment": "49/5",
+    "locations": [
+      "61304",
+      "工管系館"
+    ],
+    "period": "[3]6~8 工管系館 61304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-068",
+    "code": "R7-068 R360400 [IIM7039E]",
+    "name": "策略競局",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "謝中奇",
+    "enrollment": "33/02",
+    "locations": [
+      "61204",
+      "工管系館"
+    ],
+    "period": "[2]6~8 工管系館 61204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R7-069",
+    "code": "R7-069 N472800 [RE7308]",
+    "name": "創新與科技管理 資源所、工管所及資管所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R7",
+    "department": "資管所 IM",
+    "teacher": "施勵行",
+    "enrollment": "24/06",
+    "locations": [
+      "資源系館",
+      "4350"
+    ],
+    "period": "[3]6~8 資源系館 4350",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

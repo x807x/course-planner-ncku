@@ -1,0 +1,653 @@
+[
+  {
+    "id": "VE-001",
+    "code": "VE-001 VE50200 [MPPE6903]",
+    "name": "系統控制技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "李嘉猷* 李祖聖",
+    "enrollment": "185/15",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[2]A~C 電機系館 92820",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-002",
+    "code": "VE-002 N250020-5 [EE7092]",
+    "name": "專題討論（二） 控制組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "吳謂勝",
+    "enrollment": "51/不8限",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[4]N~5 電機系館 92820",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VE-003",
+    "code": "VE-003 N250040-5 [EE7094]",
+    "name": "專題討論（四） 控制組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "莊智清",
+    "enrollment": "864/不限",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[3]N~5 電機系館 92820",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VE-004",
+    "code": "VE-004 N25G800 [EE7314]",
+    "name": "電力系統控制與穩定度",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "王醴",
+    "enrollment": "3/27",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[4]6~8 電機系館 92720",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-005",
+    "code": "VE-005 N250020-6 [EE7092]",
+    "name": "專題討論（二） 電力組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "張簡樂仁* 林瑞禮",
+    "enrollment": "628/不限",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[3]N~5 電機系館 92720",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VE-006",
+    "code": "VE-006 N250040-6 [EE7094]",
+    "name": "專題討論（四） 電力組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "陳建富*",
+    "enrollment": "56/不限",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[2]N~5 電機系館 92720",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VE-007",
+    "code": "VE-007 N270300 [EE8212E]",
+    "name": "電子導航 太空科學與工程學分學程 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "莊智清",
+    "enrollment": "11/19",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[3]2~4 電機系館 92820",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-008",
+    "code": "VE-008 VE50301 [MPPE6907]",
+    "name": "系統控制分析與模擬 電腦教室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "李祖聖* 李嘉猷",
+    "enrollment": "15/15",
+    "locations": [],
+    "period": "[4]B~D",
+    "slots": []
+  },
+  {
+    "id": "VE-009",
+    "code": "VE-009 N25C600 [EE6231]",
+    "name": "非接觸式饋電監控系統專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "李嘉猷",
+    "enrollment": "85/25",
+    "locations": [
+      "電機系館",
+      "92820"
+    ],
+    "period": "[2]6~8 電機系館 92820",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-010",
+    "code": "VE-010 N26F800 [EE9712]",
+    "name": "生醫積體電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "魏嘉玲",
+    "enrollment": "811/59",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[3]7 電機系館 92371 [4]3~4 電機系館 92371",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-011",
+    "code": "VE-011 N279400 [EE8243E]",
+    "name": "最佳化理論之應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "王振興",
+    "enrollment": "853/17",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92383",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-012",
+    "code": "VE-012 N26C800 [EE8333]",
+    "name": "負載潮流分析 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "蕭純育",
+    "enrollment": "75/額滿",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[6]2~4 電機系館 92225",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-013",
+    "code": "VE-013 N257700 [EE6333]",
+    "name": "電機械特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "陳建富",
+    "enrollment": "40/380",
+    "locations": [
+      "92171",
+      "電機系館"
+    ],
+    "period": "[4]2~4 電機系館 92171",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-014",
+    "code": "VE-014 N25C900 [EE6232]",
+    "name": "智慧型控制專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "李祖聖",
+    "enrollment": "18/582",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[1]7~9 電機系館 92371",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-015",
+    "code": "VE-015 N279200 [EE9332]",
+    "name": "工業電子專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "王醴",
+    "enrollment": "3/287",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92720",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-016",
+    "code": "VE-016 N26I700 [EE7201]",
+    "name": "自動駕駛實務 人工智慧學分學程  碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "莊智清* 傅志雄",
+    "enrollment": "8106/70",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]A~C 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-017",
+    "code": "VE-017 N26I500 [EE7791]",
+    "name": "電源管理晶片之分析與設計專論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "魏嘉玲",
+    "enrollment": "855/15",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[2]6~7 電機系館 92371 [3]6 電機系館 92371",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-018",
+    "code": "VE-018 N256700 [EE6324]",
+    "name": "高壓輸電",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "張忠良",
+    "enrollment": "36/1",
+    "locations": [
+      "電機系館",
+      "92225"
+    ],
+    "period": "[6]6~8 電機系館 92225",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VE-021",
+    "code": "VE-021 VE50420 [MPPE6020]",
+    "name": "論文研討（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "梁從主* 李嘉猷",
+    "enrollment": "11/19",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]A~B 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VE-022",
+    "code": "VE-022 VE60100 [MPPE6909]",
+    "name": "論文研討",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VE",
+    "department": "電子產碩 MPPE",
+    "teacher": "梁從主* 李嘉猷",
+    "enrollment": "4/16",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]A~B 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  }
+]

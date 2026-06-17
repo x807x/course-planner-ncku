@@ -1,0 +1,973 @@
+[
+  {
+    "id": "A718320-Zi",
+    "code": "A718320-Zi [CL1080]",
+    "name": "大學國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119120-Zl",
+    "code": "A119120-Zl [FLC1001]",
+    "name": "外國語言（二） 核心通識，依照國際語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z1",
+    "code": "H200000-Z1 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/4請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H210020-Z",
+    "code": "H210020-Z [STAT]",
+    "name": "體育（二） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-006",
+    "code": "H2-006 H211620 [STAT1008]",
+    "name": "統計學（二） 業界專家參與 數據量化分析專長微學程  週三第1節另有1節實習課(外加)，欲修課同學此時段不要再選別的課。  需先修以下科目:《統計學（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "蘇佩芳",
+    "enrollment": "80/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[1]2~3 統計系館 62223 [3]2 統計系館 62223",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-007",
+    "code": "H2-007 H210301 [STAT1001]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "李政德",
+    "enrollment": "76/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[2]1 統計系館 62225 [4]3~4 統計系館 62225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-010",
+    "code": "H2-010 H210820 [STAT1004]",
+    "name": "微積分（二） 週三第6節另有1節實習課(外加)，欲修課同學此時段不要再選別的課。  需先修以下科目:《微積分（一）/必修/3.0 學分/50 分以上》",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "戴安順",
+    "enrollment": "50/4網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[1]5~6 統計系館 62223 [3]5 統計系館 62223",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-015",
+    "code": "H2-015 H211220 [STAT1006]",
+    "name": "經濟學（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "李繼宇",
+    "enrollment": "484/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[4]5~7 統計系館 62223",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-016",
+    "code": "H2-016 H217920 [STAT0012]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "馬瀰嘉",
+    "enrollment": "547/24",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[2]N 統計系館 62223",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-052",
+    "code": "H2-052 H222300 [STAT2020]",
+    "name": "數理統計（一） 數據量化分析專長微學程  週四第一節另有一節實習課(外加)，欲修課同學此時段不要再選別的課。  需先修以下科目:《機率概論/選修/3.0 學分/50 分以上》《統計學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "趙昌泰",
+    "enrollment": "744/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[2]3~4 統計系館 62115 [4]2 統計系館 62115",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-053",
+    "code": "H2-053 H231801 [STAT2013]",
+    "name": "迴歸分析 英語授課 業界專家參與 數據量化分析專長微學程  EMI課程(英文授課比例：100%)  需先修以下科目:《統計學（二）/必修/3.0 學分/50 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "張欣民",
+    "enrollment": "924/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[3]7~9 統計系館 62115",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-054",
+    "code": "H2-054 H230420 [STAT2009]",
+    "name": "會計學（二）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "施坤宏",
+    "enrollment": "66/網路選課不開4放",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[1]7~9 統計系館 62117",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-056",
+    "code": "H2-056 H220401 [STAT2002]",
+    "name": "抽樣調查",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "趙昌泰",
+    "enrollment": "75/網路選課不4開放",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[2]2 統計系館 62115 [5]2~3 統計系館 62115",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-057",
+    "code": "H2-057 H222800 [STAT2007]",
+    "name": "統計軟體與繪圖",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "49/網路4選課不開放",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[2]7~9 統計系館 62225",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z5",
+    "code": "H200000-Z5 [STAT]",
+    "name": "通識課程",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-059",
+    "code": "H2-059 H232300 [STAT2014]",
+    "name": "保險數學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "許秀麗",
+    "enrollment": "34/網路選課不開4放",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[3]2~4 統計系館 62113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H210040-Z",
+    "code": "H210040-Z [STAT]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-103",
+    "code": "H2-103 H230500 [STAT3005]",
+    "name": "多變量分析 數據量化分析專長微學程  需先修以下科目:《統計學（二）/必修/3.0 學分/50 分以上》《線性代數/必修/3.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "王義富",
+    "enrollment": "684/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[3]3~4 統計系館 62223 [5]4 統計系館 62223",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z3",
+    "code": "H200000-Z3 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-117",
+    "code": "H2-117 H233000 [STAT3012]",
+    "name": "類別資料分析 數據量化分析專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "馬瀰嘉",
+    "enrollment": "70/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62223"
+    ],
+    "period": "[2]6~8 統計系館 62223",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-124",
+    "code": "H2-124 H248100 [STAT3022]",
+    "name": "時間數列分析",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "林良靖",
+    "enrollment": "12/網路選4課不開放",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[4]2~4 統計系館 62119",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-125",
+    "code": "H2-125 H241200 [STAT4015]",
+    "name": "統計模擬",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "李宜真",
+    "enrollment": "72/網路選課不開放",
+    "locations": [
+      "62333",
+      "統計系館"
+    ],
+    "period": "[1]5~7 統計系館 62333",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-127",
+    "code": "H2-127 H233800 [STAT3014]",
+    "name": "統計調查實務 第一階段不受理選課",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "趙昌泰",
+    "enrollment": "384/12",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[5]9~A 統計系館 62119",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-128",
+    "code": "H2-128 H423200 [BA1204]",
+    "name": "實用民商法律入門 企管系與統計系合開",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "林佑鴻",
+    "enrollment": "74/額滿",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[3]6~8 企管系館 62121",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-129",
+    "code": "H2-129 H133800 [ACC3021E]",
+    "name": "公司理財 會計系、統計系與企管系合開，建議先修過「基本財務學」或「財務管理」課程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "梁少懷",
+    "enrollment": "74/13",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z4",
+    "code": "H200000-Z4 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "40/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-152",
+    "code": "H2-152 H242300 [STAT4028]",
+    "name": "巨量資料分析 FinTech金融科技學分學程 業界專家參與",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "鄭順林",
+    "enrollment": "20/網路選課不開放",
+    "locations": [
+      "統計系館",
+      "62225"
+    ],
+    "period": "[1]6~8 統計系館 62225",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-153",
+    "code": "H2-153 H240900 [STAT4013]",
+    "name": "統計實務",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "楊明宗",
+    "enrollment": "15/35",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[2]2~4 統計系館 62113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-154",
+    "code": "H2-154 D533500 [ECON3020]",
+    "name": "財務計算與數據分析 計量財務專長微學程  經濟分析工具領域  需先修以下科目:《統計學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳奕奇",
+    "enrollment": "604/額滿",
+    "locations": [
+      "社科院大樓",
+      "階梯教室-經濟"
+    ],
+    "period": "[3]2~4 社科院大樓 階梯教室-經濟",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-156",
+    "code": "H2-156 H132000 [ACC3009]",
+    "name": "財務管理 FinTech金融科技學分學程，防災科技管理學分學程 英語授課  EMI課程(英文授課比例:100%)。與統計系合開，此門課限\"未\"修過「基本財務學」課程的同學選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "黃炳勳",
+    "enrollment": "432/8",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

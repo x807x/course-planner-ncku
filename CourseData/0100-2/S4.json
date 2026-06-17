@@ -1,0 +1,317 @@
+[
+  {
+    "id": "S4-001",
+    "code": "S4-001 S410100 [MI6111]",
+    "name": "醫學微生物學 與醫學系合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "葉才明 王德華 劉校生 楊倍昌 余俊強 陳舜華 何漣漪 蕭璦莉 林以行 王淑鶯",
+    "enrollment": "6/114",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[1]5~6 醫學院 第一講堂 [3]1~2 醫學院 第一講堂 [5]1~2 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-004",
+    "code": "S4-004 S410120 [MI6002]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "呂政展 何漣漪",
+    "enrollment": "21/29",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-005",
+    "code": "S4-005 S410140 [MI6004]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "呂政展 何漣漪",
+    "enrollment": "23/27",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-006",
+    "code": "S4-006 S450800 [MI7001]",
+    "name": "基因治療特論 基醫所、微免所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "郭保麟 王崇任 許耿福 吳昭良 陳毓宏 謝嘉興 顏孟畿 蕭璦莉 袁國",
+    "enrollment": "26/8",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 1124",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-007",
+    "code": "S4-007 S451500 [MI7112]",
+    "name": "高等細菌學 基醫所，微免所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "吳俊忠 何漣漪 鄧景浩",
+    "enrollment": "68/26",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[4]2~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-008",
+    "code": "S4-008 S450700 [MI6000]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "呂政展 何漣漪",
+    "enrollment": "2/468",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[3]6~7 醫學院 601",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-009",
+    "code": "S4-009 S451100 [MI7222]",
+    "name": "腫瘤免疫學 基醫所，微免所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "楊倍昌 凌斌 張志鵬",
+    "enrollment": "11/623",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]3~4 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-010",
+    "code": "S4-010 S410900 [MI7111]",
+    "name": "高等病毒學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "楊孔嘉 王貞仁 張定宗 劉校生 陳舜華 凌斌 張　堯 林秋烽 王憲威",
+    "enrollment": "17/167",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[4]5~7 醫學院 1124",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-012",
+    "code": "S4-012 S410800 [MI6071]",
+    "name": "實驗微生物及免疫學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "劉校生 楊倍昌 陳舜華 何漣漪 蕭璦莉 林以行 凌斌 王淑鶯",
+    "enrollment": "262/12",
+    "locations": [
+      "1124",
+      "醫學院"
+    ],
+    "period": "[2]5 醫學院 1124",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S4-013",
+    "code": "S4-013 S452100 [MI7331]",
+    "name": "高等寄生蟲學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S4",
+    "department": "微免所 MI",
+    "teacher": "辛致煒",
+    "enrollment": "6/164",
+    "locations": [
+      "醫學院",
+      "821024"
+    ],
+    "period": "[4]7~8 醫學院 821024",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

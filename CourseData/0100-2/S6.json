@@ -1,0 +1,525 @@
+[
+  {
+    "id": "S6-001",
+    "code": "S6-001 S650220 [CP6019]",
+    "name": "臨床藥學專題討論（二） 醫院藥學組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高雅慧 蔡瑞真 周辰熹 王明誠",
+    "enrollment": "8/452",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]1 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-002",
+    "code": "S6-002 S650320 [CP6002]",
+    "name": "藥品動態書報討論（二） 藥品動態組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎 蔡瑞真 周辰熹",
+    "enrollment": "2/48",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]7~8 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-003",
+    "code": "S6-003 S650710 [CP6009]",
+    "name": "臨床實習（一） 醫院藥學組，醫院實習",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高淑敏 許美英 林嘉音",
+    "enrollment": "8/342",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "S6-004",
+    "code": "S6-004 S670820 [CP9002]",
+    "name": "藥物發展實習（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎",
+    "enrollment": "7/453",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 304D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S6-005",
+    "code": "S6-005 S670840 [CP9004]",
+    "name": "藥物發展實習（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎",
+    "enrollment": "46/54",
+    "locations": [
+      "304D",
+      "醫學院"
+    ],
+    "period": "[5]5~6 醫學院 304D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S6-006",
+    "code": "S6-006 S654100 [CP7004]",
+    "name": "臨床藥品動態學 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎 周辰熹",
+    "enrollment": "11/49",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[5]1~2 醫學院 602 [5]3~4 醫學院 602 [5]3~4 醫學院 602",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S6-007",
+    "code": "S6-007 S652000 [CP6011]",
+    "name": "藥品生體輸送 臨藥所藥品動態組，藥科所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "蔡瑞真",
+    "enrollment": "3/57",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]2~4 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-008",
+    "code": "S6-008 S650510 [CP6005]",
+    "name": "藥物不良反應專題討論（一） 藥劑部會議室",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高雅慧 王明誠",
+    "enrollment": "8/226",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[3]1 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-009",
+    "code": "S6-009 S650610 [CP6007]",
+    "name": "藥物治療專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高雅慧 王明誠",
+    "enrollment": "8/52",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[3]8~9 醫學院 604",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-010",
+    "code": "S6-010 S670120 [CP9091]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "林立人 賴明亮 簡伯武 黃金鼎 高雅慧 蔡瑞真 周辰熹 王明誠 陳本忠 郭靜娟 陳立宗 劉柯俊",
+    "enrollment": "7/33",
+    "locations": [
+      "202D",
+      "醫學院"
+    ],
+    "period": "[5]7~8 醫學院 202D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S6-011",
+    "code": "S6-011 S670140 [CP9093]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "賴明亮 簡伯武 黃金鼎 高雅慧 蔡瑞真 周辰熹 王明誠 陳本忠 郭靜娟 陳立宗 劉柯俊",
+    "enrollment": "6/434",
+    "locations": [
+      "醫學院",
+      "203D"
+    ],
+    "period": "[5]7~8 醫學院 203D",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S6-012",
+    "code": "S6-012 S670160 [CP9095]",
+    "name": "專題討論（六） 全體教師分組討論",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎",
+    "enrollment": "6/44",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]7 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "S6-014",
+    "code": "S6-014 S670500 [CP9005]",
+    "name": "藥物流行病學特論",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高雅慧",
+    "enrollment": "7/543",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 604",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-016",
+    "code": "S6-016 S652600 [CP6013]",
+    "name": "藥動學應用軟體概論",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "周辰熹",
+    "enrollment": "4/416",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]5 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-017",
+    "code": "S6-017 S650240 [CP6021]",
+    "name": "臨床藥學專題討論（四） 醫院藥學組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "高雅慧 蔡瑞真 周辰熹 王明誠",
+    "enrollment": "5/55",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[4]1 醫學院 602",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-018",
+    "code": "S6-018 S650340 [CP6004]",
+    "name": "藥品動態書報討論（四） 藥品動態組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎 蔡瑞真 周辰熹",
+    "enrollment": "2/48",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]7~8 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-027",
+    "code": "S6-027 S653400 [CP7014]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎",
+    "enrollment": "8/52",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]1 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S6-028",
+    "code": "S6-028 S670900 [CPPS9011]",
+    "name": "藥物法規科學特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S6",
+    "department": "臨藥科技所 CPPS",
+    "teacher": "黃金鼎",
+    "enrollment": "34/17",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]2~4 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

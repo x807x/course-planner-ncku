@@ -1,0 +1,212 @@
+[
+  {
+    "id": "U7-004",
+    "code": "U7-004 U750600 [CS]",
+    "name": "語言處理綜論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "陳振宇",
+    "enrollment": "5/78",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[2]2~4 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-005",
+    "code": "U7-005 U751600 [CS]",
+    "name": "神經科學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "14/額滿",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[1]2~4 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U7-006",
+    "code": "U7-006 U752500 [CS7205]",
+    "name": "臉孔與物體辨識綜論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "龔俊嘉",
+    "enrollment": "170/5",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[3]7~9 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U7-011",
+    "code": "U7-011 U761300 [CS7296]",
+    "name": "腦神經電生理學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "13/額7滿",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[1]9~B 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U7-012",
+    "code": "U7-012 U750100 [CS]",
+    "name": "認知科學研究法（含實習） 英語授課  英語授課 (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "14/額7滿",
+    "locations": [
+      "27322",
+      "雲平大樓"
+    ],
+    "period": "[4]5~7 雲平大樓 27322 [4]3~4 雲平大樓 27322",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "U7-013",
+    "code": "U7-013 U790100 [CS7106]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U7",
+    "department": "心理所 CS",
+    "teacher": "蕭富仁",
+    "enrollment": "5/不限",
+    "locations": [
+      "雲平大樓",
+      "5F交誼室"
+    ],
+    "period": "[5]5 雲平大樓 5F交誼室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "id": "S3-001",
+    "code": "S3-001 S350810 [PHSL]",
+    "name": "實驗生理學（一） 醫學院合班上課  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "陳洵瑛",
+    "enrollment": "27/63",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]1~2 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-002",
+    "code": "S3-002 S310110 [PHSL6091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳豐森 潘偉豐 湯銘哲 蔡少正 黃阿敏 蔡美玲 任卓穎 陳洵瑛 陳麗玉 吳勝男",
+    "enrollment": "17/43",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]6 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-003",
+    "code": "S3-003 S311300 [PHSL6005]",
+    "name": "神經科學",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳豐森 黃阿敏",
+    "enrollment": "14/27",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[2]5~6 醫學院 0724",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-004",
+    "code": "S3-004 S310100 [PHSL6001]",
+    "name": "高等生理學 醫療器材與系統學程  限本所學生選，外系所需經本所同意  限本系 (含實習)",
+    "grade": 1,
+    "credits": 6,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳豐森 潘偉豐 湯銘哲 蔡少正 吳勝男",
+    "enrollment": "17/4",
+    "locations": [
+      "81305",
+      "醫學院",
+      "0724"
+    ],
+    "period": "[1]1 醫學院 0724 [2]1~2 醫學院 0724 [4]1~2 醫學院 0724 [1]2~4 醫學院 81305",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S3-005",
+    "code": "S3-005 S350310 [PHSL]",
+    "name": "神經生理學書報討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳豐森 黃阿敏",
+    "enrollment": "6/215",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[1]8 醫學院 0724",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-006",
+    "code": "S3-006 S350210 [PHSL]",
+    "name": "內分泌學書報討論（一） 限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "蔡少正",
+    "enrollment": "22/13",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[1]5 醫學院 0711",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-007",
+    "code": "S3-007 S352710 [PHSL]",
+    "name": "循環書報討論（一） 生理所，基醫所合班",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "任卓穎",
+    "enrollment": "2/19",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[1]5 醫學院 0724",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-008",
+    "code": "S3-008 S360501 [PHSL]",
+    "name": "生物資訊學 丙組必修，甲乙組選修，分醫，生理，基醫，臨醫，藥科，醫工，生訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "蔡少正",
+    "enrollment": "18/22",
+    "locations": [
+      "醫學院",
+      "醫圖電腦教室"
+    ],
+    "period": "[3]2~4 醫學院 醫圖電腦教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-009",
+    "code": "S3-009 S350610 [PHSL6008E]",
+    "name": "懷孕生理學（一） 英語授課  生理所基醫所合班，英語授課  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "蔡美玲 李碧雪",
+    "enrollment": "3/122",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[4]3~4 醫學院 0711",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-010",
+    "code": "S3-010 S351600-1 [PHSL6002]",
+    "name": "研究方法導論 限本所學生  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "任卓穎",
+    "enrollment": "7/8",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[5]3~4 醫學院 0711",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-011",
+    "code": "S3-011 S351600-2 [PHSL6002]",
+    "name": "研究方法導論 限本所學生  限本系",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "陳洵瑛",
+    "enrollment": "120/11",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[5]3~4 醫學院 0724",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-012",
+    "code": "S3-012 S360100 [PHSL]",
+    "name": "基因治療與血管新生 英語授課  英語授課  限本系",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "蔡美玲",
+    "enrollment": "3/128",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[1]6 醫學院 0724",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-013",
+    "code": "S3-013 S361020 [PHSL6030]",
+    "name": "細胞及分子生理學書報討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "湯銘哲",
+    "enrollment": "3/128",
+    "locations": [
+      "醫學院",
+      "0724"
+    ],
+    "period": "[4]8 醫學院 0724",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-014",
+    "code": "S3-014 S310130 [PHSL6093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳豐森 潘偉豐 湯銘哲 蔡少正 黃阿敏 蔡美玲 任卓穎 陳洵瑛 陳麗玉 吳勝男",
+    "enrollment": "11/49",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]7 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-015",
+    "code": "S3-015 S360200 [PHSL6099]",
+    "name": "專題討論 僅供碩三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "陳洵瑛",
+    "enrollment": "9/251",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[4]7 醫學院 604",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-016",
+    "code": "S3-016 S352410 [PHSL6017]",
+    "name": "細胞電生理（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "吳勝男",
+    "enrollment": "22/13",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[3]5~6 醫學院 0711",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-017",
+    "code": "S3-017 S361110 [PHSL]",
+    "name": "聽覺生理學書報討論（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "潘偉豐",
+    "enrollment": "4/11",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[3]8 醫學院 0711",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S3-024",
+    "code": "S3-024 S311600 [PHSL]",
+    "name": "運動生理學 英語授課  英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S3",
+    "department": "生理所 PHSL",
+    "teacher": "陳洵瑛 游一龍",
+    "enrollment": "29/6",
+    "locations": [
+      "醫學院",
+      "0711"
+    ],
+    "period": "[2]7~8 醫學院 0711",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

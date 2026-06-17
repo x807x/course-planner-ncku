@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "A718310-Z8",
+    "code": "A718310-Z8 [CL1078]",
+    "name": "大學國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "大學國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "大學國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-ZA",
+    "code": "A119110-ZA [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-007",
+    "code": "C5-007 C515901 [CHEM1081]",
+    "name": "普通化學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李彥君* 蔡惠蓮 邱顯泰",
+    "enrollment": "1612/48",
+    "locations": [
+      "化工系館",
+      "華立廳"
+    ],
+    "period": "[2]7~8 化工系館 華立廳 [5]5~6 化工系館 華立廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-008",
+    "code": "C5-008 C516000 [CHEM1082]",
+    "name": "普通化學實驗",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "林弘萍",
+    "enrollment": "426/17",
+    "locations": [
+      "理化大樓",
+      "35102"
+    ],
+    "period": "[4]2~4 理化大樓 35102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-014",
+    "code": "C5-014 C511111 [LS1010]",
+    "name": "普通生物學（一）",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "廖泓鈞* 陳虹樺 蔣鎮宇 黃浩仁 宋皇模 劉雅心 大林祝 李瑞花 邱啟洲",
+    "enrollment": "67/30",
+    "locations": [
+      "892S1",
+      "生科院大樓南側"
+    ],
+    "period": "[1]5~6 生科院大樓南側 892S1 [5]3~4 生科院大樓南側 892S1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-015",
+    "code": "C5-015 C511210 [LS1080]",
+    "name": "普通生物學實驗（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "廖泓鈞* 宋皇模 大林祝",
+    "enrollment": "43/167",
+    "locations": [
+      "生科院大樓",
+      "89209"
+    ],
+    "period": "[4]7~9 生科院大樓 89209",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-016",
+    "code": "C5-016 C515612 [MATH1081]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "黃世昌*",
+    "enrollment": "93/166",
+    "locations": [
+      "化工系館",
+      "7202",
+      "7115",
+      "柏林講堂",
+      "唯農大樓",
+      "7113"
+    ],
+    "period": "[1]2~3 化工系館 柏林講堂 [3]2 唯農大樓 7202 [3]2 唯農大樓 7113 [3]2 唯農大樓 7115",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "A215500-ZA",
+    "code": "A215500-ZA [OPE0300]",
+    "name": "體育（一） 依照體育選項科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備6註",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C525000-Z1",
+    "code": "C525000-Z1 [LS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-021",
+    "code": "C5-021 C517910 [LS1083]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "曾淑芬* 廖泓鈞 劉雅心 許祐薰 王昭雯",
+    "enrollment": "41/9",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[1]9 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-022",
+    "code": "C5-022 C511901 [LS1002]",
+    "name": "生命科學討論（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "陳一菁* 仲澤剛史",
+    "enrollment": "43/617",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[1]7 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-052",
+    "code": "C5-052 C520211 [LS2004]",
+    "name": "生物化學（一） 醫療器材與系統學程  如需加簽請找何盧勳老師",
+    "grade": 2,
+    "credits": 4,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "何盧勳* 曾淑芬 廖泓鈞 彭怡禎",
+    "enrollment": "75/3",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[2]3~4 生科院大樓 891S2 [3]3~4 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-053",
+    "code": "C5-053 C521400 [LS2070]",
+    "name": "生物化學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "何盧勳",
+    "enrollment": "59/額滿",
+    "locations": [
+      "生科院大樓",
+      "89209"
+    ],
+    "period": "[2]7~9 生科院大樓 89209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-054",
+    "code": "C5-054 C524400 [LS2500]",
+    "name": "生物統計學 醫療器材與系統學程  需先修以下科目:《普通生物學（一）/必修/4.0 學分/0 分以上》《普通生物學（二）/必修/4.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "邱慈暉",
+    "enrollment": "664/4",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[2]1 生科院大樓 891S2 [4]3~4 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-055",
+    "code": "C5-055 C527400 [LS2702]",
+    "name": "實驗室實習 報告繳至本系大二導師（以Ｍoodle公告為準）",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "何盧勳* 李亞夫 陳一菁 彭怡禎",
+    "enrollment": "51/4",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[1]N 生科院大樓 891S2 [2]N 生科院大樓 891S2 [5]N 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-057",
+    "code": "C5-057 C522800 [LS2724]",
+    "name": "比較解剖學",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "王建平",
+    "enrollment": "176/23",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[4]1~2 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-068",
+    "code": "C5-068 C526900 [LS2426]",
+    "name": "城市農園-植物種植與利用 課程內容具服務學習內涵，可抵免生科系服務學習（需自行辦理抵免）。上課地點於生科大樓1樓廣場",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李瑞花* 蔣鎮宇",
+    "enrollment": "968/2",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-069",
+    "code": "C5-069 C527200 [LS2125]",
+    "name": "了解大腦：日常生活的神經生物學 英語授課 COURSERA  線上課程，限有coursera帳號的學生選課",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "何盧勳",
+    "enrollment": "866/114",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C5-070",
+    "code": "C5-070 C527300 [LS2525]",
+    "name": "農業、經濟、與自然 英語授課 COURSERA  線上課程，限有coursera帳號的學生選課",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李亞夫",
+    "enrollment": "865/6",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C510030-Z",
+    "code": "C510030-Z [LS]",
+    "name": "體育（三） 依照體育選項課目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "06/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C525000-Z2",
+    "code": "C525000-Z2 [LS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C525000-Z5",
+    "code": "C525000-Z5 [LS]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-102",
+    "code": "C5-102 C533200 [LS3002]",
+    "name": "植物生理學 生科系必修（可與動物生理學2選1）；生技系選修。  需先修以下科目:《普通生物學（一）/必修/4.0 學分/0 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李瑞花* 大林祝 郭瑋君 張文綺 邱啟洲",
+    "enrollment": "46/9",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[2]2 生科院大樓 892S4 [5]3~4 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-106",
+    "code": "C5-106 C531700 [LS3000]",
+    "name": "微生物學 需先修以下科目:《普通生物學（一）/必修/4.0 學分/0 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "王昭雯* 何宗憲 黃兆立",
+    "enrollment": "45/10",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[1]7 生科院大樓 892S4 [4]7~8 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-107",
+    "code": "C5-107 C531800 [LS3070]",
+    "name": "微生物學實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "王昭雯* 黃兆立",
+    "enrollment": "465/5",
+    "locations": [
+      "生科院大樓",
+      "89209"
+    ],
+    "period": "[3]7~9 生科院大樓 89209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-108",
+    "code": "C5-108 C530900 [LS3002]",
+    "name": "動物生理學 生科系必修（可與植物生理學2選1）  需先修以下科目:《普通生物學（一）/必修/4.0 學分/0 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李純純* 曾淑芬 彭怡禎 許祐薰",
+    "enrollment": "467/8",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[1]2~3 生科院大樓 892S4 [3]2 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-110",
+    "code": "C5-110 C534500 [LS2304]",
+    "name": "功能性生物資料分析",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "宋皇模",
+    "enrollment": "14/16",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[2]3~4 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-111",
+    "code": "C5-111 C532910 [LS3790]",
+    "name": "生命科學專題研究（一） 報告繳交至本系大三導師（以Ｍoodle公告為準）。",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李純純* 陳虹樺 邱慈暉",
+    "enrollment": "10/615",
+    "locations": [],
+    "period": "[5]9~B",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "C5-116",
+    "code": "C5-116 C526400 [LS2320]",
+    "name": "蘭花生物科技學 業界專家參與  歡迎生科系、生技系大二以上同學選修。",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "陳虹樺* 陳文輝 吳文鑾 張清俊 蔡文杰",
+    "enrollment": "81/4",
+    "locations": [
+      "893S1",
+      "生科院大樓南側"
+    ],
+    "period": "[3]5~6 生科院大樓南側 893S1",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-117",
+    "code": "C5-117 C541900 [LS3500]",
+    "name": "寄生蟲學 與護理系相同課程，勿重複修習",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "林威辰* 辛致煒",
+    "enrollment": "45/5",
+    "locations": [
+      "生科院大樓",
+      "892S3"
+    ],
+    "period": "[5]3~4 生科院大樓 892S3",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C525000-Z3",
+    "code": "C525000-Z3 [LS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備6註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-150",
+    "code": "C5-150 C524901 [LS2770]",
+    "name": "實習課程 暑期校外實習，報告繳至本系大三導師（以Ｍoodle公告為準）。未實習學生請退選。",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "陳虹樺* 邱慈暉 李純純",
+    "enrollment": "44/66",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "C5-151",
+    "code": "C5-151 C540110-1 [LS4091]",
+    "name": "書報討論（一） 生科四請加簽導師班，其他學生請洽詢系辦，以人數平均為原則。  第一階段不受理選課",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "宋皇模* 陳一菁",
+    "enrollment": "616/額滿",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[2]5~6 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C5-152",
+    "code": "C5-152 C540110-2 [LS4091]",
+    "name": "書報討論（一） 生科四請加簽導師班，其他學生請洽詢系辦，以人數平均為原則。  第一階段不受理選課",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "蔣鎮宇* 彭怡禎",
+    "enrollment": "13/1",
+    "locations": [
+      "生科院大樓",
+      "892S4"
+    ],
+    "period": "[2]5~6 生科院大樓 892S4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C5-153",
+    "code": "C5-153 C540110-3 [LS4091]",
+    "name": "書報討論（一） 生科四請加簽導師班，大林祝老師導生加簽本班，其他學生請洽詢系辦，以人數平均為原則。  第一階段不受理選課",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "仲澤剛史* 劉雅心",
+    "enrollment": "15/額滿",
+    "locations": [
+      "生科院大樓",
+      "892S3"
+    ],
+    "period": "[2]5~6 生科院大樓 892S3",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C5-155",
+    "code": "C5-155 C541610 [LS4790]",
+    "name": "論文（一）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "王浩文",
+    "enrollment": "1/11",
+    "locations": [],
+    "period": "[1]1",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "C525000-Z4",
+    "code": "C525000-Z4 [LS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-158",
+    "code": "C5-158 C540900 [LS3702]",
+    "name": "酵素學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "麥愛堂",
+    "enrollment": "20/25",
+    "locations": [
+      "生科院大樓",
+      "892S3"
+    ],
+    "period": "[1]1~3 生科院大樓 892S3",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-162",
+    "code": "C5-162 C534800 [LS3505]",
+    "name": "環境政策 防災科技管理學分學程  與政治系合開",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "楊永年",
+    "enrollment": "3/162",
+    "locations": [
+      "80106",
+      "社科院大樓"
+    ],
+    "period": "[1]7~8 社科院大樓 80106",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-164",
+    "code": "C5-164 L585500 [LS5707]",
+    "name": "全球變遷生物學 碩士班與大四合班，歡迎大三以上選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "陳一菁",
+    "enrollment": "162/8",
+    "locations": [
+      "生科院大樓",
+      "89106"
+    ],
+    "period": "[3]2~4 生科院大樓 89106",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-165",
+    "code": "C5-165 L555400 [LS5701]",
+    "name": "行為生物學 碩士班與大四合班，歡迎大三以上選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "李亞夫* 曾淑芬 劉雅心 陳德祐",
+    "enrollment": "306/25",
+    "locations": [
+      "891S2",
+      "生科院大樓"
+    ],
+    "period": "[2]7~9 生科院大樓 891S2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "C5-167",
+    "code": "C5-167 C544400 [LS4716]",
+    "name": "生態模型導論 英語授課  歡迎大三、大四同學選修",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "生物科學與科技學院",
+    "departmentCode": "C5",
+    "department": "生科系 LS",
+    "teacher": "仲澤剛史",
+    "enrollment": "4/66",
+    "locations": [
+      "生科院大樓",
+      "89109"
+    ],
+    "period": "[4]2~4 生科院大樓 89109",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

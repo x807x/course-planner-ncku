@@ -1,0 +1,342 @@
+[
+  {
+    "id": "Q7-001",
+    "code": "Q7-001 Q750110 [NICE7110]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "江孟學",
+    "enrollment": "156/不限",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[4]N~5 電機系館 92371",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q7-002",
+    "code": "Q7-002 Q750130 [NICE7130]",
+    "name": "專題討論（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "江孟學*",
+    "enrollment": "21/不限",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[5]N~5 電機系館 92371",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "Q7-011",
+    "code": "Q7-011 Q750400 [NICE6502]",
+    "name": "半導體感測器實務技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "曾永華",
+    "enrollment": "50/260",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-021",
+    "code": "Q7-021 N557400 [MSE7060]",
+    "name": "高等材料分析 奈米積體電路工程碩士班學分學程  1.中文授課班級2.以上優先係指開放第一階段選課之學生身分",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "阮至正",
+    "enrollment": "129/614",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[1]5 化工系館 93456 [2]5~6 化工系館 93456",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-022",
+    "code": "Q7-022 Q161500 [IME7129]",
+    "name": "電子構裝技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "洪茂峰",
+    "enrollment": "40/額滿",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]3~4 電機系館 92C01 [4]2 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-023",
+    "code": "Q7-023 Q151200 [IME6132]",
+    "name": "半導體光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "蔡宗祐",
+    "enrollment": "4/36",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-024",
+    "code": "Q7-024 Q161800 [IME7101]",
+    "name": "半導體記憶體元件與設計實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "盧達生",
+    "enrollment": "90/20",
+    "locations": [
+      "4263",
+      "資訊系館"
+    ],
+    "period": "[2]6~8 資訊系館 4263",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-025",
+    "code": "Q7-025 Q160400 [IME7113]",
+    "name": "半導體製程 奈米積體電路工程碩士班學分學程，電漿學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "彭洞清",
+    "enrollment": "681/95",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[3]6~8 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-026",
+    "code": "Q7-026 Q151400 [IME6134]",
+    "name": "積體光學 奈米先進技術與設備學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "莊文魁",
+    "enrollment": "67/33",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "Q7-027",
+    "code": "Q7-027 Q160700 [IME7123]",
+    "name": "負微分電阻交換元件",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "Q7",
+    "department": "奈積碩博學程 NICE",
+    "teacher": "劉文超",
+    "enrollment": "43/不限",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]2 電機系館 92C01 [3]3~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

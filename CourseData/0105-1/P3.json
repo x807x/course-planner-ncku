@@ -1,0 +1,797 @@
+[
+  {
+    "id": "P3-001",
+    "code": "P3-001 P356000 [ID6111]",
+    "name": "整合設計（一） 碩一必修課，甲組 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "周君瑞* 劉說芳* 陸定邦*",
+    "enrollment": "10/20",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]1~2 空中大學 53202 [4]3~4 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "P3-002",
+    "code": "P3-002 P356200 [ID6112]",
+    "name": "人本設計（一） 碩一必修課，乙組 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "吳豐光* 洪郁修*",
+    "enrollment": "10/20",
+    "locations": [
+      "53205",
+      "空中大學"
+    ],
+    "period": "[4]1~2 空中大學 53205 [4]3~4 空中大學 53205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "P3-003",
+    "code": "P3-003 P356400 [ID6113]",
+    "name": "同步設計（一） 碩一必修課，丙組 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "謝孟達* 蕭世文*",
+    "enrollment": "8/262",
+    "locations": [
+      "53204",
+      "空中大學"
+    ],
+    "period": "[4]1~2 空中大學 53204 [4]3~4 空中大學 53204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "P3-004",
+    "code": "P3-004 P356600 [ID6114]",
+    "name": "傳達設計（一） 碩一必修課，丁組 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "陳璽任* 曾元琦* 何俊亨* 馬敏元*",
+    "enrollment": "12/13",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[4]1~2 空中大學 53308 [4]3~4 空中大學 53308",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "P3-005",
+    "code": "P3-005 P356810 [ID6100]",
+    "name": "整合設計研究（一） 碩二必選，甲組",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "周君瑞* 劉說芳* 陸定邦*",
+    "enrollment": "7/263",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]5~6 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-006",
+    "code": "P3-006 P356910 [ID6200]",
+    "name": "人本設計研究（一） 碩二必選，乙組",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "吳豐光* 洪郁修*",
+    "enrollment": "67/23",
+    "locations": [
+      "53205",
+      "空中大學"
+    ],
+    "period": "[4]5~6 空中大學 53205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-007",
+    "code": "P3-007 P357010 [ID6300]",
+    "name": "同步設計研究（一） 碩二必選，丙組",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "謝孟達* 蕭世文*",
+    "enrollment": "5/265",
+    "locations": [
+      "53204",
+      "空中大學"
+    ],
+    "period": "[4]5~6 空中大學 53204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-008",
+    "code": "P3-008 P357110 [ID6400]",
+    "name": "感性設計研究（一） 碩二必選，丁組",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "陳璽任* 曾元琦* 何俊亨* 馬敏元*",
+    "enrollment": "163/12",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[4]5~6 空中大學 53308",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-013",
+    "code": "P3-013 P312100-1 [ID6191]",
+    "name": "專題討論 碩三、博三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "何俊亨",
+    "enrollment": "65/5",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[4]7~8 空中大學 53308",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-014",
+    "code": "P3-014 P312110-A [ID9191]",
+    "name": "專題討論（一） 博一，甲組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "周君瑞* 劉說芳* 陸定邦*",
+    "enrollment": "5/25",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]7~8 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-015",
+    "code": "P3-015 P312110-B [ID9191]",
+    "name": "專題討論（一） 博一，乙組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "吳豐光* 洪郁修*",
+    "enrollment": "5/25",
+    "locations": [
+      "53205",
+      "空中大學"
+    ],
+    "period": "[4]7~8 空中大學 53205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-016",
+    "code": "P3-016 P312110-C [ID9191]",
+    "name": "專題討論（一） 博一，丙組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "謝孟達* 蕭世文*",
+    "enrollment": "4/26",
+    "locations": [
+      "53204",
+      "空中大學"
+    ],
+    "period": "[4]7~8 空中大學 53204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-017",
+    "code": "P3-017 P312110-D [ID9191]",
+    "name": "專題討論（一） 博一，丁組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "陳璽任* 曾元琦* 何俊亨* 馬敏元*",
+    "enrollment": "3/22",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[4]7~8 空中大學 53308",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-018",
+    "code": "P3-018 P312130-A [ID9192]",
+    "name": "專題討論（三） 博二，甲組",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "周君瑞* 劉說芳* 陸定邦*",
+    "enrollment": "5/25",
+    "locations": [
+      "空中大學",
+      "53202"
+    ],
+    "period": "[4]7~8 空中大學 53202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-019",
+    "code": "P3-019 P312130-B [ID9192]",
+    "name": "專題討論（三） 博二，乙組",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "吳豐光* 洪郁修*",
+    "enrollment": "6/24",
+    "locations": [
+      "53205",
+      "空中大學"
+    ],
+    "period": "[4]7~8 空中大學 53205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-020",
+    "code": "P3-020 P312130-C [ID9192]",
+    "name": "專題討論（三） 博二，丙組",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "謝孟達* 蕭世文*",
+    "enrollment": "36/27",
+    "locations": [
+      "53204",
+      "空中大學"
+    ],
+    "period": "[4]7~8 空中大學 53204",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-021",
+    "code": "P3-021 P312130-D [ID9192]",
+    "name": "專題討論（三） 博二，丁組",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "曾元琦* 何俊亨* 馬敏元*",
+    "enrollment": "4/21",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[4]7~8 空中大學 53308",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-028",
+    "code": "P3-028 P312000 [ID7212]",
+    "name": "電腦輔助設計 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "蕭世文",
+    "enrollment": "8/22",
+    "locations": [
+      "空中大學",
+      "53308"
+    ],
+    "period": "[3]5~7 空中大學 53308",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-030",
+    "code": "P3-030 P354000 [ID7213]",
+    "name": "創造力開發與實務 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "賴新喜",
+    "enrollment": "396/1",
+    "locations": [
+      "唯農大樓",
+      "7108"
+    ],
+    "period": "[2]5~7 唯農大樓 7108",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-032",
+    "code": "P3-032 P390400 [ID7218E]",
+    "name": "學術寫作 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "何俊亨",
+    "enrollment": "33/6額滿",
+    "locations": [
+      "工設系館",
+      "5205A"
+    ],
+    "period": "[3]2~4 工設系館 5205A",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-043",
+    "code": "P3-043 P310800 [ID7214]",
+    "name": "認知性產品設計 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "林振陽",
+    "enrollment": "35/62",
+    "locations": [
+      "空中大學",
+      "53211"
+    ],
+    "period": "[2]A~C 空中大學 53211",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-301",
+    "code": "P3-301 P360800 [ID8212]",
+    "name": "系統與系統設計 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "洪郁修",
+    "enrollment": "15/10",
+    "locations": [
+      "工設系館",
+      "5206"
+    ],
+    "period": "[2]A~C 工設系館 5206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-302",
+    "code": "P3-302 P360600 [ID8213]",
+    "name": "高等工業設計（二） 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "馬敏元",
+    "enrollment": "623/2",
+    "locations": [
+      "工設系館",
+      "5206"
+    ],
+    "period": "[3]A~C 工設系館 5206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P3-303",
+    "code": "P3-303 P354700 [ID8111]",
+    "name": "設計理論特論 第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "規劃與設計學院",
+    "departmentCode": "P3",
+    "department": "工設所 ID",
+    "teacher": "陳璽任",
+    "enrollment": "13/12",
+    "locations": [
+      "工設系館",
+      "5206"
+    ],
+    "period": "[4]A~C 工設系館 5206",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

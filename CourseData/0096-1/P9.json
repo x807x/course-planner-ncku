@@ -1,0 +1,450 @@
+[
+  {
+    "id": "P9-001",
+    "code": "P9-001 P950110 [IMIS7191]",
+    "name": "專題討論（一） 碩一、博一，碩博合班上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳裕民 陳響亮 鄭芳田",
+    "enrollment": "43/357",
+    "locations": [
+      "綜合大樓",
+      "4860"
+    ],
+    "period": "[3]6 綜合大樓 4860",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P9-002",
+    "code": "P9-002 P950130 [IMIS7193]",
+    "name": "專題討論（三） 碩二、博二以上，碩博合班上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "王清正 楊大和",
+    "enrollment": "56/24",
+    "locations": [
+      "綜合大樓",
+      "4860"
+    ],
+    "period": "[3]7 綜合大樓 4860",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "P9-003",
+    "code": "P9-003 P950200 [IMIS7205]",
+    "name": "自動化工程 工科四製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "鄭芳田",
+    "enrollment": "10/540",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[3]B~D 綜合大樓 4867",
+    "slots": []
+  },
+  {
+    "id": "P9-004",
+    "code": "P9-004 P952000 [IMIS]",
+    "name": "半導體生產自動化 工科四．機械所與製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "鄭芳田",
+    "enrollment": "59/41",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[5]B~D 綜合大樓 4867",
+    "slots": []
+  },
+  {
+    "id": "P9-005",
+    "code": "P9-005 P950300 [IMIS7206]",
+    "name": "製造系統 機械所與製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳裕民",
+    "enrollment": "7/73",
+    "locations": [
+      "綜合大樓",
+      "4860"
+    ],
+    "period": "[3]8~A 綜合大樓 4860",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-006",
+    "code": "P9-006 P951500 [IMIS7209]",
+    "name": "企業工程與整合 工程專班與製造所合班（製商整合學程）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳裕民",
+    "enrollment": "48/32",
+    "locations": [
+      "綜合大樓",
+      "4860"
+    ],
+    "period": "[2]A~C 綜合大樓 4860",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-007",
+    "code": "P9-007 P953100 [IMIS7219]",
+    "name": "C#程式設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳響亮",
+    "enrollment": "18/32",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[1]6~8 綜合大樓 4867",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-008",
+    "code": "P9-008 P951900 [IMIS7211]",
+    "name": "電腦輔助製造",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "陳響亮",
+    "enrollment": "7/453",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[3]2~4 綜合大樓 4867",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-009",
+    "code": "P9-009 P960800 [IMIS7229E]",
+    "name": "電腦軟體品質保證與實作 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "王清正",
+    "enrollment": "5/51",
+    "locations": [
+      "綜合大樓",
+      "4869"
+    ],
+    "period": "[1]6~7 綜合大樓 4869 [2]2~4 綜合大樓 4869",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "P9-010",
+    "code": "P9-010 P960200 [IMIS7226E]",
+    "name": "自動化品質工程 機械所與製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "王清正",
+    "enrollment": "7/49",
+    "locations": [
+      "綜合大樓",
+      "4869"
+    ],
+    "period": "[1]8 綜合大樓 4869 [2]7~8 綜合大樓 4869",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-011",
+    "code": "P9-011 P951600 [IMIS7210]",
+    "name": "製造系統管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "楊大和",
+    "enrollment": "65/44",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[1]2~4 綜合大樓 4867",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-012",
+    "code": "P9-012 P970100 [IMIS7233]",
+    "name": "供應鏈管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "楊大和",
+    "enrollment": "151/39",
+    "locations": [
+      "綜合大樓",
+      "4867"
+    ],
+    "period": "[2]2~4 綜合大樓 4867",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-013",
+    "code": "P9-013 R370100 [IIM7050E]",
+    "name": "數學規劃 工資所資管所製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "張秀雲",
+    "enrollment": "105/39",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[2]1~2 工管系館 61206 [5]1 工管系館 61206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P9-014",
+    "code": "P9-014 R750500 [IM7102]",
+    "name": "資料探勘 工資所資管所製造所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "P9",
+    "department": "製造所 IMIS",
+    "teacher": "翁慈宗",
+    "enrollment": "20/15",
+    "locations": [
+      "61102",
+      "工管系館"
+    ],
+    "period": "[1]2~3 工管系館 61102 [2]2 工管系館 61102",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  }
+]

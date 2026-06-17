@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "H2-001",
+    "code": "H2-001 H215010 [STAT]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "吳榮富",
+    "enrollment": "514/3",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[1]1~2 統計系館 62227 [4]4 統計系館 62227",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H210710-Z",
+    "code": "H210710-Z [STAT]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/54",
+    "locations": [],
+    "period": "[5]7~8 [2]8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H2-004",
+    "code": "H2-004 H217701 [STAT]",
+    "name": "憲政民主與國家發展 台文系與統計系合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "莊輝濤",
+    "enrollment": "4122/7",
+    "locations": [
+      "格致堂"
+    ],
+    "period": "[5]3~4 格致堂 格致堂",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H2-005",
+    "code": "H2-005 H210210 [STAT]",
+    "name": "統計學（一） (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "趙昌泰",
+    "enrollment": "644/5",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[2]2~3 統計系館 62227 [5]5~6 統計系館 62227 [3]N 統計系館 62227 [4]9 統計系館 62227",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-009",
+    "code": "H2-009 H215610 [STAT]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 4,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "吳鐵肩",
+    "enrollment": "58/46",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[2]6~7 統計系館 62227 [3]5~6 統計系館 62227 [1]9 統計系館 62227 [2]5 統計系館 62227",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-013",
+    "code": "H2-013 H210301 [STAT1001]",
+    "name": "計算機概論",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳日昇",
+    "enrollment": "55/10",
+    "locations": [
+      "75301",
+      "資訊大樓"
+    ],
+    "period": "[4]1~3 資訊大樓 75301",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-017",
+    "code": "H2-017 H211210 [STAT1005]",
+    "name": "經濟學（一） 醫學、科技與社會學程(STM)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "鄭基田",
+    "enrollment": "604/4",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[1]N~6 統計系館 62227",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-019",
+    "code": "H2-019 H217910 [STAT0011]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "馬瀰嘉",
+    "enrollment": "454/不限",
+    "locations": [
+      "統計系館",
+      "62227"
+    ],
+    "period": "[5]N 統計系館 62227",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-020",
+    "code": "H2-020 H210110 [STAT]",
+    "name": "軍訓（一） 限選本班，欲選他系請至教官室辦理",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳志成",
+    "enrollment": "52/28",
+    "locations": [
+      "軍訓館",
+      "6022"
+    ],
+    "period": "[4]7~8 軍訓館 6022",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z1",
+    "code": "H200000-Z1 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/54",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-022",
+    "code": "H2-022 H210010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "洪甄憶",
+    "enrollment": "52/448",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[3]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-051",
+    "code": "H2-051 H222700 [STAT2006]",
+    "name": "管理學 防災科技管理學分學程",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "吳宗正",
+    "enrollment": "73/4額滿",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[1]5~6 統計系館 62115 [2]8 統計系館 62115",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-055",
+    "code": "H2-055 H221100 [STAT2004]",
+    "name": "程式設計",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "路繼先",
+    "enrollment": "52/15",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[1]2~3 統計系館 62117 [4]4 統計系館 62117",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-058",
+    "code": "H2-058 H230210 [STAT2008]",
+    "name": "會計學（一） 限本系",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "楊朝旭",
+    "enrollment": "57/10",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[2]5~6 統計系館 62117 [5]N 統計系館 62117",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-059",
+    "code": "H2-059 H220700 [STAT]",
+    "name": "機率概論 需先修以下科目:《微積分（一）/必修/4.0 學分/50 分以上》《微積分（二）/必修/4.0 學分/50 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "趙昌泰",
+    "enrollment": "58/9",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[2]9~A 統計系館 62117 [3]7 統計系館 62117 [3]8 統計系館 62117 [4]N 統計系館 62117",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-066",
+    "code": "H2-066 H243500 [STAT4020]",
+    "name": "民法概要 企管.統計合班  限本系",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳俊郎",
+    "enrollment": "21/149",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[4]6~8 企管系館 62121",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-067",
+    "code": "H2-067 H236500 [STAT2017]",
+    "name": "線性規劃 統二統三合班",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "潘浙楠",
+    "enrollment": "594/8",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[2]2~3 統計系館 62117 [3]2 統計系館 62117",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H210330-Z",
+    "code": "H210330-Z [STAT]",
+    "name": "英文（含口語訓練）（三） 依照英文課程科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "40/67",
+    "locations": [],
+    "period": "[3]5 [3]6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z2",
+    "code": "H200000-Z2 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "04/67",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H210030-Z",
+    "code": "H210030-Z [STAT]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2101C0-Z",
+    "code": "H2101C0-Z [STAT]",
+    "name": "軍訓（三） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-074",
+    "code": "H2-074 H217930 [STAT0013]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "吳宗正",
+    "enrollment": "92/不限",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[1]N 統計系館 62117",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-075",
+    "code": "H2-075 H232300 [STAT2014]",
+    "name": "保險數學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "許秀麗",
+    "enrollment": "45/22",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[3]3 統計系館 62117 [4]2~3 統計系館 62117",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-102",
+    "code": "H2-102 H230110 [STAT]",
+    "name": "數理統計（一） 需先修以下科目:《機率概論/必修/3.0 學分/50 分以上》《統計學（二）/必修/4.0 學分/50 分以上》 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "詹世煌",
+    "enrollment": "66/額滿",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[1]2~3 統計系館 62119 [4]4 統計系館 62119 [5]1~2 統計系館 62119",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-103",
+    "code": "H2-103 H236300 [STAT]",
+    "name": "實驗設計 需先修以下科目:《統計學（二）/必修/4.0 學分/50 分以上》 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "黃銘欽",
+    "enrollment": "51/9",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[5]7~9 統計系館 62119 [1]1 統計系館 62119 [4]3 統計系館 62119",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "H2-107",
+    "code": "H2-107 H230900 [STAT3008]",
+    "name": "總體經濟學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳奕奇",
+    "enrollment": "59/4額滿",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[3]7~8 統計系館 62119 [4]6 統計系館 62119",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-124",
+    "code": "H2-124 H132000 [ACC3009]",
+    "name": "財務管理 FinTech金融科技學分學程，防災科技管理學分學程  會計三統計三合班，日夜合班，會計學教室，外系需簽名",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "李宏志",
+    "enrollment": "62/額滿",
+    "locations": [
+      "63101",
+      "會計系館"
+    ],
+    "period": "[2]8 會計系館 63101 [3]5~6 會計系館 63101",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-125",
+    "code": "H2-125 H236500 [STAT2017]",
+    "name": "線性規劃 統二統三合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "潘浙楠",
+    "enrollment": "59/48",
+    "locations": [
+      "統計系館",
+      "62117"
+    ],
+    "period": "[2]2~3 統計系館 62117 [3]2 統計系館 62117",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-126",
+    "code": "H2-126 H241800 [STAT3018]",
+    "name": "行銷管理",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "吳宗正",
+    "enrollment": "743/額滿",
+    "locations": [
+      "統計系館",
+      "62115"
+    ],
+    "period": "[2]7 統計系館 62115 [5]5~6 統計系館 62115",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-127",
+    "code": "H2-127 H230100 [STAT3003]",
+    "name": "無母數統計 需先修以下科目:《統計學（二）/必修/4.0 學分/50 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "嵇允嬋",
+    "enrollment": "58/2",
+    "locations": [
+      "統計系館",
+      "62119"
+    ],
+    "period": "[2]4 統計系館 62119 [3]3~4 統計系館 62119",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-128",
+    "code": "H2-128 5432900 []",
+    "name": "國際貿易與投資 日夜企三及統計三合班",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "康信鴻",
+    "enrollment": "1241/9",
+    "locations": [
+      "企管系館",
+      "62121"
+    ],
+    "period": "[4]B~D 企管系館 62121",
+    "slots": []
+  },
+  {
+    "id": "H200000-Z3",
+    "code": "H200000-Z3 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "0/54",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-130",
+    "code": "H2-130 H233700 [STAT2016]",
+    "name": "網頁製作 大三大四合班　資訊大樓201室",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "顏廷光",
+    "enrollment": "444/6",
+    "locations": [
+      "資訊大樓",
+      "75201"
+    ],
+    "period": "[4]7~8 資訊大樓 75201 [5]3 資訊大樓 75201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-157",
+    "code": "H2-157 H240200 [STAT4008]",
+    "name": "統計諮詢",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "馬瀰嘉",
+    "enrollment": "51/4",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[1]5~6 統計系館 62113 [2]1 統計系館 62113",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-158",
+    "code": "H2-158 H243000 [STAT4018]",
+    "name": "統計問題",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "楊明宗",
+    "enrollment": "443/7",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[2]4 統計系館 62113 [4]2~3 統計系館 62113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-165",
+    "code": "H2-165 H240600 [STAT4011]",
+    "name": "品管實務",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "潘浙楠",
+    "enrollment": "146/34",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[3]7~8 統計系館 62113 [4]1 統計系館 62113",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H200000-Z4",
+    "code": "H200000-Z4 [STAT]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "",
+    "enrollment": "04/50",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-168",
+    "code": "H2-168 H233700 [STAT2016]",
+    "name": "網頁製作 大三大四合班　資訊大樓201室",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "顏廷光",
+    "enrollment": "44/46",
+    "locations": [
+      "資訊大樓",
+      "75201"
+    ],
+    "period": "[4]7~8 資訊大樓 75201 [5]3 資訊大樓 75201",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-169",
+    "code": "H2-169 H240300 [STAT4010]",
+    "name": "機率專題",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "陳能新",
+    "enrollment": "1/449",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[2]5~6 統計系館 62113 [3]6 統計系館 62113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "H2-170",
+    "code": "H2-170 H244500 [STAT4023]",
+    "name": "精算數學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "H2",
+    "department": "統計系 STAT",
+    "teacher": "許秀麗",
+    "enrollment": "15/35",
+    "locations": [
+      "統計系館",
+      "62113"
+    ],
+    "period": "[2]2~3 統計系館 62113 [3]4 統計系館 62113",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

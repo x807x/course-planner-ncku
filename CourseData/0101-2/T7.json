@@ -1,0 +1,199 @@
+[
+  {
+    "id": "T7-001",
+    "code": "T7-001 T750620 [OT6192]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "蔡佩倫 張哲豪 黃雅淑 徐永玟 汪翠瀅 林玲伊 馬慧英 張玲慧 李易清 郭立杰 陳官琳",
+    "enrollment": "8/12",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[2]7 醫學院 301D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-002",
+    "code": "T7-002 T750640 [OT7192]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "蔡佩倫 張哲豪 黃雅淑 徐永玟 汪翠瀅 林玲伊 馬慧英 張玲慧 李易清 郭立杰 陳官琳",
+    "enrollment": "6/124",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[2]8 醫學院 301D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-003",
+    "code": "T7-003 T750200 [OT6312]",
+    "name": "基礎研究方法學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "馬慧英 張玲慧 李易清 郭立杰 陳官琳",
+    "enrollment": "82/12",
+    "locations": [
+      "醫學院",
+      "205D"
+    ],
+    "period": "[2]2~4 醫學院 205D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-008",
+    "code": "T7-008 T750520 [OT7193]",
+    "name": "獨立研究（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "蔡佩倫 黃雅淑 徐永玟 張玲慧 郭立杰",
+    "enrollment": "52/5",
+    "locations": [],
+    "period": "[2]9",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-009",
+    "code": "T7-009 T752400 [OT6222]",
+    "name": "兒童職能治療特論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "李易清* 黃雅淑 陳官琳",
+    "enrollment": "23/17",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[4]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-010",
+    "code": "T7-010 T752300 [OT6322]",
+    "name": "遊戲治療理論與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "李易清",
+    "enrollment": "6/124",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[3]2~4 醫學院 501",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "T7-011",
+    "code": "T7-011 T760300 [OT8091]",
+    "name": "專題討論 供碩三以上研究生修課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "T7",
+    "department": "職治所 OT",
+    "teacher": "馬慧英 張玲慧",
+    "enrollment": "22/8",
+    "locations": [
+      "301D",
+      "醫學院"
+    ],
+    "period": "[2]7 醫學院 301D",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  }
+]

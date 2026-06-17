@@ -1,0 +1,318 @@
+[
+  {
+    "id": "TA-001",
+    "code": "TA-001 TA70120 [AHS9009]",
+    "name": "獨立研究（二） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "翁慧卿* 謝淑蘭 洪菁霞 林呈鳳 蔡一如 蔡昆霖 馬慧英 黃英修 林宗瑩 張哲豪",
+    "enrollment": "12/38",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-002",
+    "code": "TA-002 TA50320 [AHS9003]",
+    "name": "健康照護專題討論（二） 英語授課 業界專家參與",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張哲豪* 謝淑蘭 洪菁霞 林呈鳳 蔡一如 蔡昆霖 黃英修 林宗瑩",
+    "enrollment": "109/40",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]7 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-003",
+    "code": "TA-003 TA70200 [AHS9012]",
+    "name": "臨床研究設計（二） 英語授課 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "林宗瑩* 蔡昆霖 張玲慧 張芸瑄",
+    "enrollment": "10/20",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[2]3~4 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-004",
+    "code": "TA-004 TA70140 [AHS9011]",
+    "name": "獨立研究（四） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "翁慧卿* 洪菁霞 蔡昆霖 林玲伊 郭立杰 林宗瑩",
+    "enrollment": "69/14",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "TA-005",
+    "code": "TA-005 TA50340 [AHS9005]",
+    "name": "健康照護專題討論（四） 英語授課 業界專家參與",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張哲豪* 洪菁霞 蔡昆霖 林玲伊 郭立杰 林宗瑩 翁慧卿",
+    "enrollment": "6/44",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]8 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TA-006",
+    "code": "TA-006 TA81600 [AHS9034]",
+    "name": "高齡健康與照護 生物科技學程 英語授課 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "翁慧卿* 謝淑蘭 洪菁霞 李佩紜 張玲慧",
+    "enrollment": "91/19",
+    "locations": [
+      "13211",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]N~6 生醫卓群大樓 13211",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-008",
+    "code": "TA-008 TA80400 [AHS9030]",
+    "name": "失能與調適 英語授課 業界專家參與  動作科學與照護研究群選修",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "林宗瑩* 張芸瑄",
+    "enrollment": "97/23",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]2~4 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-009",
+    "code": "TA-009 U772600 [CS7031]",
+    "name": "老化認知神經科學 醫療器材與系統學程 英語授課  健照所高齡健康與照護選修課程，醫療器材與系統學程； EMI課程(英文授課比例100%)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "謝淑蘭",
+    "enrollment": "4/931",
+    "locations": [
+      "社科院大樓",
+      "階梯教室-心理"
+    ],
+    "period": "[2]6~8 社科院大樓 階梯教室-心理",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-012",
+    "code": "TA-012 TA50600 [AHS9050]",
+    "name": "健康職能、行為與生活型態經營 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "張哲豪*",
+    "enrollment": "3/17",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[2]N~6 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-013",
+    "code": "TA-013 TA82900 [AHS9049]",
+    "name": "統計分析應用暨健康領域科學論文寫作 英語授課 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "林宗瑩* 張芸瑄",
+    "enrollment": "10/9額滿",
+    "locations": [
+      "13213",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]6~8 生醫卓群大樓 13213",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TA-016",
+    "code": "TA-016 TA90100 [AHS9039]",
+    "name": "專題討論 英語授課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TA",
+    "department": "健照所 AHS",
+    "teacher": "翁慧卿* 余睿羚",
+    "enrollment": "1/49",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]8 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  }
+]

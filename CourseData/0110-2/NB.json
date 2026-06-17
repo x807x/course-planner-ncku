@@ -1,0 +1,393 @@
+[
+  {
+    "id": "NB-003",
+    "code": "NB-003 NB60120 [icam7002E]",
+    "name": "應用材料科學（二） 英語授課  英語授課 尖端所與材料所合班  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "呂國彰",
+    "enrollment": "4/1",
+    "locations": [
+      "44124",
+      "材料新館"
+    ],
+    "period": "[3]8~9 材料新館 44124 [4]6 材料新館 44124",
+    "slots": [
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-004",
+    "code": "NB-004 P560200 [EV8003E]",
+    "name": "環工化學原理 英語授課  英語授課。  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "侯文哲",
+    "enrollment": "417/18",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[1]6 環工系館 47111 [5]3~4 環工系館 47111",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-010",
+    "code": "NB-010 N380500 [CHE7054E]",
+    "name": "奈米材料與合成科技 英語授課 複合材料性質與應用專長微學程  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "許蘇文* 鍾賢龍",
+    "enrollment": "43/67",
+    "locations": [
+      "93456",
+      "化工系館"
+    ],
+    "period": "[4]5~7 化工系館 93456",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-011",
+    "code": "NB-011 NB50120 [icam7009E]",
+    "name": "專題討論（二） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "鄭文惠* 陳雨澤 魏百駿",
+    "enrollment": "43/297",
+    "locations": [],
+    "period": "[4]7",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NB-012",
+    "code": "NB-012 NB50140 [icam7011E]",
+    "name": "專題討論（四） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "鄭文惠* 陳雨澤 魏百駿",
+    "enrollment": "5/295",
+    "locations": [],
+    "period": "[4]8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "NB-014",
+    "code": "NB-014 N557300-2 [MSE7052]",
+    "name": "固態熱力學 奈米積體電路工程碩士班學分學程 英語授課  英語授課，智能與永續製造學程、半導體封測學程為選修課。",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "蘇彥勳* 陳雨澤",
+    "enrollment": "343/額滿",
+    "locations": [
+      "44202",
+      "材料新館"
+    ],
+    "period": "[3]6~8 材料新館 44202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-015",
+    "code": "NB-015 N581900 [MSE7051E]",
+    "name": "導電高分子特論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "徐邦昱",
+    "enrollment": "3/47",
+    "locations": [
+      "44201",
+      "材料新館"
+    ],
+    "period": "[1]6~8 材料新館 44201",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-016",
+    "code": "NB-016 N572400 [MSE7038E]",
+    "name": "高分子結晶特論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "阮至正",
+    "enrollment": "144/26",
+    "locations": [
+      "44124",
+      "材料新館"
+    ],
+    "period": "[3]2~4 材料新館 44124",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-017",
+    "code": "NB-017 N561900 [MSE7052E]",
+    "name": "半導體工程 英語授課  英語授課  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "陳嘉勻",
+    "enrollment": "343/17",
+    "locations": [
+      "44201",
+      "材料新館"
+    ],
+    "period": "[3]5~7 材料新館 44201",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-018",
+    "code": "NB-018 N556500 [MSE7018]",
+    "name": "生醫材料 醫療器材與系統學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "劉俊彥",
+    "enrollment": "31/額4滿",
+    "locations": [
+      "44202",
+      "材料新館"
+    ],
+    "period": "[2]6~8 材料新館 44202",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-019",
+    "code": "NB-019 N582200 [MSE7058E]",
+    "name": "光電化學特論 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "賴怡璇",
+    "enrollment": "134/27",
+    "locations": [
+      "4452",
+      "材料系館"
+    ],
+    "period": "[2]2~4 材料系館 4452",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "NB-020",
+    "code": "NB-020 N565600 [MSE5040]",
+    "name": "粉末工程 英語授課  文星講堂  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "NB",
+    "department": "尖端碩士學程 icam",
+    "teacher": "魏百駿",
+    "enrollment": "51/3",
+    "locations": [],
+    "period": "[2]2~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "id": "R1-001",
+    "code": "R1-001 R120110-1 [ACC7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "林玲芬 王澤世",
+    "enrollment": "32/25",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R1-006",
+    "code": "R1-006 R120130-1 [ACC7093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "賴秀卿 林松宏",
+    "enrollment": "37/6額滿",
+    "locations": [
+      "63405",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63405",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R1-011",
+    "code": "R1-011 R111600 [ACC6002]",
+    "name": "高級會計資訊系統 外系需經教師簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "賴秀卿",
+    "enrollment": "29/268",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-015",
+    "code": "R1-015 R112900 [ACC6005]",
+    "name": "國際會計 外系需經教師簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "林玲芬",
+    "enrollment": "36/額滿",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-016",
+    "code": "R1-016 R150700 [ACC6010E]",
+    "name": "會計原則研究 外系需簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "林松宏",
+    "enrollment": "33/額滿",
+    "locations": [
+      "63206",
+      "會計系館"
+    ],
+    "period": "[4]2~4 會計系館 63206",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-017",
+    "code": "R1-017 R180600 [ACC6027]",
+    "name": "時間序列研究 外系需簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "王澤世",
+    "enrollment": "56/額滿",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[1]5~7 會計系館 63209",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-018",
+    "code": "R1-018 R152700 [ACC6014]",
+    "name": "財務報告分析與研究 外系需簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "邱正仁",
+    "enrollment": "31/26",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[4]6~8 會計系館 63404",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-019",
+    "code": "R1-019 R153100 [ACC6016E]",
+    "name": "軟體與工作流程分析 英語授課  會計所財金所合開英語授課，外系需簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "徐立群",
+    "enrollment": "9/33",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[5]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-020",
+    "code": "R1-020 R153000 [ACC6015]",
+    "name": "成本管理與控制 限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "楊朝旭",
+    "enrollment": "33/24",
+    "locations": [
+      "63404",
+      "會計系館"
+    ],
+    "period": "[3]1~3 會計系館 63404",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-021",
+    "code": "R1-021 R153300 [ACC6018]",
+    "name": "會計財金資訊系統實務 英語授課  會計所及財金所合開  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "顏盟峯",
+    "enrollment": "45/額滿",
+    "locations": [
+      "63205",
+      "會計系館"
+    ],
+    "period": "[1]2~4 會計系館 63205",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-101",
+    "code": "R1-101 R120110-2 [ACC7091]",
+    "name": "專題討論（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "邱正仁",
+    "enrollment": "5/165",
+    "locations": [
+      "63406",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63406",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R1-105",
+    "code": "R1-105 R170310 [ACC7006]",
+    "name": "計量經濟學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "陳占平",
+    "enrollment": "66/14",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[2]2~4 會計系館 63209",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-107",
+    "code": "R1-107 R120130-2 [ACC7093]",
+    "name": "專題討論（三）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "簡金成",
+    "enrollment": "65/15",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R1-111",
+    "code": "R1-111 R180110 [ACC7010E]",
+    "name": "審計理論研討（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "陳耀宗",
+    "enrollment": "5/165",
+    "locations": [
+      "63405",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63405",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-118",
+    "code": "R1-118 R180200 [ACC7090]",
+    "name": "專題討論 博三碩三以上",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "徐立群 陳耀宗",
+    "enrollment": "23/17",
+    "locations": [
+      "63206",
+      "會計系館"
+    ],
+    "period": "[3]7~8 會計系館 63206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "R1-119",
+    "code": "R1-119 R170220 [ACC7005E]",
+    "name": "財務會計理論研討（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "簡金成",
+    "enrollment": "5/165",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63209",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-120",
+    "code": "R1-120 R180400 [ACC]",
+    "name": "稅務會計理論研討 外系需簽名",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "吳清在",
+    "enrollment": "106/32",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R1-121",
+    "code": "R1-121 R153200 [ACC6017E]",
+    "name": "會計及財務專題討論 英語授課  會計所及財務所合班  限本系",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R1",
+    "department": "會計所 ACC",
+    "teacher": "林軒竹",
+    "enrollment": "7/28",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63415",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

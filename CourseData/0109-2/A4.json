@@ -1,0 +1,920 @@
+[
+  {
+    "id": "A4-201",
+    "code": "A4-201 A421000 [CTE2100]",
+    "name": "教學原理 業界專家參與  教育方法課程。",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "彭淑玲",
+    "enrollment": "633/2",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[3]7~8 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-202",
+    "code": "A4-202 A422000 [CTE2101]",
+    "name": "班級經營 教育方法課程。",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "饒夢霞",
+    "enrollment": "28/367",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[3]1~2 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-203",
+    "code": "A4-203 A422200 [CTE2105]",
+    "name": "輔導原理與實務 業界專家參與  教育方法課程。107學年度(含)以前綜合活動領域必修。專門課程與教育專業課程學分不得重複採計。",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "郭旭展",
+    "enrollment": "23/42",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[4]3~4 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-301",
+    "code": "A4-301 A413500 [CTE3100]",
+    "name": "國文／語文領域本國語文教學實習 業界專家參與  先修課程：國文/語文領域本國語文教材教法  需先修以下科目:《國文／語文領域本國語文教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "仇小屏",
+    "enrollment": "23/4",
+    "locations": [
+      "21101",
+      "中文系館"
+    ],
+    "period": "[5]5~6 中文系館 21101",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-302",
+    "code": "A4-302 A413700 [CTE3101]",
+    "name": "英文／語文領域英語教學實習 英語授課  先修課程：英文/語文領域英語教材教法  需先修以下科目:《英文／語文領域英語教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "鄒文莉",
+    "enrollment": "161/4",
+    "locations": [
+      "26401",
+      "修齊大樓"
+    ],
+    "period": "[1]2~3 修齊大樓 26401",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-303",
+    "code": "A4-303 A413900 [CTE3102]",
+    "name": "數學／數學領域教學實習 先修課程：數學/數學領域教材教法  需先修以下科目:《數學／數學領域教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "林景隆",
+    "enrollment": "66/4",
+    "locations": [
+      "數學系館",
+      "3176"
+    ],
+    "period": "[4]3~4 數學系館 3176",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-304",
+    "code": "A4-304 A414100 [CTE3103]",
+    "name": "歷史／社會領域歷史教學實習 業界專家參與  先修課程：歷史/社會領域歷史教材教法。  需先修以下科目:《歷史／社會領域歷史教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "謝仕淵",
+    "enrollment": "9/61",
+    "locations": [
+      "25130",
+      "歷史系館"
+    ],
+    "period": "[1]5~6 歷史系館 25130",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-305",
+    "code": "A4-305 A414300 [CTE3104]",
+    "name": "物理／自然與生活科技物理教學實習 先修課程：物理/自然與生活科技物理教材教法  需先修以下科目:《物理／自然與生活科技物理教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 7,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陳泉宏* 羅光耀",
+    "enrollment": "3/6",
+    "locations": [
+      "36377",
+      "理學教學大樓"
+    ],
+    "period": "[3]3~4 理學教學大樓 36377",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-307",
+    "code": "A4-307 A414700 [CTE3106]",
+    "name": "生物／自然與生活科技生物教學實習 先修課程：生物科教材教法  需先修以下科目:《生物／自然與生活科技生物教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 7,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陳少燕",
+    "enrollment": "62/8",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[1]1~2 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-308",
+    "code": "A4-308 A445300 [CTE3116]",
+    "name": "公民與社會/社會領域公民教學實習 先修課程：公民與社會/社會領域公民教材教法  需先修以下科目:《公民與社會/社會領域公民教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陳汶津",
+    "enrollment": "5/6額滿",
+    "locations": [
+      "七樓研討室A",
+      "社科院大樓"
+    ],
+    "period": "[1]2~3 社科院大樓 七樓研討室A",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-309",
+    "code": "A4-309 A415200 [CTE3110]",
+    "name": "綜合活動領域輔導活動教學實習 先修課程：綜合活動領域輔導活動教材教法。  需先修以下科目:《綜合活動領域輔導活動教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 7,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "郭旭展",
+    "enrollment": "4/66",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[4]5~6 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-310",
+    "code": "A4-310 A414900 [CTE3107]",
+    "name": "地球科學／自然與生活科技地球科學教學實習 先修課程：地球科學/自然與生活科技地球科學教材教法  需先修以下科目:《地球科學／自然與生活科技地球科學教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "楊懷仁",
+    "enrollment": "63/7",
+    "locations": [
+      "3031",
+      "地科系館"
+    ],
+    "period": "[3]9~A 地科系館 3031",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-311",
+    "code": "A4-311 A416001 [CTE3115]",
+    "name": "藝術生活科-視覺應用藝術教學實習 先修課程：藝術生活科-視覺應用藝術教材教法  需先修以下科目:《藝術生活科-視覺應用藝術教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 7,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "吳奕芳",
+    "enrollment": "4/額滿",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[3]5~6 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-402",
+    "code": "A4-402 A416301 [CTE2259]",
+    "name": "學習與教學 業界專家參與  1. 107學年度(含)以前為選修，108學年度起為教育方法課程。2.建議先選修先備課程「教育心理學」。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "彭淑玲",
+    "enrollment": "14/21",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[2]3~4 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-403",
+    "code": "A4-403 A445900 [CTE2253]",
+    "name": "教學方法與策略 業界專家參與  107學年度(含)以前為選修，108學年度起為教育方法課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "楊琬琳",
+    "enrollment": "634/1",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[2]5~6 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-405",
+    "code": "A4-405 A417000 [CTE2270]",
+    "name": "教育議題專題 業界專家參與  1.107學年度(含)以前為必選，108學年度起為必修。2.建議先修先備課程「課程發展與設計」、「教學原理」或「教學方法與策略」任一",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "楊琬琳",
+    "enrollment": "40/625",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[2]7~8 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-415",
+    "code": "A4-415 A418000 [CTE3119]",
+    "name": "藝術生活科-表演藝術教學實習 戲劇學程  先修課程：藝術生活科-表演藝術教材教法  需先修以下科目:《藝術生活科-表演藝術教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陳佳彬",
+    "enrollment": "4/2",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[5]5~6 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-417",
+    "code": "A4-417 A418620 [CTE4003]",
+    "name": "探究與實作（二） 業界專家參與  1.上課教室：普物實驗室35221。2.108學年度起自然科學領域必修，預定每2年開一次。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "許瑞榮* 黃守仁 楊懷仁 陳少燕",
+    "enrollment": "13/262",
+    "locations": [],
+    "period": "[1]3~4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A445400-Z",
+    "code": "A445400-Z [CTE3216]",
+    "name": "公民與社會/社會領域公民實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "許永河",
+    "enrollment": "0/洽6師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A4-419",
+    "code": "A4-419 A427601 [CTE2207]",
+    "name": "生涯教育 業界專家參與  107學年度(含)以前為選修，108學年度起為教育實踐課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "洪素蘋",
+    "enrollment": "22/13",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[1]5~6 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-420",
+    "code": "A4-420 A413000 [CTE2003]",
+    "name": "教育概論 業界專家參與  教育基礎課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "楊琬琳",
+    "enrollment": "18/17",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[1]7~8 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-421",
+    "code": "A4-421 A418700 [CTE2282]",
+    "name": "親職教育 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "洪素蘋",
+    "enrollment": "33/32",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[4]5~6 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-424",
+    "code": "A4-424 A420600 [CTE2219]",
+    "name": "青少年心理學 107學年度(含)以前為選修，108學年度起為教育基礎課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "饒夢霞",
+    "enrollment": "34/31",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[3]3~4 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-428",
+    "code": "A4-428 A415600 [CTE3112]",
+    "name": "機械學群教學實習 業界專家參與  先修課程：機械學群教材教法  需先修以下科目:《機械學群教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "施士塵",
+    "enrollment": "1/17",
+    "locations": [
+      "91206",
+      "機械系館"
+    ],
+    "period": "[1]1~2 機械系館 91206",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A443900-Z",
+    "code": "A443900-Z [CTE3200]",
+    "name": "國文／語文領域本國語文實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "高美華",
+    "enrollment": "0/洽師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A4-431",
+    "code": "A4-431 A418300 [CTE3120]",
+    "name": "音樂科-教學實習 業界專家參與  先修課程：音樂科－教材教法  需先修以下科目:《音樂科-教材教法/必修/2.0 學分/60 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "翁志文",
+    "enrollment": "06/洽師培中心",
+    "locations": [],
+    "period": "[4]1~2",
+    "slots": [
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A4-432",
+    "code": "A4-432 A411100 [CTE2238]",
+    "name": "性別與教育 性別研究學分學程 性別專長微學程  107學年度(含)以前為選修，108學年度起為教育實踐課程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陸偉明",
+    "enrollment": "38/27",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[3]5~6 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A444500-Z",
+    "code": "A444500-Z [CTE3206]",
+    "name": "生物／自然與生活科技生物實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "陳少燕",
+    "enrollment": "0/洽師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A445100-Z",
+    "code": "A445100-Z [CTE3207]",
+    "name": "地球科學／自然與生活科技地球科學實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "楊懷仁",
+    "enrollment": "0/洽師培6中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A444300-Z",
+    "code": "A444300-Z [CTE3204]",
+    "name": "物理／自然與生活科技物理實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "黃榮俊",
+    "enrollment": "0/洽師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A444100-Z",
+    "code": "A444100-Z [CTE3202]",
+    "name": "數學／數學領域實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "林景隆* 舒宇宸",
+    "enrollment": "0/洽師培6中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A444200-Z",
+    "code": "A444200-Z [CTE3203]",
+    "name": "歷史／社會領域歷史實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "江達智",
+    "enrollment": "0/洽師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A418401-Z",
+    "code": "A418401-Z [CTE3220]",
+    "name": "音樂科-實習輔導",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "翁志文",
+    "enrollment": "60/洽師培中心",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "A4-441",
+    "code": "A4-441 A429600 [CTE2262]",
+    "name": "學校輔導工作 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A4",
+    "department": "師培中心 CTE",
+    "teacher": "郭旭展",
+    "enrollment": "506/15",
+    "locations": [
+      "雲平大樓",
+      "27808"
+    ],
+    "period": "[4]7~8 雲平大樓 27808",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

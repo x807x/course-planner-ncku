@@ -1,0 +1,67 @@
+[
+  {
+    "id": "AA-002",
+    "code": "AA-002 C115710-2 [PHYS1011]",
+    "name": "普通物理學（一） 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "陳家駒",
+    "enrollment": "14/31",
+    "locations": [
+      "49324",
+      "綜合二館"
+    ],
+    "period": "[2]B 綜合二館 49324 [4]B~C 綜合二館 49324",
+    "slots": [
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AA-003",
+    "code": "AA-003 B217701-2 [FLL]",
+    "name": "憲政民主與國家發展 英語授課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "其他",
+    "departmentCode": "AA",
+    "department": "共同英授 GCTE",
+    "teacher": "孫順智",
+    "enrollment": "7/28",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[4]3~4 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  }
+]

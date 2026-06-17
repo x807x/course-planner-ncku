@@ -1,0 +1,125 @@
+[
+  {
+    "id": "RZ-201",
+    "code": "RZ-201 RZ50100-Y [COM6001]",
+    "name": "精實創業進階 不開放網路選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "楊朝旭",
+    "enrollment": "41/網路選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "RZ-203",
+    "code": "RZ-203 RZ50200 [COM6002]",
+    "name": "跨國管理實務融合（一） 英語授課  開放網路選課(全英文授課)／密集授課詳如課程大綱",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "林軒竹",
+    "enrollment": "229/額滿",
+    "locations": [
+      "61X01上課時間",
+      "管理學院"
+    ],
+    "period": "[3]A~C 管理學院 61X01上課時間",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RZ-204",
+    "code": "RZ-204 RZ50700 [COM6002]",
+    "name": "產業動態與職涯發展 不開放網路選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "張紹基",
+    "enrollment": "35/網路選課不開放",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[4]6~8 管理學院 62401",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RZ-205",
+    "code": "RZ-205 RZ50300 [COM6003]",
+    "name": "創業基礎與行動",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "HZ",
+    "department": "管理學院 COM",
+    "teacher": "史習安* 楊朝旭 王泰裕 林正章 蔡東峻 張紹基",
+    "enrollment": "0/10",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[6]2~4 管理學院 62401",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

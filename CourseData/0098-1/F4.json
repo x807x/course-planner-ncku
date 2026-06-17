@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "F412310-Z",
+    "code": "F412310-Z [AA1031]",
+    "name": "基礎國文（一） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "0/675",
+    "locations": [],
+    "period": "[1]7~8",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "F412410-Z",
+    "code": "F412410-Z [AA]",
+    "name": "英文（含口語訓練）（一） 核心通識，依國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "70/65",
+    "locations": [],
+    "period": "[2]3~4 [4]2",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "外國語言"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "F425000-Z1",
+    "code": "F425000-Z1 [AA1032]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "0/675",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F412100-Z",
+    "code": "F412100-Z [AA]",
+    "name": "歷史 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "0/65",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "F4-005",
+    "code": "F4-005 F411800-1A [AA1071]",
+    "name": "工場實習",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "楊文彬",
+    "enrollment": "734/4",
+    "locations": [
+      "5808",
+      "航太系館"
+    ],
+    "period": "[1]1~3 航太系館 5808",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-006",
+    "code": "F4-006 F411800-1B [AA1071]",
+    "name": "工場實習",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "楊文彬",
+    "enrollment": "42/2",
+    "locations": [
+      "5808",
+      "航太系館"
+    ],
+    "period": "[3]7~9 航太系館 5808",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-007",
+    "code": "F4-007 F610610 [MATH1021]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "粘珠鳳",
+    "enrollment": "7198/15",
+    "locations": [
+      "4622",
+      "水利系館",
+      "航太系館",
+      "5830",
+      "55160",
+      "經緯廳",
+      "成功校區經緯廳",
+      "測量系副館",
+      "55150",
+      "5824",
+      "4620"
+    ],
+    "period": "[2]6 成功校區經緯廳 經緯廳 [5]7~8 成功校區經緯廳 經緯廳 [2]5 測量系副館 55150 [2]5 測量系副館 55160 [2]5 水利系館 4620 [2]5 水利系館 4622 [2]5 航太系館 5824 [2]5 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F4-008",
+    "code": "F4-008 F411500 [AA1005]",
+    "name": "計算機程式設計 Ｃ與言語計算機基礎介面二選一 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "蕭樂群",
+    "enrollment": "33/7",
+    "locations": [
+      "5896B",
+      "航太系館",
+      "5830"
+    ],
+    "period": "[3]3~4 航太系館 5830 [2]7~9 航太系館 5896B",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-009",
+    "code": "F4-009 F430901 [AA1106]",
+    "name": "Ｃ語言與計算機基礎介面 計算機程式設計二選一 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "譚俊豪",
+    "enrollment": "427/7",
+    "locations": [
+      "5829",
+      "航太系館",
+      "5898"
+    ],
+    "period": "[3]3~4 航太系館 5829 [2]7~9 航太系館 5898",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-013",
+    "code": "F4-013 F410100-1A [AA1072]",
+    "name": "工程圖學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "賴維祥",
+    "enrollment": "34/4",
+    "locations": [
+      "5824",
+      "航太系館",
+      "5830"
+    ],
+    "period": "[2]2 航太系館 5824 [3]7~8 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-014",
+    "code": "F4-014 F410100-1B [AA1072]",
+    "name": "工程圖學",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "賴維祥",
+    "enrollment": "42/3",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[2]2 航太系館 5824 [5]5~6 航太系館 5824",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-015",
+    "code": "F4-015 F426100 [AA1005]",
+    "name": "航太工程概論 無人機設計與系統實務專長微學程",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "溫志湧 鄭泗滄",
+    "enrollment": "780/9",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[4]3~4 航太系館 5824",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-016",
+    "code": "F4-016 F411400 [AA1011]",
+    "name": "能源科技概論 風能發電專長微學程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "溫志湧",
+    "enrollment": "1738/9",
+    "locations": [
+      "繼昌講堂",
+      "航太系館"
+    ],
+    "period": "[4]5~6 航太系館 繼昌講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-017",
+    "code": "F4-017 F417910 [AA0101]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "許棟龍",
+    "enrollment": "768/12",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-018",
+    "code": "F4-018 F410010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "黃滄海",
+    "enrollment": "65/375",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[4]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-019",
+    "code": "F4-019 F411600 [AA1003]",
+    "name": "靜力學",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "江達雲",
+    "enrollment": "79/7",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[5]3~4 航太系館 5824",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-051",
+    "code": "F4-051 F420310-1A [AA2101]",
+    "name": "熱力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "高　騏",
+    "enrollment": "744/額滿",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[2]3~4 航太系館 5830 [4]2 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-052",
+    "code": "F4-052 F420310-1B [AA2101]",
+    "name": "熱力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "袁曉峰",
+    "enrollment": "37/7",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[2]3~4 航太系館 5825 [4]2 航太系館 5825",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-053",
+    "code": "F4-053 F425900-1A [AA2201]",
+    "name": "材料力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "李立人",
+    "enrollment": "378/1",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[1]2~3 航太系館 5824 [3]2 航太系館 5824",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-054",
+    "code": "F4-054 F425900-1B [AA2201]",
+    "name": "材料力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "景鴻鑫",
+    "enrollment": "377/3",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[1]2~3 航太系館 5830 [3]2 航太系館 5830",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F425000-Z2",
+    "code": "F425000-Z2 [AA1032]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "07/65",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-058",
+    "code": "F4-058 F417930 [AA0103]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "許棟龍",
+    "enrollment": "697/11",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F410030-Z",
+    "code": "F410030-Z [AA2031]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "70/不限",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F410330-Z",
+    "code": "F410330-Z [AA]",
+    "name": "英文（含口語訓練）（三） 核心通識，請至Ａ１國際語言類選填大二英文 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "07/65",
+    "locations": [],
+    "period": "[5]5 [5]6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F4-064",
+    "code": "F4-064 F420900 [AA2301]",
+    "name": "電路電子學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "陳正宗",
+    "enrollment": "90/2",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[1]8 航太系館 5824 [4]5~6 航太系館 5824",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-071",
+    "code": "F4-071 F420710 [AA2001]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "王大中",
+    "enrollment": "74/2",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[1]7 航太系館 5824 [4]7~8 航太系館 5824",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-075",
+    "code": "F4-075 F422000 [AA2014]",
+    "name": "電腦輔助創意設計 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "賴維祥",
+    "enrollment": "35/5",
+    "locations": [
+      "5898",
+      "航太系館",
+      "5830"
+    ],
+    "period": "[4]3~4 航太系館 5830 [5]3~N 航太系館 5898",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-078",
+    "code": "F4-078 F420200 [AA2512]",
+    "name": "民用航空概論",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "王大中",
+    "enrollment": "674/1",
+    "locations": [
+      "5824",
+      "航太系館"
+    ],
+    "period": "[3]3~4 航太系館 5824",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-101",
+    "code": "F4-101 F430310-1A [AA3401]",
+    "name": "空氣動力學（一） 無人機設計與系統實務專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "潘大知",
+    "enrollment": "29/1",
+    "locations": [
+      "航太系館",
+      "5830"
+    ],
+    "period": "[2]2 航太系館 5830 [5]3~4 航太系館 5830",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-102",
+    "code": "F4-102 F430310-1B [AA3401]",
+    "name": "空氣動力學（一） 無人機設計與系統實務專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "尤芳忞",
+    "enrollment": "28/2",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[2]2 航太系館 5829 [5]3~4 航太系館 5829",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-103",
+    "code": "F4-103 F430410-1A [AA3208]",
+    "name": "飛具結構學（一）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "江達雲",
+    "enrollment": "39/3",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[1]5~6 航太系館 5829 [3]7 航太系館 5829",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-104",
+    "code": "F4-104 F430410-1B [AA3208]",
+    "name": "飛具結構學（一）",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "崔兆棠",
+    "enrollment": "37/73",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[1]5~6 航太系館 5825 [3]7 航太系館 5825",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-105",
+    "code": "F4-105 F431700-1A [AA3302]",
+    "name": "控制系統導論",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "陳介力",
+    "enrollment": "33/7",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[2]3~4 航太系館 5829 [4]2 航太系館 5829",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-106",
+    "code": "F4-106 F431700-1B [AA3302]",
+    "name": "控制系統導論",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "林穎裕",
+    "enrollment": "24/11",
+    "locations": [
+      "航太系館",
+      "5834"
+    ],
+    "period": "[2]3~4 航太系館 5834 [4]2 航太系館 5834",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-107",
+    "code": "F4-107 F441500-1A [AA3102]",
+    "name": "熱傳學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "張克勤",
+    "enrollment": "29/3",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[1]2~3 航太系館 5829 [3]2 航太系館 5829",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-108",
+    "code": "F4-108 F441500-1B [AA3102]",
+    "name": "熱傳學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "王振源",
+    "enrollment": "28/4",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[1]2~3 航太系館 5825 [3]2 航太系館 5825",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-109",
+    "code": "F4-109 F431600-1A [AA2271]",
+    "name": "結構材料實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "李立人",
+    "enrollment": "29/3",
+    "locations": [
+      "航太系館",
+      "5803"
+    ],
+    "period": "[4]7~9 航太系館 5803",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-110",
+    "code": "F4-110 F431600-1B [AA2271]",
+    "name": "結構材料實驗",
+    "grade": 3,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "李立人",
+    "enrollment": "33/1",
+    "locations": [
+      "航太系館",
+      "5803"
+    ],
+    "period": "[4]7 航太系館 5803 [5]5~6 航太系館 5803",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-115",
+    "code": "F4-115 F432600 [AA3313]",
+    "name": "通訊概論 太空科學與工程學分學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "詹劭勳",
+    "enrollment": "46/19",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[2]1 航太系館 5829 [4]3~4 航太系館 5829",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-116",
+    "code": "F4-116 F432000 [AA3111]",
+    "name": "動力機之機構設計實務",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "鄭金祥",
+    "enrollment": "237/42",
+    "locations": [
+      "5829",
+      "航太系館",
+      "5898"
+    ],
+    "period": "[1]8 航太系館 5898 [4]5~6 航太系館 5829",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-117",
+    "code": "F4-117 F420730 [AA3011]",
+    "name": "工程數學（三）",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "李君謨",
+    "enrollment": "527/13",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[2]7~8 航太系館 5829 [5]7 航太系館 5829",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-118",
+    "code": "F4-118 F448200 [AA3211]",
+    "name": "高等材料力學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "崔兆棠",
+    "enrollment": "20/45",
+    "locations": [
+      "5829",
+      "航太系館"
+    ],
+    "period": "[2]5~6 航太系館 5829 [5]8 航太系館 5829",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F425000-Z3",
+    "code": "F425000-Z3 [AA1032]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "07/65",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-121",
+    "code": "F4-121 F432100 [AA3611]",
+    "name": "皮米衛星系統工程 遠距教學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "林穎裕",
+    "enrollment": "3/32",
+    "locations": [],
+    "period": "[2]9",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F425000-Z4",
+    "code": "F425000-Z4 [AA1032]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "",
+    "enrollment": "0/65",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-152",
+    "code": "F4-152 F440210-1A [AA4608]",
+    "name": "飛具設計（一） (含實習)",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "尤芳忞",
+    "enrollment": "30/74",
+    "locations": [
+      "5825",
+      "5896B",
+      "航太系館"
+    ],
+    "period": "[4]3 航太系館 5825 [3]N 航太系館 5896B [4]4~N 航太系館 5896B",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-153",
+    "code": "F4-153 F440210-1B [AA4608]",
+    "name": "飛具設計（一） (含實習)",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "許棟龍",
+    "enrollment": "372/2",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[3]3 航太系館 5825 [3]4~N 航太系館 5825 [4]1 航太系館 5825",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-155",
+    "code": "F4-155 F421000-1A [AA4671]",
+    "name": "熱流實驗",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "王覺寬",
+    "enrollment": "27/8",
+    "locations": [
+      "實驗室5814",
+      "航太系館"
+    ],
+    "period": "[2]7~9 航太系館 實驗室5814",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-156",
+    "code": "F4-156 F421000-1B [AA4671]",
+    "name": "熱流實驗",
+    "grade": 4,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "王覺寬",
+    "enrollment": "35/額7滿",
+    "locations": [
+      "實驗室5814",
+      "航太系館"
+    ],
+    "period": "[4]7~9 航太系館 實驗室5814",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F4-157",
+    "code": "F4-157 F435700 [AA4411]",
+    "name": "氣體動力學 英語授課  英語授課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "溫志湧",
+    "enrollment": "10/30",
+    "locations": [
+      "5821",
+      "航太系館"
+    ],
+    "period": "[1]N~6 航太系館 5821",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-158",
+    "code": "F4-158 F440900 [AA4313]",
+    "name": "導引與導航概論",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "何慶雄",
+    "enrollment": "8/57",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[2]2 航太系館 5825 [5]3~4 航太系館 5825",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-159",
+    "code": "F4-159 F448300 [AA4312]",
+    "name": "控制系統設計",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "李君謨",
+    "enrollment": "31/34",
+    "locations": [
+      "5825",
+      "航太系館"
+    ],
+    "period": "[2]5~6 航太系館 5825 [5]8 航太系館 5825",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F4-160",
+    "code": "F4-160 F446020 [AA4692]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F4",
+    "department": "航太系 AA",
+    "teacher": "呂宗行 詹劭勳 溫志湧 鄭金祥 王大中 江達雲 陳世雄 張克勤 趙怡欽 蕭飛賓 王覺寬 胡潛濱 賴維祥",
+    "enrollment": "437/22",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

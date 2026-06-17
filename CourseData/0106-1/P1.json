@@ -1,0 +1,677 @@
+[
+  {
+    "id": "P1-001",
+    "code": "P1-001 P110110-1 [SYS7091]",
+    "name": "專題討論（一） 碩博一二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "沈聖智* 黃正弘",
+    "enrollment": "41/1359",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-002",
+    "code": "P1-002 P110130-1 [SYS7093]",
+    "name": "專題討論（三） 碩博一二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "沈聖智* 黃正弘",
+    "enrollment": "41/139",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-004",
+    "code": "P1-004 P110300 [SYS7601]",
+    "name": "結構動力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳重雄",
+    "enrollment": "17/18",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[1]6~8 系統系館 56226",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-006",
+    "code": "P1-006 P110600 [SYS7605]",
+    "name": "船舶結構分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "楊澤民",
+    "enrollment": "154/21",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[3]6~8 系統系館 56441",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-008",
+    "code": "P1-008 P153000 [SYS7004]",
+    "name": "漫散及非線性振動 選課請洽系辦並繳交主任簽核之修課同意書  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳長鈕",
+    "enrollment": "11/網路選課不開放",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[4]7~9 系統系館 56441",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-011",
+    "code": "P1-011 P160600 [SYS5004]",
+    "name": "金屬材料製程及運輸產業應用實務 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "林秋豐",
+    "enrollment": "39/21",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[5]6~8 系統系館 56113",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-014",
+    "code": "P1-014 P151500 [SYS7401]",
+    "name": "非線性系統分析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳永裕",
+    "enrollment": "9/1",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[3]5~7 系統系館 56226",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-101",
+    "code": "P1-101 P110110-2 [SYS7091]",
+    "name": "專題討論（一） 碩博一二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "沈聖智* 黃正弘",
+    "enrollment": "1/179",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-102",
+    "code": "P1-102 P110130-2 [SYS7093]",
+    "name": "專題討論（三） 碩博一二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "沈聖智* 黃正弘",
+    "enrollment": "4/1756",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-103",
+    "code": "P1-103 P160500 [SYS5002]",
+    "name": "水下載具設計 業界專家參與  選課請洽系辦並繳交主任簽核之修課同意書  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "陳政宏",
+    "enrollment": "8/網路選課不開放",
+    "locations": [
+      "56226",
+      "系統系館"
+    ],
+    "period": "[2]2~4 系統系館 56226",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-104",
+    "code": "P1-104 P160400 [SYS5003]",
+    "name": "離岸風電海事工程導論 業界專家參與  密集式授課(學期前9週每週六9-12時、13-16時)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "林宇銜",
+    "enrollment": "165/54",
+    "locations": [
+      "56111上課時間",
+      "56111",
+      "系統系館"
+    ],
+    "period": "[6]2~4 系統系館 56111 [6]5~7 系統系館 56111上課時間",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-107",
+    "code": "P1-107 P113200 [SYS7095]",
+    "name": "專題討論 業界專家參與  僅供碩博三以上選修，與碩博一二合班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "沈聖智* 黃正弘",
+    "enrollment": "2/178",
+    "locations": [
+      "惠特講堂",
+      "系統系館"
+    ],
+    "period": "[3]3~4 系統系館 惠特講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-116",
+    "code": "P1-116 P170400 [SYS7704]",
+    "name": "流體渦動學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "吳鴻文",
+    "enrollment": "115/4",
+    "locations": [
+      "系統系館",
+      "56661"
+    ],
+    "period": "[4]2~3 系統系館 56661 [4]7 系統系館 56661",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-117",
+    "code": "P1-117 P170200 [SYS7602]",
+    "name": "破壞力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "趙儒民",
+    "enrollment": "5/150",
+    "locations": [
+      "系統系館",
+      "56661"
+    ],
+    "period": "[2]5~6 系統系館 56661 [3]2 系統系館 56661",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-122",
+    "code": "P1-122 P181000 [SYS7508]",
+    "name": "熱流原理與實驗",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "張始偉",
+    "enrollment": "3/32",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[5]5~7 系統系館 56441",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-129",
+    "code": "P1-129 P170900 [SYS7403]",
+    "name": "現代控制系統分析與設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "黃正能",
+    "enrollment": "18/17",
+    "locations": [
+      "系統系館",
+      "56224"
+    ],
+    "period": "[1]7~9 系統系館 56224",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-137",
+    "code": "P1-137 P110200 [SYS7501]",
+    "name": "船用流體動力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "方銘川",
+    "enrollment": "12/23",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[1]7~9 系統系館 56441",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-144",
+    "code": "P1-144 P171800 [SYS7104]",
+    "name": "通訊電子學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李坤洲",
+    "enrollment": "12/23",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[2]1~3 系統系館 56441",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-148",
+    "code": "P1-148 P180300 [SYS7105]",
+    "name": "統計訊號處理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "李坤洲",
+    "enrollment": "14/21",
+    "locations": [
+      "系統系館",
+      "56441"
+    ],
+    "period": "[1]1~3 系統系館 56441",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "P1-149",
+    "code": "P1-149 N061800 [EM6827]",
+    "name": "產品生命週期管理 moocs  第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "P1",
+    "department": "系統所 SYS",
+    "teacher": "邵揮洲",
+    "enrollment": "42/額滿",
+    "locations": [
+      "56113",
+      "系統系館"
+    ],
+    "period": "[3]B~D 系統系館 56113",
+    "slots": []
+  }
+]

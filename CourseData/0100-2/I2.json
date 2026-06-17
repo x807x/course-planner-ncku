@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "I212920-Z",
+    "code": "I212920-Z [NURS]",
+    "name": "基礎國文（二） 核心通識，依照基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "00/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "I213020-Z",
+    "code": "I213020-Z [NURS]",
+    "name": "英文（含口語訓練）（二） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參考備0註",
+    "locations": [],
+    "period": "[4]5~6 [1]8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "外國語言"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "外國語言"
+      }
+    ]
+  },
+  {
+    "id": "I212700-Z",
+    "code": "I212700-Z [NURS]",
+    "name": "歷史 核心通識，依照公民與歷史選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參0考備註",
+    "locations": [],
+    "period": "[2]3~4",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "公民與歷史"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "公民與歷史"
+      }
+    ]
+  },
+  {
+    "id": "I2-005",
+    "code": "I2-005 I211800 [NURS1211]",
+    "name": "護理學導論 限本系學生",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王瑤華* 林梅鳳 柯乃熒 林靜蘭",
+    "enrollment": "37/13",
+    "locations": [
+      "醫學院",
+      "303D"
+    ],
+    "period": "[1]5~6 醫學院 303D",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-006",
+    "code": "I2-006 I211900 [NURS1212]",
+    "name": "生理學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "吳豐森* 莊季瑛 黃阿敏 任卓穎 陳麗玉 楊尚訓",
+    "enrollment": "46/4",
+    "locations": [
+      "醫學院",
+      "第一講堂"
+    ],
+    "period": "[1]2 醫學院 第一講堂 [5]3~4 醫學院 第一講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-007",
+    "code": "I2-007 I212501 [NURS1223]",
+    "name": "心理學 醫學、科技與社會學程(STM)  與職治、物治合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "游一龍* 郭乃文 黃惠玲",
+    "enrollment": "058/2",
+    "locations": [
+      "成杏廳",
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[1]3 醫學院 成杏廳 [4]7~8 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-009",
+    "code": "I2-009 I211100 [NURS1220]",
+    "name": "生理學實驗 教室：3F實驗室，選習本課程需同時修選生理學",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "吳豐森 莊季瑛 黃阿敏 任卓穎 陳麗玉 楊尚訓",
+    "enrollment": "38/012",
+    "locations": [
+      "醫學院",
+      "0403"
+    ],
+    "period": "[2]7~8 醫學院 0403",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-011",
+    "code": "I2-011 I217920 [NURS1214]",
+    "name": "服務學習（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "林靜蘭*",
+    "enrollment": "37/13",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I210020-Z",
+    "code": "I210020-Z [NURS]",
+    "name": "體育（二）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/依照該類課程科目序號選課",
+    "locations": [],
+    "period": "[5]7~8",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I225000-Z1",
+    "code": "I225000-Z1 [NURS]",
+    "name": "通識課程",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/依0照該類課程科目序號選課",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-051",
+    "code": "I2-051 I220100 [NURS2210]",
+    "name": "基本護理學 限本系學生  需先修以下科目:《健康檢查與評估（含實習）/必修/3.0 學分/0 分以上》《生理學/必修/3.0 學分/0 分以上》《解剖學（含實驗）/必修/3.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王瑤華* 林梅鳳 許玉雲 陳雯婷 林靜蘭",
+    "enrollment": "38/102",
+    "locations": [
+      "85X09",
+      "護理系館"
+    ],
+    "period": "[3]1~2 護理系館 85X09",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-052",
+    "code": "I2-052 I221201 [NURS2212]",
+    "name": "基本護理學實習 限本系學生  需先修以下科目:《健康檢查與評估（含實習）/必修/3.0 學分/0 分以上》《生理學/必修/3.0 學分/0 分以上》《解剖學（含實驗）/必修/3.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "林梅鳳* 王瑤華 許玉雲 王靜枝 陳雯婷 林靜蘭",
+    "enrollment": "38/12",
+    "locations": [
+      "醫學院",
+      "85X09",
+      "307",
+      "護理系館"
+    ],
+    "period": "[3]3~4 護理系館 85X09 [3]5~8 護理系館 85X09 [4]1~4 醫學院 307",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-055",
+    "code": "I2-055 I223300 [NURS2214]",
+    "name": "藥理學 需先修以下科目:《生理學/必修/3.0 學分/0 分以上》《解剖學（含實驗）/必修/3.0 學分/0 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "呂增宏 簡偉明 許桂森 沈孟儒 張雋曦",
+    "enrollment": "38/12",
+    "locations": [
+      "307",
+      "醫學院"
+    ],
+    "period": "[5]5~7 醫學院 307",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I225000-Z2",
+    "code": "I225000-Z2 [NURS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I210340-Z",
+    "code": "I210340-Z [NURS]",
+    "name": "英文（含口語訓練）（四） 核心通識，依照國際語言選項科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參考0備註",
+    "locations": [],
+    "period": "[2]7 [2]8",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "I210040-Z",
+    "code": "I210040-Z [NURS]",
+    "name": "體育（四） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/0請參考備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-065",
+    "code": "I2-065 I231200 [NURS2225]",
+    "name": "公共衛生概論 醫學、科技與社會學程(STM)  醫學系護理系合班",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "呂宗學* 張志欽 胡淑貞 陳國東 王榮德 劉立凡 楊靜利",
+    "enrollment": "530/7",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]2~3 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-067",
+    "code": "I2-067 I221100 [NURS2211]",
+    "name": "生物統計學",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王亮懿*",
+    "enrollment": "048/2",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[2]3~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-068",
+    "code": "I2-068 I222000 [NURS2223]",
+    "name": "醫療專業與生死 限醫學院五系選修  限醫學院",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "趙可式* 陳清惠 盧豐華 林鵬展 簡偉明",
+    "enrollment": "76/84",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[4]7~8 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I225000-Z3",
+    "code": "I225000-Z3 [NURS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-102",
+    "code": "I2-102 I230300 [NURS3211]",
+    "name": "兒科護理學 限本系學生  需先修以下科目:《基本護理學/必修/2.0 學分/60 分以上》《基本護理學實習/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "蘇英華* 張瑩如 黃美智 許玉雲 陳建旭 王志堯 林啓禎 林秀娟 林其和 劉清泉 吳俊明 邱元佑 杜伊芳 李易清",
+    "enrollment": "34/1",
+    "locations": [
+      "85309",
+      "護理系館"
+    ],
+    "period": "[4]2~4 護理系館 85309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-103",
+    "code": "I2-103 I230600 [NURS3214]",
+    "name": "兒科護理學實習 限本系學生  需先修以下科目:《基本護理學/必修/2.0 學分/60 分以上》《基本護理學實習/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "蘇英華 黃美智 馮瑞鶯",
+    "enrollment": "034/1",
+    "locations": [
+      "85309",
+      "護理系館"
+    ],
+    "period": "[2]1~8 護理系館 85309 [4]1 護理系館 85309",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-106",
+    "code": "I2-106 I230220 [NURS3210]",
+    "name": "成人護理學（二） 限本系學生  需先修以下科目:《基本護理學/必修/2.0 學分/60 分以上》《基本護理學實習/必修/2.0 學分/60 分以上》《成人護理學實習（一）/必修/3.0 學分/60 分以上》《成人護理學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "張文芸* 陳清惠 趙可式 柯乃熒 李經維 官大紳 林啓禎 林瑞模 劉明煇 吳俊良 黃福進 林鵬展 曾堯麟",
+    "enrollment": "34/1",
+    "locations": [
+      "85X09",
+      "護理系館"
+    ],
+    "period": "[1]5~7 護理系館 85X09",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-107",
+    "code": "I2-107 I230420 [NURS3213]",
+    "name": "成人護理學實習（二） 限本系學生  需先修以下科目:《基本護理學/必修/2.0 學分/60 分以上》《基本護理學實習/必修/2.0 學分/60 分以上》《成人護理學實習（一）/必修/3.0 學分/60 分以上》《成人護理學（一）/必修/3.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "張文芸 顏妙芬 陳清惠 趙可式 柯乃熒",
+    "enrollment": "34/1",
+    "locations": [
+      "85309",
+      "85X09",
+      "護理系館"
+    ],
+    "period": "[1]8 護理系館 85X09 [3]1~8 護理系館 85309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-112",
+    "code": "I2-112 I231410 [NURS3215]",
+    "name": "綜合臨床護理學實習（一） 暑假醫院實習  需先修以下科目:《基本護理學/必修/2.0 學分/60 分以上》《基本護理學實習/必修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "馮瑞鶯* 馬先芝",
+    "enrollment": "034/1",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I2-115",
+    "code": "I2-115 I232700 [NURS3226]",
+    "name": "急診醫學",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "紀志賢* 林志豪 杜伊芳 許以霖",
+    "enrollment": "44/6",
+    "locations": [
+      "307",
+      "醫學院"
+    ],
+    "period": "[5]1~2 醫學院 307",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-117",
+    "code": "I2-117 I231700 [NURS3212]",
+    "name": "生命倫理與護理 限本系學生",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王瑤華* 陳清惠 簡偉明",
+    "enrollment": "33/02",
+    "locations": [
+      "85309",
+      "護理系館"
+    ],
+    "period": "[5]5~6 護理系館 85309",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-121",
+    "code": "I2-121 I243200 [NURS3228]",
+    "name": "職業安全衛生 二、三年級合開",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "郭耀昌* 王伯智 郭浩然 王榮德",
+    "enrollment": "31/9",
+    "locations": [
+      "醫學院",
+      "204D"
+    ],
+    "period": "[4]5~6 醫學院 204D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I225000-Z4",
+    "code": "I225000-Z4 [NURS]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/請參考0備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-152",
+    "code": "I2-152 I242300 [NURS4214]",
+    "name": "社區護理學 限本系學生  需先修以下科目:《兒科護理學實習/必修/3.0 學分/0 分以上》《成人護理學實習（一）/必修/3.0 學分/0 分以上》《成人護理學實習（二）/必修/3.0 學分/0 分以上》《產科護理學實習/必修/3.0 學分/0 分以上》《綜合臨床護理學實習（一）/必修/3.0 學分/0 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王琪珍* 王靜枝 陳靜敏",
+    "enrollment": "303/2",
+    "locations": [
+      "85X09",
+      "護理系館"
+    ],
+    "period": "[4]2~4 護理系館 85X09",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-153",
+    "code": "I2-153 I242400 [NURS4215]",
+    "name": "社區護理學實習 醫院社區實習，限本系學生 ，上課地點85101、85102及85X09  需先修以下科目:《兒科護理學實習/必修/3.0 學分/0 分以上》《成人護理學實習（一）/必修/3.0 學分/0 分以上》《成人護理學實習（二）/必修/3.0 學分/0 分以上》《產科護理學實習/必修/3.0 學分/0 分以上》《綜合臨床護理學實習（一）/必修/3.0 學分/0 分以上》",
+    "grade": 4,
+    "credits": 3,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王琪珍 王靜枝 陳靜敏",
+    "enrollment": "33/2",
+    "locations": [
+      "85X09",
+      "85102",
+      "護理系館"
+    ],
+    "period": "[2]1~4 護理系館 85102 [3]1~4 護理系館 85102 [4]1 護理系館 85X09",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-155",
+    "code": "I2-155 I242600 [NURS4216]",
+    "name": "專業問題研討 限本系學生  需先修以下科目:《兒科護理學實習/必修/3.0 學分/0 分以上》《成人護理學實習（一）/必修/3.0 學分/0 分以上》《成人護理學實習（二）/必修/3.0 學分/0 分以上》《產科護理學實習/必修/3.0 學分/0 分以上》《綜合臨床護理學實習（一）/必修/3.0 學分/0 分以上》",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "陳靜敏* 侯英泠 王瑤華 陳清惠 陳麗芳",
+    "enrollment": "33/2",
+    "locations": [
+      "85309",
+      "護理系館"
+    ],
+    "period": "[1]2~3 護理系館 85309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-156",
+    "code": "I2-156 I240400 [NURS4210]",
+    "name": "護理行政概論 限本系學生  需先修以下科目:《兒科護理學實習/必修/3.0 學分/0 分以上》《成人護理學實習（一）/必修/3.0 學分/0 分以上》《成人護理學實習（二）/必修/3.0 學分/0 分以上》《產科護理學實習/必修/3.0 學分/0 分以上》《綜合臨床護理學實習（二）/必修/3.0 學分/0 分以上》",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "張瑩如* 李引玉 馬先芝 張淑貞 韓錦樺 王維芳 陳麗芳",
+    "enrollment": "33/2",
+    "locations": [
+      "85309",
+      "護理系館"
+    ],
+    "period": "[1]5~6 護理系館 85309",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "I2-157",
+    "code": "I2-157 I240500 [NURS4211]",
+    "name": "護理行政實習 醫院實習  需先修以下科目:《兒科護理學實習/必修/3.0 學分/0 分以上》《成人護理學實習（一）/必修/3.0 學分/0 分以上》《成人護理學實習（二）/必修/3.0 學分/0 分以上》《產科護理學實習/必修/3.0 學分/0 分以上》《綜合臨床護理學實習（一）/必修/3.0 學分/0 分以上》",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "張瑩如 韓錦樺 王維芳 陳麗芳",
+    "enrollment": "033/2",
+    "locations": [
+      "85109",
+      "護理系館"
+    ],
+    "period": "[2]5~8 護理系館 85109 [3]5~8 護理系館 85109",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "I2-158",
+    "code": "I2-158 I243500 [NURS4227]",
+    "name": "臨床護理專業選習 醫院實習",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "王靜枝* 張淑貞",
+    "enrollment": "25/010",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I2-160",
+    "code": "I2-160 I241800 [NURS4223]",
+    "name": "論文寫作",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "張文芸 顏妙芬 陳清惠 許玉雲",
+    "enrollment": "6/209",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "I243400-Z",
+    "code": "I243400-Z [NURS]",
+    "name": "補強英文 依照國際語言選項科目序號選課",
+    "grade": 4,
+    "credits": 0,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "I2",
+    "department": "護理系 NURS",
+    "teacher": "",
+    "enrollment": "0/0請參考備註",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "外國語言"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "外國語言"
+      }
+    ]
+  }
+]

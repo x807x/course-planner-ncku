@@ -1,0 +1,124 @@
+[
+  {
+    "id": "U8-001",
+    "code": "U8-001 U870320 [PIMS7003]",
+    "name": "專題討論（二） 英語授課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "胡中凡",
+    "enrollment": "3/7",
+    "locations": [],
+    "period": "[5]N",
+    "slots": [
+      {
+        "day": 5,
+        "period": "N",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "U8-002",
+    "code": "U8-002 U790220 [CS7030]",
+    "name": "情緒與記憶專題研究（二） 英語授課  研究群：心智科學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "陳德祐",
+    "enrollment": "5/35",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[2]9~B 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-003",
+    "code": "U8-003 U771000 [CS7245]",
+    "name": "核磁共振造影進階分析：理論與實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "龔俊嘉",
+    "enrollment": "23/33",
+    "locations": [
+      "社科院大樓",
+      "80204"
+    ],
+    "period": "[1]6~8 社科院大樓 80204",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "U8-004",
+    "code": "U8-004 TA82700 [AHS9047]",
+    "name": "健身運動與認知神經科學 英語授課  上課地點：新體育館視聽教室，動作科學與照護研究群選修(與心理系合開，心智所研究群：心智科學)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "U8",
+    "department": "心智應用博士學程 PIMS",
+    "teacher": "楊政達*",
+    "enrollment": "5/5",
+    "locations": [
+      "成大綜合體育館",
+      "體育館視廳室"
+    ],
+    "period": "[4]3~4 成大綜合體育館 體育館視廳室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

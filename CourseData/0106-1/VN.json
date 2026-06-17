@@ -1,0 +1,510 @@
+[
+  {
+    "id": "VN-001",
+    "code": "VN-001 N251000 [EE6011]",
+    "name": "電子陶瓷",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "李文熙",
+    "enrollment": "8/22",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[1]7~9 電機系館 92B28",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-002",
+    "code": "VN-002 N250030 [EE7093]",
+    "name": "專題討論（三） 電子材料組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "",
+    "enrollment": "2/網路選9課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "VN-004",
+    "code": "VN-004 N26F100 [EE8611]",
+    "name": "單石射頻積體電路設計 電機所電通所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "鄭光偉",
+    "enrollment": "20/590",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-005",
+    "code": "VN-005 N251900 [EE6321]",
+    "name": "能量轉換 電漿學分學程，韌性智慧能源學分學程  碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "黃世杰",
+    "enrollment": "102/4",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[2]A~C 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-007",
+    "code": "VN-007 Q152600 [IME6154]",
+    "name": "半導體元件物理 奈米積體電路工程碩士班學分學程，電漿學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "王水進",
+    "enrollment": "78/1",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[3]6~8 電機系館 繁城講堂",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-008",
+    "code": "VN-008 Q152700 [IME6155]",
+    "name": "高速元件",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "劉文超",
+    "enrollment": "290/10",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]2 電機系館 92C01 [3]3~4 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-009",
+    "code": "VN-009 Q161400 [IME7400]",
+    "name": "光電元件設計與模擬 碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "張守進",
+    "enrollment": "289/2",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[4]A~C 電機系館 92C01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-010",
+    "code": "VN-010 Q151700 [IME6142]",
+    "name": "ＵＬＳＩ元件物理 奈米積體電路工程碩士班學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "陳志方",
+    "enrollment": "63/7",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[3]4 電機系館 92383 [4]3~4 電機系館 92383",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-011",
+    "code": "VN-011 Q153010 [IME6310]",
+    "name": "半導體及先進奈米化製程技術概論（一） 奈米積體電路工程碩士班學分學程  台積電主管開授，(一)、(二)都需修課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "王英郎",
+    "enrollment": "255/1",
+    "locations": [
+      "迅慧講堂",
+      "電機系館"
+    ],
+    "period": "[4]7~9 電機系館 迅慧講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-012",
+    "code": "VN-012 Q161500 [IME7129]",
+    "name": "電子構裝技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "洪茂峰",
+    "enrollment": "30/額滿",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]3~4 電機系館 92C01 [4]2 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-013",
+    "code": "VN-013 Q161700 [IME7140]",
+    "name": "量子電子學 英語授課 量子技術專長微學程  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "莊文魁",
+    "enrollment": "6/24",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-014",
+    "code": "VN-014 Q151200 [IME6132]",
+    "name": "半導體光學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "蔡宗祐",
+    "enrollment": "6/24",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-015",
+    "code": "VN-015 Q750400 [NICE6502]",
+    "name": "半導體感測器實務技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "曾永華",
+    "enrollment": "50/20",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[2]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-016",
+    "code": "VN-016 Q352200 [CCE5240]",
+    "name": "光電通訊系統 大四碩士合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "黃振發",
+    "enrollment": "37/33",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 92371",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VN-017",
+    "code": "VN-017 Q352000 [CCE6453]",
+    "name": "微波工程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VN",
+    "department": "微波元件產碩",
+    "teacher": "蔡智明",
+    "enrollment": "28/42",
+    "locations": [
+      "92177",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92177",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

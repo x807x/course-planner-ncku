@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "E911910-Z",
+    "code": "E911910-Z [ES]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]7~8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "A119110-ZW",
+    "code": "A119110-ZW [FLC6004]",
+    "name": "外國語言（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考7備註",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-005",
+    "code": "E9-005 E915730 [PHYS1011]",
+    "name": "普通物理學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "蔡永東",
+    "enrollment": "73/7",
+    "locations": [
+      "41104",
+      "工科系館"
+    ],
+    "period": "[1]8 工科系館 41104 [4]5~6 工科系館 41104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-006",
+    "code": "E9-006 E915830 [PHYS1012]",
+    "name": "普通物理學實驗 理化大樓２Ｆ普物實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "朱淑君",
+    "enrollment": "65/75",
+    "locations": [],
+    "period": "[2]1~3",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E9-007",
+    "code": "E9-007 E910300 [ES1131]",
+    "name": "工程力學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "潘文峰",
+    "enrollment": "797/11",
+    "locations": [
+      "41104",
+      "工科系館"
+    ],
+    "period": "[1]1~3 工科系館 41104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-008",
+    "code": "E9-008 E911300 [ES1121]",
+    "name": "計算機概論 半導體工程應用管理專長微學程，智慧機器人專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "王宗一",
+    "enrollment": "781/3",
+    "locations": [
+      "41104",
+      "工科系館"
+    ],
+    "period": "[1]7 工科系館 41104 [2]7~8 工科系館 41104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-010",
+    "code": "E9-010 F115611 [MATH1011]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "連文璟",
+    "enrollment": "116/4",
+    "locations": [
+      "A1304",
+      "A1306(資源後)",
+      "A1301",
+      "A1305",
+      "共同教室",
+      "A1303"
+    ],
+    "period": "[2]5~6 共同教室 A1306(資源後) [5]7 共同教室 A1306(資源後) [5]8 共同教室 A1303 [5]8 共同教室 A1304 [5]8 共同教室 A1305 [5]8 共同教室 A1301",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E925000-Z1",
+    "code": "E925000-Z1 [ES]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-012",
+    "code": "E9-012 A215500-32 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "徐珊惠",
+    "enrollment": "673/37",
+    "locations": [
+      "成大綜合體育館",
+      "體育館視廳室"
+    ],
+    "period": "[4]7~8 成大綜合體育館 體育館視廳室",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-014",
+    "code": "E9-014 E921500-2 [ES2222]",
+    "name": "工程圖學與模擬 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "游濟華",
+    "enrollment": "71/6",
+    "locations": [
+      "41X01",
+      "工科系館"
+    ],
+    "period": "[4]2 工科系館 41X01 [4]3~4 工科系館 41X01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E9-018",
+    "code": "E9-018 E917910 [ES0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "林裕城",
+    "enrollment": "637/12",
+    "locations": [],
+    "period": "[3]N",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E925000-Z2",
+    "code": "E925000-Z2 [ES]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E925000-Z5",
+    "code": "E925000-Z5 [ES]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備7註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-054",
+    "code": "E9-054 E910100 [ES2221]",
+    "name": "資料結構",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "陳牧言",
+    "enrollment": "91/6",
+    "locations": [
+      "41104",
+      "工科系館",
+      "41107"
+    ],
+    "period": "[2]3~4 工科系館 41104 [4]3 工科系館 41107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-055",
+    "code": "E9-055 E921000 [ES2211]",
+    "name": "電路學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "陳昭羽",
+    "enrollment": "84/1",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[1]2~3 工科系館 41107 [3]2 工科系館 41107",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-056",
+    "code": "E9-056 E926200 [ES2135]",
+    "name": "材料科學 風能發電專長微學程，半導體工程應用管理專長微學程  需先修以下科目:《工程科學暨創新概論/選修/2.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "趙隆山",
+    "enrollment": "674/1",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[3]3~4 工科系館 41107 [4]4 工科系館 41107",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-057",
+    "code": "E9-057 E921310 [ES2251]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "傅龍明",
+    "enrollment": "675/10",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[4]2 工科系館 41107 [5]3~4 工科系館 41107",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-060",
+    "code": "E9-060 E932300 [ES2220]",
+    "name": "離散數學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "侯廷偉",
+    "enrollment": "735/15",
+    "locations": [
+      "41103",
+      "工科系館"
+    ],
+    "period": "[1]7~9 工科系館 41103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-062",
+    "code": "E9-062 E920100 [ES2233]",
+    "name": "熱力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "傅龍明",
+    "enrollment": "95/3",
+    "locations": [
+      "41104",
+      "工科系館"
+    ],
+    "period": "[4]7~9 工科系館 41104",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E910030-Z",
+    "code": "E910030-Z [ES]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請7參考備註",
+    "locations": [],
+    "period": "[3]5~6",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-065",
+    "code": "E9-065 E917930 [ES0003]",
+    "name": "服務學習（三） 需先修以下科目:《工程科學暨創新概論/選修/2.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "林裕城",
+    "enrollment": "54/1",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[2]N 工科系館 41107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E925000-Z3",
+    "code": "E925000-Z3 [ES]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-105",
+    "code": "E9-105 E931500 [ES3334]",
+    "name": "流體力學 需先修以下科目:《工程科學暨創新概論/選修/2.0 學分/60 分以上》",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "楊瑞珍",
+    "enrollment": "673/14",
+    "locations": [
+      "41X01",
+      "工科系館"
+    ],
+    "period": "[2]5~7 工科系館 41X01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-107",
+    "code": "E9-107 E930600 [ES3373]",
+    "name": "微處理機與介面設計（含實習） 奈米先進技術與設備學分學程 半導體工程應用管理專長微學程，智慧機器人專長微學程  大學部必選課程 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "侯廷偉",
+    "enrollment": "68/7",
+    "locations": [
+      "41107",
+      "工科系館",
+      "41202"
+    ],
+    "period": "[3]7~8 工科系館 41107 [2]8~A 工科系館 41202",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E9-111",
+    "code": "E9-111 E910400 [ES3322]",
+    "name": "計算機組織與組合語言",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "鄧維光",
+    "enrollment": "768/7",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[3]5 工科系館 41107 [4]5~6 工科系館 41107",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-113",
+    "code": "E9-113 E938500 [ES2312]",
+    "name": "自動控制 智慧機器人專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "何明字",
+    "enrollment": "770/10",
+    "locations": [
+      "41107",
+      "工科系館"
+    ],
+    "period": "[1]5~6 工科系館 41107 [3]6 工科系館 41107",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-114",
+    "code": "E9-114 E933400 [ES3101]",
+    "name": "通訊系統",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "陳曉華",
+    "enrollment": "21/19",
+    "locations": [
+      "41122",
+      "工科系館"
+    ],
+    "period": "[5]6~8 工科系館 41122",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-115",
+    "code": "E9-115 E930300 [ES3342]",
+    "name": "工程電磁學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "張御琦",
+    "enrollment": "45/170",
+    "locations": [
+      "41103",
+      "工科系館"
+    ],
+    "period": "[2]3~4 工科系館 41103 [4]2 工科系館 41103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-117",
+    "code": "E9-117 E933500 [ES3443]",
+    "name": "仿生材料力學導論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "劉立偉",
+    "enrollment": "13/737",
+    "locations": [
+      "41103",
+      "工科系館"
+    ],
+    "period": "[3]2~4 工科系館 41103",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-119",
+    "code": "E9-119 E930900 [ES2222]",
+    "name": "電子電路 智慧機器人專長微學程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "卿文龍",
+    "enrollment": "37/13",
+    "locations": [
+      "41103",
+      "工科系館"
+    ],
+    "period": "[1]2~3 工科系館 41103 [2]2 工科系館 41103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-122",
+    "code": "E9-122 E950110 [ES3470]",
+    "name": "專題研究（一） 大學部必選課程",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "林裕城* 侯廷偉 何明字 鄧維光 陳曉華 卿文龍 陳蓉珊 李哲明 王宗一 陳昭羽 賴槿峰 張御琦 潘文峰",
+    "enrollment": "61/額滿",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "E925000-Z4",
+    "code": "E925000-Z4 [ES]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E9-153",
+    "code": "E9-153 E942700 [ES5551]",
+    "name": "機器人設計與製作 智慧機器人專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E9",
+    "department": "工科系 ES",
+    "teacher": "侯廷偉* 何明字 周榮華",
+    "enrollment": "273/12",
+    "locations": [
+      "41122",
+      "工科系館"
+    ],
+    "period": "[4]7~9 工科系館 41122",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

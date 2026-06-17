@@ -1,0 +1,598 @@
+[
+  {
+    "id": "L3-001",
+    "code": "L3-001 L353720 [CHEM8064]",
+    "name": "書報討論（二）－無機組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "許鏵芬",
+    "enrollment": "15/5",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[1]5 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L3-002",
+    "code": "L3-002 L351720 [CHEM8061]",
+    "name": "書報討論（二）－有機組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "吳耀庭",
+    "enrollment": "170/3",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[2]5 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L3-003",
+    "code": "L3-003 L353820 [CHEM8067]",
+    "name": "書報討論（二）－物化組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "黃聖尹",
+    "enrollment": "21/額滿",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[2]4 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L3-004",
+    "code": "L3-004 L353920 [CHEM8070]",
+    "name": "書報討論（二）－分析組",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "陳巧貞",
+    "enrollment": "19/1",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[2]5 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "L3-005",
+    "code": "L3-005 L360100-1 [CHEM7097]",
+    "name": "專題討論 業界專家參與  限碩班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "鄭沐政* 許鏵芬 吳耀庭 陳巧貞",
+    "enrollment": "137/1063",
+    "locations": [
+      "36102",
+      "理學教學大樓"
+    ],
+    "period": "[2]7~8 理學教學大樓 36102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-006",
+    "code": "L3-006 L361400 [CHEM8054]",
+    "name": "化學催化導論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "俞聖法",
+    "enrollment": "6/24",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[5]5~7 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-012",
+    "code": "L3-012 L350800 [CHEM7003]",
+    "name": "高等無機化學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "林峻毅",
+    "enrollment": "51/29",
+    "locations": [
+      "36104",
+      "理學教學大樓"
+    ],
+    "period": "[4]5~7 理學教學大樓 36104",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-013",
+    "code": "L3-013 L360400 [CHEM8017]",
+    "name": "無機固態化學 關鍵材料學程核心課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "許桂芳",
+    "enrollment": "65/15",
+    "locations": [
+      "36202",
+      "理學教學大樓"
+    ],
+    "period": "[1]6 理學教學大樓 36202 [3]7~8 理學教學大樓 36202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-014",
+    "code": "L3-014 L385000 [CHEM8052]",
+    "name": "新型質譜技術的開發與應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "賴思學",
+    "enrollment": "110/9",
+    "locations": [
+      "36308",
+      "理學教學大樓"
+    ],
+    "period": "[2]2~4 理學教學大樓 36308",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-023",
+    "code": "L3-023 L383500 [CHEM8042]",
+    "name": "無機奈米材料合成技術",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "吳欣倫",
+    "enrollment": "013/37",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[3]5~6 理學教學大樓 36106 [4]4 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-037",
+    "code": "L3-037 L383200 [CHEM8038]",
+    "name": "化學教學專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "謝慕道",
+    "enrollment": "42/網路選課不開放",
+    "locations": [
+      "理化大樓",
+      "35102"
+    ],
+    "period": "[4]9 理化大樓 35102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "L3-046",
+    "code": "L3-046 L384600 [CHEM7087]",
+    "name": "配位化學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "許鏵芬",
+    "enrollment": "25/55",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[1]2~3 理學教學大樓 36106 [3]2 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-047",
+    "code": "L3-047 L384400 [CHEM7089]",
+    "name": "生技新藥",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "邱顯泰",
+    "enrollment": "110/1",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[4]N 理學教學大樓 36208 [5]N 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-048",
+    "code": "L3-048 L383300 [CHEM8040]",
+    "name": "生物科技特論",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "邱顯泰",
+    "enrollment": "11/1",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[1]N 理學教學大樓 36208 [3]N 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-101",
+    "code": "L3-101 L360100-2 [CHEM7097]",
+    "name": "專題討論 業界專家參與  限博班",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "鄭沐政* 許鏵芬 吳耀庭 陳巧貞",
+    "enrollment": "40/296",
+    "locations": [
+      "36102",
+      "理學教學大樓"
+    ],
+    "period": "[2]7~8 理學教學大樓 36102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-126",
+    "code": "L3-126 L354100 [CHEM5003]",
+    "name": "材料與分子的模擬 複合材料性質與應用專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "鄭沐政",
+    "enrollment": "44/6",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[4]6~8 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-127",
+    "code": "L3-127 L354300 [CHEM5005]",
+    "name": "有機光譜特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "周鶴軒",
+    "enrollment": "46/額0滿",
+    "locations": [
+      "36106",
+      "理學教學大樓"
+    ],
+    "period": "[2]3~4 理學教學大樓 36106 [4]2 理學教學大樓 36106",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-129",
+    "code": "L3-129 L354630 [CHEM5009]",
+    "name": "固體材料的分析方法（二） 英語授課  英語授課100%",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "劉詠熙",
+    "enrollment": "20/30",
+    "locations": [
+      "36208",
+      "36104",
+      "理學教學大樓"
+    ],
+    "period": "[3]5 理學教學大樓 36104 [5]3~4 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "L3-130",
+    "code": "L3-130 L354700 [CHEM5010]",
+    "name": "太陽能、光伏和光電化學反應 英語授課 碳中和專長微學程  英語授課100%",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "理學院",
+    "departmentCode": "L3",
+    "department": "化學所 CHEM",
+    "teacher": "劉詠熙",
+    "enrollment": "013/37",
+    "locations": [
+      "36208",
+      "理學教學大樓"
+    ],
+    "period": "[1]7~8 理學教學大樓 36208 [3]4 理學教學大樓 36208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

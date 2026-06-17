@@ -1,0 +1,457 @@
+[
+  {
+    "id": "VY-001",
+    "code": "VY-001 VY50100 [6001]",
+    "name": "初級會計學 限會計商業分析產碩專班修課,實習課排定於周四[A~B]時段  限1年級以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "吳思蓉",
+    "enrollment": "101/額滿",
+    "locations": [
+      "63209",
+      "會計系館"
+    ],
+    "period": "[4]6~8 會計系館 63209",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-002",
+    "code": "VY-002 R161502 [ACC6039]",
+    "name": "資料探勘與大數據",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "徐立群",
+    "enrollment": "58/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-003",
+    "code": "VY-003 R859600 [FIN6044]",
+    "name": "金融科技創新與應用 FinTech金融科技學分學程 金融科技專長微學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "徐立群",
+    "enrollment": "318/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[5]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-004",
+    "code": "VY-004 R150500 [ACC6009E]",
+    "name": "高級財務會計學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "謝喻婷",
+    "enrollment": "43/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-005",
+    "code": "VY-005 R150300 [ACC6008]",
+    "name": "高級審計學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "林囿成",
+    "enrollment": "331/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[3]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-006",
+    "code": "VY-006 R153800 [ACC6021]",
+    "name": "國際財務報導準則之應用研究 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "金書賢",
+    "enrollment": "12/3",
+    "locations": [
+      "63415",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63415",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-007",
+    "code": "VY-007 R152700 [ACC6014]",
+    "name": "財務報告分析與研究 限會計所碩士班選課 (產碩專班選修須修過初級會計學70分以上)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "林軒竹",
+    "enrollment": "37/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[4]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-008",
+    "code": "VY-008 R850100 [FIN6001]",
+    "name": "總體經濟學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "廖麗凱",
+    "enrollment": "53/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[2]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-009",
+    "code": "VY-009 R850700 [FIN6004]",
+    "name": "國際財務管理",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "王澤世",
+    "enrollment": "53/額滿",
+    "locations": [
+      "63102",
+      "會計系館"
+    ],
+    "period": "[4]2~4 會計系館 63102",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-010",
+    "code": "VY-010 R851400 [FIN6008]",
+    "name": "投資學理論 FinTech金融科技學分學程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "黃炳勳",
+    "enrollment": "48/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[2]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-011",
+    "code": "VY-011 R850800 [FIN6005E]",
+    "name": "公司理財 FinTech金融科技學分學程 英語授課  外所學生修課需經任課教師簽核",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "梁少懷",
+    "enrollment": "37/額滿",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-012",
+    "code": "VY-012 R860400 [FIN6048]",
+    "name": "財務策略與價值創造",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "廖麗凱",
+    "enrollment": "34/1",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[4]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VY-013",
+    "code": "VY-013 R859300-1 [FIN6059]",
+    "name": "永續發展與ESG投資 業界專家參與",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "VY",
+    "department": "會計商業產碩 ACIM",
+    "teacher": "顏盟峯",
+    "enrollment": "53/額1滿",
+    "locations": [
+      "63211",
+      "會計系館"
+    ],
+    "period": "[1]2~4 會計系館 63211",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

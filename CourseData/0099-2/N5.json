@@ -1,0 +1,953 @@
+[
+  {
+    "id": "N5-001",
+    "code": "N5-001 N556800 [MSE7049]",
+    "name": "專題討論 碩博三以上選修",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "廖峻德",
+    "enrollment": "1017/169",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]7~8 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "N5-002",
+    "code": "N5-002 N557600 [MSE7046]",
+    "name": "電子顯微鏡學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "林文台",
+    "enrollment": "74/31",
+    "locations": [
+      "7104",
+      "唯農大樓"
+    ],
+    "period": "[3]6~8 唯農大樓 7104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-003",
+    "code": "N5-003 N572820 [MSE7042E]",
+    "name": "基礎材料科學（二） 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "呂國彰",
+    "enrollment": "217/14",
+    "locations": [
+      "7104",
+      "唯農大樓"
+    ],
+    "period": "[5]6~8 唯農大樓 7104",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-004",
+    "code": "N5-004 N552320 [MSE7004E]",
+    "name": "高等固態物理（二）",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "溫清榕",
+    "enrollment": "13/787",
+    "locations": [
+      "49322",
+      "綜合二館"
+    ],
+    "period": "[1]7~9 綜合二館 49322",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-005",
+    "code": "N5-005 N572600 [MSE7040]",
+    "name": "電極動力學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "李汝桐",
+    "enrollment": "11/24",
+    "locations": [
+      "7104",
+      "唯農大樓"
+    ],
+    "period": "[3]2 唯農大樓 7104 [5]3~4 唯農大樓 7104",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-007",
+    "code": "N5-007 N551100 [MSE7002]",
+    "name": "金屬加工現象解析",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "黃文星",
+    "enrollment": "48/1",
+    "locations": [
+      "7206",
+      "唯農大樓"
+    ],
+    "period": "[1]6~8 唯農大樓 7206",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-010",
+    "code": "N5-010 N570500 [MSE7029]",
+    "name": "學術自由與責任 限博二以上選課；第一階段不受理選課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "洪敏雄",
+    "enrollment": "3/72",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[3]3~4 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-016",
+    "code": "N5-016 N558900 [MSE7014]",
+    "name": "金屬表面硬化熱處理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "李世欽",
+    "enrollment": "760/額滿",
+    "locations": [
+      "唯農大樓",
+      "7204"
+    ],
+    "period": "[2]7~9 唯農大樓 7204",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-022",
+    "code": "N5-022 N552600 [MSE7005]",
+    "name": "擴散理論 測量系一樓",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "洪敏雄",
+    "enrollment": "32/27",
+    "locations": [
+      "測量系副館",
+      "55150",
+      "55180"
+    ],
+    "period": "[3]6 測量系副館 55180 [5]3~4 測量系副館 55150",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-027",
+    "code": "N5-027 N563000 [MSE7019]",
+    "name": "生醫材料特論 醫療器材與系統學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "陳瑾惠",
+    "enrollment": "711/24",
+    "locations": [
+      "7206",
+      "唯農大樓"
+    ],
+    "period": "[3]2 唯農大樓 7206 [4]3~4 唯農大樓 7206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-029",
+    "code": "N5-029 N580300 [MSE7044]",
+    "name": "碳基摩擦材料 先修科目碳材料概論  需先修以下科目:《碳材料概論/選修/3.0 學分/70 分以上》；限碩一以上選課；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "朱建平",
+    "enrollment": "5/5",
+    "locations": [
+      "7106",
+      "唯農大樓"
+    ],
+    "period": "[3]7~8 唯農大樓 7106 [4]2 唯農大樓 7106",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-033",
+    "code": "N5-033 N572500 [MSE5042]",
+    "name": "無機固體光譜學概論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "齊孝定",
+    "enrollment": "49/額7滿",
+    "locations": [
+      "唯農大樓",
+      "7202"
+    ],
+    "period": "[1]2~3 唯農大樓 7202 [3]6 唯農大樓 7202",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-036",
+    "code": "N5-036 N572400 [MSE7038E]",
+    "name": "高分子結晶特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "阮至正",
+    "enrollment": "79/26",
+    "locations": [
+      "7106",
+      "唯農大樓"
+    ],
+    "period": "[1]2~3 唯農大樓 7106 [3]2 唯農大樓 7106",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-050",
+    "code": "N5-050 N550021 [MSE7092E]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "呂國彰",
+    "enrollment": "793/177",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]7~8 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "N5-051",
+    "code": "N5-051 N550041 [MSE7095E]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "呂國彰",
+    "enrollment": "85/185",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]7~8 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "N5-052",
+    "code": "N5-052 N570020 [MSE7046]",
+    "name": "專題討論（二）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "張高碩",
+    "enrollment": "22/248",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]7~8 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "N5-053",
+    "code": "N5-053 N570040 [MSE7047]",
+    "name": "專題討論（四）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "張高碩",
+    "enrollment": "18/7252",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[4]7~8 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "N5-056",
+    "code": "N5-056 N561000 [MSE7017]",
+    "name": "奈米碳材 材料所與奈微所合開",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "丁志明",
+    "enrollment": "179/16",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[3]7~9 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-057",
+    "code": "N5-057 N554200 [MSE7008E]",
+    "name": "固體熱力學 限碩一以上選課；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "朱建平",
+    "enrollment": "25/710",
+    "locations": [
+      "7206",
+      "唯農大樓"
+    ],
+    "period": "[3]3~4 唯農大樓 7206 [4]6 唯農大樓 7206",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-059",
+    "code": "N5-059 N511100 [MSE7001]",
+    "name": "薄膜材料學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "齊孝定",
+    "enrollment": "56/額滿",
+    "locations": [
+      "7208",
+      "唯農大樓"
+    ],
+    "period": "[1]6 唯農大樓 7208 [3]3~4 唯農大樓 7208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-061",
+    "code": "N5-061 N571600 [MSE7033]",
+    "name": "高分子物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "郭昌恕",
+    "enrollment": "8/27",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[3]6 唯農大樓 7102 [5]3~4 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-062",
+    "code": "N5-062 N567800 [MSE7026]",
+    "name": "電漿化學",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "廖峻德",
+    "enrollment": "14/21",
+    "locations": [
+      "7208",
+      "唯農大樓"
+    ],
+    "period": "[2]3~4 唯農大樓 7208 [4]2 唯農大樓 7208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-064",
+    "code": "N5-064 N571800 [MSE5045]",
+    "name": "耐蝕材料",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "蔡文達",
+    "enrollment": "47/7",
+    "locations": [
+      "7208",
+      "唯農大樓"
+    ],
+    "period": "[3]6~8 唯農大樓 7208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-069",
+    "code": "N5-069 N558600 [MSE7013]",
+    "name": "金屬基複合材料",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "曹紀元",
+    "enrollment": "7/28",
+    "locations": [
+      "7104",
+      "唯農大樓"
+    ],
+    "period": "[1]2~3 唯農大樓 7104 [2]2 唯農大樓 7104",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-070",
+    "code": "N5-070 N558800 [MSE7055]",
+    "name": "超導體材料",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "陳引幹",
+    "enrollment": "18/17",
+    "locations": [
+      "7104",
+      "唯農大樓"
+    ],
+    "period": "[2]6 唯農大樓 7104 [4]3~4 唯農大樓 7104",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-071",
+    "code": "N5-071 N567300 [MSE5043]",
+    "name": "高解析式電子顯微鏡",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "劉全璞",
+    "enrollment": "5/30",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[2]7~8 唯農大樓 7102 [5]2 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-073",
+    "code": "N5-073 N566300 [MSE7023]",
+    "name": "微電子材料製作工程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "陳貞夙",
+    "enrollment": "33/2",
+    "locations": [
+      "唯農大樓",
+      "7102"
+    ],
+    "period": "[2]3~4 唯農大樓 7102 [4]2 唯農大樓 7102",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "N5-074",
+    "code": "N5-074 N571200 [MSE7047]",
+    "name": "奈米陶瓷特論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "N5",
+    "department": "材料所 MSE",
+    "teacher": "黃肇瑞",
+    "enrollment": "5/475",
+    "locations": [
+      "唯農大樓",
+      "7202"
+    ],
+    "period": "[4]6 唯農大樓 7202 [5]3~4 唯農大樓 7202",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

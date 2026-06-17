@@ -1,0 +1,55 @@
+[
+  {
+    "id": "D0-004",
+    "code": "D0-004 D010600 [CSS5005]",
+    "name": "領導與行動 社會資料科學學分學程 業界專家參與  上課時間與地點詳見課程大綱、moodle。屬學程統整課程，欲修課者建議申請社會資料科學學分學程。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D0",
+    "department": "社會科學院 CSS",
+    "teacher": "林常青* 葉婉如 蒙志成 郭彥廉 蕭富仁 胡中凡",
+    "enrollment": "22/628",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "D0-102",
+    "code": "D0-102 D010500 [CSS5005]",
+    "name": "人工智慧在社會科學中的應用 社會資料科學學分學程 業界專家參與 社會計量科學專長微學程  選課人數限25人，地點詳見課程教學大綱與moodle公告。",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "社會科學院",
+    "departmentCode": "D0",
+    "department": "社會科學院 CSS",
+    "teacher": "胡中凡*",
+    "enrollment": "263/3",
+    "locations": [
+      "電腦教室",
+      "社科院大樓"
+    ],
+    "period": "[5]2~4 社科院大樓 電腦教室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

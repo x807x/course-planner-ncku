@@ -1,0 +1,472 @@
+[
+  {
+    "id": "S9-002",
+    "code": "S9-002 S580300 [BMS9003]",
+    "name": "高等分子生物學 臨醫所，微免所，基醫所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "楊倍昌",
+    "enrollment": "35/25",
+    "locations": [
+      "醫學院",
+      "602"
+    ],
+    "period": "[2]2~4 醫學院 602",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-005",
+    "code": "S9-005 T151800 [IMM7101]",
+    "name": "生物資訊 分醫，生理，基醫，臨醫，藥科，醫工，生訊所合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "孫孝芳",
+    "enrollment": "647/8",
+    "locations": [
+      "醫學院",
+      "醫圖電腦教室"
+    ],
+    "period": "[3]2~4 醫學院 醫圖電腦教室",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-007",
+    "code": "S9-007 S970310 [CM7193]",
+    "name": "專題討論（一） 上課時間4:00~6:00",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "許博翔",
+    "enrollment": "126/38",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-008",
+    "code": "S9-008 S970330 [CM7195]",
+    "name": "專題討論（三） 上課時間4:00~6:00",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "許博翔",
+    "enrollment": "96/41",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-011",
+    "code": "S9-011 S950101 [CM7192]",
+    "name": "專題討論 限博三以上選修，上課時間4:30~6:00",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "許博翔",
+    "enrollment": "39/11",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-012",
+    "code": "S9-012 S950110 [CM]",
+    "name": "臨床研究設計（一） 環醫所與臨醫所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "張志欽",
+    "enrollment": "11/39",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]3~4 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-013",
+    "code": "S9-013 S570510 [BMS9004]",
+    "name": "細胞生物學（一） 基醫，臨醫，藥科，生訊所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "沈孟儒",
+    "enrollment": "58/62",
+    "locations": [
+      "604",
+      "醫學院"
+    ],
+    "period": "[3]6~7 醫學院 604",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-014",
+    "code": "S9-014 S970210 [CM]",
+    "name": "儀器分析（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "黃朝慶",
+    "enrollment": "1/69",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[5]1~2 醫學院 501",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-016",
+    "code": "S9-016 S980100 [CM]",
+    "name": "臨床醫學研究專題討論",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "黃朝慶",
+    "enrollment": "9/641",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]9 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-021",
+    "code": "S9-021 S950210 [CM6101]",
+    "name": "分子細胞學（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "沈孟儒",
+    "enrollment": "206/30",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[3]9~A 醫學院 208",
+    "slots": [
+      {
+        "day": 3,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-022",
+    "code": "S9-022 S950410 [CM7101]",
+    "name": "臨床研究方法（一）",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "王新台",
+    "enrollment": "166/34",
+    "locations": [
+      "208",
+      "醫學院"
+    ],
+    "period": "[2]9~A 醫學院 208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-023",
+    "code": "S9-023 S950500 [CM]",
+    "name": "學術原創研究經驗談 博二臨床醫學研究專題討論合班",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "黃朝慶",
+    "enrollment": "16/34",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[1]9~A 醫學院 601",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-025",
+    "code": "S9-025 S970310-1 [CM7193]",
+    "name": "專題討論（一） 上課時間6:00~7:00",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "謝奇璋",
+    "enrollment": "18/32",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-026",
+    "code": "S9-026 S970330-1 [CM7195]",
+    "name": "專題討論（三） 上課時間6:00~7:00",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "謝奇璋",
+    "enrollment": "160/40",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[5]9 醫學院 601",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-027",
+    "code": "S9-027 T850301 [PH7201]",
+    "name": "流行病學 公衛所與臨醫所合班",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "陳國東",
+    "enrollment": "18/562",
+    "locations": [
+      "醫學院",
+      "501"
+    ],
+    "period": "[4]3~4 醫學院 501",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "S9-028",
+    "code": "S9-028 S973500 [CM7137]",
+    "name": "實驗室實習 再生醫學科技學分學程  醫學院實驗室，博一必選，博二以上勿選  限本系；限博一以上選課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "黃朝慶",
+    "enrollment": "12/不限",
+    "locations": [],
+    "period": "[1]9",
+    "slots": [
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "S9-029",
+    "code": "S9-029 S951120-Y [CM7108]",
+    "name": "儀器分析（二） 假日上課",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "S9",
+    "department": "臨醫所 CM",
+    "teacher": "謝奇璋",
+    "enrollment": "176/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

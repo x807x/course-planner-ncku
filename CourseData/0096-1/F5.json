@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "F5-001",
+    "code": "F5-001 F515010 [EV]",
+    "name": "國文（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高美華",
+    "enrollment": "63/67",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[3]5~6 環工系館 47111 [5]8 環工系館 47111",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "共同科課程"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F510710-Z",
+    "code": "F510710-Z [EV]",
+    "name": "英文（含口語訓練）（一） 依照英文選項科目序號選課 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/70",
+    "locations": [],
+    "period": "[1]1~2 [4]4",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "共同科課程"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F5-003",
+    "code": "F5-003 F517600 [EV]",
+    "name": "歷史",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高淑媛",
+    "enrollment": "61/69",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[3]3~4 環工系館 47111",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F5-006",
+    "code": "F5-006 F415610 [AA1001]",
+    "name": "微積分（一） (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "黃柏嶧",
+    "enrollment": "120/額滿",
+    "locations": [
+      "47111",
+      "航太系館",
+      "47110",
+      "繼昌講堂",
+      "環工系館",
+      "5834",
+      "5829"
+    ],
+    "period": "[2]1~2 航太系館 繼昌講堂 [4]2 航太系館 繼昌講堂 [4]1 航太系館 5834 [4]1 航太系館 5829 [4]1 環工系館 47110 [4]1 環工系館 47111",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F5-007",
+    "code": "F5-007 F515710 [EV]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "朱淑君",
+    "enrollment": "70/額滿",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[4]3 環工系館 47111 [5]5~6 環工系館 47111",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-008",
+    "code": "F5-008 F515810 [EV]",
+    "name": "普通物理學實驗（一） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "朱淑君",
+    "enrollment": "656/不限",
+    "locations": [],
+    "period": "[1]5~7",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-009",
+    "code": "F5-009 F515910 [EV]",
+    "name": "普通化學（一） 在經緯廳上課 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "桂椿雄",
+    "enrollment": "65/額滿",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[2]3~4 成功校區經緯廳 經緯廳 [5]3 成功校區經緯廳 經緯廳 [5]4 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "F5-010",
+    "code": "F5-010 F516010 [CHEM1022]",
+    "name": "普通化學實驗（一） 理化大樓二樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "何瑞文",
+    "enrollment": "661/不限",
+    "locations": [],
+    "period": "[2]5~7",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-011",
+    "code": "F5-011 F510210 [EV]",
+    "name": "工程圖學（一）",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "黃錦旗",
+    "enrollment": "57/13",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[4]N~6 環工系館 47111",
+    "slots": [
+      {
+        "day": 4,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-012",
+    "code": "F5-012 F510010 [OPE0001]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "王苓華",
+    "enrollment": "566/44",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[4]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F510111-Z",
+    "code": "F510111-Z [EV]",
+    "name": "軍訓（一） 依照軍訓課程科目序號選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[3]1~2",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F525000-Z1",
+    "code": "F525000-Z1 [EV]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "06/70",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-017",
+    "code": "F5-017 F517910 [EV0001]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "王鴻博",
+    "enrollment": "56/不限",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-018",
+    "code": "F5-018 F511101 [EV]",
+    "name": "環境工程概論",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "王鴻博",
+    "enrollment": "660/10",
+    "locations": [
+      "環工系館",
+      "47111"
+    ],
+    "period": "[3]7 環工系館 47111",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-054",
+    "code": "F5-054 F520510 [EV2101]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "吳義林",
+    "enrollment": "63/7",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[1]2 環工系館 47114 [4]1~2 環工系館 47114",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-055",
+    "code": "F5-055 F520300 [EV2102]",
+    "name": "應用力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "王彬",
+    "enrollment": "63/3",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[2]1~2 環工系館 47114 [5]3 環工系館 47114",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-057",
+    "code": "F5-057 F527600 [EV2205]",
+    "name": "工程統計學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "溫清光",
+    "enrollment": "67/額6滿",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[1]3 環工系館 47114 [4]3~4 環工系館 47114",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-058",
+    "code": "F5-058 F525800 [EV2104]",
+    "name": "物理化學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "王鴻博",
+    "enrollment": "565/11",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[2]3~4 環工系館 47114 [3]6 環工系館 47114",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F510330-Z",
+    "code": "F510330-Z [EV]",
+    "name": "英文（含口語訓練）（三） 依照英文課程科目序號選課 (含實習)",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "60/66",
+    "locations": [],
+    "period": "[3]7 [3]8",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F525000-Z2",
+    "code": "F525000-Z2 [EV]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/66",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F510030-Z",
+    "code": "F510030-Z [EV]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/不限",
+    "locations": [],
+    "period": "[1]5~6",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5101C0-Z",
+    "code": "F5101C0-Z [EV]",
+    "name": "軍訓（三） 依照軍訓課程科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/不6限",
+    "locations": [],
+    "period": "[5]5~6",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-068",
+    "code": "F5-068 F525900 [EV2108]",
+    "name": "有機化學 需先修以下科目:《普通化學（一）/必修/3.0 學分/60 分以上》《普通化學（二）/必修/3.0 學分/60 分以上》",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "林達昌",
+    "enrollment": "68/58",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[2]5~6 環工系館 47114 [3]2 環工系館 47114",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-071",
+    "code": "F5-071 F527210 [EV2103]",
+    "name": "流體力學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "李文智",
+    "enrollment": "58/8",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[3]3~4 環工系館 47114 [4]5 環工系館 47114",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-072",
+    "code": "F5-072 F531500 [EV2105]",
+    "name": "微生物學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高銘木",
+    "enrollment": "52/164",
+    "locations": [
+      "環工系館",
+      "47114"
+    ],
+    "period": "[1]7~8 環工系館 47114 [2]7 環工系館 47114",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-073",
+    "code": "F5-073 F531700-1A [EV2191]",
+    "name": "微生物學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高銘木",
+    "enrollment": "37/3",
+    "locations": [
+      "環工系館",
+      "47309"
+    ],
+    "period": "[4]7~9 環工系館 47309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-074",
+    "code": "F5-074 F531700-1B [EV2191]",
+    "name": "微生物學實驗",
+    "grade": 2,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高銘木",
+    "enrollment": "16/24",
+    "locations": [
+      "環工系館",
+      "47309"
+    ],
+    "period": "[5]7~9 環工系館 47309",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-099",
+    "code": "F5-099 F517930 [EV0003]",
+    "name": "服務學習（三）",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "高銘木",
+    "enrollment": "563/不限",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F525000-Z3",
+    "code": "F525000-Z3 [EV]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/66",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-102",
+    "code": "F5-102 F517701 [EV]",
+    "name": "憲政民主與國家發展",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "黃清賢",
+    "enrollment": "43/23",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[3]1~2 環工系館 47112",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "共同科課程"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "共同科課程"
+      }
+    ]
+  },
+  {
+    "id": "F5-103",
+    "code": "F5-103 F530701 [EV]",
+    "name": "給水工程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "葉宣顯",
+    "enrollment": "467/19",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[2]3~4 環工系館 47112 [4]3 環工系館 47112",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-115",
+    "code": "F5-115 F530200 [EV3101]",
+    "name": "結構學",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "陳　鍵",
+    "enrollment": "54/162",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[3]3~4 環工系館 47112 [5]4 環工系館 47112",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-117",
+    "code": "F5-117 F531201 [EV]",
+    "name": "空氣污染工程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "朱信",
+    "enrollment": "469/17",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[2]7~8 環工系館 47112 [5]3 環工系館 47112",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-118",
+    "code": "F5-118 F531321-1 [EV]",
+    "name": "環境分析與實驗（二） (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "李文智",
+    "enrollment": "34/32",
+    "locations": [
+      "環工系館",
+      "47112",
+      "47309"
+    ],
+    "period": "[4]7~8 環工系館 47112 [1]N~6 環工系館 47309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-119",
+    "code": "F5-119 F531321-2 [EV]",
+    "name": "環境分析與實驗（二） (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "李文智",
+    "enrollment": "616/50",
+    "locations": [
+      "環工系館",
+      "47112",
+      "47309"
+    ],
+    "period": "[4]7~8 環工系館 47112 [1]7~9 環工系館 47309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-120",
+    "code": "F5-120 F540600 [EV]",
+    "name": "環境生物技術概論",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "黃良銘",
+    "enrollment": "20/46",
+    "locations": [
+      "環工系館",
+      "47112"
+    ],
+    "period": "[2]1~2 環工系館 47112 [3]8 環工系館 47112",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F525000-Z4",
+    "code": "F525000-Z4 [EV]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "",
+    "enrollment": "0/36",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-152",
+    "code": "F5-152 F542500 [EV]",
+    "name": "有害廢棄物處理與管理",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "柯明賢",
+    "enrollment": "12/30",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[1]1~3 環工系館 47110",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-156",
+    "code": "F5-156 F542700 [EV4105]",
+    "name": "衛工機械設備",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "譚健群",
+    "enrollment": "611/31",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[1]5~7 環工系館 47110",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-161",
+    "code": "F5-161 F543001 [EV]",
+    "name": "環境管理",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "林素貞",
+    "enrollment": "48/12",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[3]2 環工系館 47118 [5]5~6 環工系館 47118",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-163",
+    "code": "F5-163 P560600 [EV]",
+    "name": "高科技產業與環境保護",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "蔡俊鴻",
+    "enrollment": "286/14",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[2]5~7 環工系館 47118",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-169",
+    "code": "F5-169 F543110 [EV4101]",
+    "name": "環境工程設計（一） (含實習)",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "李俊德",
+    "enrollment": "48/12",
+    "locations": [
+      "環工系館",
+      "47118"
+    ],
+    "period": "[2]3~4 環工系館 47118 [4]5~7 環工系館 47118",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "F5-170",
+    "code": "F5-170 F542800 [EV]",
+    "name": "空氣資源管理",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "蔡俊鴻",
+    "enrollment": "7/35",
+    "locations": [
+      "環工系館",
+      "47110"
+    ],
+    "period": "[3]4~N 環工系館 47110 [5]3 環工系館 47110",
+    "slots": [
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "F5-172",
+    "code": "F5-172 F540120 [EV4190]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "F5",
+    "department": "環工系 EV",
+    "teacher": "朱信 李文智 王鴻博 林財富 黃良銘 福島康裕 鄭幸雄 溫清光 林素貞 張祖恩",
+    "enrollment": "25/不限",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

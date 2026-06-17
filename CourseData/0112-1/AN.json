@@ -1,0 +1,813 @@
+[
+  {
+    "id": "AN-004",
+    "code": "AN-004 AN10110 [CCEP0001]",
+    "name": "服務學習（一） 雲平大樓一樓",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃紀茸",
+    "enrollment": "265/15",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[1]5 共同教室 A1304",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "AN-005",
+    "code": "AN-005 AN1D700 [CCEP1524]",
+    "name": "自我與職涯探索 不分系大一必選",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃春融*",
+    "enrollment": "356/5",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[5]8 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-006",
+    "code": "AN-006 AN16500 [CCEP2110]",
+    "name": "仿生學 業界專家參與 通識總整課程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "辛致煒*",
+    "enrollment": "356/25",
+    "locations": [
+      "醫學院",
+      "第四講堂"
+    ],
+    "period": "[4]3~4 醫學院 第四講堂",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-007",
+    "code": "AN-007 AN16000 [CCEP1000]",
+    "name": "跨領域問題導向-初階專題 業界專家參與",
+    "grade": 1,
+    "credits": 5,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "葉多涵* 李孟學 劉家幸 邱士峰 黃仲菁 吳易叡 張佑宇",
+    "enrollment": "33/7",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[5]3~7 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-010",
+    "code": "AN-010 AN1D600 [CCEP2300]",
+    "name": "大疫考現學：聽新冠殘遺物說醫療人權故事 通識總整課程 數位人文專長微學程  密集課程；課程報名表單：https://pse.is/56xaum",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "吳易叡* 陳恒安 許宏彬 王秀雲 黃于玲",
+    "enrollment": "620/洽不分系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-011",
+    "code": "AN-011 AN1D800 [CCEP1555]",
+    "name": "人工智慧中的人因工程 英語授課 COURSERA  依Coursera線上課程時間上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃仲菁",
+    "enrollment": "386/62",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-012",
+    "code": "AN-012 AN31300 [CCEP1557]",
+    "name": "輕鬆掌握論文寫作技巧 英語授課 COURSERA  依Coursera線上課程時間上課",
+    "grade": 1,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "劉家幸",
+    "enrollment": "296/1",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-020",
+    "code": "AN-020 AN1C200 [CCEP1025]",
+    "name": "認知科學原理運用於運動訓練之實務應用 業界專家參與 通識總整課程  可納入運動科學與科技應用微學程，經體育室審查後可抵免大二以上0學分體育必修課程1門。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "王駿濠",
+    "enrollment": "40/額6滿",
+    "locations": [
+      "中正堂前"
+    ],
+    "period": "[2]5~6 中正堂前 中正堂前",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-021",
+    "code": "AN-021 AN1C300 [CCEP1026]",
+    "name": "排球專項技戰術分析與應用 通識總整課程  可納入運動科學與科技應用微學程，經體育室審查後可抵免大二以上0學分體育必修課程1門。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃鴻鈞",
+    "enrollment": "561/額滿",
+    "locations": [
+      "中正堂前"
+    ],
+    "period": "[1]5~6 中正堂前 中正堂前",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-022",
+    "code": "AN-022 AN1C400 [CCEP1027]",
+    "name": "肌力與體能訓練之科技應用與實務 通識總整課程  可納入運動科學與科技應用微學程，經體育室審查後可抵免大二以上0學分體育必修課程1門。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "彭怡千*",
+    "enrollment": "640/額滿",
+    "locations": [
+      "健休體適能"
+    ],
+    "period": "[3]7~8 健休體適能 健休體適能",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-023",
+    "code": "AN-023 AN1E100 [CCEP1558]",
+    "name": "生命科學與永續發展 英語授課  彈性密集課程(共同教室A1304)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "邱士峰",
+    "enrollment": "3/262",
+    "locations": [
+      "A1304上課時間",
+      "共同教室"
+    ],
+    "period": "[4]2~4 共同教室 A1304上課時間",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-051",
+    "code": "AN-051 AN30110 [CCEP2090]",
+    "name": "跨領域問題導向專題（一）",
+    "grade": 2,
+    "credits": 6,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃仲菁* 李孟學 劉家幸 邱士峰 吳易叡 葉多涵",
+    "enrollment": "64/36",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[1]A~C 規劃設計大樓 5118 [2]A~C 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-052",
+    "code": "AN-052 AN16600 [CCEP2111]",
+    "name": "服務設計 通識總整課程  上課地點：工設系大成館5260教室",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃仲菁",
+    "enrollment": "263/洽不分系學程",
+    "locations": [],
+    "period": "[4]2~4",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-053",
+    "code": "AN-053 AN20201 [CCEP2101]",
+    "name": "簡報製作與表達技巧 通識總整課程  密集課程10/30~11/13",
+    "grade": 2,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "辛致煒",
+    "enrollment": "631/9",
+    "locations": [
+      "規劃設計大樓",
+      "5118上課時間"
+    ],
+    "period": "規劃設計大樓 5118上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-054",
+    "code": "AN-054 AN20300 [CCEP2094]",
+    "name": "創業實踐與創意思考 業界專家參與 通識總整課程 新創領航專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張佑宇*",
+    "enrollment": "27/13",
+    "locations": [
+      "5107",
+      "規劃設計大樓"
+    ],
+    "period": "[2]6~8 規劃設計大樓 5107",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-055",
+    "code": "AN-055 AN14500 [CCEP2020]",
+    "name": "資料素人之旅 通識總整課程",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學*",
+    "enrollment": "52/467",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[2]3~4 共同教室 A1304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-057",
+    "code": "AN-057 AN23400 [CCEP2215]",
+    "name": "醫療系統思考與創新 業界專家參與 通識總整課程 醫療創新專長微學程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "邱士峰",
+    "enrollment": "266/4",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[3]6~8 共同教室 A1304",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-058",
+    "code": "AN-058 AN1D300 [CCEP1201]",
+    "name": "初階程式設計 通識總整課程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃春融*",
+    "enrollment": "28/2",
+    "locations": [
+      "雲平大樓",
+      "e化創新教室"
+    ],
+    "period": "[5]2~4 雲平大樓 e化創新教室",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-059",
+    "code": "AN-059 AN1C900 [CCEP2210]",
+    "name": "長期照護之虛擬實境復健運動設計 業界專家參與 通識總整課程  密集課程；物理治療系館 B02",
+    "grade": 2,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "洪菁霞* 李孟學",
+    "enrollment": "614/洽不分系學程",
+    "locations": [
+      "物治系館",
+      "B02上課時間"
+    ],
+    "period": "物治系館 B02上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-100",
+    "code": "AN-100 AN41400 [CCEP2301]",
+    "name": "跨國共創高齡需求探索與創新解方 英語授課 通識總整課程  密集課程7/2~7/8",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "邱士峰* 林麗娟",
+    "enrollment": "146/洽不分系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-101",
+    "code": "AN-101 AN30300 [CCEP3001]",
+    "name": "跨領域問題導向-高階專題",
+    "grade": 3,
+    "credits": 4,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃仲菁* 李孟學 劉家幸 邱士峰 吳易叡 葉多涵",
+    "enrollment": "21/額滿",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[5]9~C 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 5,
+        "period": "9",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-102",
+    "code": "AN-102 AN1E000 [CCEP1556]",
+    "name": "透視幸福的奧秘 英語授課 COURSERA  依Coursera線上課程時間上課",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學",
+    "enrollment": "1286/2",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  },
+  {
+    "id": "AN-103",
+    "code": "AN-103 AN31400 [CCEP3068]",
+    "name": "Python程式語言在教育上的應用 通識總整課程  彈性密集課程(工科系教室)",
+    "grade": 3,
+    "credits": 2,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學* 游濟華",
+    "enrollment": "19/洽不6分系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-110",
+    "code": "AN-110 AN41600 [CCEP4504]",
+    "name": "同理有愛、溝通無礙 業界專家參與  彈性密集課程(10/7--10/8)上午8時至下午6時",
+    "grade": 3,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學",
+    "enrollment": "14/6洽不分系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-151",
+    "code": "AN-151 AN30130 [CCEP2090]",
+    "name": "跨領域問題導向專題（三）",
+    "grade": 4,
+    "credits": 6,
+    "required": true,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃仲菁* 李孟學 劉家幸 邱士峰 吳易叡 葉多涵",
+    "enrollment": "5/15",
+    "locations": [
+      "5118",
+      "規劃設計大樓"
+    ],
+    "period": "[3]A~C 規劃設計大樓 5118 [4]A~C 規劃設計大樓 5118",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "AN-153",
+    "code": "AN-153 AN31200 [CCEP3100]",
+    "name": "初階機器學習 通識總整課程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "黃春融*",
+    "enrollment": "611/9",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[4]6~8 共同教室 A1304",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "AN-154",
+    "code": "AN-154 AN40600 [CCEP2213]",
+    "name": "二日成名設計思考戲劇製演松 通識總整課程  密集課程9/9~9/10 (上課地點在歷史文物館)",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "李孟學",
+    "enrollment": "18/洽不分系學程",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間",
+    "slots": []
+  },
+  {
+    "id": "AN-155",
+    "code": "AN-155 AN41500 [CCEP4004]",
+    "name": "人機互動研究方法工具箱 英語授課 通識總整課程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "跨院之學位學程",
+    "departmentCode": "AN",
+    "department": "不分系學程 CCEP",
+    "teacher": "張昇崑*",
+    "enrollment": "6/614",
+    "locations": [
+      "A1304",
+      "共同教室"
+    ],
+    "period": "[2]6~8 共同教室 A1304",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

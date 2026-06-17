@@ -1,0 +1,977 @@
+[
+  {
+    "id": "RD-101",
+    "code": "RD-101 RD52900 [AMBA6190]",
+    "name": "專題討論 限本所。限修滿畢業學分者選修。  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王泰裕",
+    "enrollment": "10/320",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[4]9 管理學院 62X01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-102",
+    "code": "RD-102 RD50800 [AMBA6108]",
+    "name": "人力資源管理 限本所  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王瑜琳",
+    "enrollment": "26/3",
+    "locations": [
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[4]9~B 管理學院 61X01",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-103",
+    "code": "RD-103 RD54400 [AMBA6138]",
+    "name": "策略管理 限本所  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "曾瓊慧",
+    "enrollment": "24/5",
+    "locations": [
+      "管理學院",
+      "61X01"
+    ],
+    "period": "[6]2~4 管理學院 61X01",
+    "slots": [
+      {
+        "day": 6,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-104",
+    "code": "RD-104 R360200-1 [IIM7038]",
+    "name": "領導理論",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "利德江",
+    "enrollment": "534/9",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[2]2~4 工管系館 61103",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-105",
+    "code": "RD-105 R353100 [IIM7011]",
+    "name": "類神經網路應用",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王泰裕",
+    "enrollment": "18/17",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[2]2 工管系館 61206 [4]3~4 工管系館 61206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-106",
+    "code": "RD-106 R358500 [IIM7030]",
+    "name": "組織發展",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "鄭詩瑜",
+    "enrollment": "34/52",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[2]5~7 工管系館 61208",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-107",
+    "code": "RD-107 R361700 [IIM7044E]",
+    "name": "電子商務 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王維聰",
+    "enrollment": "324/6",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[1]6~8 工管系館 61208",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-108",
+    "code": "RD-108 R370900 [IIM7053E]",
+    "name": "實體性人因工程 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "林明毅",
+    "enrollment": "1/19",
+    "locations": [
+      "61208",
+      "工管系館"
+    ],
+    "period": "[2]B~D 工管系館 61208",
+    "slots": []
+  },
+  {
+    "id": "RD-109",
+    "code": "RD-109 R360400-1 [IIM7039E]",
+    "name": "策略競局 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "謝中奇",
+    "enrollment": "36/額滿",
+    "locations": [
+      "61103",
+      "工管系館"
+    ],
+    "period": "[1]1 工管系館 61103 [3]3~4 工管系館 61103",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-110",
+    "code": "RD-110 R353200 [IIM7012]",
+    "name": "國際品管 moocs",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "呂執中",
+    "enrollment": "26/9",
+    "locations": [
+      "61206",
+      "工管系館"
+    ],
+    "period": "[2]6~8 工管系館 61206",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-111",
+    "code": "RD-111 R670300 [IB7034]",
+    "name": "國際投資理論 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "江明憲",
+    "enrollment": "18/42",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[2]2~4 國企所 61401",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-112",
+    "code": "RD-112 R660400 [IB7191]",
+    "name": "企業管理個案探討",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "張紹基*",
+    "enrollment": "603/3",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[5]5~7 國企所 61401",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-113",
+    "code": "RD-113 R660800 [IB7192]",
+    "name": "國際財務管理專題研討",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "張紹基",
+    "enrollment": "8/312",
+    "locations": [
+      "國企所",
+      "61413"
+    ],
+    "period": "[1]2~4 國企所 61413",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-114",
+    "code": "RD-114 R652000-1 [IB6028]",
+    "name": "國際人力資源管理 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "史習安",
+    "enrollment": "350/10",
+    "locations": [
+      "國企所",
+      "61401"
+    ],
+    "period": "[4]2~4 國企所 61401",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-115",
+    "code": "RD-115 R153700 [ACC6020]",
+    "name": "計量經濟學",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王澤世",
+    "enrollment": "35/31",
+    "locations": [
+      "63205",
+      "會計系館"
+    ],
+    "period": "[4]2~4 會計系館 63205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-116",
+    "code": "RD-116 R861200 [FIN6044]",
+    "name": "資訊科技與創新及競爭優勢 非使用電腦教室時將改至63404上課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "徐立群",
+    "enrollment": "17/49",
+    "locations": [
+      "63205",
+      "會計系館"
+    ],
+    "period": "[4]A~C 會計系館 63205",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-117",
+    "code": "RD-117 R150500 [ACC6009E]",
+    "name": "高級財務會計學 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "許育綝",
+    "enrollment": "38/32",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[1]2~4 會計系館 63210",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-118",
+    "code": "RD-118 R851800 [FIN6012]",
+    "name": "公司治理研究",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "黃華瑋",
+    "enrollment": "330/40",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[6]6~8 會計系館 63210",
+    "slots": [
+      {
+        "day": 6,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 6,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-119",
+    "code": "RD-119 R856900 [FIN6033]",
+    "name": "企業社會責任與社會責任投資",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "顏盟峯",
+    "enrollment": "23/47",
+    "locations": [
+      "63210",
+      "會計系館"
+    ],
+    "period": "[4]A~C 會計系館 63210",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-120",
+    "code": "RD-120 R468600-1 [BA7037]",
+    "name": "跨領域創新與管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "陳淑惠",
+    "enrollment": "14/16",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]6~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-121",
+    "code": "RD-121 R461500-1 [BA6037]",
+    "name": "新產品開發與管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "周信輝",
+    "enrollment": "45/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[2]6~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-122",
+    "code": "RD-122 R474500 [BA7055]",
+    "name": "組織發展與變革",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "王瑜琳",
+    "enrollment": "12/額滿",
+    "locations": [
+      "企管系館",
+      "62457"
+    ],
+    "period": "[4]6~8 企管系館 62457",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-123",
+    "code": "RD-123 R459800-1 [BA7028]",
+    "name": "網際網路行銷與電子商務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡燿全",
+    "enrollment": "43/額滿",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[4]6~8 企管系館 62212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-124",
+    "code": "RD-124 R475700-1 [BA9002]",
+    "name": "價值共創策略",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "方世杰",
+    "enrollment": "338/2",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-125",
+    "code": "RD-125 R960600 [TM7410]",
+    "name": "服務業行銷策略",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "蔡東峻",
+    "enrollment": "36/32",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[3]6~8 管理學院 62X01",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-126",
+    "code": "RD-126 R053900 [EMBA6822]",
+    "name": "企業經營與診斷 限本所  限本系；第一階段不受理選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "周信輝",
+    "enrollment": "25/40",
+    "locations": [
+      "管理學院",
+      "62401"
+    ],
+    "period": "[7]3~5 管理學院 62401",
+    "slots": [
+      {
+        "day": 7,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "N",
+        "type": "講義"
+      },
+      {
+        "day": 7,
+        "period": "5",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-127",
+    "code": "RD-127 R058800 [EMBA6905]",
+    "name": "創業基礎與管理 不開放網路選課，由所辦人工加選",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "顏盟峯* 楊朝旭 王泰裕 林正章 蔡東峻 張紹基 史習安 曾瓊慧",
+    "enrollment": "320/額滿",
+    "locations": [
+      "管理學院",
+      "62X01"
+    ],
+    "period": "[5]A~C 管理學院 62X01",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "RD-128",
+    "code": "RD-128 RZ50222 [COM6002]",
+    "name": "跨國管理實務融合（二） 英語授課  開放網路選課(全英文授課)／密集授課詳如課程大綱",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "RD",
+    "department": "AMBA碩士學程 AMBA",
+    "teacher": "林軒竹",
+    "enrollment": "322/18",
+    "locations": [
+      "62X17",
+      "管理學院",
+      "62X17上課時間"
+    ],
+    "period": "[2]A~C 管理學院 62X17 [3]A~C 管理學院 62X17上課時間",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "E411610-Z",
+    "code": "E411610-Z [RE]",
+    "name": "基礎國文（一） 依照A7基礎國文選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "03/請參考備註",
+    "locations": [],
+    "period": "[4]7~8",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "基礎國文"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "基礎國文"
+      }
+    ]
+  },
+  {
+    "id": "E411711-Z",
+    "code": "E411711-Z [RE]",
+    "name": "英文（含口語訓練）（一） 依Ａ１外國語言選項科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "0/請參考3備註",
+    "locations": [],
+    "period": "[2]5~6",
+    "slots": [
+      {
+        "day": 2,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-005",
+    "code": "E4-005 A215500-24 [OPE0300]",
+    "name": "體育（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "林欣仕",
+    "enrollment": "53/47",
+    "locations": [
+      "成大綜合體育館",
+      "司令臺"
+    ],
+    "period": "[2]7~8 成大綜合體育館 司令臺",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-007",
+    "code": "E4-007 E415710 [PHYS1011]",
+    "name": "普通物理學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "田興龍",
+    "enrollment": "58/19",
+    "locations": [
+      "資源系館",
+      "4353"
+    ],
+    "period": "[2]1 資源系館 4353 [4]3~4 資源系館 4353",
+    "slots": [
+      {
+        "day": 2,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-008",
+    "code": "E4-008 E415810 [PHYS1022]",
+    "name": "普通物理學實驗（一） 理化大樓２Ｆ普物實驗室",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "羅光耀",
+    "enrollment": "51/網路選課不開放",
+    "locations": [],
+    "period": "[5]1~3",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-009",
+    "code": "E4-009 E415911 [CHEM1021]",
+    "name": "普通化學（一）",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "宋光生* 林榮良",
+    "enrollment": "155/45",
+    "locations": [
+      "經緯廳",
+      "成功校區經緯廳"
+    ],
+    "period": "[1]7~8 成功校區經緯廳 經緯廳 [4]5~6 成功校區經緯廳 經緯廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-011",
+    "code": "E4-011 E416010 [CHEM1022]",
+    "name": "普通化學實驗（一） 理化大樓一樓",
+    "grade": 1,
+    "credits": 1,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "林榮良",
+    "enrollment": "53/17",
+    "locations": [
+      "理化大樓",
+      "35122"
+    ],
+    "period": "[2]2~4 理化大樓 35122",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-012",
+    "code": "E4-012 E411301 [RE1006]",
+    "name": "資源工程概論",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "葉信富* 吳毓純",
+    "enrollment": "356/22",
+    "locations": [
+      "資源系館",
+      "4353"
+    ],
+    "period": "[5]5~6 資源系館 4353",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-013",
+    "code": "E4-013 E415611 [MATH1021]",
+    "name": "微積分（一） 演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意 (含實習)",
+    "grade": 1,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "林敏雄",
+    "enrollment": "1203/25",
+    "locations": [
+      "4351",
+      "47112",
+      "環工系館",
+      "經緯廳",
+      "成功校區經緯廳",
+      "47114",
+      "資源系館",
+      "4353"
+    ],
+    "period": "[1]2~3 成功校區經緯廳 經緯廳 [3]2 成功校區經緯廳 經緯廳 [3]1 環工系館 47112 [3]1 環工系館 47114 [3]1 資源系館 4353 [3]1 資源系館 4351",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "1",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-015",
+    "code": "E4-015 E410101 [RE1005]",
+    "name": "工程圖學 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "溫紹炳",
+    "enrollment": "49/21",
+    "locations": [
+      "資源系館",
+      "4353"
+    ],
+    "period": "[3]5 資源系館 4353 [3]6~7 資源系館 4353",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E425000-Z1",
+    "code": "E425000-Z1 [RE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "03/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-017",
+    "code": "E4-017 E417910 [RE1003]",
+    "name": "服務學習（一）",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "余騰鐸",
+    "enrollment": "49/231",
+    "locations": [],
+    "period": "[1]N",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-051",
+    "code": "E4-051 E421601 [RE2008]",
+    "name": "計算機應用 資訊大樓 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "陳日昇",
+    "enrollment": "341/4",
+    "locations": [
+      "資訊大樓",
+      "75209"
+    ],
+    "period": "[4]5~6 資訊大樓 75209 [4]7~8 資訊大樓 75209",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-053",
+    "code": "E4-053 E420110 [RE2001]",
+    "name": "工程數學（一）",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "王建力",
+    "enrollment": "66/4",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[2]2 資源系館 4354 [5]3~4 資源系館 4354",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-055",
+    "code": "E4-055 E420300 [RE2102]",
+    "name": "石油工程 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "謝秉志",
+    "enrollment": "42/13",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[4]3~4 資源系館 4354 [1]1~3 資源系館 4354",
+    "slots": [
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "1",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-056",
+    "code": "E4-056 E421400 [RE2103]",
+    "name": "採礦工程",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "蘇義松",
+    "enrollment": "62/3",
+    "locations": [
+      "資源系館",
+      "4353"
+    ],
+    "period": "[2]A~C 資源系館 4353",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-057",
+    "code": "E4-057 E420500 [RE2003]",
+    "name": "礦物學 需先修以下科目:《地質學/必修/4.0 學分/60 分以上》 (含實習)",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "向性一",
+    "enrollment": "50/230",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[3]5~6 資源系館 4354 [1]7~9 資源系館 4354",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E4-058",
+    "code": "E4-058 E434500 [RE7118]",
+    "name": "水文學 土木與資源合班",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "呂珍謀",
+    "enrollment": "15/15",
+    "locations": [
+      "4671",
+      "水利系館"
+    ],
+    "period": "[2]7~9 水利系館 4671",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-059",
+    "code": "E4-059 E422000 [RE2104]",
+    "name": "環境地質學",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "葉信富",
+    "enrollment": "19/36",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[3]2~4 資源系館 4354",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-060",
+    "code": "E4-060 E421700 [RE2005]",
+    "name": "應用力學",
+    "grade": 2,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "謝秉志",
+    "enrollment": "437/23",
+    "locations": [
+      "資源系館",
+      "4354"
+    ],
+    "period": "[1]5~6 資源系館 4354 [3]7 資源系館 4354",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E425000-Z2",
+    "code": "E425000-Z2 [RE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "0/請參3考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E425000-Z5",
+    "code": "E425000-Z5 [RE]",
+    "name": "通識課程 依照通識選項科目序號選課",
+    "grade": 2,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "0/請3參考備註",
+    "locations": [],
+    "period": "[5]1~2",
+    "slots": [
+      {
+        "day": 5,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E410030-Z",
+    "code": "E410030-Z [RE]",
+    "name": "體育（三） 依照體育選項科目序號選課",
+    "grade": 2,
+    "credits": 0,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "0/請參考3備註",
+    "locations": [],
+    "period": "[4]5~6",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-104",
+    "code": "E4-104 E420700 [RE3001]",
+    "name": "工程經濟",
+    "grade": 3,
+    "credits": 3,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "吳榮華",
+    "enrollment": "55/1",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[1]5~6 資源系館 4351 [3]7 資源系館 4351",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-107",
+    "code": "E4-107 E442400 [RE3109]",
+    "name": "天然氣工程",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "郭明錦",
+    "enrollment": "66/2",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[5]2~4 資源系館 4351",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-109",
+    "code": "E4-109 E410200 [RE5301]",
+    "name": "綠色創新與產品開發",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "施勵行",
+    "enrollment": "23/332",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[4]2~4 資源系館 4351",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-110",
+    "code": "E4-110 E436500 [RE2203]",
+    "name": "應用熱力學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "申永輝",
+    "enrollment": "55/1",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[1]1~3 資源系館 4351",
+    "slots": [
+      {
+        "day": 1,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-113",
+    "code": "E4-113 E433101 [RE5201]",
+    "name": "粉體工程 (含實習)",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "吳毓純",
+    "enrollment": "32/233",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[3]5~6 資源系館 4351 [2]7~9 資源系館 4351",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "實習"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "E425000-Z3",
+    "code": "E425000-Z3 [RE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 3,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "0/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-121",
+    "code": "E4-121 E434300 [RE3106]",
+    "name": "工程地質學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "余騰鐸",
+    "enrollment": "333/22",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[3]2~4 資源系館 4351",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-123",
+    "code": "E4-123 E432900 [RE3102]",
+    "name": "土壤力學",
+    "grade": 3,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "陳昭旭",
+    "enrollment": "17/38",
+    "locations": [
+      "資源系館",
+      "4351"
+    ],
+    "period": "[1]7~9 資源系館 4351",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E425000-Z4",
+    "code": "E425000-Z4 [RE]",
+    "name": "通識課程 依照通識領域科目序號選課",
+    "grade": 4,
+    "credits": 2,
+    "required": true,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "",
+    "enrollment": "03/請參考備註",
+    "locations": [],
+    "period": "[3]3~4",
+    "slots": [
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-152",
+    "code": "E4-152 E444300 [RE5104]",
+    "name": "水文地質學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "李振誥",
+    "enrollment": "135/40",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[5]2~4 資源系館 4352",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-154",
+    "code": "E4-154 E442500 [RE5207]",
+    "name": "固體廢棄物處理",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "陳偉聖",
+    "enrollment": "24/31",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[5]7~9 資源系館 4352",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-155",
+    "code": "E4-155 C143700 [MATH5206]",
+    "name": "偏微分方程導論 大碩合開、資源系合開  第一階段不受理選課",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "方永富",
+    "enrollment": "24/11",
+    "locations": [
+      "數學系館",
+      "3175"
+    ],
+    "period": "[1]5~6 數學系館 3175 [3]7 數學系館 3175",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-156",
+    "code": "E4-156 N472700 [RE5107]",
+    "name": "數值分析 程序系統工程專長微學程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "王建力",
+    "enrollment": "22/314",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[2]6~8 資源系館 4352",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-159",
+    "code": "E4-159 E441500 [RE7220]",
+    "name": "礦床學",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "廖學誠",
+    "enrollment": "30/額滿",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[1]5~7 資源系館 4352",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-160",
+    "code": "E4-160 N466200 [RE5206]",
+    "name": "陶瓷製程",
+    "grade": 4,
+    "credits": 3,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "向性一",
+    "enrollment": "54/31",
+    "locations": [
+      "資源系館",
+      "4352"
+    ],
+    "period": "[4]2~4 資源系館 4352",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-171",
+    "code": "E4-171 E430520-1 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "余騰鐸",
+    "enrollment": "4/16",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-172",
+    "code": "E4-172 E430520-2 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "施勵行",
+    "enrollment": "1/19",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-175",
+    "code": "E4-175 E430520-5 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "吳毓純",
+    "enrollment": "31/19",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-176",
+    "code": "E4-176 E430520-6 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "謝秉志",
+    "enrollment": "53/15",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-180",
+    "code": "E4-180 E430520-10 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "向性一",
+    "enrollment": "8/12",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "E4-186",
+    "code": "E4-186 E430520-17 [RE3005]",
+    "name": "論文（二）",
+    "grade": 4,
+    "credits": 1,
+    "required": false,
+    "college": "工學院",
+    "departmentCode": "E4",
+    "department": "資源系 RE",
+    "teacher": "葉信富",
+    "enrollment": "1/19",
+    "locations": [],
+    "period": "[4]9",
+    "slots": [
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  }
+]

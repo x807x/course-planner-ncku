@@ -1,0 +1,630 @@
+[
+  {
+    "id": "VD-001",
+    "code": "VD-001 N250010-1 [EE7091]",
+    "name": "專題討論（一） 電子材料組",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "施權峰",
+    "enrollment": "25/不限",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[3]N~5 電機系館 92B28",
+    "slots": [
+      {
+        "day": 3,
+        "period": "N",
+        "type": "研討"
+      },
+      {
+        "day": 3,
+        "period": "5",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "VD-002",
+    "code": "VD-002 N25H100 [EE6910]",
+    "name": "微波理論與生醫系統整合",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "楊慶隆",
+    "enrollment": "15/55",
+    "locations": [
+      "92277",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92277",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-003",
+    "code": "VD-003 N25H200 [EE5842]",
+    "name": "電子電路系統設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "楊慶隆",
+    "enrollment": "10/60",
+    "locations": [
+      "92383",
+      "電機系館"
+    ],
+    "period": "[2]7~9 電機系館 92383",
+    "slots": [
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-004",
+    "code": "VD-004 N256100 [EE6621]",
+    "name": "類比積體電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "郭泰豪",
+    "enrollment": "48/47",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]6~8 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-006",
+    "code": "VD-006 N26A600 [EE7635E]",
+    "name": "低功率超大型積體電路設計 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "邱瀝毅",
+    "enrollment": "5/865",
+    "locations": [
+      "92371",
+      "電機系館"
+    ],
+    "period": "[3]2~4 電機系館 92371",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-007",
+    "code": "VD-007 N264301 [EE7615]",
+    "name": "高等ＶＬＳＩ電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "張順志",
+    "enrollment": "39/56",
+    "locations": [
+      "電機系館",
+      "靄雲廳"
+    ],
+    "period": "[1]2~4 電機系館 靄雲廳",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-008",
+    "code": "VD-008 N25A500 [EE6340E]",
+    "name": "電力系統元件模擬 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "張簡樂仁",
+    "enrollment": "88/22",
+    "locations": [
+      "92720",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 92720",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-009",
+    "code": "VD-009 N26F100 [EE8611]",
+    "name": "單石射頻積體電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "黃尊禧",
+    "enrollment": "281/69",
+    "locations": [
+      "令洋廳",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 令洋廳",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-010",
+    "code": "VD-010 N251700 [EE6315]",
+    "name": "高電壓工程特論 電漿學分學程  碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "黃慶連",
+    "enrollment": "160/2",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[1]B~D 電機系館 繁城講堂",
+    "slots": []
+  },
+  {
+    "id": "VD-011",
+    "code": "VD-011 N251000 [EE6011]",
+    "name": "電子陶瓷",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "李文熙",
+    "enrollment": "23/7",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[1]7~9 電機系館 92B28",
+    "slots": [
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-014",
+    "code": "VD-014 N251700 [EE6315]",
+    "name": "高電壓工程特論 電漿學分學程  碩博碩專合班",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "黃慶連",
+    "enrollment": "160/2",
+    "locations": [
+      "電機系館",
+      "繁城講堂"
+    ],
+    "period": "[1]B~D 電機系館 繁城講堂",
+    "slots": []
+  },
+  {
+    "id": "VD-016",
+    "code": "VD-016 Q152400 [IME6152]",
+    "name": "雷射工程 英語授課  英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "蔡宗祐",
+    "enrollment": "3/37",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[1]6~8 電機系館 92C01",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-017",
+    "code": "VD-017 Q151300 [IME6133]",
+    "name": "光電元件物理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "洪茂峰",
+    "enrollment": "28/42",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[3]1~2 電機系館 92185 [4]2 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "1",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-018",
+    "code": "VD-018 Q160400 [IME7113]",
+    "name": "半導體製程 奈米積體電路工程碩士班學分學程，電漿學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "彭洞清",
+    "enrollment": "24/71",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[5]2~4 電機系館 92185",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-019",
+    "code": "VD-019 Q351500 [CCE6433]",
+    "name": "通信網路",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "李忠憲",
+    "enrollment": "839/2",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[2]6~8 電機系館 92926",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-021",
+    "code": "VD-021 Q352500 [CCE8425]",
+    "name": "射頻微波通訊電路設計",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "莊惠如",
+    "enrollment": "9/61",
+    "locations": [
+      "92185",
+      "電機系館"
+    ],
+    "period": "[3]6~8 電機系館 92185",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-022",
+    "code": "VD-022 Q352200 [CCE5240]",
+    "name": "光電通訊系統",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "黃振發",
+    "enrollment": "20/10",
+    "locations": [
+      "92926",
+      "電機系館"
+    ],
+    "period": "[1]2~4 電機系館 92926",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-023",
+    "code": "VD-023 Q151700 [IME6142]",
+    "name": "ＵＬＳＩ元件物理 奈米積體電路工程碩士班學分學程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "陳志方",
+    "enrollment": "19/821",
+    "locations": [
+      "電機系館",
+      "92C01"
+    ],
+    "period": "[2]3~4 電機系館 92C01 [4]2 電機系館 92C01",
+    "slots": [
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "VD-024",
+    "code": "VD-024 N26H100 [EE7910]",
+    "name": "半導體材料製程與設備--離子值入",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "電機資訊學院",
+    "departmentCode": "VD",
+    "department": "微波材料元件產碩",
+    "teacher": "李文熙",
+    "enrollment": "24/46",
+    "locations": [
+      "電機系館",
+      "92B28"
+    ],
+    "period": "[3]6~8 電機系館 92B28",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  }
+]

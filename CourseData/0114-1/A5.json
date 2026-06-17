@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A5-001",
+    "code": "A5-001 A511000 [CN1001]",
+    "name": "C語言基礎程式設計與實務",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "陳明皇",
+    "enrollment": "22/158",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[4]6~8 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 4,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "A5-002",
+    "code": "A5-002 A512200 [CN1005]",
+    "name": "AI於資安應用 英語授課  碩士生及博士生可修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "其他",
+    "departmentCode": "A5",
+    "department": "計網中心 CN",
+    "teacher": "狄書亞",
+    "enrollment": "15/15",
+    "locations": [
+      "資訊大樓",
+      "75309"
+    ],
+    "period": "[2]2~4 資訊大樓 75309",
+    "slots": [
+      {
+        "day": 2,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  }
+]

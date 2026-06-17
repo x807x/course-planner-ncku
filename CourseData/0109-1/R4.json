@@ -1,0 +1,888 @@
+[
+  {
+    "id": "R4-001",
+    "code": "R4-001 R475000 [BA6027]",
+    "name": "資訊管理 限碩一同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "張心馨",
+    "enrollment": "411/額滿",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[2]6~8 企管系館 62335",
+    "slots": [
+      {
+        "day": 2,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-002",
+    "code": "R4-002 R476200 [BA7017]",
+    "name": "服務創新",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "張心馨",
+    "enrollment": "10/110",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[5]2~4 企管系館 62335",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-003",
+    "code": "R4-003 R467100-1 [BA6010]",
+    "name": "人力資源管理 限大學部未曾修讀人力資源管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "李憲達",
+    "enrollment": "331/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[4]7~9 企管系館 62453",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-004",
+    "code": "R4-004 R460201-1 [BA6022]",
+    "name": "企業政策與策略",
+    "grade": 2,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "方世杰",
+    "enrollment": "54/額滿",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[1]2~4 企管系館 62422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-005",
+    "code": "R4-005 R450700-1 [BA6015]",
+    "name": "財務管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "莊双喜",
+    "enrollment": "39/額滿",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[3]6~8 企管系館 62422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-006",
+    "code": "R4-006 R450600 [BA6024]",
+    "name": "行銷管理 英語授課  限碩一同學選修。",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "賴孟寬",
+    "enrollment": "24/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[3]5~7 企管系館 62453",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-007",
+    "code": "R4-007 R452500-1 [BA7026]",
+    "name": "行銷策略 須修過行銷管理且合格，限本系 (Moocs)",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "蔡惠婷",
+    "enrollment": "9/111",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[1]2~4 企管系館 62212",
+    "slots": [
+      {
+        "day": 1,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-008",
+    "code": "R4-008 R461100-1 [BA7006]",
+    "name": "國際金融與海外投資策略 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "康信鴻",
+    "enrollment": "34/額滿",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[5]6~8 企管系館 62422",
+    "slots": [
+      {
+        "day": 5,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-009",
+    "code": "R4-009 R457800-1 [BA6036]",
+    "name": "質性研究方法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "周信輝",
+    "enrollment": "30/額1滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-010",
+    "code": "R4-010 R468100 [BA6039]",
+    "name": "策略人力資源發展 英語授課  限修過人力資源管理且及格者",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "王瑜琳",
+    "enrollment": "5/115",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]7~9 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "9",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-011",
+    "code": "R4-011 R476100-1 [BA7001]",
+    "name": "社群與創新管理",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "陳淑惠",
+    "enrollment": "32/額1滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]6~8 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-012",
+    "code": "R4-012 R411300 [BA6034]",
+    "name": "管理數量方法",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "黃瀞瑩",
+    "enrollment": "49/1",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[5]2~4 企管系館 62422",
+    "slots": [
+      {
+        "day": 5,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-013",
+    "code": "R4-013 R473400-1 [BA6037]",
+    "name": "創新管理專題",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "許經明",
+    "enrollment": "415/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[3]2~4 企管系館 62453",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-014",
+    "code": "R4-014 R490101 [BA6099]",
+    "name": "專題討論",
+    "grade": 1,
+    "credits": 0,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "張心馨",
+    "enrollment": "24/1",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[1]N 企管系館 62335",
+    "slots": [
+      {
+        "day": 1,
+        "period": "N",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-015",
+    "code": "R4-015 R45B100 [BA6000]",
+    "name": "進階績效管理應用 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "林泰宇",
+    "enrollment": "56/額滿",
+    "locations": [
+      "企管系館",
+      "62210"
+    ],
+    "period": "[4]2~4 企管系館 62210",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-016",
+    "code": "R4-016 R45A900 [BA6002]",
+    "name": "網路法 英語授課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "林佑鴻",
+    "enrollment": "30/1額滿",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[1]6~8 企管系館 62422",
+    "slots": [
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-301",
+    "code": "R4-301 R461100-2 [BA7006]",
+    "name": "國際金融與海外投資策略 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "康信鴻",
+    "enrollment": "19/11",
+    "locations": [
+      "企管系館",
+      "62335"
+    ],
+    "period": "[5]A~C 企管系館 62335",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-302",
+    "code": "R4-302 R457800-2 [BA6036]",
+    "name": "質性研究方法 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "周信輝",
+    "enrollment": "30/額滿",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[4]A~C 企管系館 62212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-304",
+    "code": "R4-304 R450700 [BA6015]",
+    "name": "財務管理 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "莊双喜",
+    "enrollment": "28/2",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[3]A~C 企管系館 62422",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-305",
+    "code": "R4-305 R474500 [BA7055]",
+    "name": "組織發展與變革 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "王瑜琳",
+    "enrollment": "116/14",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[5]A~C 企管系館 62453",
+    "slots": [
+      {
+        "day": 5,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-306",
+    "code": "R4-306 R452500-2 [BA7026]",
+    "name": "行銷策略 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "蔡惠婷",
+    "enrollment": "301/額滿",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[1]A~C 企管系館 62453",
+    "slots": [
+      {
+        "day": 1,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-307",
+    "code": "R4-307 R475800 [BA6097]",
+    "name": "技術策略分析 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "許經明",
+    "enrollment": "27/3",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[3]A~C 企管系館 62453",
+    "slots": [
+      {
+        "day": 3,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-309",
+    "code": "R4-309 R476100-2 [BA7001]",
+    "name": "社群與創新管理 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "陳淑惠",
+    "enrollment": "16/14",
+    "locations": [
+      "62422",
+      "企管系館"
+    ],
+    "period": "[1]B~D 企管系館 62422",
+    "slots": []
+  },
+  {
+    "id": "R4-310",
+    "code": "R4-310 R467100-2 [BA6010]",
+    "name": "人力資源管理 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "李憲達",
+    "enrollment": "23/17",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[4]B~D 企管系館 62453",
+    "slots": []
+  },
+  {
+    "id": "R4-311",
+    "code": "R4-311 R45A400 [BA6040]",
+    "name": "品牌管理 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "賴孟寬",
+    "enrollment": "16/14",
+    "locations": [
+      "企管系館",
+      "62453"
+    ],
+    "period": "[2]A~C 企管系館 62453",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-312",
+    "code": "R4-312 R45B000 [BA6801]",
+    "name": "實用商務法律入門 限碩專選修",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "林佑鴻",
+    "enrollment": "28/2",
+    "locations": [
+      "62212",
+      "企管系館"
+    ],
+    "period": "[2]A~C 企管系館 62212",
+    "slots": [
+      {
+        "day": 2,
+        "period": "A",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "B",
+        "type": "講義"
+      },
+      {
+        "day": 2,
+        "period": "C",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "R4-313",
+    "code": "R4-313 R468800-Y [BA6041]",
+    "name": "企業資源規劃與管理 暑期先修課程",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "管理學院",
+    "departmentCode": "R4",
+    "department": "企管所 BA",
+    "teacher": "張心馨",
+    "enrollment": "28/網路選課不開放",
+    "locations": [
+      "未定"
+    ],
+    "period": "未定",
+    "slots": []
+  }
+]

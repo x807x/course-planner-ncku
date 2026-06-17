@@ -1,0 +1,395 @@
+[
+  {
+    "id": "TC-001",
+    "code": "TC-001 TC50310 [GERO6193]",
+    "name": "專題討論（一） 英語授課 業界專家參與  此課程全所教師共同上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "張芸瑄* 劉立凡 陳麗光 邱靜如 范聖育 吳至行",
+    "enrollment": "10/1",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]5~6 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TC-002",
+    "code": "TC-002 TC50330 [GERO6195]",
+    "name": "專題討論（三） 英語授課 業界專家參與  此課程全所教師共同上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "張芸瑄* 白明奇 劉立凡 陳麗光 邱靜如 范聖育 吳至行",
+    "enrollment": "11/額滿",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]5~6 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TC-003",
+    "code": "TC-003 TC90100 [GERO6191]",
+    "name": "專題討論 英語授課 業界專家參與  此課程全所教師共同上課",
+    "grade": 1,
+    "credits": 0,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "張芸瑄* 白明奇 劉立凡 陳麗光 邱靜如 范聖育 吳至行",
+    "enrollment": "85/3",
+    "locations": [
+      "601",
+      "醫學院"
+    ],
+    "period": "[4]5~6 醫學院 601",
+    "slots": [
+      {
+        "day": 4,
+        "period": "5",
+        "type": "研討"
+      },
+      {
+        "day": 4,
+        "period": "6",
+        "type": "研討"
+      }
+    ]
+  },
+  {
+    "id": "TC-004",
+    "code": "TC-004 TC51000 [GERO7103]",
+    "name": "流行病學及研究設計導論 英語授課 遠距課程  全英文授課",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "邱靜如* 翁慧卿",
+    "enrollment": "89/21",
+    "locations": [
+      "醫學院",
+      "302D"
+    ],
+    "period": "[4]7~8 醫學院 302D",
+    "slots": [
+      {
+        "day": 4,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-005",
+    "code": "TC-005 TC50102 [GERO7103]",
+    "name": "社會老年學 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "陳麗光* 張玲慧 翁慧卿",
+    "enrollment": "11/19",
+    "locations": [
+      "13205",
+      "生醫卓群大樓"
+    ],
+    "period": "[3]5~6 生醫卓群大樓 13205",
+    "slots": [
+      {
+        "day": 3,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-006",
+    "code": "TC-006 TC51200 [GERO7105]",
+    "name": "老年醫學概論 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "吳至行* 張家銘",
+    "enrollment": "118/19",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[3]7~8 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 3,
+        "period": "7",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "8",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-007",
+    "code": "TC-007 TC61110 [GERO6151]",
+    "name": "老年學實習（一） 生物科技學程  老年醫學概論成績70分以上且修滿15學分，始能選修此課程，部分時段暑假校外實習 。  需先修以下科目:《老年醫學概論/必修/2.0 學分/70 分以上》",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "邱靜如* 張家銘",
+    "enrollment": "180/10",
+    "locations": [
+      "13215",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]5~8 生醫卓群大樓 13215",
+    "slots": [
+      {
+        "day": 5,
+        "period": "5",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "6",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "7",
+        "type": "實習"
+      },
+      {
+        "day": 5,
+        "period": "8",
+        "type": "實習"
+      }
+    ]
+  },
+  {
+    "id": "TC-008",
+    "code": "TC-008 TC52800 [GERO7011]",
+    "name": "高齡政策與服務傳遞 業界專家參與",
+    "grade": 1,
+    "credits": 2,
+    "required": true,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "劉立凡*",
+    "enrollment": "10/810",
+    "locations": [
+      "生醫卓群大樓",
+      "13214"
+    ],
+    "period": "[3]2~3 生醫卓群大樓 13214",
+    "slots": [
+      {
+        "day": 3,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 3,
+        "period": "3",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-010",
+    "code": "TC-010 TC53200 [GERO7030]",
+    "name": "高齡溝通與諮商 醫學、科技與社會學程(STM)  限碩班以上學生修課  限碩一以上選課",
+    "grade": 1,
+    "credits": 3,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "范聖育* 翁慧卿",
+    "enrollment": "819/6",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[4]2~4 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 4,
+        "period": "2",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 4,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-012",
+    "code": "TC-012 TC60800 [GERO7014]",
+    "name": "成功老化的生活空間 生物科技學程",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "陳柏宗*",
+    "enrollment": "812/8",
+    "locations": [
+      "13213",
+      "生醫卓群大樓"
+    ],
+    "period": "[5]3~4 生醫卓群大樓 13213",
+    "slots": [
+      {
+        "day": 5,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 5,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-013",
+    "code": "TC-013 TC54400 [GERO7112]",
+    "name": "高齡心智健康與心理韌性 英語授課 業界專家參與  全英文授課，限大四以上學生修課。  限4年級以上選課",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "張芸瑄*",
+    "enrollment": "58/15",
+    "locations": [
+      "13212",
+      "生醫卓群大樓"
+    ],
+    "period": "[1]5~6 生醫卓群大樓 13212",
+    "slots": [
+      {
+        "day": 1,
+        "period": "5",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "6",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-014",
+    "code": "TC-014 T851401 [PH7301]",
+    "name": "生物統計學 醫療器材與系統學程  生理所、臨藥所、公衛所、臨醫所、物治所、職治所、食安所、老年所及口醫所合開。",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "王亮懿*",
+    "enrollment": "60/90",
+    "locations": [
+      "醫學院",
+      "第三講堂"
+    ],
+    "period": "[1]3~4 醫學院 第三講堂",
+    "slots": [
+      {
+        "day": 1,
+        "period": "3",
+        "type": "講義"
+      },
+      {
+        "day": 1,
+        "period": "4",
+        "type": "講義"
+      }
+    ]
+  },
+  {
+    "id": "TC-015",
+    "code": "TC-015 TC54900 [GERO6202]",
+    "name": "健康老化之路—老化個人、社區與環境資源觀 英語授課  密集授課，EMI課程。授課時間113.7.30-8.7，甄選錄取名單匯入選課系統，不開放其他學生選修。 (含實習)",
+    "grade": 1,
+    "credits": 2,
+    "required": false,
+    "college": "醫學院",
+    "departmentCode": "TC",
+    "department": "老年所 GERO",
+    "teacher": "劉立凡* 楊佳翰",
+    "enrollment": "11/額8滿",
+    "locations": [
+      "上課時間"
+    ],
+    "period": "上課時間 上課時間",
+    "slots": []
+  }
+]
