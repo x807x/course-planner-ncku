@@ -1,4 +1,5 @@
 import React, { useRef } from "react";
+import { getThemeColors } from "../styles/componentStyles";
 
 interface TopNavProps {
   semester: string;
@@ -7,6 +8,8 @@ interface TopNavProps {
   isBootstrapLoading: boolean;
   onExportSchedule: () => void;
   onImportSchedule: (e: React.ChangeEvent<HTMLInputElement>) => void;
+  isDarkMode: boolean;
+  onToggleDarkMode: () => void;
 }
 
 export const TopNav: React.FC<TopNavProps> = ({
@@ -16,8 +19,11 @@ export const TopNav: React.FC<TopNavProps> = ({
   isBootstrapLoading,
   onExportSchedule,
   onImportSchedule,
+  isDarkMode,
+  onToggleDarkMode,
 }) => {
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const theme = getThemeColors(isDarkMode);
 
   return (
     <header
@@ -27,10 +33,11 @@ export const TopNav: React.FC<TopNavProps> = ({
         alignItems: "center",
         padding: "0 20px",
         height: "60px",
-        backgroundColor: "#ffffff",
-        borderBottom: "1px solid #e5e7eb",
+        backgroundColor: theme.bgPanel,
+        borderBottom: `1px solid ${theme.border}`,
         boxShadow: "0 1px 2px rgba(0,0,0,0.05)",
         zIndex: 10,
+        transition: "background-color 0.2s, border-color 0.2s",
       }}
     >
       <div style={{ display: "flex", alignItems: "center", gap: "20px" }}>
@@ -39,7 +46,7 @@ export const TopNav: React.FC<TopNavProps> = ({
             margin: 0,
             fontSize: "1.25rem",
             fontWeight: "bold",
-            color: "#111827",
+            color: theme.textPrimary,
             display: "flex",
             alignItems: "center",
             gap: "8px",
@@ -48,7 +55,7 @@ export const TopNav: React.FC<TopNavProps> = ({
           🗓️ 成大自動排課助手
         </h1>
         {isBootstrapLoading ? (
-          <span style={{ fontSize: "0.85rem", color: "#6b7280" }}>
+          <span style={{ fontSize: "0.85rem", color: theme.textSecondary }}>
             正在同步學期時間軸數據...
           </span>
         ) : (
@@ -58,9 +65,10 @@ export const TopNav: React.FC<TopNavProps> = ({
             style={{
               padding: "6px 12px",
               borderRadius: "4px",
-              border: "1px solid #d1d5db",
+              border: `1px solid ${theme.border}`,
               fontSize: "0.85rem",
-              backgroundColor: "#fff",
+              backgroundColor: theme.slotCell,
+              color: theme.textPrimary,
               fontWeight: "medium",
             }}
           >
@@ -73,8 +81,30 @@ export const TopNav: React.FC<TopNavProps> = ({
         )}
       </div>
 
-      <div style={{ display: "flex", gap: "8px" }}>
-        {/* 📥 Hidden file anchor for prettier programmatic click trigger */}
+      <div style={{ display: "flex", gap: "8px", alignItems: "center" }}>
+        {/* 🌙 Theme Switcher Toggle Button */}
+        <button
+          onClick={onToggleDarkMode}
+          style={{
+            padding: "8px",
+            backgroundColor: isDarkMode ? "#4b5563" : "#f3f4f6",
+            border: "none",
+            borderRadius: "50%",
+            cursor: "pointer",
+            fontSize: "1.1rem",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            width: "36px",
+            height: "36px",
+            transition: "background-color 0.2s",
+            marginRight: "8px"
+          }}
+          title={isDarkMode ? "切換為淺色模式" : "切換為深色模式"}
+        >
+          {isDarkMode ? "☀️" : "🌙"}
+        </button>
+
         <input
           type="file"
           ref={fileInputRef}
@@ -94,10 +124,7 @@ export const TopNav: React.FC<TopNavProps> = ({
             fontSize: "0.8rem",
             fontWeight: "bold",
             cursor: "pointer",
-            transition: "background-color 0.2s",
           }}
-          onMouseOver={(e) => (e.currentTarget.style.backgroundColor = "#059669")}
-          onMouseOut={(e) => (e.currentTarget.style.backgroundColor = "#10b981")}
         >
           📤 匯出課表
         </button>
@@ -113,10 +140,7 @@ export const TopNav: React.FC<TopNavProps> = ({
             fontSize: "0.8rem",
             fontWeight: "bold",
             cursor: "pointer",
-            transition: "background-color 0.2s",
           }}
-          onMouseOver={(e) => (e.currentTarget.style.backgroundColor = "#4b5563")}
-          onMouseOut={(e) => (e.currentTarget.style.backgroundColor = "#6b7280")}
         >
           📥 匯入課表
         </button>
