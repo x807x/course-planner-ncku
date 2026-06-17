@@ -91,8 +91,8 @@ const App: React.FC = () => {
     let isMounted = true;
     setIsBootstrapLoading(true);
     Promise.all([
-      fetch("/CourseData/semesterList.json").then((res) => res.json()),
-      fetch("/CourseData/departments.json").then((res) => res.json()),
+      fetch(`${import.meta.env.BASE_URL}CourseData/semesterList.json`).then((res) => res.json()),
+      fetch(`${import.meta.env.BASE_URL}CourseData/departments.json`).then((res) => res.json()),
     ])
       .then(([semestersData, departmentsData]: [SemesterOption[], CollegeNode[]]) => {
         if (!isMounted) return;
@@ -199,7 +199,7 @@ const App: React.FC = () => {
       );
 
       const fetchPromises = allDeptCodes.map(deptCode =>
-        fetch(`/CourseData/${semester}/${deptCode}.json`)
+        fetch(`${import.meta.env.BASE_URL}CourseData/${semester}/${deptCode}.json`)
           .then(res => res.ok && res.headers.get("content-type")?.includes("application/json") ? res.json() : [])
           .catch(() => [])
       );
@@ -226,7 +226,7 @@ const App: React.FC = () => {
         });
     } else {
       // Standard local department routing slice path fetch mechanism
-      fetch(`/CourseData/${semester}/${selectedDept}.json`)
+      fetch(`${import.meta.env.BASE_URL}CourseData/${semester}/${selectedDept}.json`)
         .then((res) => {
           const contentType = res.headers.get("content-type");
           if (!res.ok || !contentType || !contentType.includes("application/json")) {
